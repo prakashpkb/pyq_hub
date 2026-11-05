@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="#4f46e5">
+<title>UPSC Prelims Practice · Prakash Kumar</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" rel="stylesheet">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+
+<!-- ============ TOP BAR ============ -->
+<header class="topbar">
+  <a href="#/" class="brand"><span class="logo"><i class="fas fa-graduation-cap"></i></span><span>Prelims<b>Practice</b></span></a>
+  <div class="top-actions">
+    <a href="#/bookmarks" class="icon-btn" title="Bookmarks"><i class="fas fa-bookmark"></i></a>
+    <button class="icon-btn" id="themeBtn" title="Toggle theme"><i class="fas fa-moon"></i></button>
+  </div>
+</header>
+
+<main id="app"></main>
+
+<!-- ============ TEMPLATES ============ -->
+<template id="tpl-home">
+  <section class="hero">
+    <h1>Crack Prelims, one question at a time.</h1>
+    <p>All your Vajiram tests & UPSC PYQs in one place — exam mode, practice mode, instant explanations and progress tracking.</p>
+    <div class="stats-row" id="heroStats"></div>
+  </section>
+
+  <section class="toolbar">
+    <div class="search"><i class="fas fa-search"></i><input id="search" placeholder="Search tests…" autocomplete="off"></div>
+    <div class="chips" id="chips"></div>
+  </section>
+
+  <section class="mix card">
+    <div>
+      <h3><i class="fas fa-shuffle"></i> Mixed practice</h3>
+      <p>Random questions from the tests you pick below (or all tests).</p>
+    </div>
+    <div class="mix-controls">
+      <select id="mixCount"><option>10</option><option selected>25</option><option>50</option><option>100</option></select>
+      <label class="check"><input type="checkbox" id="mixWrong"> Only my wrong ones</label>
+      <button class="btn primary" id="mixBtn"><i class="fas fa-bolt"></i> Start</button>
+    </div>
+  </section>
+
+  <div id="catalogue"></div>
+</template>
+
+<template id="tpl-start">
+  <section class="start card">
+    <a href="#/" class="back"><i class="fas fa-arrow-left"></i> All tests</a>
+    <span class="tag" id="sCat"></span>
+    <h2 id="sTitle"></h2>
+    <div class="meta" id="sMeta"></div>
+    <div class="modes">
+      <button class="mode" data-mode="exam"><i class="fas fa-stopwatch"></i><b>Exam mode</b><span>Timer, negative marking, results at the end</span></button>
+      <button class="mode" data-mode="practice"><i class="fas fa-book-open"></i><b>Practice mode</b><span>See answer & explanation instantly</span></button>
+    </div>
+    <div class="row">
+      <label>Timer (minutes)<input type="number" id="sMin" min="1" max="300"></label>
+      <label class="check"><input type="checkbox" id="sShuffle"> Shuffle questions</label>
+    </div>
+    <div id="sResume"></div>
+    <button class="btn primary big" id="sGo" disabled><i class="fas fa-play"></i> Start</button>
+  </section>
+</template>
+
+<template id="tpl-quiz">
+  <div class="quiz">
+    <div class="qbar">
+      <button class="icon-btn" id="qExit" title="Exit"><i class="fas fa-xmark"></i></button>
+      <div class="qtitle"><b id="qTitle"></b><span class="badge" id="qMode"></span></div>
+      <div class="timer" id="qTimer"><i class="fas fa-clock"></i><span>--:--</span></div>
+      <button class="icon-btn only-mobile" id="qGridBtn"><i class="fas fa-table-cells"></i></button>
+    </div>
+    <div class="progress"><div id="qProg"></div></div>
+    <div class="qbody">
+      <article class="qcard" id="qCard"></article>
+      <aside class="palette" id="palette">
+        <div class="pal-head"><b>Questions</b><span id="qCount"></span><button class="icon-btn only-mobile" id="palClose"><i class="fas fa-xmark"></i></button></div>
+        <div class="legend"><span><i class="dot ans"></i>Answered</span><span><i class="dot mk"></i>Marked</span><span><i class="dot"></i>Not visited</span></div>
+        <div class="grid" id="qGrid"></div>
+        <button class="btn danger full" id="qSubmit2"><i class="fas fa-paper-plane"></i> Submit test</button>
+      </aside>
+    </div>
+    <nav class="qnav">
+      <button class="btn ghost" id="qPrev"><i class="fas fa-chevron-left"></i><span>Prev</span></button>
+      <button class="btn ghost" id="qMark"><i class="far fa-flag"></i><span>Mark</span></button>
+      <button class="btn ghost" id="qBook"><i class="far fa-bookmark"></i><span>Save</span></button>
+      <button class="btn primary" id="qNext"><span>Next</span><i class="fas fa-chevron-right"></i></button>
+    </nav>
+  </div>
+</template>
+
+<template id="tpl-result">
+  <section class="result">
+    <div class="card score-card">
+      <div class="ring" id="rRing"><span id="rPct"></span></div>
+      <div>
+        <h2 id="rHead"></h2>
+        <p id="rScore"></p>
+        <p class="muted" id="rTime"></p>
+      </div>
+    </div>
+    <div class="stats-row" id="rStats"></div>
+    <div class="actions">
+      <button class="btn primary" id="rReview"><i class="fas fa-magnifying-glass"></i> Review all</button>
+      <button class="btn ghost" id="rWrong"><i class="fas fa-xmark"></i> Review wrong</button>
+      <button class="btn ghost" id="rRetry"><i class="fas fa-rotate"></i> Retry</button>
+      <a class="btn ghost" href="#/"><i class="fas fa-house"></i> Home</a>
+    </div>
+  </section>
+</template>
+
+<div class="toast" id="toast"></div>
+<script src="assets/app.js"></script>
+</body>
+</html>
