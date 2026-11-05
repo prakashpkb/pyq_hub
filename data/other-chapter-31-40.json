@@ -1,0 +1,2758 @@
+{
+ "title": "Chapter 31-40",
+ "category": "Laxmikant",
+ "minutes": 188,
+ "negative": 0.25,
+ "questions": [
+  {
+   "q": "In the scheme of the parliamentary system of government provided by the Constitution of India, which of the following statements is/are correct? 1️⃣ The Governor is the nominal executive authority (de jure executive). 2️⃣ The Chief Minister is the real executive authority (de facto executive). 3️⃣ The Governor is the head of the government while the Chief Minister is the head of the state.",
+   "o": [
+    "1️⃣, 2️⃣ and 3️⃣",
+    "1️⃣ and 2️⃣ only",
+    "2️⃣ and 3️⃣ only",
+    "1️⃣ and 3️⃣ only"
+   ],
+   "a": 1,
+   "e": "According to the Constitution, the Governor is the nominal executive (de jure) and the head of the state. The Chief Minister is the real executive (de facto) and the head of the government, making his position analogous to the Prime Minister at the Centre."
+  },
+  {
+   "q": "With reference to the appointment of the Chief Minister, consider the following statements: 1️⃣ The Constitution contains a specific and detailed procedure for the selection and appointment of the Chief Minister. 2️⃣ Article 164 of the Constitution states that the Chief Minister shall be appointed by the Governor. 3️⃣ The Governor is always free to appoint any person of his choice as the Chief Minister.",
+   "o": [
+    "1️⃣ only",
+    "2️⃣ only",
+    "1️⃣ and 3️⃣ only",
+    "2️⃣ and 3️⃣ only"
+   ],
+   "a": 1,
+   "e": "The Constitution does not contain any specific procedure for the selection of the Chief Minister. Article 164 simply says the Chief Minister shall be appointed by the Governor, but by convention, the Governor must appoint the leader of the majority party in the state legislative assembly."
+  },
+  {
+   "q": "Under which of the following circumstances can the Governor exercise personal discretion in the appointment of the Chief Minister? 1️⃣ When no party has a clear majority in the legislative assembly. 2️⃣ When the Chief Minister in office dies suddenly and there is no obvious successor. 3️⃣ When the ruling party elects a new leader immediately after the death of the incumbent Chief Minister.",
+   "o": [
+    "1️⃣ and 2️⃣ only",
+    "1️⃣ and 3️⃣ only",
+    "2️⃣ and 3️⃣ only",
+    "1️⃣, 2️⃣ and 3️⃣"
+   ],
+   "a": 0,
+   "e": "The Governor exercises discretion when there is a hung assembly or a sudden vacancy due to death without a clear successor. However, if the ruling party elects a new leader upon a CM's death, the Governor has no choice but to appoint that leader."
+  },
+  {
+   "q": "Regarding the requirement of proving majority for a newly appointed Chief Minister, which of the following is correct? 1️⃣ A person must prove his majority in the assembly before being appointed as Chief Minister. 2️⃣ The Governor can first appoint a person as CM and then ask them to prove their majority within a reasonable period. 3️⃣ The Constitution strictly forbids the appointment of any person who is not already a member of the House.",
+   "o": [
+    "3️⃣ only",
+    "1️⃣ and 2️⃣ only",
+    "2️⃣ only",
+    "1️⃣ and 3️⃣"
+   ],
+   "a": 2,
+   "e": "The Constitution does not require a person to prove their majority before appointment. The Governor may appoint the CM first and seek a vote of confidence later. Also, a non-member can be appointed for six months."
+  },
+  {
+   "q": "A person who is not a member of the state legislature can be appointed as Chief Minister for how long before they must be elected to the legislature?",
+   "o": [
+    "3 months",
+    "12 months",
+    "9 months",
+    "6 months"
+   ],
+   "a": 3,
+   "e": "A person who is not a member of the state legislature can be appointed as Chief Minister for a period of six months. Within this time, they must be elected to either House, failing which they cease to be the Chief Minister."
+  },
+  {
+   "q": "According to the recommendations of the Sarkaria Commission (1983-88), what is the order of preference the Governor should follow in case of a hung assembly? 1️⃣ An alliance of parties formed prior to the elections. 2️⃣ The largest single party staking a claim with the support of others. 3️⃣ A post-electoral coalition where all partners join the government. 4️⃣ A post-electoral alliance where some partners support from outside.",
+   "o": [
+    "1️⃣-2️⃣-3️⃣-4️⃣",
+    "1️⃣-3️⃣-2️⃣-4️⃣",
+    "2️⃣-1️⃣-3️⃣-4️⃣",
+    "4️⃣-3️⃣-2️⃣-1️⃣"
+   ],
+   "a": 0,
+   "e": "The Sarkaria Commission recommended a specific order: 1. Pre-poll alliance, 2. Largest single party with support, 3. Post-poll coalition with all partners in govt, 4. Post-poll alliance with some supporting from outside."
+  },
+  {
+   "q": "Within what period must a Chief Minister, who is not the leader of a party with an absolute majority, seek a vote of confidence according to the Sarkaria Commission?",
+   "o": [
+    "15 days",
+    "30 days",
+    "60 days",
+    "6 months"
+   ],
+   "a": 1,
+   "e": "The Sarkaria Commission recommended that a Chief Minister who does not lead a party with an absolute majority should seek a vote of confidence in the Legislative Assembly within 30 days of taking over."
+  },
+  {
+   "q": "Who administers the oath of office and secrecy to the Chief Minister?",
+   "o": [
+    "The Governor",
+    "The President of India",
+    "The Speaker of the Legislative Assembly",
+    "The Chief Justice of the High Court"
+   ],
+   "a": 0,
+   "e": "Before the Chief Minister enters his/her office, the Governor administers to him/her the oaths of office and secrecy as per the constitutional provisions."
+  },
+  {
+   "q": "Which of the following is NOT a part of the oath of office taken by the Chief Minister?",
+   "o": [
+    "To always act in the interest of his/her political party",
+    "To uphold the sovereignty and integrity of India",
+    "To faithfully and conscientiously discharge the duties of his/her office",
+    "To bear true faith and allegiance to the Constitution of India"
+   ],
+   "a": 0,
+   "e": "The CM's oath includes: 1. Faith in the Constitution, 2. Upholding sovereignty/integrity, 3. Faithful discharge of duties, and 4. Doing right to all people without fear or favor. Political party interests are not part of the constitutional oath."
+  },
+  {
+   "q": "Consider the following statements regarding the term of the Chief Minister: 1️⃣ The term of the Chief Minister is fixed at five years by the Constitution. 2️⃣ The Chief Minister holds office during the pleasure of the Governor. 3️⃣ The Governor can dismiss the Chief Minister at any time without any reason.",
+   "o": [
+    "1️⃣ and 3️⃣",
+    "2️⃣ only",
+    "2️⃣ and 3️⃣ only",
+    "1️⃣ and 2️⃣ only"
+   ],
+   "a": 1,
+   "e": "The term of the CM is not fixed. He holds office during the pleasure of the Governor. However, this \"pleasure\" is not arbitrary; he cannot be dismissed as long as he enjoys majority support in the assembly."
+  },
+  {
+   "q": "In which landmark case did the Supreme Court rule that the majority of a government must be tested on the floor of the House and not by the Governor's subjective opinion?",
+   "o": [
+    "Golaknath case",
+    "Minerva Mills case",
+    "Kesavananda Bharati case",
+    "S.R. Bommai case"
+   ],
+   "a": 3,
+   "e": "In the S.R. Bommai vs. Union of India (1994) case, the Supreme Court ruled that the floor of the Assembly is the only place to test the majority of the government, and the Governor should not determine this on his own."
+  },
+  {
+   "q": "Who determines the salary and allowances of the Chief Minister?",
+   "o": [
+    "The President",
+    "The State Legislature",
+    "The Parliament",
+    "The Governor"
+   ],
+   "a": 1,
+   "e": "The salary and allowances of the Chief Minister are determined by the state legislature. In addition to regular MLA pay, the CM receives sumptuary allowances, free accommodation, etc."
+  },
+  {
+   "q": "With reference to the powers of the Chief Minister in relation to the Council of Ministers, which of the following is correct? 1️⃣ The Governor can appoint any person as a minister even if not recommended by the CM. 2️⃣ The Chief Minister allocates and reshuffles portfolios among ministers. 3️⃣ The death of the Chief Minister automatically dissolves the council of ministers.",
+   "o": [
+    "1️⃣, 2️⃣ and 3️⃣",
+    "1️⃣ and 3️⃣ only",
+    "1️⃣ and 2️⃣ only",
+    "2️⃣ and 3️⃣ only"
+   ],
+   "a": 3,
+   "e": "The Governor appoints only those recommended by the CM. The CM allocates portfolios and presides over meetings. Because the CM is the head, his death or resignation leads to the automatic dissolution of the council."
+  },
+  {
+   "q": "How does the resignation of a regular minister (not the CM) affect the Council of Ministers?",
+   "o": [
+    "The Governor must immediately appoint a successor.",
+    "It has no effect and the vacancy remains until the next election.",
+    "It merely creates a vacancy which the CM may or may not fill.",
+    "It dissolves the entire Council."
+   ],
+   "a": 2,
+   "e": "Unlike the resignation of the Chief Minister, which dissolves the entire council, the resignation of any other minister merely creates a vacancy that the CM can decide to fill or leave vacant."
+  },
+  {
+   "q": "Which Article of the Constitution deals specifically with the duties of the Chief Minister regarding the furnishing of information to the Governor?",
+   "o": [
+    "Article 164",
+    "Article 163",
+    "Article 167",
+    "Article 166"
+   ],
+   "a": 2,
+   "e": "Article 167 specifies the duties of the Chief Minister, including communicating all decisions of the council of ministers and providing information on state affairs as requested by the Governor."
+  },
+  {
+   "q": "Which of the following officials are appointed by the Governor on the advice of the Chief Minister? 1️⃣ Advocate General 2️⃣ Chairman of the State Public Service Commission 3️⃣ State Election Commissioner",
+   "o": [
+    "1️⃣ and 2️⃣ only",
+    "1️⃣, 2️⃣ and 3️⃣",
+    "2️⃣ and 3️⃣ only",
+    "1️⃣ and 3️⃣ only"
+   ],
+   "a": 1,
+   "e": "The Chief Minister advises the Governor on the appointment of important officials such as the Advocate General, Chairman and members of the SPSC, and the State Election Commissioner."
+  },
+  {
+   "q": "As the leader of the House, what powers does the Chief Minister exercise in relation to the State Legislature? 1️⃣ Advises the Governor on summoning and proroguing sessions. 2️⃣ Recommends the dissolution of the legislative assembly at any time. 3️⃣ Announces government policies on the floor of the House.",
+   "o": [
+    "1️⃣, 2️⃣ and 3️⃣",
+    "2️⃣ and 3️⃣ only",
+    "1️⃣ and 3️⃣ only",
+    "1️⃣ and 2️⃣ only"
+   ],
+   "a": 0,
+   "e": "As the leader of the House, the CM advises the Governor on sessions, can recommend dissolution of the assembly, and is the primary spokesperson for government policy in the legislature."
+  },
+  {
+   "q": "The Chief Minister acts as the Vice-Chairman of which of the following bodies by rotation?",
+   "o": [
+    "Inter-State Council",
+    "National Development Council",
+    "Zonal Council",
+    "NITI Aayog Governing Council"
+   ],
+   "a": 2,
+   "e": "The Chief Minister acts as the Vice-Chairman of the concerned Zonal Council by rotation, holding office for one year at a time. The Union Home Minister is the permanent Chairman of all Zonal Councils."
+  },
+  {
+   "q": "Which of the following is/are members of the Governing Council of NITI Aayog? 1️⃣ Prime Minister 2️⃣ All Chief Ministers 3️⃣ Governors of all States",
+   "o": [
+    "2️⃣ and 3️⃣ only",
+    "1️⃣, 2️⃣ and 3️⃣",
+    "1️⃣ and 2️⃣ only",
+    "1️⃣ and 3️⃣ only"
+   ],
+   "a": 2,
+   "e": "The Governing Council of NITI Aayog is headed by the Prime Minister and includes the Chief Ministers of all states and Lt. Governors of Union Territories."
+  },
+  {
+   "q": "What is the \"principal channel of communication\" between the Governor and the state council of ministers?",
+   "o": [
+    "The Speaker",
+    "The Advocate General",
+    "The Chief Secretary",
+    "The Chief Minister"
+   ],
+   "a": 3,
+   "e": "The Chief Minister is the principal channel of communication between the Governor and the council of ministers. It is his duty to communicate all decisions and proposals for legislation to the Governor."
+  },
+  {
+   "q": "Which Article states that there shall be a Council of Ministers with the Chief Minister at the head to aid and advise the Governor, except in discretionary functions?",
+   "o": [
+    "Article 162",
+    "Article 164",
+    "Article 161",
+    "Article 163"
+   ],
+   "a": 3,
+   "e": "Article 163 provides for a council of ministers headed by the CM to aid and advise the Governor. If a question arises regarding the Governor's discretion, the Governor's decision is final."
+  },
+  {
+   "q": "According to Article 164, who appoints the other ministers in the state council of ministers?",
+   "o": [
+    "The Speaker",
+    "The President",
+    "The Chief Minister",
+    "The Governor"
+   ],
+   "a": 3,
+   "e": "Article 164 states that the Chief Minister shall be appointed by the Governor and the other ministers shall be appointed by the Governor on the advice of the Chief Minister."
+  },
+  {
+   "q": "The State Council of Ministers is collectively responsible to:",
+   "o": [
+    "The Chief Minister",
+    "The Legislative Assembly",
+    "The Legislative Council",
+    "The Governor"
+   ],
+   "a": 1,
+   "e": "As per Article 164, the council of ministers is collectively responsible to the legislative assembly of the state. This is the fundamental principle of the parliamentary system."
+  },
+  {
+   "q": "What is the maximum strength of the Council of Ministers (including the CM) in a state?",
+   "o": [
+    "20% of the assembly strength",
+    "10% of the assembly strength",
+    "Fixed at 50 members",
+    "15% of the assembly strength"
+   ],
+   "a": 3,
+   "e": "The 91st Amendment Act of 2003 added a provision that the total number of ministers, including the CM, shall not exceed 15 per cent of the total strength of the state legislative assembly."
+  },
+  {
+   "q": "What is the minimum number of ministers (including the CM) required in a state council of ministers?",
+   "o": [
+    "12",
+    "20",
+    "10",
+    "15"
+   ],
+   "a": 0,
+   "e": "The 91st Amendment Act (2003) stipulates that the number of ministers, including the Chief Minister, in a state shall not be less than 12."
+  },
+  {
+   "q": "In which of the following states is it mandatory to have a minister in charge of tribal welfare? 1️⃣ Chhattisgarh 2️⃣ Jharkhand 3️⃣ Madhya Pradesh 4️⃣ Odisha",
+   "o": [
+    "1️⃣, 2️⃣, 3️⃣ and 4️⃣",
+    "1️⃣, 3️⃣ and 4️⃣ only",
+    "2️⃣, 3️⃣ and 4️⃣ only",
+    "1️⃣, 2️⃣ and 3️⃣ only"
+   ],
+   "a": 0,
+   "e": "Article 164 provides that in Chhattisgarh, Jharkhand, Madhya Pradesh, and Odisha, there shall be a minister in charge of tribal welfare. Bihar was excluded from this list by the 94th Amendment Act of 2006."
+  },
+  {
+   "q": "A member of the state legislature who is disqualified on the ground of defection:",
+   "o": [
+    "Can still be appointed as a minister.",
+    "Is also disqualified from being appointed as a minister.",
+    "Can be a minister only in the Upper House.",
+    "Can be a minister if the CM recommends it."
+   ],
+   "a": 1,
+   "e": "The 91st Amendment Act of 2003 provides that a member of either House disqualified on the ground of defection shall also be disqualified to be appointed as a minister."
+  },
+  {
+   "q": "If a minister is not a member of the state legislature for ________ consecutive months, he/she ceases to be a minister.",
+   "o": [
+    "6 months",
+    "12 months",
+    "3 months",
+    "9 months"
+   ],
+   "a": 0,
+   "e": "According to Article 164, a minister who is not a member of the state legislature for any period of six consecutive months shall cease to be a minister."
+  },
+  {
+   "q": "Which Article states that the advice tendered by Ministers to the Governor shall not be enquired into in any court?",
+   "o": [
+    "Article 167",
+    "Article 164(2)",
+    "Article 163(3)",
+    "Article 166(1)"
+   ],
+   "a": 2,
+   "e": "Article 163(3) provides that the nature of advice tendered by ministers to the Governor is confidential and cannot be enquired into in any court."
+  },
+  {
+   "q": "All executive actions of the Government of a State shall be expressed to be taken in the name of:",
+   "o": [
+    "The Chief Secretary",
+    "The Chief Minister",
+    "The Governor",
+    "The Cabinet"
+   ],
+   "a": 2,
+   "e": "According to Article 166, all executive actions of the state government are taken in the name of the Governor, who also makes rules for the convenient transaction of business."
+  },
+  {
+   "q": "In the Shamsher Singh case (1974), the Supreme Court held that:",
+   "o": [
+    "The Governor's satisfaction is actually the satisfaction of the council of ministers.",
+    "The CM has no power to dismiss ministers.",
+    "Tribunals are outside judicial review.",
+    "The Governor can act against the advice of the council."
+   ],
+   "a": 0,
+   "e": "The Supreme Court ruled in the Shamsher Singh case that except where he has discretionary powers, the Governor must act on the aid and advice of the council of ministers, and his satisfaction is synonymous with the council's."
+  },
+  {
+   "q": "Regarding the \"Individual Responsibility\" of ministers, which of the following is correct?",
+   "o": [
+    "Ministers hold office during the pleasure of the assembly.",
+    "Ministers hold office during the pleasure of the Governor.",
+    "A minister can only be removed by the President.",
+    "The CM cannot ask a minister to resign."
+   ],
+   "a": 1,
+   "e": "Article 164 contains the principle of individual responsibility, stating that ministers hold office during the pleasure of the Governor. However, the Governor removes a minister only on the advice of the CM."
+  },
+  {
+   "q": "What happens when a no-confidence motion is passed against the state council of ministers?",
+   "o": [
+    "Only the CM must resign.",
+    "The assembly is automatically dissolved.",
+    "The Governor must call for fresh elections immediately.",
+    "All ministers, including those from the Legislative Council, must resign."
+   ],
+   "a": 3,
+   "e": "Collective responsibility means that if a no-confidence motion is passed, the entire council of ministers must resign, including members belonging to the Upper House (Legislative Council)."
+  },
+  {
+   "q": "Is there a system of \"legal responsibility\" for ministers in the states of India?",
+   "o": [
+    "No, there is no provision for legal responsibility.",
+    "Yes, every order must be countersigned by a minister.",
+    "Only for ministers of cabinet rank.",
+    "Yes, but only for criminal acts."
+   ],
+   "a": 0,
+   "e": "Unlike in Britain, there is no provision in the Indian Constitution for the system of legal responsibility of a minister. An order of the Governor for a public act does not require a minister's countersignature."
+  },
+  {
+   "q": "The state council of ministers consists of which categories of ministers? 1️⃣ Cabinet Ministers 2️⃣ Ministers of State 3️⃣ Deputy Ministers 4️⃣ Parliamentary Secretaries",
+   "o": [
+    "1️⃣ and 2️⃣ only",
+    "1️⃣, 2️⃣ and 3️⃣ only",
+    "1️⃣, 2️⃣, 3️⃣ and 4️⃣",
+    "2, 3 and 4 only"
+   ],
+   "a": 1,
+   "e": "Like at the Centre, the state council of ministers usually consists of three categories: Cabinet ministers, Ministers of State, and Deputy ministers."
+  },
+  {
+   "q": "Which of the following bodies is described as the \"nucleus of the council of ministers\" and the \"real centre of authority\"?",
+   "o": [
+    "The Cabinet",
+    "The Zonal Council",
+    "The Secretariat",
+    "The Planning Board"
+   ],
+   "a": 0,
+   "e": "The Cabinet is a smaller body within the council of ministers. It consists of only cabinet ministers and is the supreme policy-formulating and decision-making authority in the state."
+  },
+  {
+   "q": "Who sets up Cabinet Committees in the state?",
+   "o": [
+    "The Governor",
+    "The Speaker",
+    "The Chief Minister",
+    "The Chief Secretary"
+   ],
+   "a": 2,
+   "e": "Cabinet Committees (standing or ad hoc) are set up by the Chief Minister according to the exigencies of the time to sort out issues and formulate proposals."
+  },
+  {
+   "q": "Which of the following states have a bicameral legislature? 1️⃣ Andhra Pradesh 2️⃣ Telangana 3️⃣ Tamil Nadu 4️⃣ Maharashtra 5️⃣ Bihar 6️⃣ Uttar Pradesh 7️⃣ Karnataka",
+   "o": [
+    "1️⃣, 2️⃣, 3️⃣, 4️⃣, 5️⃣ and 6️⃣ only",
+    "1️⃣, 2️⃣, 4️⃣, 5️⃣ and 6️⃣ only",
+    "1️⃣, 2️⃣, 4️⃣, 5️⃣, 6️⃣ and 7️⃣ only",
+    "All 7 states"
+   ],
+   "a": 2,
+   "e": "Currently, only six states have a bicameral legislature: Andhra Pradesh, Telangana, Uttar Pradesh, Bihar, Maharashtra, and Karnataka. Tamil Nadu is unicameral as the 2010 Act for a council has not come into force."
+  },
+  {
+   "q": "Under Article 169, what is the procedure for the abolition or creation of a Legislative Council in a state?",
+   "o": [
+    "Parliament passes a law on its own.",
+    "The Governor recommends it to the President.",
+    "A simple majority resolution by the assembly is enough.",
+    "The state assembly passes a resolution by a special majority, followed by an Act of Parliament."
+   ],
+   "a": 3,
+   "e": "Parliament can abolish or create a Legislative Council if the state assembly passes a resolution by a special majority (majority of total membership and 2/3rd of members present and voting)."
+  },
+  {
+   "q": "An Act of Parliament passed for the creation or abolition of a Legislative Council:",
+   "o": [
+    "Must be ratified by half of the states.",
+    "Requires a joint sitting of Parliament.",
+    "Requires a constitutional amendment under Article 368.",
+    "Is passed like an ordinary piece of legislation."
+   ],
+   "a": 3,
+   "e": "Article 169 states that such an Act of Parliament is not to be deemed an amendment of the Constitution for the purposes of Article 368 and is passed by a simple majority."
+  },
+  {
+   "q": "What are the maximum and minimum strengths of a State Legislative Assembly (Vidhan Sabha) respectively?",
+   "o": [
+    "500 and 40",
+    "450 and 60",
+    "600 and 30",
+    "500 and 60"
+   ],
+   "a": 3,
+   "e": "The maximum strength of an assembly is fixed at 500 and the minimum at 60, varying based on the population size of the state."
+  },
+  {
+   "q": "Which of the following states have a minimum assembly strength fixed at 30?",
+   "o": [
+    "Arunachal Pradesh, Sikkim and Goa",
+    "Mizoram and Nagaland",
+    "Sikkim and Mizoram",
+    "Goa and Nagaland"
+   ],
+   "a": 0,
+   "e": "While the general minimum is 60, for Arunachal Pradesh, Sikkim, and Goa, it is fixed at 30. For Mizoram it is 40 and Nagaland it is 46."
+  },
+  {
+   "q": "The 104th Amendment Act, 2019 discontinued the provision for:",
+   "o": [
+    "Bicameralism in states",
+    "Nomination of Anglo-Indians to the Assembly",
+    "Reservation for SCs/STs",
+    "The Legislative Council in J&K"
+   ],
+   "a": 1,
+   "e": "The 104th Amendment Act, 2019, discontinued the provision of nominating one member of the Anglo-Indian community to the State Legislative Assembly, effective January 25, 2020."
+  },
+  {
+   "q": "On what basis are seats reserved for SCs and STs in the Legislative Assembly?",
+   "o": [
+    "Fixed number for every state",
+    "Recommendation of the Zonal Council",
+    "In proportion to their population in the state",
+    "Discretion of the Governor"
+   ],
+   "a": 2,
+   "e": "Seats are reserved for Scheduled Castes and Scheduled Tribes in the assembly of each state based on their population ratios in that state."
+  },
+  {
+   "q": "The total number of seats in the assembly of each state is frozen at the 1971 level until the year:",
+   "o": [
+    "2026",
+    "2020",
+    "2031",
+    "2030"
+   ],
+   "a": 0,
+   "e": "The 84th Amendment Act of 2001 extended the ban on readjustment of seats until the year 2026 to encourage population limiting measures."
+  },
+  {
+   "q": "What is the maximum strength of a State Legislative Council (Vidhan Parishad)?",
+   "o": [
+    "Fixed at 100 members",
+    "One-third of the total strength of the Assembly",
+    "One-fourth of the total strength of the Assembly",
+    "One-half of the total strength of the Assembly"
+   ],
+   "a": 1,
+   "e": "The maximum strength of the Council is fixed at one-third of the total strength of the Assembly, but the minimum strength is 40."
+  },
+  {
+   "q": "In the election to the Legislative Council, what fraction of members are elected by graduates of three years standing?",
+   "o": [
+    "1/6",
+    "1/3",
+    "1/4",
+    "1/12"
+   ],
+   "a": 3,
+   "e": "The composition of the Council includes: 1/3 by local bodies, 1/12 by graduates, 1/12 by teachers, 1/3 by MLAs, and 1/6 nominated by the Governor."
+  },
+  {
+   "q": "The Governor nominates 1/6th of the members of the Legislative Council from persons having special knowledge in which fields? 1️⃣ Literature 2️⃣ Science 3️⃣ Art 4️⃣ Cooperative Movement 5️⃣ Social Service",
+   "o": [
+    "1️⃣, 3️⃣ and 5️⃣ only",
+    "1️⃣, 2️⃣, 3️⃣ and 5️⃣ only",
+    "1️⃣, 2️⃣, 3️⃣, 4️⃣ and 5️⃣",
+    "1️⃣, 2️⃣ and 3️⃣ only"
+   ],
+   "a": 2,
+   "e": "Unlike the Rajya Sabha (where Cooperative Movement is not a category), the Governor nominates members to the Council based on Literature, Science, Art, Cooperative Movement, and Social Service."
+  },
+  {
+   "q": "Which of the following statement(s) is/are correct regarding the duration of the Houses? 1️⃣ The Legislative Assembly has a normal term of 5 years. 2️⃣ The Legislative Council is a permanent body and not subject to dissolution. 3️⃣ One-third of the members of the Council retire every second year.",
+   "o": [
+    "1️⃣ and 3️⃣ only",
+    "1️⃣ and 2️⃣ only",
+    "2️⃣ and 3️⃣ only",
+    "1️⃣, 2️⃣ and 3️⃣"
+   ],
+   "a": 3,
+   "e": "The Assembly is not a continuing chamber (5-year term), while the Council is a permanent body where 1/3rd of members retire every two years, giving each member a 6-year term."
+  },
+  {
+   "q": "What is the minimum age qualification for a person to be a member of the Legislative Assembly and Legislative Council respectively?",
+   "o": [
+    "18 and 25",
+    "30 and 25",
+    "25 and 30",
+    "25 and 25"
+   ],
+   "a": 2,
+   "e": "The Constitution prescribes that a person must be at least 25 years old for the Legislative Assembly and at least 30 years old for the Legislative Council."
+  },
+  {
+   "q": "Who decides on the question of disqualification of a member of the state legislature (other than on grounds of defection)?",
+   "o": [
+    "The Election Commission of India",
+    "The Governor",
+    "The High Court",
+    "The Speaker/Chairman"
+   ],
+   "a": 1,
+   "e": "Questions regarding disqualifications under the Constitution are decided by the Governor. However, the Governor must obtain the opinion of the Election Commission and act accordingly."
+  },
+  {
+   "q": "Who decides the question of disqualification under the Tenth Schedule (Defection)?",
+   "o": [
+    "The High Court",
+    "The Governor",
+    "The President",
+    "The Presiding Officer of the House"
+   ],
+   "a": 3,
+   "e": "Unlike other disqualifications, the question of disqualification on the ground of defection is decided by the Chairman (Council) or Speaker (Assembly)."
+  },
+  {
+   "q": "What is the penalty for a person sitting or voting in the House before taking the prescribed oath?",
+   "o": [
+    "₹100 per day",
+    "Expulsion from the House",
+    "₹1000 per day",
+    "₹500 per day"
+   ],
+   "a": 3,
+   "e": "A person is liable to a penalty of ₹500 for each day he/she sits or votes as a member before taking the oath or when they know they are disqualified."
+  },
+  {
+   "q": "If a member of the state legislature is absent from all meetings for ________ days without permission, the House can declare the seat vacant.",
+   "o": [
+    "60 days",
+    "6 months",
+    "30 days",
+    "90 days"
+   ],
+   "a": 0,
+   "e": "A House of the state legislature can declare a seat vacant if the member is absent for a period of sixty days without its permission."
+  },
+  {
+   "q": "The salaries and allowances of the Speaker, Deputy Speaker, Chairman, and Deputy Chairman are:",
+   "o": [
+    "Votable by the state legislature annually.",
+    "Determined by the President.",
+    "Charged on the Consolidated Fund of the State.",
+    "Determined by the Governor."
+   ],
+   "a": 2,
+   "e": "The salaries of the presiding officers are fixed by the state legislature and are charged on the Consolidated Fund of the State, meaning they are not subject to an annual vote."
+  },
+  {
+   "q": "Who decides whether a bill is a Money Bill or not in the state legislature?",
+   "o": [
+    "The Chairman of the Council",
+    "The Speaker of the Assembly",
+    "The Finance Minister",
+    "The Governor"
+   ],
+   "a": 1,
+   "e": "The Speaker of the Legislative Assembly has the final power to decide whether a bill is a Money Bill. This decision is final and cannot be challenged."
+  },
+  {
+   "q": "What is the quorum required for a meeting of a House of the state legislature?",
+   "o": [
+    "25 members",
+    "One-fifth of total members",
+    "One-tenth of total members",
+    "10 members or one-tenth of total members, whichever is greater"
+   ],
+   "a": 3,
+   "e": "Quorum is the minimum attendance required (10 members or 1/10th of the total, whichever is higher). If there is no quorum, the presiding officer must adjourn the House."
+  },
+  {
+   "q": "Which of the following languages can be used to transact business in the state legislature? 1️⃣ Official language of the state 2️⃣ Hindi 3️⃣ English",
+   "o": [
+    "1️⃣ only",
+    "2️⃣ and 3️⃣ only",
+    "1️⃣ and 2️⃣ only",
+    "1️⃣, 2️⃣ and 3️⃣"
+   ],
+   "a": 3,
+   "e": "The Constitution allows the official language(s) of the state, Hindi, or English for transacting business. The presiding officer can also permit a member to speak in their mother tongue."
+  },
+  {
+   "q": "An ordinary bill passed by the Assembly for the first time can be delayed by the Council for a maximum of:",
+   "o": [
+    "1 month",
+    "14 days",
+    "3 months",
+    "6 months"
+   ],
+   "a": 2,
+   "e": "When the Assembly transmits a bill to the Council, the Council can keep it pending for 3 months in the first instance. If the Assembly passes it again, the Council can delay it for 1 more month."
+  },
+  {
+   "q": "In case of a deadlock between the Assembly and the Council over an ordinary bill:",
+   "o": [
+    "A joint sitting is summoned by the Governor.",
+    "The bill lapses immediately.",
+    "The President decides the matter.",
+    "The will of the Assembly prevails after a specific process."
+   ],
+   "a": 3,
+   "e": "Unlike the Parliament, there is no provision for a joint sitting in the state legislature. The Assembly can override the Council by passing the bill a second time."
+  },
+  {
+   "q": "When a bill is presented to the Governor, he can: 1️⃣ Give assent 2️⃣ Withhold assent 3️⃣ Return for reconsideration 4️⃣ Reserve for President",
+   "o": [
+    "All 1️⃣, 2️⃣, 3️⃣ and 4️⃣",
+    "1️⃣ and 2️⃣ only",
+    "1️⃣, 2️⃣ and 3️⃣ only",
+    "1️⃣, 3️⃣ and 4️⃣ only"
+   ],
+   "a": 0,
+   "e": "Under Article 200, the Governor has four options: give assent, withhold assent, return the bill (if not a Money Bill), or reserve it for the President's consideration."
+  },
+  {
+   "q": "If the Governor returns a bill for reconsideration and the legislature passes it again (with or without amendments):",
+   "o": [
+    "The Governor can return it again.",
+    "The bill lapses.",
+    "The bill must be sent to the President.",
+    "The Governor must give his assent."
+   ],
+   "a": 3,
+   "e": "If a bill is passed again by the House(s) after being returned by the Governor, he/she is constitutionally obligated to give assent. This is a suspensive veto."
+  },
+  {
+   "q": "A Money Bill can be introduced in the Legislative Assembly only on the recommendation of:",
+   "o": [
+    "The Speaker",
+    "The Governor",
+    "The Chief Minister",
+    "The Finance Commission"
+   ],
+   "a": 1,
+   "e": "Similar to the Centre, a Money Bill in the state can only be introduced in the Assembly with the prior recommendation of the Governor."
+  },
+  {
+   "q": "The Legislative Council must return a Money Bill to the Assembly within:",
+   "o": [
+    "14 days",
+    "6 months",
+    "3 months",
+    "30 days"
+   ],
+   "a": 0,
+   "e": "The Council has very limited powers regarding Money Bills. It cannot reject or amend them and must return them with or without recommendations within 14 days."
+  },
+  {
+   "q": "Which of the following bills MUST be reserved by the Governor for the President's consideration?",
+   "o": [
+    "A bill related to land reforms",
+    "A bill that endangers the position of the High Court",
+    "A bill imposing taxes on water",
+    "A bill increasing the salary of MLAs"
+   ],
+   "a": 1,
+   "e": "Under Article 200, the Governor is mandatory required to reserve any bill that derogates from the powers of the High Court so as to endanger its constitutional position."
+  },
+  {
+   "q": "With reference to the privileges of the state legislature, consider the following: 1️⃣ Courts are prohibited from inquiring into the proceedings of a House. 2️⃣ No person can be arrested within the precincts of the House without the permission of the presiding officer. 3️⃣ Members have total freedom of speech which cannot be restricted by the Constitution.",
+   "o": [
+    "1️⃣ and 3️⃣ only",
+    "1️⃣ and 2️⃣ only",
+    "1️⃣, 2️⃣ and 3️⃣",
+    "2️⃣ and 3️⃣ only"
+   ],
+   "a": 1,
+   "e": "While members have freedom of speech, it is subject to constitutional provisions and the rules of the House (e.g., Article 211 restricts discussion on the conduct of judges). Collective privileges include immunity from court inquiry and control over arrests within the House."
+  },
+  {
+   "q": "The High Court of a state occupies which position in the state's judicial administration?",
+   "o": [
+    "Top position",
+    "Equal to the Supreme Court",
+    "Below the District Court",
+    "Below the Zonal Council"
+   ],
+   "a": 0,
+   "e": "In the Indian single-integrated judicial system, the High Court occupies the top position in the judicial administration of a state, operating below the Supreme Court."
+  },
+  {
+   "q": "When did the institution of the High Court originate in India?",
+   "o": [
+    "1935",
+    "1850",
+    "1862",
+    "1950"
+   ],
+   "a": 2,
+   "e": "The institution of High Court originated in 1862 when High Courts were set up at Calcutta, Bombay, and Madras under the Indian High Courts Act, 1861."
+  },
+  {
+   "q": "Which Amendment Act authorized the Parliament to establish a common High Court for two or more states?",
+   "o": [
+    "44th Amendment",
+    "42nd Amendment",
+    "7th Amendment",
+    "1st Amendment"
+   ],
+   "a": 2,
+   "e": "The 7th Amendment Act of 1956 authorized the Parliament to establish a common High Court for two or more states or for states and a union territory."
+  },
+  {
+   "q": "How many High Courts are currently there in India?",
+   "o": [
+    "25",
+    "28",
+    "24",
+    "21"
+   ],
+   "a": 0,
+   "e": "At present, there are 25 High Courts in the country. The 25th High Court was established for the state of Andhra Pradesh in 2019."
+  },
+  {
+   "q": "Which Union Territory has its own separate High Court (since 1966)?",
+   "o": [
+    "Ladakh",
+    "Delhi",
+    "Chandigarh",
+    "Puducherry"
+   ],
+   "a": 1,
+   "e": "Among the eight union territories, Delhi alone has a separate High Court (since 1966). Others fall under the jurisdiction of various state High Courts."
+  },
+  {
+   "q": "The Chief Justice of a High Court is appointed by the President after consultation with: 1️⃣ Chief Justice of India 2️⃣ Governor of the state 3️⃣ Chief Minister of the state",
+   "o": [
+    "1️⃣ and 2️⃣ only",
+    "1️⃣, 2️⃣ and 3️⃣",
+    "2️⃣ and 3️⃣ only",
+    "1️⃣ and 3️⃣ only"
+   ],
+   "a": 0,
+   "e": "The Chief Justice of a High Court is appointed by the President after consulting the CJI and the Governor of the state concerned. For other judges, the Chief Justice of the High Court is also consulted."
+  },
+  {
+   "q": "In the Third Judges case (1998), the Supreme Court ruled that the CJI should consult a collegium of ________ senior-most judges of the Supreme Court for HC appointments.",
+   "o": [
+    "Four",
+    "Three",
+    "Five",
+    "Two"
+   ],
+   "a": 3,
+   "e": "For the appointment of High Court judges, the CJI should consult a collegium of two senior-most judges of the Supreme Court. (Note: For Supreme Court appointments, it is four)."
+  },
+  {
+   "q": "Which of the following is NOT a qualification for appointment as a High Court judge?",
+   "o": [
+    "Citizen of India",
+    "A distinguished jurist in the opinion of the President",
+    "Held a judicial office for 10 years",
+    "Advocate of a High Court for 10 years"
+   ],
+   "a": 1,
+   "e": "Unlike the Supreme Court, the Constitution makes no provision for the appointment of a \"distinguished jurist\" as a judge of a High Court."
+  },
+  {
+   "q": "A judge of a High Court holds office until he/she attains the age of:",
+   "o": [
+    "62 years",
+    "60 years",
+    "70 years",
+    "65 years"
+   ],
+   "a": 0,
+   "e": "A High Court judge holds office until the age of 62. This was raised from 60 to 62 by the 15th Amendment Act of 1963."
+  },
+  {
+   "q": "Who can remove a High Court judge from office?",
+   "o": [
+    "The President",
+    "The Governor",
+    "The Chief Justice of India",
+    "The State Legislature"
+   ],
+   "a": 0,
+   "e": "A High Court judge can be removed from office only by an order of the President, based on a recommendation from Parliament passed by a special majority."
+  },
+  {
+   "q": "On what grounds can a High Court judge be removed?",
+   "o": [
+    "Corruption only",
+    "Discretion of the President",
+    "Proved misbehaviour or incapacity",
+    "Difference of opinion with the Governor"
+   ],
+   "a": 2,
+   "e": "The grounds for removal are the same as for a Supreme Court judge: proved misbehaviour or incapacity."
+  },
+  {
+   "q": "The salaries and allowances of High Court judges are determined by:",
+   "o": [
+    "The Parliament",
+    "The Governor",
+    "The President",
+    "The State Legislature"
+   ],
+   "a": 0,
+   "e": "The salaries, allowances, and pensions of High Court judges are determined by the Parliament. They cannot be varied to their disadvantage except during a financial emergency."
+  },
+  {
+   "q": "The pension of a High Court judge is charged on:",
+   "o": [
+    "The Ministry of Law and Justice",
+    "The Consolidated Fund of India",
+    "The Consolidated Fund of the State",
+    "The Contingency Fund of the State"
+   ],
+   "a": 1,
+   "e": "While the salaries and allowances of HC judges are charged on the Consolidated Fund of the State, their pension is charged on the Consolidated Fund of India."
+  },
+  {
+   "q": "Who can appoint an Acting Chief Justice for a High Court?",
+   "o": [
+    "The collegium",
+    "The Chief Justice of India",
+    "The President",
+    "The Governor"
+   ],
+   "a": 2,
+   "e": "The President can appoint a judge of a High Court as an acting Chief Justice when the office is vacant, the CJ is absent, or unable to perform duties."
+  },
+  {
+   "q": "Additional judges of a High Court are appointed for a temporary period not exceeding:",
+   "o": [
+    "3 years",
+    "1 year",
+    "5 years",
+    "2 years"
+   ],
+   "a": 3,
+   "e": "The President can appoint duly qualified persons as additional judges for a temporary period not exceeding two years to handle arrears of work or increased business."
+  },
+  {
+   "q": "A retired judge of a High Court can be requested to act as a judge by:",
+   "o": [
+    "The Governor",
+    "The Chief Justice of that High Court",
+    "The CJI",
+    "The President"
+   ],
+   "a": 1,
+   "e": "The Chief Justice of a High Court can request a retired judge to act as a judge for a temporary period, but only with the previous consent of the President."
+  },
+  {
+   "q": "Under Article 226, High Courts can issue writs for the enforcement of:",
+   "o": [
+    "None of the above",
+    "Fundamental Rights only",
+    "Ordinary Legal Rights only",
+    "Both Fundamental Rights and Ordinary Legal Rights"
+   ],
+   "a": 3,
+   "e": "The writ jurisdiction of a High Court is wider than that of the Supreme Court because HCs can issue writs for both Fundamental Rights and \"for any other purpose\" (ordinary legal rights)."
+  },
+  {
+   "q": "The power of a High Court to punish for its contempt:",
+   "o": [
+    "Is not mentioned in the Constitution.",
+    "Is a power vested as a Court of Record.",
+    "Can only be exercised with the President's permission.",
+    "Is limited to a fine of ₹500."
+   ],
+   "a": 1,
+   "e": "As a Court of Record, a High Court has the power to punish for contempt of itself, which helps maintain its authority and dignity."
+  },
+  {
+   "q": "The administrative control of a High Court over subordinate courts includes: 1️⃣ Consultation on appointment of district judges. 2️⃣ Power to withdraw cases involving constitutional interpretation. 3️⃣ Binding nature of its law on all subordinate courts in the state.",
+   "o": [
+    "1️⃣, 2️⃣ and 3️⃣",
+    "1️⃣ and 2️⃣ only",
+    "2️⃣ and 3️⃣ only",
+    "1️⃣ and 3️⃣ only"
+   ],
+   "a": 0,
+   "e": "High Courts exercise broad control including consultation on appointments, discipline of judicial services, withdrawing cases for interpretation, and its legal precedents being binding on lower courts."
+  },
+  {
+   "q": "Who appoints District Judges in a state?",
+   "o": [
+    "The State Public Service Commission",
+    "The President",
+    "The Chief Justice of the High Court",
+    "The Governor"
+   ],
+   "a": 3,
+   "e": "The appointment, posting, and promotion of district judges are made by the Governor in consultation with the High Court."
+  },
+  {
+   "q": "What is the minimum experience required as an advocate to be appointed as a District Judge?",
+   "o": [
+    "5 years",
+    "10 years",
+    "15 years",
+    "7 years"
+   ],
+   "a": 3,
+   "e": "A person to be appointed as a district judge must have been an advocate or a pleader for at least seven years and be recommended by the High Court."
+  },
+  {
+   "q": "Who is the highest judicial authority in a district?",
+   "o": [
+    "The Munsiff",
+    "The Collector",
+    "The District Judge",
+    "The Chief Judicial Magistrate"
+   ],
+   "a": 2,
+   "e": "The District Judge is the highest judicial authority in the district, possessing both original and appellate jurisdiction in civil and criminal matters."
+  },
+  {
+   "q": "When a District Judge deals with criminal cases, he/she is known as:",
+   "o": [
+    "District Judge",
+    "Civil Judge",
+    "Metropolitan Magistrate",
+    "Sessions Judge"
+   ],
+   "a": 3,
+   "e": "The same official is called the District Judge when handling civil cases and the Sessions Judge when handling criminal cases."
+  },
+  {
+   "q": "A death sentence passed by a Sessions Judge:",
+   "o": [
+    "Is final and cannot be appealed.",
+    "Requires the President's assent.",
+    "Must be confirmed by the High Court.",
+    "Must be confirmed by the Governor."
+   ],
+   "a": 2,
+   "e": "The sessions judge has the power to impose capital punishment, but it must be confirmed by the High Court before execution, whether the convicted person appeals or not."
+  },
+  {
+   "q": "Which court is at the lowest level on the civil side of the subordinate judiciary?",
+   "o": [
+    "Munsiff's Court",
+    "Panchayat Court",
+    "Subordinate Judge's Court",
+    "Small Causes Court"
+   ],
+   "a": 0,
+   "e": "In the three-tier structure below the High Court, the Munsiff's Court is at the lowest level on the civil side, handling cases of small pecuniary stake."
+  },
+  {
+   "q": "Part XIV-A of the Constitution, dealing with Tribunals, was added by:",
+   "o": [
+    "73rd Amendment",
+    "24th Amendment",
+    "42nd Amendment",
+    "44th Amendment"
+   ],
+   "a": 2,
+   "e": "The 42nd Amendment Act of 1976 added Part XIV-A to the Constitution, containing Articles 323A (Administrative Tribunals) and 323B (Tribunals for other matters)."
+  },
+  {
+   "q": "Tribunals under Article 323A (Administrative Tribunals) can be established by:",
+   "o": [
+    "Only the Parliament",
+    "The Supreme Court",
+    "Both Parliament and State Legislature",
+    "Only the State Legislature"
+   ],
+   "a": 0,
+   "e": "Article 323A allows only the Parliament to establish administrative tribunals for public service matters."
+  },
+  {
+   "q": "The Central Administrative Tribunal (CAT) was established in:",
+   "o": [
+    "1985",
+    "1950",
+    "1993",
+    "1976"
+   ],
+   "a": 0,
+   "e": "In pursuance of Article 323A, the Parliament passed the Administrative Tribunals Act in 1985, leading to the setting up of the CAT."
+  },
+  {
+   "q": "Appeals against the orders of the Central Administrative Tribunal (CAT) lie to:",
+   "o": [
+    "The Parliament",
+    "The Supreme Court directly",
+    "The Division Bench of the concerned High Court",
+    "The Governor"
+   ],
+   "a": 2,
+   "e": "In the Chandra Kumar case (1997), the Supreme Court ruled that appeals against CAT orders must first go to the Division Bench of the High Court before reaching the Supreme Court."
+  },
+  {
+   "q": "Under Article 323B, which of the following matters can have a tribunal? 1️⃣ Taxation 2️⃣ Industrial and Labour 3️⃣ Land Reforms 4️⃣ Elections to Parliament",
+   "o": [
+    "All 1️⃣, 2️⃣, 3️⃣ and 4️⃣",
+    "1️⃣, 2️⃣ and 3️⃣ only",
+    "1️⃣ and 2️⃣ only",
+    "1️⃣ and 3️⃣ only"
+   ],
+   "a": 0,
+   "e": "Article 323B allows the establishment of tribunals for various matters including taxation, foreign exchange, labor, land reforms, urban property ceilings, and elections."
+  },
+  {
+   "q": "The Consumer Protection Act, 2019 replaced the Act of:",
+   "o": [
+    "1986",
+    "1950",
+    "2015",
+    "2005"
+   ],
+   "a": 0,
+   "e": "The Consumer Protection Act, 2019, repealed and replaced the earlier Consumer Protection Act, 1986."
+  },
+  {
+   "q": "What is the pecuniary jurisdiction of the District Consumer Commission under the 2021 Rules?",
+   "o": [
+    "Up to ₹10 crores",
+    "Up to ₹50 lakhs",
+    "Up to ₹1 crore",
+    "Up to ₹20 lakhs"
+   ],
+   "a": 1,
+   "e": "According to the 2021 Rules, the District Commission handles complaints where the consideration does not exceed ₹50 lakhs."
+  },
+  {
+   "q": "An appeal against the order of the National Consumer Commission lies with:",
+   "o": [
+    "The High Court",
+    "The President",
+    "The Ministry of Consumer Affairs",
+    "The Supreme Court"
+   ],
+   "a": 3,
+   "e": "An appeal against the order of the National Commission can be made to the Supreme Court within 30 days."
+  },
+  {
+   "q": "The National Legal Services Authority (NALSA) was constituted under the Act of:",
+   "o": [
+    "1987",
+    "1995",
+    "1950",
+    "2019"
+   ],
+   "a": 0,
+   "e": "NALSA was constituted under the Legal Services Authorities Act, 1987, to provide free and competent legal services to weaker sections."
+  },
+  {
+   "q": "Which Article of the Constitution provides for free legal aid to the poor?",
+   "o": [
+    "Article 21",
+    "Article 14",
+    "Article 44",
+    "Article 39A"
+   ],
+   "a": 3,
+   "e": "Article 39A directs the State to provide free legal aid to ensure that justice is not denied to any citizen due to economic or other disabilities."
+  },
+  {
+   "q": "What is the literal meaning of \"Lok Adalat\"?",
+   "o": [
+    "People's Court",
+    "Judicial Court",
+    "Fast Track Court",
+    "Village Court"
+   ],
+   "a": 0,
+   "e": "\"Lok Adalat\" means \"People's Court\". It is based on Gandhian principles and is a component of the Alternative Dispute Resolution (ADR) system."
+  },
+  {
+   "q": "The award given by a Lok Adalat is:",
+   "o": [
+    "A recommendation only",
+    "Valid for 6 months only",
+    "Final and binding on all parties",
+    "Subject to appeal in the High Court"
+   ],
+   "a": 2,
+   "e": "Every award made by a Lok Adalat is deemed to be a decree of a civil court and is final and binding. No appeal lies against it in any court."
+  },
+  {
+   "q": "Permanent Lok Adalats were established to deal specifically with:",
+   "o": [
+    "Land reforms",
+    "Public Utility Services",
+    "Family disputes",
+    "Criminal cases"
+   ],
+   "a": 1,
+   "e": "The Legal Services Authorities Act was amended in 2002 to establish Permanent Lok Adalats for public utility services like transport, post, power, and hospitals."
+  },
+  {
+   "q": "The Family Courts Act, 1984 makes it obligatory for states to set up a family court in every city with a population exceeding:",
+   "o": [
+    "5 lakhs",
+    "50 lakhs",
+    "10 lakhs (1 million)",
+    "20 lakhs"
+   ],
+   "a": 2,
+   "e": "The Act requires state governments to set up a Family Court in every city or town with a population of more than one million."
+  },
+  {
+   "q": "Gram Nyayalayas are presided over by a:",
+   "o": [
+    "Nyayadhikari",
+    "Sarpanch",
+    "District Judge",
+    "Collector"
+   ],
+   "a": 0,
+   "e": "The presiding officer of a Gram Nyayalaya is called a Nyayadhikari, who is a judicial officer of the rank of a First Class Magistrate."
+  },
+  {
+   "q": "Panchayati Raj was constitutionalised through which Amendment Act?",
+   "o": [
+    "74th Amendment",
+    "44th Amendment",
+    "42nd Amendment",
+    "73rd Amendment"
+   ],
+   "a": 3,
+   "e": "The 73rd Constitutional Amendment Act of 1992 gave constitutional status to the Panchayati Raj institutions (rural local self-government)."
+  },
+  {
+   "q": "Which committee recommended the establishment of a three-tier Panchayati Raj system?",
+   "o": [
+    "G.V.K. Rao Committee",
+    "Balwantrai Mehta Committee",
+    "L.M. Singhvi Committee",
+    "Ashok Mehta Committee"
+   ],
+   "a": 1,
+   "e": "The Balwantrai Mehta Committee (1957) recommended a three-tier system: Gram Panchayat (village), Panchayat Samiti (block), and Zila Parishad (district)."
+  },
+  {
+   "q": "Which was the first state in India to establish Panchayati Raj?",
+   "o": [
+    "Maharashtra",
+    "Gujarat",
+    "Andhra Pradesh",
+    "Rajasthan"
+   ],
+   "a": 3,
+   "e": "Rajasthan was the first state, inaugurating the scheme on October 2, 1959, in Nagaur district."
+  },
+  {
+   "q": "The Ashok Mehta Committee (1977) recommended a ________ tier system of Panchayati Raj.",
+   "o": [
+    "Two",
+    "Single",
+    "Four",
+    "Three"
+   ],
+   "a": 0,
+   "e": "The Ashok Mehta Committee recommended replacing the three-tier system with a two-tier system consisting of Zila Parishad (district) and Mandal Panchayat (group of villages)."
+  },
+  {
+   "q": "Which committee described the bureaucratized development administration as \"grass without roots\"?",
+   "o": [
+    "Balwantrai Mehta Committee",
+    "Thungon Committee",
+    "L.M. Singhvi Committee",
+    "G.V.K. Rao Committee"
+   ],
+   "a": 3,
+   "e": "The G.V.K. Rao Committee (1985) concluded that development was becoming bureaucratized and divorced from PRIs, resulting in \"grass without roots.\""
+  },
+  {
+   "q": "Which committee recommended that Panchayati Raj institutions should be constitutionally recognized? 1️⃣ L.M. Singhvi Committee 2️⃣ Thungon Committee 3️⃣ Gadgil Committee",
+   "o": [
+    "2️⃣ and 3️⃣ only",
+    "1️⃣ only",
+    "1️⃣ and 2️⃣ only",
+    "1️⃣, 2️⃣ and 3️⃣"
+   ],
+   "a": 3,
+   "e": "Starting from the L.M. Singhvi Committee (1986), subsequent committees like Thungon and Gadgil also strongly recommended constitutional status for PRIs."
+  },
+  {
+   "q": "The 73rd Amendment Act added which Part and Schedule to the Constitution?",
+   "o": [
+    "Part X and 11th Schedule",
+    "Part IX-A and 12th Schedule",
+    "Part IX and 11th Schedule",
+    "Part IX and 10th Schedule"
+   ],
+   "a": 2,
+   "e": "The 73rd Amendment added Part IX ('The Panchayats') and the Eleventh Schedule (29 functional items)."
+  },
+  {
+   "q": "Which Article of the Constitution, part of the DPSP, deals with the organization of village panchayats?",
+   "o": [
+    "Article 41",
+    "Article 44",
+    "Article 40",
+    "Article 39"
+   ],
+   "a": 2,
+   "e": "Article 40 of the Directive Principles of State Policy says the State shall take steps to organize village panchayats."
+  },
+  {
+   "q": "Who are the members of a Gram Sabha?",
+   "o": [
+    "All residents of the village",
+    "All persons registered in the electoral rolls of the village",
+    "Only persons above 25 years of age",
+    "Only the elected representatives"
+   ],
+   "a": 1,
+   "e": "The Gram Sabha is a body consisting of all persons registered as voters in the electoral rolls of a village comprised within the area of the Panchayat."
+  },
+  {
+   "q": "In the three-tier system, a state having a population not exceeding ________ may not constitute panchayats at the intermediate level.",
+   "o": [
+    "30 lakhs",
+    "10 lakhs",
+    "50 lakhs",
+    "20 lakhs"
+   ],
+   "a": 3,
+   "e": "The Act provides for uniformity in the three-tier structure but allows states with a population under 20 lakh the option to skip the intermediate level."
+  },
+  {
+   "q": "The chairperson of a panchayat at the intermediate and district levels is elected:",
+   "o": [
+    "Appointed by the Collector",
+    "Directly by the people",
+    "Indirectly by and from elected members",
+    "Nominated by the Governor"
+   ],
+   "a": 2,
+   "e": "While all members are elected directly, the chairpersons at the intermediate and district levels are elected indirectly by the elected members."
+  },
+  {
+   "q": "What is the minimum reservation for women in Panchayats at all levels?",
+   "o": [
+    "One-third",
+    "One-half",
+    "One-fourth",
+    "One-fifth"
+   ],
+   "a": 0,
+   "e": "The Act provides for the reservation of not less than one-third of the total number of seats (and offices of chairpersons) for women."
+  },
+  {
+   "q": "What is the minimum age to contest elections for a Panchayat?",
+   "o": [
+    "25 years",
+    "30 years",
+    "21 years",
+    "18 years"
+   ],
+   "a": 2,
+   "e": "A person is not disqualified on age grounds if he/she has attained the age of 21 years, even though the age for assembly elections is 25."
+  },
+  {
+   "q": "The State Finance Commission for Panchayats is constituted every:",
+   "o": [
+    "2 years",
+    "10 years",
+    "5 years",
+    "3 years"
+   ],
+   "a": 2,
+   "e": "The Governor constitutes a Finance Commission every five years to review the financial position of the panchayats."
+  },
+  {
+   "q": "The 74th Amendment Act added which Part and Schedule to the Constitution?",
+   "o": [
+    "Part IX and 11th Schedule",
+    "Part IX-A and 12th Schedule",
+    "Part IX-B and 11th Schedule",
+    "Part X and 12th Schedule"
+   ],
+   "a": 1,
+   "e": "The 74th Amendment added Part IX-A ('The Municipalities') and the Twelfth Schedule (18 functional items)."
+  },
+  {
+   "q": "What are the three types of municipalities provided by the 74th Amendment? 1️⃣ Nagar Panchayat 2️⃣ Municipal Council 3️⃣ Municipal Corporation 4️⃣ Notified Area Committee",
+   "o": [
+    "All 1️⃣, 2️⃣, 3️⃣ and 4️⃣",
+    "1️⃣, 3️⃣ and 4️⃣",
+    "1️⃣, 2️⃣ and 3️⃣",
+    "2️⃣, 3️⃣ and 4️⃣"
+   ],
+   "a": 2,
+   "e": "The Act provides for Nagar Panchayats (transitional areas), Municipal Councils (smaller urban areas), and Municipal Corporations (larger urban areas)."
+  },
+  {
+   "q": "A \"Wards Committee\" must be constituted in a municipality having a population of:",
+   "o": [
+    "10 lakh or more",
+    "5 lakh or more",
+    "3 lakh or more",
+    "1 lakh or more"
+   ],
+   "a": 2,
+   "e": "The Act mandates the constitution of wards committees in municipalities with a population of three lakh or more."
+  },
+  {
+   "q": "Who is the \"formal head\" and \"ornamental figure\" of a Municipal Corporation?",
+   "o": [
+    "Standing Committee Chairman",
+    "Governor",
+    "Mayor",
+    "Municipal Commissioner"
+   ],
+   "a": 2,
+   "e": "The Mayor is the formal head of the corporation, while the implementation of decisions is the responsibility of the Municipal Commissioner (CEO)."
+  },
+  {
+   "q": "Who is the chief executive authority of a Municipal Corporation, usually an IAS officer?",
+   "o": [
+    "District Magistrate",
+    "Deputy Mayor",
+    "Municipal Commissioner",
+    "Mayor"
+   ],
+   "a": 2,
+   "e": "The Municipal Commissioner is the chief executive authority, appointed by the state government and generally belonging to the IAS."
+  },
+  {
+   "q": "Which urban body is created for a fast-developing town or a town not yet fulfilling conditions for a municipality?",
+   "o": [
+    "Port Trust",
+    "Cantonment Board",
+    "Town Area Committee",
+    "Notified Area Committee"
+   ],
+   "a": 3,
+   "e": "A Notified Area Committee is created for industrializing towns or those not yet ready for full municipal status, via a notification in the government gazette."
+  },
+  {
+   "q": "A Cantonment Board works under the administrative control of:",
+   "o": [
+    "The Ministry of Home Affairs",
+    "The Ministry of Defence",
+    "The State Government",
+    "The Ministry of Urban Affairs"
+   ],
+   "a": 1,
+   "e": "Unlike other urban bodies, a Cantonment Board is established by Central legislation and works under the Ministry of Defence."
+  },
+  {
+   "q": "Who is the ex-officio president of a Cantonment Board?",
+   "o": [
+    "An elected member",
+    "The District Magistrate",
+    "The military officer commanding the station",
+    "The CEO of the board"
+   ],
+   "a": 2,
+   "e": "The military officer commanding the station is the ex-officio president of the board and presides over its meetings."
+  },
+  {
+   "q": "\"Special Purpose Agencies\" in urban governance are:",
+   "o": [
+    "Function-based",
+    "Part of the Municipal Corporation",
+    "Always elected",
+    "Area-based"
+   ],
+   "a": 0,
+   "e": "Special Purpose Agencies (like Housing Boards or Water Supply Boards) are function-based bodies that deal with specific activities independently of the local government."
+  },
+  {
+   "q": "Which system of municipal personnel involves state-wide cadres where personnel are transferable between local bodies?",
+   "o": [
+    "Unified Personnel System",
+    "Separate Personnel System",
+    "Integrated Personnel System",
+    "Ad-hoc Personnel System"
+   ],
+   "a": 0,
+   "e": "In a Unified system, the state government controls the personnel and they are transferable between all urban bodies in that state."
+  },
+  {
+   "q": "Which is the most important source of tax revenue for urban local bodies?",
+   "o": [
+    "Water tax",
+    "Property tax",
+    "Entertainment tax",
+    "Professional tax"
+   ],
+   "a": 1,
+   "e": "Property tax is the most important tax revenue source for municipalities."
+  },
+  {
+   "q": "The Central Council of Local Government is chaired by:",
+   "o": [
+    "The senior-most Chief Minister",
+    "The Prime Minister",
+    "The President",
+    "The Union Minister for Housing and Urban Affairs"
+   ],
+   "a": 3,
+   "e": "The Union Minister for Housing and Urban Affairs acts as the Chairman of the Council, which consists of state ministers for local self-government."
+  },
+  {
+   "q": "The \"Magna Carta\" of local self-government in India is associated with:",
+   "o": [
+    "Lord Dalhousie",
+    "Lord Curzon",
+    "Lord Ripon",
+    "Lord Mayo"
+   ],
+   "a": 2,
+   "e": "Lord Ripon's Resolution of 1882 is hailed as the 'Magna Carta' of local self-government, and he is called the Father of Local Self-Government in India."
+  },
+  {
+   "q": "When was the first municipal corporation in India set up at Madras?",
+   "o": [
+    "1726",
+    "1688",
+    "1882",
+    "1919"
+   ],
+   "a": 1,
+   "e": "The first municipal corporation was set up at Madras in 1688. Corporations in Bombay and Calcutta followed in 1726."
+  },
+  {
+   "q": "The PESA Act (1996) extends the provisions of Part IX to:",
+   "o": [
+    "Metropolitan Areas",
+    "Union Territories",
+    "Tribal Areas of the Sixth Schedule",
+    "Scheduled Areas"
+   ],
+   "a": 3,
+   "e": "The Provisions of the Panchayats (Extension to the Scheduled Areas) Act, popularly known as PESA, extends Part IX to the Fifth Schedule areas."
+  },
+  {
+   "q": "Under PESA, the reservation for Scheduled Tribes in panchayats shall not be less than:",
+   "o": [
+    "One-third",
+    "In proportion to population only",
+    "One-half",
+    "One-fourth"
+   ],
+   "a": 2,
+   "e": "Under PESA, while other reservations are proportional, ST reservation must be at least one-half of the total seats."
+  },
+  {
+   "q": "Who has the power to manage minor water bodies in the Scheduled Areas under PESA?",
+   "o": [
+    "The State Government",
+    "The Central Government",
+    "Panchayats at the appropriate level",
+    "The Governor"
+   ],
+   "a": 2,
+   "e": "Planning and management of minor water bodies in Scheduled Areas are entrusted to Panchayats at the appropriate level."
+  },
+  {
+   "q": "According to the 73rd Amendment, what is the duration of a prematurelly reconstituted panchayat?",
+   "o": [
+    "1 year only",
+    "Until the next general election",
+    "The remainder of the original period",
+    "A full 5-year term"
+   ],
+   "a": 2,
+   "e": "A panchayat reconstituted after premature dissolution continues only for the remainder of the period of the dissolved panchayat."
+  },
+  {
+   "q": "Which of the following is a \"voluntary\" provision of the 73rd Amendment?",
+   "o": [
+    "Direct elections to all seats",
+    "Reservation for women",
+    "Organisation of Gram Sabha",
+    "Granting financial powers to levy taxes"
+   ],
+   "a": 3,
+   "e": "Granting financial powers and the specific devolution of the 29 subjects are voluntary provisions left to the discretion of the state legislatures."
+  },
+  {
+   "q": "How many functional items are listed in the Eleventh Schedule?",
+   "o": [
+    "29",
+    "32",
+    "18",
+    "22"
+   ],
+   "a": 0,
+   "e": "The Eleventh Schedule contains 29 functional items for Panchayats, while the Twelfth Schedule contains 18 items for Municipalities."
+  },
+  {
+   "q": "Who is the \"crisis manager-in-chief\" at the political level during emergencies in a state?",
+   "o": [
+    "The Home Minister",
+    "The Governor",
+    "The Chief Secretary",
+    "The Chief Minister"
+   ],
+   "a": 3,
+   "e": "The Chief Minister acts as the crisis manager-in-chief at the political level during emergencies."
+  },
+  {
+   "q": "Which Article mentions that the Chief Minister shall be appointed by the Governor?",
+   "o": [
+    "Article 166",
+    "Article 163",
+    "Article 164",
+    "Article 165"
+   ],
+   "a": 2,
+   "e": "Article 164 explicitly states that the Chief Minister shall be appointed by the Governor."
+  },
+  {
+   "q": "The State Planning Board is headed by:",
+   "o": [
+    "The Finance Minister",
+    "A technical expert",
+    "The Chief Minister",
+    "The Governor"
+   ],
+   "a": 2,
+   "e": "The Chief Minister acts as the Chairman of the State Planning Board."
+  },
+  {
+   "q": "What is the \"Sumptuary Allowance\"?",
+   "o": [
+    "A medical facility",
+    "A salary component for high court judges",
+    "An allowance for entertaining guests and official expenses",
+    "A type of tax"
+   ],
+   "a": 2,
+   "e": "In addition to salary, the CM and ministers receive a sumptuary allowance for official hosting and related expenses."
+  },
+  {
+   "q": "Who provides the \"link\" between the State Government and the Zonal Council?",
+   "o": [
+    "The Home Minister",
+    "The Governor",
+    "The Chief Minister",
+    "The Chief Secretary"
+   ],
+   "a": 2,
+   "e": "The Chief Minister represents the state in the Zonal Council and acts as its Vice-Chairman by rotation."
+  },
+  {
+   "q": "If a Chief Minister loses the confidence of the Legislative Assembly:",
+   "o": [
+    "He must resign or the Governor can dismiss him.",
+    "The assembly is automatically dissolved.",
+    "He can continue till the end of the term.",
+    "He can request the President to intervene."
+   ],
+   "a": 0,
+   "e": "The CM cannot be dismissed as long as he has a majority, but if he loses it, he must resign or face dismissal."
+  },
+  {
+   "q": "Which of the following states was excluded from the requirement of a Tribal Welfare Minister by the 94th Amendment?",
+   "o": [
+    "Jharkhand",
+    "Bihar",
+    "Madhya Pradesh",
+    "Odisha"
+   ],
+   "a": 1,
+   "e": "The 94th Amendment Act of 2006 freed Bihar from the obligation of having a tribal welfare minister."
+  },
+  {
+   "q": "The \"Port Trust\" is created by:",
+   "o": [
+    "Resolution of the Municipality",
+    "The State Legislature",
+    "An Act of Parliament",
+    "Notification by the Governor"
+   ],
+   "a": 2,
+   "e": "Port trusts (like in Mumbai or Kolkata) are established in port areas by an Act of Parliament to manage ports and provide amenities."
+  },
+  {
+   "q": "What is a \"Munsiff\"?",
+   "o": [
+    "A revenue officer",
+    "A police official",
+    "A judicial officer at the lowest level of civil courts",
+    "An elected member of the Panchayat"
+   ],
+   "a": 2,
+   "e": "A munsiff is a judicial officer presiding over the Munsiff's Court, which is the lowest level on the civil side of the subordinate judiciary."
+  },
+  {
+   "q": "Under the 74th Amendment, the \"Metropolitan Planning Committee\" prepares a draft development plan for areas with a population of:",
+   "o": [
+    "50 lakhs or more",
+    "20 lakhs or more",
+    "10 lakhs (1 million) or more",
+    "5 lakhs or more"
+   ],
+   "a": 2,
+   "e": "A metropolitan area is defined as one having a population of 10 lakh or more, requiring a Metropolitan Planning Committee."
+  },
+  {
+   "q": "Which Article of the Constitution deals with the \"Conduct of business of the Government of a State\"?",
+   "o": [
+    "Article 164",
+    "Article 163",
+    "Article 167",
+    "Article 166"
+   ],
+   "a": 3,
+   "e": "Article 166 specifies that all executive action of the Government of a State shall be expressed to be taken in the name of the Governor. It also empowers the Governor to make rules for the more convenient transaction of the business of the government."
+  },
+  {
+   "q": "With reference to the rights of ministers as respects the Houses, consider the following statements: 1️⃣ Every minister has the right to speak and take part in the proceedings of the Assembly. 2️⃣ A minister can vote in any House of the state legislature regardless of membership. 3️⃣ This right extends to any Committee of the State Legislature of which the minister is named a member.",
+   "o": [
+    "1️⃣ and 2️⃣ only",
+    "1️⃣ and 3️⃣ only",
+    "1️⃣, 2️⃣ and 3️⃣",
+    "2️⃣ and 3️⃣ only"
+   ],
+   "a": 1,
+   "e": "Article 177 grants ministers the right to speak and participate in the proceedings of both Houses and committees they are named to. However, a minister is not entitled to vote in a House of which he/she is not a member."
+  },
+  {
+   "q": "The maximum gap between two sessions of the state legislature cannot be more than:",
+   "o": [
+    "3 months",
+    "9 months",
+    "1 year",
+    "6 months"
+   ],
+   "a": 3,
+   "e": "According to constitutional provisions, the Governor summons each House to meet such that six months shall not intervene between its last sitting in one session and the date appointed for its first sitting in the next session."
+  },
+  {
+   "q": "Which presiding officer has the power of \"Adjournment sine die\"?",
+   "o": [
+    "Both the Speaker and the Chairman",
+    "Only the Chairman of the Council",
+    "The Governor",
+    "Only the Speaker of the Assembly"
+   ],
+   "a": 0,
+   "e": "Adjournment sine die means terminating a sitting of the state legislature for an indefinite period. This power lies with the presiding officer of the House."
+  },
+  {
+   "q": "What is the effect of \"Prorogation\" on the state legislature?",
+   "o": [
+    "It ends the very life of the existing House.",
+    "It terminates a session of the House.",
+    "It terminates a sitting for a few hours.",
+    "It results in the immediate lapse of all pending bills."
+   ],
+   "a": 1,
+   "e": "Prorogation is issued by the Governor and terminates a session of the House. Unlike dissolution, it does not end the life of the House."
+  },
+  {
+   "q": "Which of the following bills pending in the state legislature will LAPSE upon the dissolution of the Assembly?",
+   "o": [
+    "A Bill returned by the President for reconsideration.",
+    "A Bill passed by both Houses but pending assent of the Governor.",
+    "A Bill pending in the Council but not passed by the Assembly.",
+    "A Bill pending in the Assembly (whether originating there or transmitted to it)."
+   ],
+   "a": 3,
+   "e": "On dissolution, any bill pending in the assembly lapses. However, a bill pending in the council that has not yet been passed by the assembly does not lapse."
+  },
+  {
+   "q": "In the state legislature, if there is an equality of votes on a matter, the presiding officer:",
+   "o": [
+    "Refers the matter to the Governor.",
+    "Exercises a casting vote.",
+    "Must remain neutral and not vote.",
+    "Declares the motion as defeated automatically."
+   ],
+   "a": 1,
+   "e": "The presiding officer (Speaker or Chairman) does not vote in the first instance but exercises a casting vote in the case of an equality of votes (a tie)."
+  },
+  {
+   "q": "An ordinary bill passed by the Legislative Assembly for the second time is transmitted to the Council. If the Council does not pass it within ________, it is deemed passed by both Houses.",
+   "o": [
+    "6 months",
+    "1 month",
+    "3 months",
+    "14 days"
+   ],
+   "a": 1,
+   "e": "If the Assembly passes a bill for the second time and the Council does not pass it within one month, the bill is deemed to have been passed by both Houses in the form passed by the Assembly for the second time."
+  },
+  {
+   "q": "What is the total maximum period for which the Legislative Council can delay an ordinary bill passed by the Assembly?",
+   "o": [
+    "3 months",
+    "Unlimited period",
+    "4 months",
+    "6 months"
+   ],
+   "a": 2,
+   "e": "The Council can detain an ordinary bill for a maximum of four months: three months in the first instance and one month in the second instance."
+  },
+  {
+   "q": "With reference to the Advocate General of the state, consider the following: 1️⃣ He/she has the right to speak in either House of the state legislature. 2️⃣ He/she has the right to vote in the proceedings of the Assembly. 3️⃣ He/she can take part in the proceedings of any committee of the legislature of which he/she is a member.",
+   "o": [
+    "1️⃣, 2️⃣ and 3️⃣",
+    "1️⃣ and 3️⃣ only",
+    "1️⃣ and 2️⃣ only",
+    "2️⃣ and 3️⃣ only"
+   ],
+   "a": 1,
+   "e": "The Advocate General has the right to speak and participate in the proceedings of either House or its committees. However, like a minister who is not a member of the House, he/she is not entitled to vote."
+  },
+  {
+   "q": "Which type of veto does the Governor enjoy when he returns a bill (other than a Money Bill) for reconsideration?",
+   "o": [
+    "Qualified Veto",
+    "Suspensive Veto",
+    "Absolute Veto",
+    "Pocket Veto"
+   ],
+   "a": 1,
+   "e": "If the Governor returns a bill and the legislature passes it again, the Governor must give assent. Therefore, the Governor enjoys only a suspensive veto."
+  },
+  {
+   "q": "When the Governor reserves a bill for the consideration of the President, and the President returns it for reconsideration, the legislature must reconsider it within:",
+   "o": [
+    "1 year",
+    "3 months",
+    "1 month",
+    "6 months"
+   ],
+   "a": 3,
+   "e": "If a bill reserved for the President is returned for reconsideration, the House or Houses of the state legislature must reconsider it within a period of six months."
+  },
+  {
+   "q": "Regarding Money Bills in the state legislature, which of the following is INCORRECT?",
+   "o": [
+    "The Legislative Council cannot amend or reject it.",
+    "It can be introduced only in the Legislative Assembly.",
+    "It can be introduced by a private member.",
+    "It requires the prior recommendation of the Governor."
+   ],
+   "a": 2,
+   "e": "A Money Bill is considered a government bill and can be introduced only by a minister, not a private member."
+  },
+  {
+   "q": "If the Legislative Council fails to return a Money Bill to the Assembly within 14 days:",
+   "o": [
+    "The Governor must intervene.",
+    "The bill is deemed to have been passed by both Houses.",
+    "The bill lapses.",
+    "The Assembly must repass the bill."
+   ],
+   "a": 1,
+   "e": "If the Council does not return the Money Bill within 14 days, it is deemed to have been passed by both Houses in the form originally passed by the Assembly."
+  },
+  {
+   "q": "Can the Governor return a Money Bill for the reconsideration of the state legislature?",
+   "o": [
+    "Yes, if he finds errors in it.",
+    "No, he must either give assent, withhold it, or reserve it for the President.",
+    "Only if the Speaker recommends it.",
+    "Only if it was not recommended by him initially."
+   ],
+   "a": 1,
+   "e": "When a Money Bill is presented to the Governor, he can give assent, withhold it, or reserve it for the President, but he cannot return it for reconsideration."
+  },
+  {
+   "q": "Which Article empowers the High Court to issue writs for the enforcement of Fundamental Rights?",
+   "o": [
+    "Article 226",
+    "Article 32",
+    "Article 131",
+    "Article 227"
+   ],
+   "a": 0,
+   "e": "Article 226 empowers High Courts to issue writs such as habeas corpus and mandamus for the enforcement of fundamental rights and for any other purpose."
+  },
+  {
+   "q": "The \"Power of Superintendence\" of a High Court over all courts and tribunals (except military ones) is granted by:",
+   "o": [
+    "Article 226",
+    "Article 225",
+    "Article 227",
+    "Article 228"
+   ],
+   "a": 2,
+   "e": "Article 227 gives every High Court the power of superintendence over all courts and tribunals throughout the territories in relation to which it exercises jurisdiction."
+  },
+  {
+   "q": "Which constitutional amendment curtailed the judicial review power of High Courts by debarring them from considering the validity of central laws?",
+   "o": [
+    "42nd Amendment",
+    "44th Amendment",
+    "43rd Amendment",
+    "24th Amendment"
+   ],
+   "a": 0,
+   "e": "The 42nd Amendment Act of 1976 curtailed the High Court's power of judicial review regarding central laws. This was later restored by the 43rd Amendment Act of 1977."
+  },
+  {
+   "q": "In the three-tier hierarchy of subordinate courts, which court stands immediately below the District and Sessions Judge's Court on the criminal side?",
+   "o": [
+    "Munsiff's Court",
+    "Judicial Magistrate's Court",
+    "Small Causes Court",
+    "Chief Judicial Magistrate's Court"
+   ],
+   "a": 3,
+   "e": "Below the District and Sessions Court, the hierarchy consists of the Court of Subordinate Judges (civil) and the Court of Chief Judicial Magistrates (criminal)."
+  },
+  {
+   "q": "The \"Tribunals Reforms Act, 2021\" fixed the term of office for the Chairman of the CAT at:",
+   "o": [
+    "4 years or 70 years of age",
+    "6 years or 70 years of age",
+    "5 years or 65 years of age",
+    "3 years or 65 years of age"
+   ],
+   "a": 0,
+   "e": "As per the Tribunals Reforms Act, 2021, the Chairman of the Central Administrative Tribunal holds office for a term of four years or until the age of 70, whichever is earlier."
+  },
+  {
+   "q": "Under Article 323B, which authority can provide for the establishment of tribunals for matters like taxation and land reforms?",
+   "o": [
+    "Only the State Legislature",
+    "The President of India",
+    "Both Parliament and State Legislatures",
+    "Only the Parliament"
+   ],
+   "a": 2,
+   "e": "Unlike Article 323A (only Parliament), tribunals under Article 323B can be established by both Parliament and state legislatures within their respective legislative competences."
+  },
+  {
+   "q": "The District Consumer Disputes Redressal Commission is established by:",
+   "o": [
+    "The Supreme Court",
+    "The National Commission",
+    "The Central Government",
+    "The State Government"
+   ],
+   "a": 3,
+   "e": "The District Commission is established in each district of the state by the state government."
+  },
+  {
+   "q": "According to the 2021 Rules, the pecuniary jurisdiction of the State Consumer Commission is:",
+   "o": [
+    "Above ₹1 crore but up to ₹10 crores",
+    "Above ₹10 crores",
+    "Above ₹50 lakhs but up to ₹2 crores",
+    "Up to ₹50 lakhs"
+   ],
+   "a": 2,
+   "e": "The Consumer Protection Rules, 2021, revised the pecuniary jurisdiction, setting the State Commission's limit between ₹50 lakhs and ₹2 crores."
+  },
+  {
+   "q": "\"Legal awareness camps\" in rural areas are primarily organized by:",
+   "o": [
+    "State and District Legal Services Authorities",
+    "The Ministry of Home Affairs",
+    "The Supreme Court",
+    "The High Court"
+   ],
+   "a": 0,
+   "e": "One of the main functions of State and District Legal Services Authorities is to organize legal awareness camps in rural areas."
+  },
+  {
+   "q": "Which of the following is NOT eligible for free legal services under the Legal Services Authorities Act, 1987?",
+   "o": [
+    "Women and children",
+    "All citizens regardless of income",
+    "Disabled persons",
+    "Members of SC/ST"
+   ],
+   "a": 1,
+   "e": "Free legal services are provided to specific categories like women, children, SC/ST members, and disabled persons. General citizens must meet income criteria (e.g., annual income not exceeding ₹1 lakh)."
+  },
+  {
+   "q": "The first Lok Adalat camp in post-independence India was organized in 1982 in which state?",
+   "o": [
+    "Andhra Pradesh",
+    "Gujarat",
+    "Rajasthan",
+    "Maharashtra"
+   ],
+   "a": 1,
+   "e": "The initiative of Lok Adalats started successfully with the first camp organized in Gujarat in 1982."
+  },
+  {
+   "q": "A Lok Adalat bench generally consists of:",
+   "o": [
+    "One judicial officer, one lawyer, and one social worker",
+    "A judge and a jury",
+    "Two lawyers and a social worker",
+    "Three judicial officers"
+   ],
+   "a": 0,
+   "e": "Generally, a Lok Adalat is composed of a judicial officer as chairman, along with a lawyer and a social worker as members."
+  },
+  {
+   "q": "Which type of Lok Adalat sits for a set number of days to encourage parties to reflect on settlement terms?",
+   "o": [
+    "National Lok Adalat",
+    "Mobile Lok Adalat",
+    "Continuous Lok Adalat",
+    "Permanent Lok Adalat"
+   ],
+   "a": 2,
+   "e": "A Continuous Lok Adalat bench sits for several days, deferring unsettled matters to the next date to give parties time to consider mutually acceptable terms."
+  },
+  {
+   "q": "The \"Permanent Lok Adalat\" established in 2002 has a pecuniary jurisdiction up to:",
+   "o": [
+    "₹2 crores",
+    "₹1 crore",
+    "₹10 lakhs",
+    "₹50 lakhs"
+   ],
+   "a": 1,
+   "e": "While originally ₹10 lakhs, the Central Government increased the pecuniary jurisdiction of Permanent Lok Adalats to ₹1 crore in 2015."
+  },
+  {
+   "q": "In a Family Court, are parties entitled to be represented by a legal practitioner as a matter of right?",
+   "o": [
+    "No, they are not entitled as a matter of right.",
+    "Only in divorce cases.",
+    "Only if the Governor permits.",
+    "Yes, always."
+   ],
+   "a": 0,
+   "e": "The Family Courts Act provides that parties are not entitled, as of right, to be represented by a legal practitioner. However, the court may seek the assistance of a legal expert as *amicus curiae*."
+  },
+  {
+   "q": "The presiding officer of a Gram Nyayalaya, the Nyayadhikari, is appointed by:",
+   "o": [
+    "The President",
+    "The Governor in consultation with the High Court",
+    "The Chief Justice of India",
+    "The State Government in consultation with the High Court"
+   ],
+   "a": 3,
+   "e": "The Nyayadhikari is appointed by the State Government after consulting with the High Court."
+  },
+  {
+   "q": "Gram Nyayalayas are mobile courts that exercise the powers of:",
+   "o": [
+    "Only Criminal Courts",
+    "Only Revenue Courts",
+    "Both Criminal and Civil Courts",
+    "Only Civil Courts"
+   ],
+   "a": 2,
+   "e": "Gram Nyayalayas function as mobile courts and are vested with the powers of both Criminal and Civil Courts."
+  },
+  {
+   "q": "Which Act provides for the constitution of Commercial Divisions in High Courts to adjudicate commercial disputes?",
+   "o": [
+    "Commercial Courts Act, 2015",
+    "Companies Act, 2013",
+    "Consumer Protection Act, 2019",
+    "Arbitration and Conciliation Act, 1996"
+   ],
+   "a": 0,
+   "e": "The Commercial Courts Act, 2015, was enacted to establish Commercial Courts and Commercial Divisions in High Courts for high-value commercial disputes."
+  },
+  {
+   "q": "Under the 73rd Amendment Act, the \"Eleventh Schedule\" was added to the Constitution. It contains how many functional items?",
+   "o": [
+    "12",
+    "24",
+    "18",
+    "29"
+   ],
+   "a": 3,
+   "e": "The 73rd Amendment added the Eleventh Schedule, which lists 29 functional items within the purview of panchayats."
+  },
+  {
+   "q": "The Balwantrai Mehta Committee (1957) suggested that which body should be the \"executive body\" in the Panchayati Raj system?",
+   "o": [
+    "Gram Panchayat",
+    "Panchayat Samiti",
+    "Nyaya Panchayat",
+    "Zila Parishad"
+   ],
+   "a": 1,
+   "e": "The committee recommended that the Panchayat Samiti (block level) should be the executive body, while the Zila Parishad (district level) should be advisory and coordinating."
+  },
+  {
+   "q": "In the Panchayati Raj system of West Bengal, as adopted in the 1960s, how many tiers were there?",
+   "o": [
+    "Two",
+    "Four",
+    "Three",
+    "Five"
+   ],
+   "a": 1,
+   "e": "While most states adopted a three-tier system, West Bengal uniquely adopted a four-tier system during that period."
+  },
+  {
+   "q": "The \"G.V.K. Rao Committee\" (1985) was appointed by:",
+   "o": [
+    "The Planning Commission",
+    "The Janata Government",
+    "The Sarkaria Commission",
+    "The Ministry of Panchayati Raj"
+   ],
+   "a": 0,
+   "e": "The G.V.K. Rao Committee was appointed by the erstwhile Planning Commission to review administrative arrangements for rural development."
+  },
+  {
+   "q": "Which committee recommended the creation of the post of \"District Development Commissioner\" to act as the CEO of the Zila Parishad?",
+   "o": [
+    "G.V.K. Rao Committee",
+    "L.M. Singhvi Committee",
+    "Ashok Mehta Committee",
+    "Gadgil Committee"
+   ],
+   "a": 0,
+   "e": "The G.V.K. Rao Committee recommended creating a District Development Commissioner post to lead development departments at the district level."
+  },
+  {
+   "q": "The \"L.M. Singhvi Committee\" (1986) emphasized the importance of which body as the embodiment of direct democracy?",
+   "o": [
+    "Nyaya Panchayat",
+    "Panchayat Samiti",
+    "Gram Sabha",
+    "Zila Parishad"
+   ],
+   "a": 2,
+   "e": "The Singhvi Committee called the Gram Sabha the embodiment of direct democracy and emphasized its importance."
+  },
+  {
+   "q": "According to the 73rd Amendment Act, who determines the powers and functions of the Gram Sabha at the village level?",
+   "o": [
+    "The Governor",
+    "The State Legislature",
+    "The President",
+    "The Parliament"
+   ],
+   "a": 1,
+   "e": "Article 243A provides that a Gram Sabha may exercise such powers and perform such functions as the legislature of a state determines."
+  },
+  {
+   "q": "For a state having a population not exceeding 20 lakh, which level of Panchayat is NOT mandatory?",
+   "o": [
+    "District level",
+    "None of the above",
+    "Village level",
+    "Intermediate level"
+   ],
+   "a": 3,
+   "e": "A state with a population under 20 lakh has the option not to constitute panchayats at the intermediate level."
+  },
+  {
+   "q": "The reservation of seats for Scheduled Castes in panchayats is NOT applicable to which state?",
+   "o": [
+    "Arunachal Pradesh",
+    "Nagaland",
+    "Mizoram",
+    "Meghalaya"
+   ],
+   "a": 0,
+   "e": "The 83rd Amendment Act of 2000 specified that SC reservations do not apply to Arunachal Pradesh as it is fully inhabited by indigenous tribal people."
+  },
+  {
+   "q": "Who has the power to remove the State Election Commissioner?",
+   "o": [
+    "The Chief Minister",
+    "The State Legislature",
+    "The Governor",
+    "The President"
+   ],
+   "a": 3,
+   "e": "Although appointed by the Governor, the State Election Commissioner can only be removed in the same manner and on the same grounds as a judge of a High Court (which requires presidential action)."
+  },
+  {
+   "q": "Which Article deals with the \"Audit of accounts of panchayats\"?",
+   "o": [
+    "Article 243J",
+    "Article 243-I",
+    "Article 243K",
+    "Article 243L"
+   ],
+   "a": 0,
+   "e": "Article 243J empowers the state legislature to make provisions regarding the maintenance and auditing of panchayat accounts."
+  },
+  {
+   "q": "The \"PESA Act\" was enacted in 1996 to extend Panchayat provisions to which areas?",
+   "o": [
+    "Urban areas",
+    "Union Territories",
+    "Sixth Schedule areas",
+    "Fifth Schedule areas"
+   ],
+   "a": 3,
+   "e": "The Provisions of the Panchayats (Extension to the Scheduled Areas) Act (PESA) extends Part IX to Fifth Schedule areas."
+  },
+  {
+   "q": "Under the PESA Act, every Gram Sabha is competent to safeguard and preserve: 1️⃣ Traditions and customs of the people. 2️⃣ Cultural identity. 3️⃣ Community resources.",
+   "o": [
+    "1️⃣ and 2️⃣ only",
+    "1️⃣, 2️⃣ and 3️⃣",
+    "1️⃣ and 3️⃣ only",
+    "2️⃣ and 3️⃣ only"
+   ],
+   "a": 1,
+   "e": "PESA empowers every Gram Sabha to safeguard traditions, customs, cultural identity, and community resources."
+  },
+  {
+   "q": "According to the Second Administrative Reforms Commission, what is a major problem regarding Panchayat finances?",
+   "o": [
+    "They are not allowed to receive loans.",
+    "They are heavily dependent on government grants.",
+    "They do not have any power to levy taxes.",
+    "They have too much financial autonomy."
+   ],
+   "a": 1,
+   "e": "The Commission noted that Panchayats are heavily dependent on grants from the Union and State Governments and have weak internal resource generation."
+  },
+  {
+   "q": "Which tier of the Panchayati Raj is generally in a better position regarding own resource collection?",
+   "o": [
+    "Gram Panchayat",
+    "Zila Parishad",
+    "Panchayat Samiti",
+    "All tiers are equal"
+   ],
+   "a": 0,
+   "e": "Gram Panchayats are in a better position because they have a specific tax domain, whereas the upper two tiers rely more on tolls and fees."
+  },
+  {
+   "q": "What is a \"Parallel Body\" in the context of local governance?",
+   "o": [
+    "An agency created for speedy implementation that often bypasses PRIs.",
+    "A committee of the Gram Sabha.",
+    "A second chamber in the state legislature.",
+    "A judicial tribunal for panchayat elections."
+   ],
+   "a": 0,
+   "e": "Parallel Bodies are often created for implementation purposes, but they can usurp the space of PRIs and demoralize them."
+  },
+  {
+   "q": "At the Central level, which ministry deals with urban local government in the case of Cantonment Boards?",
+   "o": [
+    "Ministry of Finance",
+    "Ministry of Defence",
+    "Ministry of Housing and Urban Affairs",
+    "Ministry of Home Affairs"
+   ],
+   "a": 1,
+   "e": "While most urban bodies are handled by the Ministry of Housing and Urban Affairs, Cantonment Boards are under the Ministry of Defence."
+  },
+  {
+   "q": "Which resolution is hailed as the \"Magna Carta\" of local self-government in India?",
+   "o": [
+    "Lord Ripon's Resolution of 1882",
+    "The Government of India Act of 1919",
+    "The 74th Amendment Act",
+    "Lord Mayo's Resolution of 1870"
+   ],
+   "a": 0,
+   "e": "Lord Ripon's Resolution of 1882 is considered the \"Magna Carta\" of local self-government."
+  },
+  {
+   "q": "The \"Nagarpalika Bill\" was first introduced in 1989 by the government of:",
+   "o": [
+    "V.P. Singh",
+    "Indira Gandhi",
+    "Rajiv Gandhi",
+    "P.V. Narasimha Rao"
+   ],
+   "a": 2,
+   "e": "The Rajiv Gandhi government introduced the 65th Constitutional Amendment Bill (Nagarpalika Bill) in August 1989."
+  },
+  {
+   "q": "Under the 74th Amendment Act, a \"Municipal Council\" is constituted for:",
+   "o": [
+    "A transitional area",
+    "A larger urban area",
+    "A smaller urban area",
+    "An industrial township"
+   ],
+   "a": 2,
+   "e": "The Act provides for Nagar Panchayats for transitional areas, Municipal Councils for smaller urban areas, and Municipal Corporations for larger urban areas."
+  },
+  {
+   "q": "Who specifies whether an area is a \"transitional area,\" \"smaller urban area,\" or \"larger urban area\"?",
+   "o": [
+    "The Chief Minister",
+    "The Governor",
+    "The Parliament",
+    "The President"
+   ],
+   "a": 1,
+   "e": "The Governor defines these areas based on factors like population, density, revenue, and economic importance."
+  },
+  {
+   "q": "In a municipality, the seats reserved for Scheduled Castes and Scheduled Tribes are in proportion to:",
+   "o": [
+    "The density of the area.",
+    "The total number of seats.",
+    "Their population to the total population in the municipal area.",
+    "The discretion of the state legislature."
+   ],
+   "a": 2,
+   "e": "Reservation for SCs and STs is proportional to their population in the municipal area."
+  },
+  {
+   "q": "What is the term of office for a municipality from the date of its first meeting?",
+   "o": [
+    "3 years",
+    "5 years",
+    "6 years",
+    "4 years"
+   ],
+   "a": 1,
+   "e": "Every municipality has a fixed term of five years from its first meeting."
+  },
+  {
+   "q": "Fresh elections to constitute a municipality in case of dissolution must be completed within:",
+   "o": [
+    "1 year",
+    "6 months",
+    "9 months",
+    "3 months"
+   ],
+   "a": 1,
+   "e": "If a municipality is dissolved, elections must be completed within six months from the date of dissolution."
+  },
+  {
+   "q": "The \"District Planning Committee\" is constituted to consolidate plans prepared by:",
+   "o": [
+    "Only Panchayats",
+    "The State Government",
+    "Only Municipalities",
+    "Both Panchayats and Municipalities"
+   ],
+   "a": 3,
+   "e": "Every state must constitute a District Planning Committee to consolidate plans from both panchayats and municipalities in the district."
+  },
+  {
+   "q": "What fraction of members of a District Planning Committee should be elected by the elected members of the district panchayat and municipalities?",
+   "o": [
+    "Three-fourths",
+    "Four-fifths",
+    "One-half",
+    "Two-thirds"
+   ],
+   "a": 1,
+   "e": "The Act mandates that four-fifths of the committee members be elected by and from the elected members of local bodies."
+  },
+  {
+   "q": "A \"Metropolitan Area\" is defined as an area having a population of:",
+   "o": [
+    "50 lakh or more",
+    "5 lakh or more",
+    "10 lakh (1 million) or more",
+    "20 lakh or more"
+   ],
+   "a": 2,
+   "e": "A Metropolitan area consists of one or more districts with a population of 10 lakh or more."
+  },
+  {
+   "q": "The \"Twelfth Schedule\" of the Constitution contains how many functional items for municipalities?",
+   "o": [
+    "29",
+    "12",
+    "18",
+    "24"
+   ],
+   "a": 2,
+   "e": "The Twelfth Schedule lists 18 functional items placed within the purview of municipalities."
+  },
+  {
+   "q": "Which of the following is an authority of a Municipal Corporation? 1️⃣ The Council 2️⃣ The Standing Committees 3️⃣ The Municipal Commissioner",
+   "o": [
+    "1️⃣, 2️⃣ and 3️⃣",
+    "1️⃣ and 2️⃣ only",
+    "1️⃣ and 3️⃣ only",
+    "2️⃣ and 3️⃣ only"
+   ],
+   "a": 0,
+   "e": "A Municipal Corporation typically consists of the Council (legislative), Standing Committees (facilitative), and the Commissioner (executive)."
+  },
+  {
+   "q": "The Mayor of a Municipal Corporation is generally elected for a term of:",
+   "o": [
+    "1 year (renewable)",
+    "3 years",
+    "5 years",
+    "Indefinite period"
+   ],
+   "a": 0,
+   "e": "In most states, the Mayor is elected for a one-year renewable term and is primarily a formal or ornamental head."
+  },
+  {
+   "q": "Which urban body is an ENTIRELY nominated body by the state government?",
+   "o": [
+    "Notified Area Committee",
+    "Town Area Committee",
+    "Cantonment Board",
+    "Municipality"
+   ],
+   "a": 0,
+   "e": "Unlike elected municipalities, all members and the chairman of a Notified Area Committee are nominated by the state government."
+  },
+  {
+   "q": "A \"Township\" form of urban government:",
+   "o": [
+    "Has only elected members.",
+    "Is for small developing towns.",
+    "Has no elected members and is an extension of bureaucratic structure.",
+    "Is created by the Ministry of Defence."
+   ],
+   "a": 2,
+   "e": "Townships are established by large public enterprises for their workers; they have no elected members and are managed by a town administrator."
+  },
+  {
+   "q": "Under the \"Integrated Personnel System\" for municipalities:",
+   "o": [
+    "Municipal personnel are members of the state services and transferable to state departments.",
+    "Local bodies control their own personnel.",
+    "Personnel are only transferable between local bodies.",
+    "The state government creates state-wide cadres."
+   ],
+   "a": 0,
+   "e": "In an integrated system, there is no distinction between local and state civil services; personnel can move between local bodies and state government departments."
+  },
+  {
+   "q": "The \"Central Council of Local Government\" was set up in 1954 under:",
+   "o": [
+    "Article 263",
+    "Article 280",
+    "The 74th Amendment Act",
+    "Article 243"
+   ],
+   "a": 0,
+   "e": "The Council was constituted under Article 263 (Inter-State Council provision) by an order of the President."
+  },
+  {
+   "q": "Which of the following is a source of \"Non-Tax Revenue\" for urban local bodies?",
+   "o": [
+    "Loans",
+    "User charges (e.g., water charges)",
+    "Grants-in-aid",
+    "Property tax"
+   ],
+   "a": 1,
+   "e": "Non-tax revenue includes rent, fees, fines, and user charges for public utilities."
+  },
+  {
+   "q": "The \"State Finance Commission\" for municipalities makes recommendations regarding:",
+   "o": [
+    "Distribution of net proceeds of taxes between state and municipalities.",
+    "Appointment of the Municipal Commissioner.",
+    "Electoral delimitation of wards.",
+    "Selection of the Mayor."
+   ],
+   "a": 0,
+   "e": "The SFC reviews the financial position and recommends principles for tax distribution and grants-in-aid."
+  },
+  {
+   "q": "Which Article bars the interference by courts in electoral matters of municipalities?",
+   "o": [
+    "Article 243ZE",
+    "Article 243ZG",
+    "Article 243ZF",
+    "Article 243ZA"
+   ],
+   "a": 1,
+   "e": "Article 243ZG prevents courts from questioning laws on delimitation or seat allotment and requires an election petition for challenging results."
+  },
+  {
+   "q": "In the context of High Courts, what is the \"Letters Patent\"?",
+   "o": [
+    "The document that established the 19th-century High Courts.",
+    "A removal motion against a judge.",
+    "A type of writ.",
+    "An oath taken by the Chief Justice."
+   ],
+   "a": 0,
+   "e": "The jurisdiction and powers of High Courts are partly governed by the Letters Patent, which were the royal instruments creating the original courts."
+  },
+  {
+   "q": "Which High Court has jurisdiction over the largest number of states?",
+   "o": [
+    "Madras High Court",
+    "Bombay High Court",
+    "Gauhati High Court",
+    "Calcutta High Court"
+   ],
+   "a": 2,
+   "e": "Gauhati High Court has territorial jurisdiction over four states: Assam, Nagaland, Mizoram, and Arunachal Pradesh."
+  },
+  {
+   "q": "The \"Lakshadweep\" Union Territory falls under the jurisdiction of which High Court?",
+   "o": [
+    "Bombay High Court",
+    "Kerala High Court",
+    "Madras High Court",
+    "Calcutta High Court"
+   ],
+   "a": 1,
+   "e": "The territorial jurisdiction of the Kerala High Court extends to the state of Kerala and the Union Territory of Lakshadweep."
+  },
+  {
+   "q": "Which High Court was the first to be established in India?",
+   "o": [
+    "Calcutta High Court",
+    "Allahabad High Court",
+    "Bombay High Court",
+    "Madras High Court"
+   ],
+   "a": 0,
+   "e": "High Courts at Calcutta, Bombay, and Madras were all set up in 1862. Calcutta was the first."
+  },
+  {
+   "q": "The High Court of Jammu and Kashmir & Ladakh was originally established in:",
+   "o": [
+    "1950",
+    "2019",
+    "1947",
+    "1928"
+   ],
+   "a": 3,
+   "e": "The High Court for the region was originally established in 1928 and renamed in 2021."
+  },
+  {
+   "q": "Which state has its own separate High Court established in 2019?",
+   "o": [
+    "Uttarakhand",
+    "Telangana",
+    "Chhattisgarh",
+    "Andhra Pradesh"
+   ],
+   "a": 3,
+   "e": "A separate High Court for Andhra Pradesh was established at Amaravati in 2019."
+  },
+  {
+   "q": "The seat of the Chhattisgarh High Court is located in:",
+   "o": [
+    "Bhilai",
+    "Raipur",
+    "Bilaspur",
+    "Durg"
+   ],
+   "a": 2,
+   "e": "The Chhattisgarh High Court, established in 2000, has its seat in Bilaspur."
+  },
+  {
+   "q": "Which Article deals with the \"Appointment and conditions of the office of a Judge of a High Court\"?",
+   "o": [
+    "Article 217",
+    "Article 216",
+    "Article 214",
+    "Article 215"
+   ],
+   "a": 0,
+   "e": "Article 217 specifies how High Court judges are appointed and their tenure."
+  },
+  {
+   "q": "Is the \"National Judicial Appointments Commission (NJAC)\" currently operational?",
+   "o": [
+    "Yes, it replaced the collegium system in 2014.",
+    "No, it was declared unconstitutional by the Supreme Court in 2015.",
+    "It is awaiting presidential assent.",
+    "Yes, but only for High Court appointments."
+   ],
+   "a": 1,
+   "e": "In the Fourth Judges case (2015), the Supreme Court declared both the 99th Amendment and the NJAC Act unconstitutional, making the collegium system operative again."
+  },
+  {
+   "q": "A High Court judge can be transferred from one High Court to another by:",
+   "o": [
+    "The Chief Justice of India",
+    "The Governor",
+    "The collegium",
+    "The President"
+   ],
+   "a": 3,
+   "e": "Article 222 empowers the President to transfer a judge after consulting the Chief Justice of India."
+  },
+  {
+   "q": "Can a permanent judge of a High Court practice law in any court in India after retirement?",
+   "o": [
+    "Only in the Supreme Court and other High Courts.",
+    "No, there is a total ban.",
+    "Only in the same High Court.",
+    "Yes, in any court."
+   ],
+   "a": 0,
+   "e": "Article 220 prohibits a retired permanent judge from practicing in any court except the Supreme Court and other High Courts."
+  },
+  {
+   "q": "Who can request a \"Retired Judge\" to sit and act as a judge of the High Court?",
+   "o": [
+    "The Chief Justice of India",
+    "The Governor",
+    "The President",
+    "The Chief Justice of that High Court"
+   ],
+   "a": 3,
+   "e": "Article 224A allows the Chief Justice of a High Court, with the President's consent, to request a retired judge to sit and act."
+  },
+  {
+   "q": "Under Article 226, can a High Court issue writs to a government outside its territorial jurisdiction?",
+   "o": [
+    "Yes, if the cause of action arises within its territorial jurisdiction.",
+    "No, never.",
+    "Only with the Supreme Court's permission.",
+    "Only during an emergency."
+   ],
+   "a": 0,
+   "e": "A High Court can issue writs outside its territory if the cause of action arises, in whole or in part, within its jurisdiction."
+  },
+  {
+   "q": "The decision of the Governor on the question of age of a High Court judge is:",
+   "o": [
+    "Subject to judicial review by the CJI.",
+    "Voted upon by the State Legislature.",
+    "Determined by a medical board.",
+    "Determined by the President after consulting the CJI, and is final."
+   ],
+   "a": 3,
+   "e": "If a question arises about a judge's age, it is decided by the President in consultation with the CJI, and the President's decision is final."
+  },
+  {
+   "q": "High Courts act as \"Courts of Record\" under which Article?",
+   "o": [
+    "Article 215",
+    "Article 216",
+    "Article 214",
+    "Article 217"
+   ],
+   "a": 0,
+   "e": "Article 215 declares that every High Court shall be a court of record and have the power to punish for contempt."
+  },
+  {
+   "q": "In a district, who exercises both judicial and administrative powers over all subordinate courts?",
+   "o": [
+    "The District Judge",
+    "The Chief Judicial Magistrate",
+    "The Collector",
+    "The Munsiff"
+   ],
+   "a": 0,
+   "e": "The District Judge has supervisory powers over all subordinate courts in the district, in addition to judicial functions."
+  },
+  {
+   "q": "Which Article states that the \"control over subordinate courts\" is vested in the High Court?",
+   "o": [
+    "Article 236",
+    "Article 234",
+    "Article 235",
+    "Article 233"
+   ],
+   "a": 2,
+   "e": "Article 235 vests the control over district courts and other subordinate courts (including posting and promotion) in the High Court."
+  },
+  {
+   "q": "The \"Nyaya Panchayats\" try:",
+   "o": [
+    "Serious criminal offences.",
+    "Constitutional disputes.",
+    "Petty civil and criminal cases.",
+    "High-value civil cases."
+   ],
+   "a": 2,
+   "e": "Some states established Nyaya Panchayats to try petty civil and criminal cases at the village level."
+  },
+  {
+   "q": "Part XIV-A (Tribunals) consists of how many Articles?",
+   "o": [
+    "Twelve",
+    "Ten",
+    "Five",
+    "Two"
+   ],
+   "a": 3,
+   "e": "Part XIV-A consists of only two Articles: 323A and 323B."
+  },
+  {
+   "q": "The \"Tribunals Reforms Act, 2021\" also fixed the age of retirement for Members of the CAT at:",
+   "o": [
+    "67 years",
+    "70 years",
+    "65 years",
+    "62 years"
+   ],
+   "a": 0,
+   "e": "While the Chairman retires at 70, Members of the CAT retire at the age of 67."
+  },
+  {
+   "q": "The \"Ashok Mehta Committee\" suggested that seats for SCs and STs should be reserved on the basis of:",
+   "o": [
+    "The recommendation of the Governor.",
+    "The 73rd Amendment rules.",
+    "The discretion of the state.",
+    "Their population."
+   ],
+   "a": 3,
+   "e": "One of the 132 recommendations of the Ashok Mehta Committee was the reservation of seats for SCs and STs based on population."
+  },
+  {
+   "q": "Which committee recommended that village panchayats should be reorganized to be more \"viable\"?",
+   "o": [
+    "Balwantrai Mehta Committee",
+    "L.M. Singhvi Committee",
+    "Gadgil Committee",
+    "G.V.K. Rao Committee"
+   ],
+   "a": 1,
+   "e": "The L.M. Singhvi Committee suggested reorganizing villages to make Gram Panchayats more viable and functional."
+  },
+  {
+   "q": "Under the 73rd Amendment Act, the reservation of seats for Scheduled Castes is NOT applicable in which state?",
+   "o": [
+    "Nagaland",
+    "Sikkim",
+    "Arunachal Pradesh",
+    "Meghalaya"
+   ],
+   "a": 2,
+   "e": "The 83rd Amendment Act of 2000 exempted Arunachal Pradesh from SC reservation requirements due to its demographic composition."
+  },
+  {
+   "q": "\"Agriculture, including agricultural extension\" is item number ________ in the Eleventh Schedule.",
+   "o": [
+    "29",
+    "5",
+    "10",
+    "1"
+   ],
+   "a": 3,
+   "e": "Agriculture is the first functional item listed in the Eleventh Schedule of the Constitution."
+  },
+  {
+   "q": "\"Slum improvement and upgradation\" is a functional item for municipalities in which Schedule?",
+   "o": [
+    "Tenth Schedule",
+    "Seventh Schedule",
+    "Twelfth Schedule",
+    "Eleventh Schedule"
+   ],
+   "a": 2,
+   "e": "Item number 10 in the Twelfth Schedule is slum improvement and upgradation."
+  },
+  {
+   "q": "Who acts as the Chairman of the \"Business Advisory Committee\" of the State Legislative Assembly?",
+   "o": [
+    "The Speaker",
+    "The Chief Minister",
+    "The Governor",
+    "The Leader of the Opposition"
+   ],
+   "a": 0,
+   "e": "The Speaker of the Assembly is the chairman of the Business Advisory Committee, the Rules Committee, and the General Purpose Committee."
+  },
+  {
+   "q": "\"Adjournment\" of the House:",
+   "o": [
+    "Lapses all pending bills.",
+    "Ends the session of the House.",
+    "Terminates the life of the House.",
+    "Suspends the work in a sitting for a specified time."
+   ],
+   "a": 3,
+   "e": "Adjournment suspends work for hours, days, or weeks but does not end the session or the House's life."
+  },
+  {
+   "q": "The \"Consumer Protection Act, 2019\" provides for a hierarchy of commissions at how many levels?",
+   "o": [
+    "Three",
+    "Five",
+    "Four",
+    "Two"
+   ],
+   "a": 0,
+   "e": "The Act provides for a three-tier machinery: District, State, and National commissions."
+  },
+  {
+   "q": "\"Panchayati Raj\" signifies the system of:",
+   "o": [
+    "Tribal governance only.",
+    "State government administration.",
+    "Urban local self-government.",
+    "Rural local self-government."
+   ],
+   "a": 3,
+   "e": "Panchayati Raj is the system of rural local self-government established to build democracy at the grassroots level."
+  },
+  {
+   "q": "Which Article says \"The advice tendered by Ministers to the Governor shall not be enquired into in any court\"?",
+   "o": [
+    "Article 163(3)",
+    "Article 166(2)",
+    "Article 164(1)",
+    "Article 167"
+   ],
+   "a": 0,
+   "e": "Article 163(3) provides legal protection to the advice given by the council of ministers to the Governor."
+  }
+ ]
+}

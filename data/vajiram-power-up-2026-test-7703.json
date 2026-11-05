@@ -1,0 +1,1108 @@
+{
+ "title": "Test 7703",
+ "category": "Vajiram Power Up 2026",
+ "minutes": 75,
+ "negative": 0.25,
+ "questions": [
+  {
+   "q": "Consider the following statements: 1️⃣ Developed nations typically have higher tax-to-GDP ratios than developing nations. 2️⃣ Developed nations have broader tax bases and more efficient tax administration systems. Which one of the following is correct in respect of the above Statements?",
+   "o": [
+    "Statement I is incorrect but Statement II is correct",
+    "Both Statement I and Statement II are correct and Statement II is the correct explanation for Statement I",
+    "Statement I is correct but Statement II is incorrect",
+    "Both Statement I and Statement II are correct and Statement II is the correct explanation for Statement I"
+   ],
+   "a": 1,
+   "e": "Generally, developed countries have higher tax-to-GDP ratios than developing nations. This is because they have a larger share of the economy in the formal sector, making income and profits easier to track. Furthermore, they possess efficient tax collection systems involving digital infrastructure and strict enforcement."
+  },
+  {
+   "q": "What does a GDP deflator value of 1 indicate?",
+   "o": [
+    "The nominal GDP is lower than the real GDP",
+    "The nominal GDP and the real GDP are unaffected",
+    "The nominal GDP is higher than the real GDP",
+    "The nominal GDP is equal to the real GDP"
+   ],
+   "a": 3,
+   "e": "A GDP deflator value of 1 (or 100 when expressed as a percentage) signifies no change in the overall price level compared to the base year. This implies that the nominal GDP (current prices) is equal to the real GDP (constant prices), indicating a stable price environment."
+  },
+  {
+   "q": "Consider the following pairs: 1️⃣ Capital-augmenting: Use of advanced machinery 2️⃣ Labour-augmenting: Skilling through education and training 3️⃣ Learning-by-doing: Productivity gains from experience. How many of the pairs given above are correctly matched?",
+   "o": [
+    "All the three",
+    "None",
+    "Only two",
+    "Only one"
+   ],
+   "a": 0,
+   "e": "Capital-augmenting progress involves advanced machinery to produce more with the same investment. Labour-augmenting progress enhances productivity through education and training. Learning-by-doing refers to efficiency gained through experience and repetition."
+  },
+  {
+   "q": "A positive Net Primary Income from the Rest of the World (ROW) indicates:",
+   "o": [
+    "total incomes earned from abroad exceeds what is paid to the ROW",
+    "the country's fiscal deficit is financed by external borrowings",
+    "the country is importing more goods and services than it is exporting",
+    "the country's capital account is in surplus"
+   ],
+   "a": 0,
+   "e": "Positive Net Primary Income from ROW means the total income (wages, property income, and profits) earned from abroad by residents exceeds the payments made to non-residents in the domestic economy."
+  },
+  {
+   "q": "Consider the following statements: 1️⃣ A high capital-output ratio indicates lower efficiency of capital in producing output. 2️⃣ When the capital-output ratio is high, more units of capital are required to produce each additional unit of output. Which one of the following is correct?",
+   "o": [
+    "Both Statement I and Statement II are correct and Statement II is the correct explanation for Statement I",
+    "Statement I is incorrect but Statement II is correct",
+    "Statement I is correct but Statement II is incorrect",
+    "Both Statement I and Statement II are correct but Statement II is not the correct explanation for Statement I"
+   ],
+   "a": 0,
+   "e": "The capital-output ratio measures capital required for a unit of output. A high ratio means more capital is needed per unit of output, signifying lower efficiency or productivity of capital."
+  },
+  {
+   "q": "With reference to the Indian economy, which one of the following occupations belongs to the primary sector?",
+   "o": [
+    "Mining of minerals and ores",
+    "Sugar production from raw sugarcane",
+    "Manufacturing of plastic chairs",
+    "Brick making"
+   ],
+   "a": 0,
+   "e": "Primary sector activities involve the extraction and harvesting of natural products. Minerals and ores are natural products obtained by exploiting natural resources, making mining a primary activity. Brick making and sugar production are secondary sector activities as they involve manufacturing."
+  },
+  {
+   "q": "Which of the following would be considered fixed capital investments? 1️⃣ Purchase of machinery 2️⃣ Purchasing land for setting factory 3️⃣ Purchase of raw materials 4️⃣ Purchase of vehicles for delivery of product.",
+   "o": [
+    "II, III and IV only",
+    "I, II and III only",
+    "I, III and IV only",
+    "I, II and IV only"
+   ],
+   "a": 3,
+   "e": "Fixed capital refers to physical assets like machinery, land, and vehicles that stay in a business for more than one accounting period. Raw materials are current assets because they are quickly used up and transformed in a single cycle."
+  },
+  {
+   "q": "How many of the following factors are most likely to reduce the Money Multiplier in the Indian economy? 1️⃣ Decrease in Cash Reserve Ratio 2️⃣ Increase in Statutory Liquidity Ratio 3️⃣ Decrease in lending operations by banks 4️⃣ Decrease in Reverse Repo Rate.",
+   "o": [
+    "Only one",
+    "Only two",
+    "Only three",
+    "All the four"
+   ],
+   "a": 1,
+   "e": "An increase in SLR and a decrease in bank lending reduce the money supply and the money multiplier. Conversely, decreasing CRR or the Reverse Repo Rate encourages lending, which increases the money multiplier."
+  },
+  {
+   "q": "If the Reserve Bank of India calls for decrease in the Statutory Liquidity Ratio (SLR), it may most likely lead to:",
+   "o": [
+    "higher risk-weighted capital requirements for all priority sector loans",
+    "decline in the lending rates by the scheduled commercial banks",
+    "increase in the repo rate as a counter-balancing monetary policy measure",
+    "decrease in the liquidity with banks, potentially reducing their capacity to lend to the public"
+   ],
+   "a": 1,
+   "e": "A lower SLR increases the funds banks have available to lend. This increased liquidity can create competitive pressure among banks to offer lower interest rates to attract more borrowers."
+  },
+  {
+   "q": "Consider the following statements: 1️⃣ The GDP of a country includes the 'income from abroad'. 2️⃣ Private Remittances and Interest on External Loans form the part of Gross National Product (GNP). 3️⃣ Gross value added (GVA) includes the value of all goods and services produced in an economy after deducting the input costs.",
+   "o": [
+    "I only",
+    "II and III only",
+    "I and II only",
+    "II only"
+   ],
+   "a": 1,
+   "e": "GNP is GDP plus 'income from abroad' (remittances, interest, grants), so GDP itself does not include this. GVA is the value of output minus input costs. Thus, statements 2 and 3 are correct."
+  },
+  {
+   "q": "With reference to \"Off budget borrowing\", consider the following statements: 1️⃣ These loans are taken by the public sector institutions on the behalf of the Central Government. 2️⃣ The liability of such loans formally lies with the Centre. 3️⃣ The State owned enterprises can raise money through off budget borrowing.",
+   "o": [
+    "I and III only",
+    "II only",
+    "II and III only",
+    "I only"
+   ],
+   "a": 0,
+   "e": "Off-budget borrowings are taken by public sector institutions at the government's direction to fund expenditures. The liability does not formally lie with the Centre, helping keep the fiscal deficit figures within limits. State-owned enterprises can also use this mechanism."
+  },
+  {
+   "q": "Which one of the following is correct with reference to the Engel's Law?",
+   "o": [
+    "Economic growth leads to structural changes in consumption patterns",
+    "Increase in income leads to decrease in expenditure on recreation",
+    "Increase in income leads to decrease in percentage of income spent on food",
+    "Economic growth contributes to increase in expenditure on non food items"
+   ],
+   "a": 2,
+   "e": "Engel's Law states that as household income increases, the percentage of income spent on food decreases, even if absolute spending on food rises."
+  },
+  {
+   "q": "Consider the following statements with reference to the composition of the Reserve Bank of India (RBI): 1️⃣ The non Official Directors on the Central Board of the RBI include government officials. 2️⃣ The Board for Financial Supervision (BFS) exercises integrated supervision over commercial banks, financial institutions and non-banking financial intermediaries. 3️⃣ Members of the Local Boards of the RBI are appointed by the Central Government for a term of four years.",
+   "o": [
+    "II only",
+    "I, II and III",
+    "I only",
+    "I and II only"
+   ],
+   "a": 1,
+   "e": "The RBI Central Board includes 10 non-official directors from various backgrounds and two government nominees. The BFS provides integrated supervision over the financial system. Local Board members are appointed by the Centre for four-year terms."
+  },
+  {
+   "q": "Consider the following statements with regard to the inflation targeting in India: 1️⃣ It is mandated under the RBI Act, 1934. 2️⃣ It is determined in consultation between the RBI and the Central Government. 3️⃣ It is determined on the terms of Consumer Price Index (CPI). 4️⃣ It is revised after every quarter.",
+   "o": [
+    "II, III and IV only",
+    "I, III and IV only",
+    "I and II only",
+    "I, II and III only"
+   ],
+   "a": 3,
+   "e": "Inflation targeting has legal backing via 2016 amendments to the RBI Act, 1934. The target (CPI based) is set by the Government in consultation with the RBI. The target is reviewed every five years, not every quarter."
+  },
+  {
+   "q": "In an economy, the situation of Fiscal Drag occurs when:",
+   "o": [
+    "taxation fails to keep pace with inflation, leading to widening fiscal imbalances",
+    "rising government spending leads to inflation, reducing the real value of tax collections",
+    "higher incomes push individuals into higher tax brackets, reducing the overall growth in consumption",
+    "fiscal deficit crowds out private investment through higher interest rates"
+   ],
+   "a": 2,
+   "e": "Fiscal drag occurs when inflation or income growth moves taxpayers into higher tax brackets in a progressive system. This increases tax revenue but reduces aggregate demand as people have less disposable income."
+  },
+  {
+   "q": "How many of the following statements regarding Marginal Standing Facility (MSF) are correct? 1️⃣ It allows scheduled commercial banks to borrow overnight funds from the RBI. 2️⃣ It is typically set at a slightly higher premium than the prevailing repo rate. 3️⃣ It can be given against the mortgage of Treasury bills.",
+   "o": [
+    "Only two",
+    "All the three",
+    "Only one",
+    "None"
+   ],
+   "a": 1,
+   "e": "MSF is an emergency window for overnight funds after LAF options are exhausted. It is set at 25 basis points above the repo rate. Collateral includes T-bills, dated securities, and State Development Loans."
+  },
+  {
+   "q": "Consider the following statements: 1️⃣ With a rise in interest rates in the USA, the RBI is likely to increase domestic interest rates. 2️⃣ A rise in USA interest rates leads to capital outflows from developing countries like India. Which of the following is correct?",
+   "o": [
+    "Both Statement I and Statement II are correct and Statement II explains Statement I",
+    "Statement I is incorrect but Statement II is correct",
+    "Both Statement I and Statement II are correct but Statement II does not explain Statement I",
+    "Statement I is correct but Statement II is incorrect"
+   ],
+   "a": 0,
+   "e": "Higher US rates make US assets more attractive, leading to capital outflows from India. To counter this and stabilize the Rupee, the RBI may raise domestic rates to maintain a yield advantage."
+  },
+  {
+   "q": "Consider the following statements with reference to inflation: 1️⃣ It indicates lower aggregate demand and comparatively higher supply. 2️⃣ In the short run, it is associated with a boost in investment. 3️⃣ It can make exportable items less competitive in the international markets.",
+   "o": [
+    "I and II only",
+    "I and III only",
+    "II only",
+    "II and III only"
+   ],
+   "a": 3,
+   "e": "Inflation indicates rising aggregate demand and lower supply. It boosts short-term investment by signaling high demand and lowering the real cost of loans. High domestic prices make exports less competitive globally."
+  },
+  {
+   "q": "Which of the following best explains the RBI's role as the 'lender of last resort'? 1️⃣ It provides emergency liquidity assistance to commercial banks facing short-term liquidity crises. 2️⃣ It guarantees deposits of account holders during banking failures. 3️⃣ It ensures that commercial banks always have access to capital markets during a crisis.",
+   "o": [
+    "II and III only",
+    "III only",
+    "I only",
+    "I and II only"
+   ],
+   "a": 2,
+   "e": "As the 'lender of last resort', the RBI provides temporary funds to banks facing liquidity shortages to prevent collapse. Deposit insurance is handled by the DICGC, not the RBI directly. Access to private capital markets is not guaranteed by the RBI."
+  },
+  {
+   "q": "With reference to the Immediate Payment Service (IMPS), consider the following: 1️⃣ It enables fast and real-time interbank electronic fund transfers. 2️⃣ It has uniform transaction charges for all banks depending on the transaction amount. 3️⃣ IMPS transactions can be sent and received anytime including on holidays.",
+   "o": [
+    "I and II only",
+    "I and III only",
+    "II and III only",
+    "I, II and III"
+   ],
+   "a": 1,
+   "e": "IMPS provides instant 24/7/365 fund transfer service. Charges are not uniform and vary between different banks; some may even offer it for free up to certain limits."
+  },
+  {
+   "q": "Which of the following will not be treated as a Non-Performing Asset (NPA) as per RBI guidelines?",
+   "o": [
+    "A farmer's loan for a short-duration crop remains unpaid for two consecutive crop seasons",
+    "A cash credit account has remained 'out of order' for more than 90 days",
+    "If interest on a term loan remains overdue for more than 90 days",
+    "A bill remains overdue for a period of more than 60 days in the case of bills purchased and discounted"
+   ],
+   "a": 3,
+   "e": "Term loans and cash credit/overdrafts become NPAs after 90 days. Short-duration agricultural loans become NPAs after two crop seasons. However, for bills purchased and discounted, the threshold is more than 90 days, not 60."
+  },
+  {
+   "q": "Consider the following statements with reference to the Capital Adequacy Ratio (CAR): 1️⃣ It is an indicator of how well a bank can meet its obligations. 2️⃣ The RBI is the authority responsible for establishing the norms for banks to maintain their CAR. 3️⃣ Indian scheduled commercial banks are required to maintain a CAR higher than stipulated by the Basel III norms.",
+   "o": [
+    "I and II only",
+    "II only",
+    "I, II and III",
+    "I only"
+   ],
+   "a": 2,
+   "e": "CAR measures a bank's capital against its risk to protect depositors. The RBI sets these norms in India. While Basel III stipulates 8%, the RBI requires Indian banks to maintain 9%."
+  },
+  {
+   "q": "With reference to the Indian economy, consider the following: 1️⃣ The State Bank of India was formed in 1949 by merging the three Presidency banks. 2️⃣ The first phase of bank nationalization took place under the Prime Ministership of Morarji Desai. 3️⃣ The Narasimham Committee I (1991) recommended discontinuing the practice of directed lending and branch licensing.",
+   "o": [
+    "I only",
+    "II and III only",
+    "I and II only",
+    "III only"
+   ],
+   "a": 3,
+   "e": "The Presidency banks merged in 1921 to form the Imperial Bank, which became SBI in 1955. The first phase of nationalization (14 banks) happened in 1969 under Indira Gandhi. The 1991 Narasimham Committee recommended ending the existing branch licensing system."
+  },
+  {
+   "q": "Consider the following regarding the Intercreditor Agreement: 1️⃣ It is part of the 'Sashakt' plan to address resolving bad loans. 2️⃣ It was formulated under the aegis of the Indian Banks' Association. 3️⃣ It is aimed at the resolution of loan accounts with a size of ₹50 crore and above.",
+   "o": [
+    "III only",
+    "I and II only",
+    "I, II and III",
+    "II and III only"
+   ],
+   "a": 2,
+   "e": "The agreement, part of the \"Sashakt\" plan, aims for speedy resolution of non-performing loans. It applies to loan accounts of ₹50 crore and above. It was implemented under the IBA's aegis."
+  },
+  {
+   "q": "Which of the following are functions of the Financial Services Institutions Bureau (FSIB)? 1️⃣ Recommending appointments of Whole-Time Directors in PSBs 2️⃣ Issuing monetary policy directions to Public Sector Financial Institutions 3️⃣ Advising the government on Board-level management structure 4️⃣ Preparing advisory input for training and development in PSBs.",
+   "o": [
+    "I, II and IV only",
+    "II, III and IV only",
+    "I, III and IV only",
+    "I, II, and III only"
+   ],
+   "a": 2,
+   "e": "FSIB recommends appointments for senior positions in state-owned financial institutions and advises on management structures and training. Monetary policy is the exclusive domain of the RBI."
+  },
+  {
+   "q": "How many of the following are included as liabilities of a commercial bank? 1️⃣ Loans and advances 2️⃣ Bills discounted and purchased 3️⃣ Time deposits 4️⃣ Borrowings 5️⃣ Lending money at call to other banks.",
+   "o": [
+    "Only four",
+    "Only three",
+    "All the five",
+    "Only two"
+   ],
+   "a": 3,
+   "e": "Time deposits and borrowings are liabilities as the bank owes these to others. Loans, advances, discounted bills, and money at call are assets because they generate income for the bank."
+  },
+  {
+   "q": "A company's Interest Coverage Ratio (ICR) falling below one implies:",
+   "o": [
+    "the company's equity has exceeded its liabilities",
+    "the company's current earnings are insufficient to cover interest expenses",
+    "the company has zero debt on its balance sheet",
+    "the company does not face any potential default risk"
+   ],
+   "a": 1,
+   "e": "ICR measures a company's ability to pay interest on debt. A ratio below 1 means earnings are lower than interest expenses, indicating insolvency and default risk."
+  },
+  {
+   "q": "With regard to Urban Cooperative Banks (UCBs) in India, consider the following: 1️⃣ They can lend only for non-agricultural purposes. 2️⃣ They are under the supervision of the Reserve Bank of India (RBI). 3️⃣ Deposits in UCBs are not covered under deposit insurance.",
+   "o": [
+    "I and II only",
+    "II only",
+    "II and III only",
+    "I and III only"
+   ],
+   "a": 1,
+   "e": "UCBs were allowed to lend for agricultural purposes after 1996. They are regulated by the RBI via the Banking Regulation Act. Deposits are insured by the DICGC up to ₹5 lakh."
+  },
+  {
+   "q": "Consider the following with reference to Neo Banks: 1️⃣ They are online-only financial technology companies. 2️⃣ They accept deposits and offer lending products on their own books. 3️⃣ They are given operational license by the Reserve Bank of India (RBI).",
+   "o": [
+    "I only",
+    "II and III only",
+    "I and II only",
+    "II only"
+   ],
+   "a": 0,
+   "e": "Neo banks are digital-only banks without physical branches. Currently, they are not recognized by the RBI and cannot hold deposits on their own books; they must partner with traditional banks."
+  },
+  {
+   "q": "How many of the following regarding SEBI are correct? 1️⃣ It is a statutory body. 2️⃣ It overlooks registration and regulation of venture capital funds. 3️⃣ It has quasi-legislative powers. 4️⃣ The Securities Appellate Tribunal (SAT) hears appeals against SEBI's decisions.",
+   "o": [
+    "Only two",
+    "Only three",
+    "All the four",
+    "Only one"
+   ],
+   "a": 2,
+   "e": "SEBI was given statutory powers in 1992. It regulates venture capital and mutual funds. It has quasi-legislative (drafting rules) and quasi-judicial powers. Appeals against it go to the SAT."
+  },
+  {
+   "q": "Which of the statements given above is / are not correct regarding FII in India? 1️⃣ They are limited to a maximum of 15% of the company's paid-up capital. 2️⃣ The RBI along with SEBI enforces the sectoral caps for different sectors of FIIs. 3️⃣ They primarily make investments in debentures and government bonds.",
+   "o": [
+    "I only",
+    "I and II only",
+    "I, II and III",
+    "II and III only"
+   ],
+   "a": 0,
+   "e": "FIIs can generally invest up to 24% of paid-up capital, which can be increased by a special resolution. Sectoral caps are set by DPIIT and enforced by RBI/SEBI. They invest in equity, debentures, and bonds."
+  },
+  {
+   "q": "Consider the following differences between NBFCs and banks: 1️⃣ Unlike banks, the NBFCs cannot accept demand deposits. 2️⃣ Both are generally considered as part of the payment and settlement system. 3️⃣ Unlike banks, NBFCs cannot issue cheques drawn on themselves.",
+   "o": [
+    "I and II only",
+    "III only",
+    "I and III only",
+    "I, II and III"
+   ],
+   "a": 2,
+   "e": "NBFCs are prohibited from accepting demand deposits. Unlike banks, they are not part of the payment and settlement system and cannot issue cheques."
+  },
+  {
+   "q": "How many of the following retail payment systems are under NPCI? 1️⃣ BHIM 2️⃣ NEFT 3️⃣ IMPS 4️⃣ RuPay 5️⃣ Fastag.",
+   "o": [
+    "All the five",
+    "Only four",
+    "Only three",
+    "Only two"
+   ],
+   "a": 1,
+   "e": "BHIM, IMPS, RuPay, and Fastag (NETC) are products managed by NPCI. NEFT was developed and is operated by the RBI."
+  },
+  {
+   "q": "Consider the following pairs: 1️⃣ UPI One World: Enables foreign visitors to make cash-free transactions 2️⃣ UPI Lite: Allows low-value wallet transactions in offline mode 3️⃣ UPI 2.0: Allows customers to link their overdraft (OD) account with UPI.",
+   "o": [
+    "None",
+    "All the three",
+    "Only one",
+    "Only two"
+   ],
+   "a": 1,
+   "e": "UPI One World is for foreign travelers. UPI Lite is an on-device wallet for low-value offline or constrained-network transactions. UPI 2.0 introduced features like overdraft account linking."
+  },
+  {
+   "q": "Consider the following regarding ARCs: 1️⃣ They are regulated under the SARFAESI Act, 2002. 2️⃣ They can take over only secured debts that have been classified as non-performing assets. 3️⃣ They have to maintain a capital adequacy ratio of 15% of their risk-weighted assets.",
+   "o": [
+    "I, II and III",
+    "I only",
+    "I and II only",
+    "II only"
+   ],
+   "a": 0,
+   "e": "ARCs are regulated under the SARFAESI Act, 2002. They buy secured non-performing assets from banks. They are required to maintain a 15% capital adequacy ratio."
+  },
+  {
+   "q": "Which one of the following brings out the Consumer Price Index (CPI) for Rural Labourers (RL) and Agricultural Labourers (AL)?",
+   "o": [
+    "National Statistics Office",
+    "Labour Bureau",
+    "National Statistical Commission",
+    "Office of Chief Economic Advisor"
+   ],
+   "a": 1,
+   "e": "The Labour Bureau, under the Ministry of Labour & Employment, is responsible for compiling and disseminating CPI for Agricultural and Rural Labourers."
+  },
+  {
+   "q": "How many of the following pairs of government departments are correctly matched? 1️⃣ Department of Economic Affairs: Preparation of Union Budget 2️⃣ DIPAM: Facilitation of FDI 3️⃣ DPIIT: Management of disinvestment in CPSEs.",
+   "o": [
+    "All the three",
+    "Only one",
+    "Only two",
+    "None"
+   ],
+   "a": 1,
+   "e": "DEA prepares the Union Budget. DIPAM manages disinvestment in CPSEs. DPIIT facilitates FDI into the country. Thus, only the first pair is correctly matched."
+  },
+  {
+   "q": "Consider the following regarding Angel Investors: 1️⃣ They are equity investors. 2️⃣ They generally provide interest free loans. 3️⃣ They are regulated by the Securities and Exchange Board of India.",
+   "o": [
+    "III only",
+    "II and III only",
+    "I and II only",
+    "I, II and III"
+   ],
+   "a": 3,
+   "e": "Angel investors provide equity capital, not loans. They are regulated as Alternative Investment Funds (AIFs) by SEBI. While they don't provide loans, they are equity investors regulated by SEBI. (Note: Solution key indicates all are correct based on the 'equity vs interest free loan' nuance where they don't charge interest like debt)."
+  },
+  {
+   "q": "Consider the following: 1️⃣ Statement I: During an economic recession, the government generally increases the tax rates. 2️⃣ Statement II: Expansionary monetary policies generally tend to boost aggregate demand in the economy.",
+   "o": [
+    "Statement I is incorrect but Statement II is correct",
+    "Both Statement I and Statement II are correct and Statement II is the correct explanation for Statement I",
+    "Both Statement I and Statement II are correct and Statement II is the correct explanation for Statement I",
+    "Statement I is correct but Statement II is incorrect"
+   ],
+   "a": 0,
+   "e": "In a recession, governments use expansionary policies, which involve *reducing* taxes to boost demand. Expansionary policy increases aggregate demand by lowering interest and tax rates."
+  },
+  {
+   "q": "How many of the following factors can lead to an increase in demand-pull inflation? 1️⃣ Universal Basic Income scheme 2️⃣ Significant fall in interest rates on personal loans 3️⃣ Sharp increase in export earnings.",
+   "o": [
+    "All the three",
+    "None",
+    "Only two",
+    "Only one"
+   ],
+   "a": 0,
+   "e": "UBI increases money supply. Lower interest rates increase disposable income. Increased export earnings boost overall domestic income and demand. All these fuel demand-pull inflation."
+  },
+  {
+   "q": "Consider the following statements regarding the 16th Finance Commission: 1️⃣ It will make recommendations for the period 2026-2031. 2️⃣ It is required to recommend performance-based incentives for states in areas like power sector reforms and urban finance.",
+   "o": [
+    "Both I and II",
+    "I only",
+    "II only",
+    "Neither I nor II"
+   ],
+   "a": 0,
+   "e": "The 16th Commission's mandate covers 2026 to 2031. It is tasked with recommending vertical and horizontal devolution and performance-based incentives for states."
+  },
+  {
+   "q": "Consider the following statements: 1️⃣ Fiscal Deficit reflects the overall borrowing requirement of the government. 2️⃣ Revenue Deficit implies that the government is unable to meet its day-to-day expenses from its revenue receipts. 3️⃣ Primary Deficit indicates the government's total fiscal burden including interest payments on past loans.",
+   "o": [
+    "III only",
+    "I and II only",
+    "II and III only",
+    "I and III only"
+   ],
+   "a": 1,
+   "e": "Fiscal Deficit shows total borrowing needs. Revenue Deficit means income is less than day-to-day spending. Primary Deficit is Fiscal Deficit *minus* interest payments, so it excludes past debt burdens."
+  },
+  {
+   "q": "Which of the following form the part of the Capital expenditure of the Government of India? 1️⃣ Purchase of machinery 2️⃣ Borrowings from the Reserve Bank of India 3️⃣ Interest payments 4️⃣ Investment in public sector enterprises.",
+   "o": [
+    "III and IV only",
+    "II and III only",
+    "I and IV only",
+    "I and II only"
+   ],
+   "a": 2,
+   "e": "Capital expenditure includes acquiring physical assets like machinery and investing in shares of companies. Borrowings are capital *receipts*. Interest payments are *revenue* expenditure."
+  },
+  {
+   "q": "How many of the following groups are under the Financial Stability and Development Council (FSDC)? 1️⃣ Inter-Regulatory Technical Group 2️⃣ Technical Group on financial inclusion and financial literacy 3️⃣ Inter Regulatory Forum for Monitoring Financial Conglomerates.",
+   "o": [
+    "Only one",
+    "None",
+    "Only two",
+    "All the three"
+   ],
+   "a": 3,
+   "e": "All three groups (IR-TG, Technical Group on financial literacy, and IRF-FC) operate under the FSDC Sub-Committee to ensure coordination and stability."
+  },
+  {
+   "q": "How many of the following pairs are correctly matched? 1️⃣ Intermediate: Copper used for making utensils 2️⃣ Consumption: School Uniform 3️⃣ Capital: Wooden tables.",
+   "o": [
+    "Only two",
+    "All the three",
+    "Only one",
+    "None"
+   ],
+   "a": 1,
+   "e": "Intermediate goods are used as inputs for other products. Consumption goods like clothing are used by final consumers. Durable goods used in production like furniture (tables) are capital goods."
+  },
+  {
+   "q": "A rightward shift in the supply curve of a good indicates which of the following?",
+   "o": [
+    "A reduction in demand, causing producers to increase output",
+    "An increase in the price of the good, leading to more quantity supplied",
+    "A rise in consumer income, prompting producers to increase supply",
+    "An improvement in technology, leading to more supply of goods"
+   ],
+   "a": 3,
+   "e": "A shift in the supply curve is caused by factors other than price. A rightward shift represents an increase in supply, often due to technological improvements or lower production costs."
+  },
+  {
+   "q": "Which one of the following commodities is currently under the Goods and Services Tax (GST) regime?",
+   "o": [
+    "Electricity supply",
+    "Petroleum crude",
+    "Resale of used Electric Vehicles (EVs) by businesses",
+    "Natural gas"
+   ],
+   "a": 2,
+   "e": "Natural gas, petroleum crude, and electricity are currently outside GST. However, the resale of used EVs by businesses attracts 18% GST on the margin value."
+  },
+  {
+   "q": "Consider the following statements: 1️⃣ Per capita income is considered as a more accurate measure of a nation's economic progress. 2️⃣ Per capita income estimates the distribution of wealth across the population in a nation.",
+   "o": [
+    "Statement I is incorrect but Statement II is correct",
+    "Both Statement I and Statement II are correct and Statement II explains Statement I",
+    "Both Statement I and Statement II are correct but Statement II does not explain Statement I",
+    "Statement I is correct but Statement II is incorrect"
+   ],
+   "a": 1,
+   "e": "Per capita income accounts for population size and provides an average per-person income, making it a better indicator of standard of living than raw GDP."
+  },
+  {
+   "q": "With reference to the Equalisation Levy, consider the following: 1️⃣ It is a direct tax levied on online transactions. 2️⃣ Any income which is chargeable to the equalisation levy is exempted from income tax.",
+   "o": [
+    "Both I and II",
+    "Neither I nor II",
+    "I only",
+    "II only"
+   ],
+   "a": 0,
+   "e": "The Equalisation Levy is a direct tax on non-resident online service providers. Income subject to this levy is exempt from standard income tax under Section 10(50)."
+  },
+  {
+   "q": "Consider the following regarding borrowing powers: 1️⃣ A State Government must obtain prior approval from the Centre before raising new loans if it has outstanding borrowings from the Centre. 2️⃣ The FRBM Act, 2003, restricts the Centre from lending to States that breach fiscal deficit targets.",
+   "o": [
+    "Statement I is incorrect but Statement II is correct",
+    "Both Statement I and Statement II are correct and Statement II explains Statement-I",
+    "Statement I is correct but Statement II is incorrect",
+    "Both Statement I and Statement II are correct but Statement II does not explain Statement I"
+   ],
+   "a": 2,
+   "e": "Under Article 293(3), States need Central consent for new loans if they have outstanding debt to the Centre. The FRBM Act promotes discipline but does not have a specific provision penalizing the Centre for lending to states breaching targets."
+  },
+  {
+   "q": "How many of the following regarding India's external debt are correct? 1️⃣ Short-term debt constitutes the major part. 2️⃣ Currency and deposits form the largest component. 3️⃣ Majority of India's external debt is denominated in Indian Rupee.",
+   "o": [
+    "None",
+    "Only two",
+    "All the three",
+    "Only one"
+   ],
+   "a": 0,
+   "e": "Long-term debt constitutes the majority (81.2%). Loans are the largest component (33.7%), followed by currency/deposits (23.1%). The US Dollar (53.4%) is the largest denomination, followed by the Rupee (31.2%)."
+  },
+  {
+   "q": "The process of generating new money to fund a government's budget deficit is commonly referred to as:",
+   "o": [
+    "Monetization of fiscal deficit",
+    "Open market operations",
+    "Deficit financing through Treasury Bill auctions",
+    "Fiscal consolidation"
+   ],
+   "a": 0,
+   "e": "Monetization of fiscal deficit involves the RBI creating fresh money to purchase government bonds to finance spending."
+  },
+  {
+   "q": "How many of the following are part of household financial savings? 1️⃣ Deposits in NBFCs 2️⃣ Investment in shares and debentures 3️⃣ Contribution to pension funds 4️⃣ Investment in real estate.",
+   "o": [
+    "Only two",
+    "Only one",
+    "Only three",
+    "All the four"
+   ],
+   "a": 2,
+   "e": "Financial savings include currency, deposits (bank and non-bank), insurance, pension funds, and shares/debentures. Real estate is considered physical savings, not financial."
+  },
+  {
+   "q": "Consider the following: 1️⃣ Statement I: Equity financing is considered as a capital receipt for a corporate company. 2️⃣ Statement II: Equity financing involves borrowing which is a liability for the company.",
+   "o": [
+    "Both Statement I and Statement II are correct and Statement II explains Statement I",
+    "Both Statement I and Statement II are correct but Statement II does not explain Statement I",
+    "Statement I is correct but Statement II is incorrect",
+    "Statement I is incorrect but Statement II is correct"
+   ],
+   "a": 2,
+   "e": "Equity financing raises capital by selling shares, increasing the capital base (receipt). Unlike debt financing, it does not involve borrowing or creating a repayment liability."
+  },
+  {
+   "q": "Which one of the following statements is correct with reference to the Treasury Bills?",
+   "o": [
+    "Both Non-Resident Indians (NRIs) and Overseas Citizens of India (OCIs) can invest directly in the treasury bills",
+    "State Governments can issue treasury bills for raising funds for their developmental programmes",
+    "They offer high returns as their interest rates are linked to prevailing inflation rates",
+    "They are interest offering securities"
+   ],
+   "a": 0,
+   "e": "T-bills are zero-coupon securities (pay no interest); they are sold at a discount. Only the Central Government can issue them. NRIs and OCIs can invest via the RBI retail direct platform."
+  },
+  {
+   "q": "How many of the following pairs of unemployment types are correctly matched? 1️⃣ Open Unemployment: Graduate unable to find a job 2️⃣ Disguised Unemployment: Textile worker jobless due to automation 3️⃣ Structural Unemployment: Five people working on a farm that needs two 4️⃣ Underemployment: Engineer working as a data entry operator.",
+   "o": [
+    "Only three",
+    "All the four",
+    "Only two",
+    "Only one"
+   ],
+   "a": 2,
+   "e": "Pair 1 and 4 are correct. Pair 2 describes *structural* unemployment (technological change). Pair 3 describes *disguised* unemployment (surplus labor)."
+  },
+  {
+   "q": "Consider the following regarding short selling: 1️⃣ It is the practice of selling a stock which the seller does not own. 2️⃣ Unlike institutional investors, the retail investors are not allowed to short sell. 3️⃣ Naked short selling is not permitted in the Indian securities market.",
+   "o": [
+    "I and II only",
+    "I and III only",
+    "II only",
+    "I, II and III"
+   ],
+   "a": 1,
+   "e": "Short selling involves selling borrowed stocks. Both retail and institutional investors are allowed to short sell. Naked short selling (selling without borrowing) is prohibited."
+  },
+  {
+   "q": "How many of the following factors contribute to higher bond yield? 1️⃣ Lower inflation rate 2️⃣ Higher fiscal deficit 3️⃣ Lower interest rate.",
+   "o": [
+    "Only one",
+    "None",
+    "Only two",
+    "All the three"
+   ],
+   "a": 0,
+   "e": "A higher fiscal deficit increases the supply of bonds, lowering prices and raising yields. Low inflation and low interest rates typically lead to lower bond yields."
+  },
+  {
+   "q": "The Negotiated Dealing System-Order Matching (NDS-OM) system is a/an:",
+   "o": [
+    "web portal launched by SEBI for regulating mutual fund investments",
+    "tax-filing system developed by the Ministry of Finance for tracking direct tax collections",
+    "digital payment interface developed by NPCI for interbank settlements",
+    "electronic platform run by the RBI for buying and selling government securities in the secondary market"
+   ],
+   "a": 3,
+   "e": "NDS-OM is an anonymous screen-based system operated by the RBI for secondary market trading of government securities."
+  },
+  {
+   "q": "Consider the following: 1️⃣ Statement I: Inflation-Indexed Bonds protect investors from the uncertainty of inflation. 2️⃣ Statement II: Inflation-Indexed Bonds are linked to a fixed nominal interest rate.",
+   "o": [
+    "Statement I is correct but statement II is incorrect.",
+    "Both statement I and statement II are correct but statement II does not explain statement I.",
+    "Statement I is incorrect but statement II is correct.",
+    "Both statement I and statement II are correct and statement II explains statement I."
+   ],
+   "a": 0,
+   "e": "IIBs maintain the real value of returns by adjusting principal/interest based on inflation. They are linked to a real interest rate, not a fixed nominal rate, so interest payments change with inflation."
+  },
+  {
+   "q": "With reference to Credit Rating Agencies (CRAs), consider the following: 1️⃣ They assign ratings based on the borrower's ability to make timely repayment of loans. 2️⃣ They do not evaluate individual consumers. 3️⃣ Credit ratings serve as guarantees between the rating agency and the investor.",
+   "o": [
+    "II and III only",
+    "I and II only",
+    "I and III only",
+    "I, II and III"
+   ],
+   "a": 1,
+   "e": "CRAs evaluate the creditworthiness of large entities like corporations or governments. They do not rate individuals (done by credit bureaus). Ratings are opinions, not guarantees."
+  },
+  {
+   "q": "Consider the following regarding Convertible bonds: 1️⃣ They are hybrid securities that possess characteristics of debt and equity. 2️⃣ They typically offer a lower coupon rate compared to similar non-convertible bonds. 3️⃣ Like regular bonds, they come with a maturity date and pay interest to investors.",
+   "o": [
+    "I, II and III",
+    "I and II only",
+    "II and III only",
+    "III only"
+   ],
+   "a": 0,
+   "e": "Convertible bonds pay interest like debt but can be converted into equity shares. The conversion benefit allows issuers to offer lower coupon rates. If not converted, the principal is repaid at maturity."
+  },
+  {
+   "q": "Which of the following is/are not a capital market instrument? 1️⃣ Equity shares 2️⃣ Debentures 3️⃣ Treasury bills 4️⃣ Bonds 5️⃣ Preference shares.",
+   "o": [
+    "I and II only",
+    "III and V only",
+    "II, IV and V only",
+    "III only"
+   ],
+   "a": 3,
+   "e": "Equity, debentures, bonds, and preference shares are long-term instruments traded in the capital market. T-bills are short-term and part of the *money* market."
+  },
+  {
+   "q": "Consider the following regarding REITs and InvITs: 1️⃣ Both are regulated by SEBI. 2️⃣ Both allow small investors to participate in income-generating assets through units traded on stock exchanges.",
+   "o": [
+    "I only",
+    "Both I and II",
+    "II only",
+    "Neither I nor II"
+   ],
+   "a": 1,
+   "e": "SEBI regulates both REITs (real estate) and InvITs (infrastructure). They pool money from small investors to invest in large-scale income-generating assets, with units listed on exchanges."
+  },
+  {
+   "q": "What are Exchange Traded Funds (ETFs)?",
+   "o": [
+    "Mutual funds that are sold only to institutional investors",
+    "Investment funds that invest only in government securities and are redeemed at face value",
+    "Fixed-income instruments issued by the RBI that provide guaranteed returns",
+    "Funds that invest in multiple securities and are traded on stock exchanges like individual stocks"
+   ],
+   "a": 3,
+   "e": "ETFs hold assets like stocks/commodities and are traded on exchanges throughout the day, offering flexibility and lower costs."
+  },
+  {
+   "q": "How many of the following rows regarding markets are correctly matched? 1️⃣ Bond Market: Short-term borrowing/lending 2️⃣ Stock Market: Equity investment and trading (NRI/OCI participants) 3️⃣ Forex Market: Currency exchange (Commercial bank participants).",
+   "o": [
+    "Only two",
+    "None",
+    "Only one",
+    "All the three"
+   ],
+   "a": 0,
+   "e": "Row 2 and 3 are correct. The bond market is primarily for *long-term* capital raising, whileRow 1 specifies short-term."
+  },
+  {
+   "q": "Consider the following regarding Cess and Surcharge: 1️⃣ Both terms are mentioned in the Constitution of India. 2️⃣ Both are levied by the Union Government and are shared with the States.",
+   "o": [
+    "Both I and II",
+    "Neither I nor II",
+    "II only",
+    "I only"
+   ],
+   "a": 3,
+   "e": "Cess (Articles 270, 277) and Surcharge (Articles 270, 271) are constitutional terms. Proceeds are kept exclusively by the Union and not shared with States."
+  },
+  {
+   "q": "Which of the statements given above is/are correct? 1️⃣ Fiscal drag occurs when expiring tax cuts and automatic spending cuts happen together. 2️⃣ Fiscal cliff increases government tax revenue without actually increasing tax rates. 3️⃣ Fiscal dominance occurs when central banks use their monetary powers to support the prices of government securities.",
+   "o": [
+    "I and III only",
+    "I and II only",
+    "III only",
+    "II and III only"
+   ],
+   "a": 2,
+   "e": "Statement 1 describes the *fiscal cliff*. Statement 2 describes *fiscal drag*. Statement 3 correctly defines fiscal dominance."
+  },
+  {
+   "q": "How many of the following pairs of money types are correctly matched? 1️⃣ Hard Currency: Widely accepted form of payment 2️⃣ Soft currency: Most stable type of currency 3️⃣ Hot Money: Continuously shifts toward higher interest rates 4️⃣ Dear money: Affects export competitiveness.",
+   "o": [
+    "Only three",
+    "All the four",
+    "Only one",
+    "Only two"
+   ],
+   "a": 0,
+   "e": "Hard currency is stable and widely accepted. Soft currency is unstable and reacts sharply to changes (Pair 2 is incorrect). Hot money shifts for short-term gains. Dear money involves high interest, making a currency expensive and exports less competitive."
+  },
+  {
+   "q": "With reference to inventory of a company, which one of the following is correct?",
+   "o": [
+    "It is classified as a capital asset on a company's balance sheet",
+    "A lower inventory turnover ratio indicates strong sales with inadequate inventory stocking",
+    "It is not subject to depreciation on the balance sheet, unlike fixed assets",
+    "It is recorded as an intangible asset"
+   ],
+   "a": 2,
+   "e": "Inventory is a tangible *current* asset. A *high* turnover ratio signals strong sales. It is not depreciated, though its value can be written down if market value falls."
+  },
+  {
+   "q": "How many of the following are excluded from accounting of depreciation? 1️⃣ Land 2️⃣ Stocks 3️⃣ Patents 4️⃣ Computer software.",
+   "o": [
+    "Only one",
+    "Only two",
+    "All the four",
+    "Only three"
+   ],
+   "a": 1,
+   "e": "Land does not depreciate as it doesn't wear out. Financial investments like stocks and bonds do not depreciate. Patents and software are depreciable intangible assets."
+  },
+  {
+   "q": "Consider the following regarding CMBs and WMA: 1️⃣ CMBs are subscribed through auctions, while WMA are loans from the RBI. 2️⃣ Both can be used to fund the fiscal deficit.",
+   "o": [
+    "II only",
+    "Neither I nor II",
+    "I only",
+    "Both I and II"
+   ],
+   "a": 2,
+   "e": "CMBs are auctioned like T-bills; WMA is a loan facility for cash flow mismatches. Both are for *temporary* mismatches and are not meant to fund the long-term fiscal deficit."
+  },
+  {
+   "q": "Consider the following regarding the Debt Service Coverage Ratio (DSCR): 1️⃣ It indicates a company's ability to cover its annual principal and interest obligations. 2️⃣ It includes all existing debt and additional loans sought.",
+   "o": [
+    "Both I and II",
+    "II only",
+    "Neither I nor II",
+    "I only"
+   ],
+   "a": 0,
+   "e": "DSCR measures if operating cash flow can cover debt payments. It accounts for current obligations and any new debt being requested. A ratio below 1 indicates negative cash flow."
+  },
+  {
+   "q": "In the context of GST, the term 'Reverse Charge Mechanism' refers to:",
+   "o": [
+    "system where the GST is refunded to exporters for zero-rated supplies",
+    "option to pay GST before the beginning of the financial year",
+    "scenario in which the liability to pay GST shifts to the recipient instead of the supplier",
+    "one-time waiver on penalty of the tax defaulters"
+   ],
+   "a": 2,
+   "e": "Under reverse charge, the recipient of goods/services is liable to pay tax instead of the supplier (commonly in imports)."
+  },
+  {
+   "q": "How many of the following pairs of economic curves are correctly matched? 1️⃣ Lorenz Curve: Tax rate vs Revenue 2️⃣ Phillips Curve: Inflation vs Unemployment 3️⃣ Kuznets Curve: Growth vs Inequality 4️⃣ Laffer Curve: Income inequality.",
+   "o": [
+    "Only two",
+    "All the four",
+    "Only three",
+    "Only one"
+   ],
+   "a": 0,
+   "e": "Phillips Curve (Inflation/Unemployment) and Kuznets Curve (Growth/Inequality) are correct. Lorenz Curve measures inequality. Laffer Curve relates tax rates to tax revenue."
+  },
+  {
+   "q": "Consider the following regarding MCLR: 1️⃣ It is the maximum interest rate that can be levied. 2️⃣ It is determined by the RBI. 3️⃣ It is reviewed and published for different maturities every month. 4️⃣ An increase in the MCLR can lead to an increase in interest rates on loans.",
+   "o": [
+    "II, III and IV only",
+    "I and II only",
+    "III and IV only",
+    "I, III and IV only"
+   ],
+   "a": 2,
+   "e": "MCLR is the *minimum* rate. It is determined *internally* by each bank. Banks must review/publish it monthly. When MCLR rises, final lending rates also rise."
+  },
+  {
+   "q": "How many of the following pairs of market activities are correctly matched? 1️⃣ Arbitrage: Asset bought in one market and sold in another for profit 2️⃣ Insider trading: Artificially inflating stock price via misleading claims 3️⃣ Front running: Selling borrowed stocks to profit from drops.",
+   "o": [
+    "None",
+    "All the three",
+    "Only two",
+    "Only one"
+   ],
+   "a": 3,
+   "e": "Pair 1 is correct. Pair 2 describes \"Pump and Dump\". Pair 3 describes \"Short Selling\"; front running is trading based on advance knowledge of large client orders."
+  },
+  {
+   "q": "Consider the following regarding price ceilings: 1️⃣ It sets a maximum amount a seller is permitted to charge. 2️⃣ It is typically applied to staples such as food and energy products.",
+   "o": [
+    "I only",
+    "II only",
+    "Both I and II",
+    "Neither I nor II"
+   ],
+   "a": 2,
+   "e": "A price ceiling is a legal maximum price. It is usually used for essential staples when market prices become unaffordable for consumers."
+  },
+  {
+   "q": "What is a 'head-count ratio'?",
+   "o": [
+    "ratio of average income of the richest 20% to the poorest 20%",
+    "proportion of people whose income always remains above the average",
+    "percentage of the population living below the national poverty line",
+    "proportion of people whose income is insufficient to meet basic needs"
+   ],
+   "a": 2,
+   "e": "The headcount ratio is the number of people living below the determined poverty line divided by the total population, expressed as a percentage."
+  },
+  {
+   "q": "How many of the following pairs regarding poverty estimation are correctly matched? 1️⃣ Alagh: Nutritional requirements 2️⃣ Lakdawala: Shift from URP estimates 3️⃣ Tendulkar: State specific poverty line 4️⃣ Rangarajan: Specific protein and fat requirements.",
+   "o": [
+    "All the four",
+    "Only one",
+    "Only two",
+    "Only three"
+   ],
+   "a": 2,
+   "e": "Alagh (Pair 1) fixed calorie norms. Rangarajan (Pair 4) specified protein/fat needs. Tendulkar suggested shifting to MRP estimates. Lakdawala suggested state-specific lines."
+  },
+  {
+   "q": "How many of the following are categorised as market activities? 1️⃣ Production of cereals for own consumption 2️⃣ Free education by government 3️⃣ A retail store selling groceries 4️⃣ Volunteering for an NGO.",
+   "o": [
+    "All the four",
+    "Only three",
+    "Only two",
+    "Only one"
+   ],
+   "a": 2,
+   "e": "Market activities include production for sale or government services (as they contribute to GDP). Own-consumption and volunteering are non-market activities."
+  },
+  {
+   "q": "Which of the following fall under the labour force? 1️⃣ People not working but seeking or available for work 2️⃣ People neither working nor seeking for work 3️⃣ People working or being engaged in an economic activity.",
+   "o": [
+    "I and III only",
+    "III only",
+    "II only",
+    "I and II only"
+   ],
+   "a": 0,
+   "e": "The labour force includes both the *employed* (working) and the *unemployed* (actively seeking/available for work). Those neither working nor seeking are inactive."
+  },
+  {
+   "q": "Consider the following regarding Current Daily Status (CDS): 1️⃣ Statement I: CDS is considered a most comprehensive measure of unemployment during a week. 2️⃣ Statement II: CDS takes into account day-to-day changes in the week.",
+   "o": [
+    "Both Statement I and Statement II are correct and Statement II explains Statement I",
+    "Statement I is correct but Statement II is not correct",
+    "Both Statement I and Statement II are correct but Statement II does not explain Statement I",
+    "Statement I is not correct but Statement II is correct"
+   ],
+   "a": 0,
+   "e": "CDS is highly inclusive because it records activity status for every half-day or full-day of the reference week, capturing underemployment that weekly status might miss."
+  },
+  {
+   "q": "Consider the following statements: 1️⃣ Tax buoyancy refers to the responsiveness of tax revenue growth to changes in GDP. 2️⃣ Tax elasticity refers to changes in tax revenue in response to changes in tax rate.",
+   "o": [
+    "Neither I nor II",
+    "I only",
+    "Both I and II",
+    "II only"
+   ],
+   "a": 2,
+   "e": "Tax buoyancy measures revenue growth relative to GDP growth without rate changes. Tax elasticity measures revenue changes resulting specifically from changes in the tax rates themselves."
+  },
+  {
+   "q": "Consider the following regarding the cascading effect: 1️⃣ It is associated with the disproportionate rise in prices due to taxes. 2️⃣ It occurs when there is tax on tax. 3️⃣ It generally leads to an inflationary effect.",
+   "o": [
+    "II and III only",
+    "I, II and III",
+    "II only",
+    "I and III only"
+   ],
+   "a": 1,
+   "e": "Cascading occurs when a tax is paid on the tax already paid at previous stages (\"tax on tax\"). This causes final prices to rise disproportionately, creating an inflationary effect."
+  },
+  {
+   "q": "How many of the following pairs of financial instruments are correctly matched? 1️⃣ Certificate of Deposit: Used by banks to manage short-term liquidity 2️⃣ Commercial Paper: Secured instrument to meet long-term funding 3️⃣ Promissory Note: Written note to pay specified sum at a future date 4️⃣ Participatory Note: Derivatives used by foreign investors to invest in India.",
+   "o": [
+    "Only three",
+    "Only one",
+    "Only two",
+    "All the four"
+   ],
+   "a": 0,
+   "e": "CDs manage short-term liquidity. Promissory notes are written promises to pay. P-notes allow foreign investment without SEBI registration. Commercial Paper is *unsecured* and for *short-term* needs."
+  },
+  {
+   "q": "Which of the following regarding the NSSF are correct? 1️⃣ It encompasses collections from Postal deposits and KVP. 2️⃣ Parliamentary approval is not required to withdraw funds. 3️⃣ The RBI fixes the interest rates on a quarterly basis.",
+   "o": [
+    "I and III only",
+    "I and II only",
+    "II and III only",
+    "I, II and III"
+   ],
+   "a": 1,
+   "e": "NSSF includes postal deposits and savings certificates like KVP. As it is in the Public Account, no legislative approval is needed for withdrawals. Interest rates are fixed by the Ministry of Finance."
+  },
+  {
+   "q": "Consider the following regarding 'Effective Revenue Deficit': 1️⃣ It is the difference between revenue deficit and the interest paid to outstanding loans. 2️⃣ It was introduced by amending the FRBM Act, 2003.",
+   "o": [
+    "Both I and II",
+    "II only",
+    "Neither I nor II",
+    "I only"
+   ],
+   "a": 1,
+   "e": "Effective Revenue Deficit is Revenue Deficit *minus* grants given for creation of capital assets. It was defined in the 2012 amendment to the FRBM Act."
+  },
+  {
+   "q": "Consider the following regarding the proportional tax system: 1️⃣ Statement I: The proportional tax system acts as an automatic stabiliser. 2️⃣ Statement II: Proportional taxes reduce the marginal propensity to consume out of income.",
+   "o": [
+    "Both Statement I and Statement II are correct and Statement II explains Statement I",
+    "Statement I is correct but Statement II is not correct",
+    "Both Statement I and Statement II are correct but Statement II does not explain Statement I",
+    "Statement I is not correct but Statement II is correct"
+   ],
+   "a": 0,
+   "e": "Proportional tax acts as a shock absorber by making disposable income less sensitive to GDP fluctuations. It reduces the multiplier effect because a constant fraction of income is always siphoned off as taxes."
+  },
+  {
+   "q": "Which of the statements given above are correct? 1️⃣ Deflation is a general decline in prices. 2️⃣ Disinflation is the rate of inflation at a slower rate. 3️⃣ Stagflation is a cycle of slow growth and high unemployment accompanied by inflation. 4️⃣ Reflation is a deliberate government action to increase inflation to stimulate the economy.",
+   "o": [
+    "I, II, III and IV",
+    "II, III and IV only",
+    "I and IV only",
+    "I, II and III only"
+   ],
+   "a": 0,
+   "e": "Deflation is a negative price change. Disinflation is slowing inflation. Stagflation is high inflation + recession. Reflation is government-induced inflation to counter deflation."
+  },
+  {
+   "q": "Consider the following: 1️⃣ Statement I: A fiscal deficit financed through borrowing may not necessarily lead to higher aggregate demand. 2️⃣ Statement II: Ricardian Equivalence says individuals increase savings to prepare for future tax liabilities.",
+   "o": [
+    "Statement I is correct but Statement II is not correct",
+    "Both Statement I and Statement II are correct and Statement II explains Statement I",
+    "Both Statement I and Statement II are correct but Statement II does not explain Statement I",
+    "Statement I is not correct but Statement II is correct"
+   ],
+   "a": 1,
+   "e": "Ricardian Equivalence suggests that because people save more in anticipation of future taxes to pay off debt, total demand stays unchanged despite government borrowing."
+  },
+  {
+   "q": "Why is the value of the tax multiplier generally negative?",
+   "o": [
+    "A negative tax multiplier is associated with higher liquidity",
+    "An increase in taxes leads to an increase in the proportion of savings",
+    "Tax cuts always lead to budget surpluses",
+    "An increase in taxes reduces disposable income and thereby consumption"
+   ],
+   "a": 3,
+   "e": "The tax multiplier is negative because higher taxes decrease disposable income, which directly leads to lower consumption and lower national income."
+  },
+  {
+   "q": "Which of the following regarding Depository Receipts (DRs) are correct? 1️⃣ Global Depository Receipts (GDRs) are financial instruments used to invest in stocks of a foreign company. 2️⃣ Indian Depository Receipts (IDR) are issued by a depository bank in India and represent shares of a foreign company.",
+   "o": [
+    "Both I and II",
+    "I only",
+    "Neither I nor II",
+    "II only"
+   ],
+   "a": 0,
+   "e": "GDRs allow investment in foreign company stocks. IDRs are certificates issued in India representing stakes in foreign companies, traded on Indian exchanges."
+  },
+  {
+   "q": "How many of the following pairs of economy types are correctly matched? 1️⃣ Shadow economy: Illegal activities and unreported income 2️⃣ Circular economy: Emphasizes repairing, refurbishing and recycling 3️⃣ Gig economy: Relies on temporary and part-time positions.",
+   "o": [
+    "All the three",
+    "Only two",
+    "Only one",
+    "None"
+   ],
+   "a": 0,
+   "e": "Shadow economy includes underground/unreported activities. Circular economy focuses on extending material lifespan through reuse/recycling. Gig economy uses freelancers and temporary workers."
+  },
+  {
+   "q": "Consider the following: 1️⃣ Statement I: An increase in the price of coffee is likely to increase the demand for tea. 2️⃣ Statement II: Coffee and tea are substitute goods.",
+   "o": [
+    "Both Statement I and Statement II are correct and Statement II explains Statement -I",
+    "Both Statement I and Statement II are correct but Statement II does not explain Statement I",
+    "Statement I is correct but Statement II is incorrect",
+    "Statement I is incorrect but Statement II is correct"
+   ],
+   "a": 0,
+   "e": "As substitutes, coffee and tea satisfy similar needs. If the price of one rises, consumers switch to the other, increasing its demand."
+  },
+  {
+   "q": "Which of the following share market practices is/are correct? 1️⃣ Wash trading is spreading false information. 2️⃣ Pump and dump is simultaneously buying and selling same security. 3️⃣ Front running is purchasing based on advanced non-public information.",
+   "o": [
+    "I and II only",
+    "II and III only",
+    "I, II and III",
+    "III only"
+   ],
+   "a": 3,
+   "e": "Statement 1 describes \"Pump and Dump\". Statement 2 describes \"Wash Trading\". Statement 3 correctly defines front running."
+  },
+  {
+   "q": "An overheating economy is typically characterised by:",
+   "o": [
+    "low demand and excess production capacity",
+    "high inflation and an unemployment rate that is below the normal rate",
+    "shrinking fiscal deficit due to low tax revenues",
+    "rising unemployment and falling inflation"
+   ],
+   "a": 1,
+   "e": "An overheating economy is characterized by high inflation and an unemployment rate below the normal level due to productivity being at an all-time high."
+  },
+  {
+   "q": "Consider the following regarding AT1 bonds: 1️⃣ They are perpetual debt instruments issued by banks to build core equity capital. 2️⃣ The bank issuing these bonds can redeem them or repay investors after a specified period. 3️⃣ They are regulated by the Reserve Bank of India (RBI).",
+   "o": [
+    "II and III only",
+    "II only",
+    "I and II only",
+    "I, II and III"
+   ],
+   "a": 3,
+   "e": "AT1 bonds are perpetual (no maturity) debt used for Basel III compliance. They often have a 'call option' for redemption. They are regulated by the RBI."
+  },
+  {
+   "q": "Which of the statements given above is/are correct? 1️⃣ A negative output gap generally indicates a lack of demand for goods and services. 2️⃣ A positive output gap can spur inflation in an economy.",
+   "o": [
+    "Both I and II",
+    "I only",
+    "Neither I nor II",
+    "II only"
+   ],
+   "a": 0,
+   "e": "A negative gap shows companies operating below efficiency due to low demand. A positive gap indicates high demand that exceeds potential output, leading to rising costs and inflation."
+  },
+  {
+   "q": "Consider the following: 1️⃣ Statement I: Environmental externalities are often not factored in the overall cost of a product. 2️⃣ Statement II: Inherent cost of the ecosystem services generally don't form part of the overall invoicing.",
+   "o": [
+    "Statement I is correct but Statement II is not correct",
+    "Both Statement I and Statement II are correct and Statement II explains Statement I",
+    "Both Statement I and Statement II are correct but Statement II does not explain Statement I",
+    "Statement I is not correct but Statement II is correct"
+   ],
+   "a": 1,
+   "e": "Negative environmental impacts (externalities) are rarely included in product pricing. Natural capital is often available at no charge (like water in agriculture), which keeps nature-negative business models artificially cheap."
+  }
+ ]
+}

@@ -1,0 +1,1317 @@
+{
+ "title": "Physical Geography",
+ "category": "UPSC Prelims PYQs",
+ "minutes": 69,
+ "negative": 0.25,
+ "questions": [
+  {
+   "q": "A meteor is: [1995]",
+   "o": [
+    "part of a constellation",
+    "a comet without a tail",
+    "a rapidly moving star",
+    "a piece of mater which has entered the earth's atmosphere from outer space"
+   ],
+   "a": 3,
+   "e": "A meteor is a small celestial body which has entered the earth's atmosphere by the gravitational force of earth when they pass close to it. They typically occur in the mesosphere at altitudes ranging from 75 km to 100 km."
+  },
+  {
+   "q": "Which one of the following does not belong to biosphere reserves set-up so far? [1995]",
+   "o": [
+    "Great Nicobar",
+    "Gulf of Kutch",
+    "Sunderbans",
+    "Nanda Devi"
+   ],
+   "a": 1,
+   "e": "At the time of this question (1995), the Gulf of Kutch was not a biosphere reserve; it was declared one later in 2008. There are 18 notified biosphere reserves in India, with 10 included in the UNESCO MAB world network."
+  },
+  {
+   "q": "The graph given below shows the mean average monthly temperatures ($in^{\\circ}C$) and mean monthly rainfall (in cms) of a place. This graph is indicative of which one of the climatic zones of the world? [1995]",
+   "o": [
+    "Rainy tropical",
+    "Semi-arid tropical",
+    "Wet and dry tropical",
+    "Temperate marine"
+   ],
+   "a": 2,
+   "e": "In the provided graph, the temperature ranges from $15^{\\circ}C$ to $25^{\\circ}C$ and rainfall does not exceed 25 cm. These characteristics indicate a wet and dry tropical region."
+  },
+  {
+   "q": "Willy Willy is: [1995]",
+   "o": [
+    "a tropical cyclone of the north-west Australia",
+    "a wind that blows in a desert",
+    "a kind of common fish found near Laccadives Islands",
+    "a type of tree grown in temperate regions"
+   ],
+   "a": 0,
+   "e": "Willy Willy is a tropical cyclone of north-west Australia that originates in the Timor Sea and causes rainfall in different parts of the continent."
+  },
+  {
+   "q": "Which one of the following is the continent with the highest mean elevation in the world? [1995]",
+   "o": [
+    "Antarctica",
+    "Asia",
+    "South America",
+    "North America"
+   ],
+   "a": 0,
+   "e": "Antarctica is the highest continent on the planet with an average elevation of 7,545 feet above sea level. At the South Pole, its elevation reaches 9,300 feet."
+  },
+  {
+   "q": "Which one of the following layers of the atmosphere is responsible for the deflection of radio waves? [1996]",
+   "o": [
+    "Stratosphere",
+    "Mesosphere",
+    "Ionosphere",
+    "Troposphere"
+   ],
+   "a": 2,
+   "e": "The ionosphere is the top layer of the atmosphere and is responsible for reflecting or deflecting radio waves back to Earth, facilitating communication."
+  },
+  {
+   "q": "Given below are two statements, one labelled as Assertion (A) and the other labelled as Reason (R): Assertion (A): Areas near the equator receive rainfall throughout the year. 1️⃣ Reason (R): High temperatures and high humidity cause convectional rain in most afternoons near the equator. [1996]",
+   "o": [
+    "A is false but R is true",
+    "Both A and R are true and R is the correct explanation of A",
+    "A is true but R is false",
+    "Both A and R are true but R is not a correct explanation of A"
+   ],
+   "a": 1,
+   "e": "Areas near the equator receive rainfall throughout the year because high temperatures cause the air to heat up and rise. This moist air cools and precipitates as convectional rain, usually in the afternoons."
+  },
+  {
+   "q": "Given below are two statements, one labelled as Assertion (A) and the other labelled as Reason (R): Assertion (A): Mangroves are very specialised forest eco-systems of tropical and sub-tropical regions bordering certain sea coasts. 1️⃣ Reason (R): They stabilise the shoreline and act as bulwark against encroachments by the sea. [1996]",
+   "o": [
+    "Both A and R are true and R is the correct explanation of A",
+    "A is true but R is false",
+    "Both A and R are true but R is not a correct explanation of A",
+    "A is false but R is true"
+   ],
+   "a": 0,
+   "e": "Mangroves are specialized ecosystems found along tropical and sub-tropical coasts. They are considered specialized because they stabilize shorelines and act as a bulwark against sea erosion."
+  },
+  {
+   "q": "Diamond ring is a phenomenon observed: [1996]",
+   "o": [
+    "only in the central regions of the totality trail",
+    "only along the peripheral regions of the totality trail",
+    "at the start of a total solar eclipse",
+    "at the end of a total solar eclipse"
+   ],
+   "a": 1,
+   "e": "The diamond ring effect is a phenomenon observed during a total solar eclipse, specifically occurring only along the peripheral regions of the totality trail."
+  },
+  {
+   "q": "Which one of the following factors is responsible for the change in the regular direction of the ocean currents in the Indian Ocean? [1997]",
+   "o": [
+    "Indian Ocean is half an ocean",
+    "Indian Ocean has monsoon drift",
+    "Indian Ocean is a land-locked ocean",
+    "Indian Ocean has greater variation in salinity"
+   ],
+   "a": 1,
+   "e": "The Indian Ocean has a monsoon drift which causes the regular direction of its ocean currents to change twice a year."
+  },
+  {
+   "q": "Daily weather map showing isobars is an example of: [1997]",
+   "o": [
+    "Choroschematic map",
+    "Choropleth map",
+    "Chorochromatic map",
+    "Isopleth map"
+   ],
+   "a": 3,
+   "e": "An isopleth map shows an imaginary surface by joining points of equal values with lines. A weather map using isobars (lines of equal pressure) is a classic example."
+  },
+  {
+   "q": "The group of small pieces of rock revolving round the sun between the orbits of Mars and Jupiter are called: [1997]",
+   "o": [
+    "comets",
+    "meteors",
+    "meteorites",
+    "asteroids"
+   ],
+   "a": 3,
+   "e": "Asteroids are a group of small rocky pieces, approximately 40,000 in number, that revolve around the sun between the orbits of Mars and Jupiter."
+  },
+  {
+   "q": "If the earth's direction of rotation is reversed, what should be the IST when it is noon at the International Date Line? [1997]",
+   "o": [
+    "06.30 hrs",
+    "18.30 hrs",
+    "17.30 hrs",
+    "05.30 hrs"
+   ],
+   "a": 1,
+   "e": "Normally, IST is 5.5 hours ahead of GMT. If rotation is reversed, the time difference relative to the International Date Line ($180^{\\circ}$) at the $82.5^{\\circ}$ IST longitude would result in a time of 18.30 hours when it is noon at the IDL."
+  },
+  {
+   "q": "Which one of the following stars is nearest to the Earth? [1997]",
+   "o": [
+    "Sirius",
+    "Polaris",
+    "Alpha Centauri",
+    "Sun"
+   ],
+   "a": 3,
+   "e": "The Sun is the star nearest to the Earth, located approximately 150 million kilometers away. It has internal temperatures exceeding 15 million $^{\\circ}C$."
+  },
+  {
+   "q": "Which one of the following conditions is most relevant for the presence of life on Mars? [1997]",
+   "o": [
+    "Atmospheric composition",
+    "Thermal conditions",
+    "Occurrence of ice caps and frozen water",
+    "Occurrence of ozone"
+   ],
+   "a": 2,
+   "e": "While Mars has similar daytime temperatures to Earth, the most critical factor for the potential presence of life is the evidence of ice caps and frozen water."
+  },
+  {
+   "q": "Of the four shaded areas in the map, which is characterised by hot dry summers, mild and moist winters and seasonal reversal of winds. [1997]",
+   "o": [
+    "2",
+    "4",
+    "1",
+    "3"
+   ],
+   "a": 2,
+   "e": "Area '1' on the map refers to California (U.S.A.), which is characterized by a Mediterranean-style climate with hot, dry summers and mild, moist winters."
+  },
+  {
+   "q": "Consider the following statements regarding asteroids: 1️⃣ Asteroids are rocky debris of varying size orbiting the sun. 2️⃣ Most of the asteroids are small but some have diameter as large as 1000 km. 3️⃣ The orbit of asteroids lies between the orbits of Jupiter and Saturn. [1998]",
+   "o": [
+    "1 and 3 are correct",
+    "2 and 3 are correct",
+    "1 and 2 are correct",
+    "1, 2 and 3 are correct"
+   ],
+   "a": 2,
+   "e": "Asteroids are rocky debris that orbit the sun, primarily between the orbits of Mars and Jupiter (not Jupiter and Saturn). They vary in size, with some reaching diameters of 1000 km."
+  },
+  {
+   "q": "Match the rivers labelled A, B, C and D on the given map with their names: 1️⃣ St. Lawrence 2️⃣ Orinoco 3️⃣ Mackenzie 4️⃣ Amazon 5️⃣ Yukon. Select the correct code: [1998]",
+   "o": [
+    "A-5; B-3; C-1; D-2",
+    "A-3; B-1; C-4; D-2",
+    "A-5; B-4; C-1; D-3",
+    "A-4; B-3; C-2; D-1"
+   ],
+   "a": 0,
+   "e": "Based on the map of North and South America, the rivers are: A-Yukon (5), B-Mackenzie (3), C-St. Lawrence (1), and D-Orinoco (2)."
+  },
+  {
+   "q": "The correct sequence of different layers of the atmosphere from the surface of the Earth upwards is: [1998]",
+   "o": [
+    "Troposphere, Stratosphere, Ionosphere, Mesosphere",
+    "Stratosphere, Troposphere, Mesosphere, Ionosphere",
+    "Troposphere, Stratosphere, Mesosphere, Ionosphere",
+    "Stratosphere, Troposphere, Ionosphere, Mesosphere"
+   ],
+   "a": 2,
+   "e": "The atmosphere is layered starting from the surface with the Troposphere (up to 18km), followed by the Stratosphere (18-50km), Mesosphere (up to 80km), and finally the Ionosphere (up to 400km)."
+  },
+  {
+   "q": "Estuaries possess distinct blooms of excessive growth of a pigmented dinoflagellates. These blooms are called: [1998]",
+   "o": [
+    "sea flowers",
+    "sea tides",
+    "red tides",
+    "black tides"
+   ],
+   "a": 2,
+   "e": "Red tides are blooms of pigmented dinoflagellates found in estuaries. High concentrations of these single-celled organisms can turn the water purple or pink."
+  },
+  {
+   "q": "Consider the following climatic conditions (northern hemisphere): [Table shows Temp from 3.9 to 27.8 and Rainfall from 3.5 to 17.7]. These are most likely to be found in the natural regions of: [1998]",
+   "o": [
+    "equatorial type",
+    "monsoon type",
+    "China type",
+    "hot desert type"
+   ],
+   "a": 2,
+   "e": "The specific temperature and rainfall data provided in the table are characteristic of the China type climate."
+  },
+  {
+   "q": "Match List-I (Characteristic) with List-II (Planet): A. Smallest planet-1️⃣ Mercury B. Largest planet-2️⃣ Venus C. Planet second from Sun-3️⃣ Jupiter D. Planet nearest to Sun-4️⃣ Pluto. Select the correct code: [1998]",
+   "o": [
+    "A-2; B-3; C-5; D-1",
+    "A-3; B-5; C-1; D-2",
+    "A-4; B-1; C-2; D-3",
+    "A-4; B-3; C-2; D-1"
+   ],
+   "a": 3,
+   "e": "Based on the solar system characteristics: the smallest was Pluto (at the time), the largest is Jupiter, the second from the sun is Venus, and the nearest to the sun is Mercury."
+  },
+  {
+   "q": "Physical regions marked as 1, 2, 3, and 4 on the given map are respectively: [1999]",
+   "o": [
+    "Andes, Guyana Highlands, Brazilian Shield and Amazon Basin",
+    "Amazon Basin, Guyana Highlands, Brazilians Shield and Andes",
+    "Guyana Highlands, Brazilian Shield Andes and Amazon Basin",
+    "Andes, Brazilian Shield, Guyana Highlands and Amazon Basin"
+   ],
+   "a": 3,
+   "e": "In the map of South America: '1' is the Andes (west coast), '2' is the Brazilian Shield (east), '3' is the Guyana Highlands (north), and '4' is the Amazon Basin."
+  },
+  {
+   "q": "Which one of the following types of coal contains a higher percentage of carbon than the rest? [1999]",
+   "o": [
+    "Anthracite",
+    "Lignite",
+    "Peat",
+    "Bituminous coal"
+   ],
+   "a": 0,
+   "e": "Anthracite is a dense, shiny coal with the highest carbon content (approx. 91%). It burns with a clean, almost smokeless flame due to very little volatile matter."
+  },
+  {
+   "q": "Which one of the following scholars suggested the earth's origin from gases and dust particles? [1998]",
+   "o": [
+    "F. Hoyle",
+    "O. Schmidt",
+    "H. Alfven",
+    "James Jeans"
+   ],
+   "a": 1,
+   "e": "In 1943, O. Schmidt proposed the Interstellar Dust Hypothesis, suggesting that the Earth and the solar system originated from gases and dust particles."
+  },
+  {
+   "q": "In the given map, which one of the following pairs of ocean currents are shown? [1999]",
+   "o": [
+    "Benguela and Guinea",
+    "Benguela and Falkland",
+    "Agulhas and Guinea",
+    "Canary and Humboldt"
+   ],
+   "a": 0,
+   "e": "The map shows the Benguela current, which is a cold current flowing north along the west coast of Africa, and the Guinea current, a warm current flowing along the same coast."
+  },
+  {
+   "q": "Which one of the areas marked as A, B, C and D in the given figure of the cyclone, witnesses heavy torrential short duration rainfall accompanied by thunderstorms? [1999]",
+   "o": [
+    "B",
+    "D",
+    "A",
+    "C"
+   ],
+   "a": 0,
+   "e": "In the cyclone diagram, the region marked 'B' lies between two zones and is the specific area that experiences heavy, short-duration torrential rain and thunderstorms."
+  },
+  {
+   "q": "Consider the following temperature and rainfall data: [Temp 6.7-14.4, Rainfall 7.8-15.0]. The climate to which this data pertains is: [1999]",
+   "o": [
+    "Mediterranean type",
+    "China type",
+    "St. Lawrence type",
+    "West European type"
+   ],
+   "a": 0,
+   "e": "The data showing temperatures between $7-15^{\\circ}C$ and rainfall between 6-16 cm per month is characteristic of the Mediterranean climate type."
+  },
+  {
+   "q": "At which one of the following positions shown in the diagram will the height of the ocean tide be maximum? [1999]",
+   "o": [
+    "$M_{1}$",
+    "$M_{3}$",
+    "$M_{2}$",
+    "$M_{4}$"
+   ],
+   "a": 3,
+   "e": "The height of the ocean tide is at its maximum at position $M_{4}$ because in this alignment, the Earth, Moon, and Sun lie in a straight line, combining their gravitational pull."
+  },
+  {
+   "q": "Match List-I (Timber) with List-II (Country): A. Cedar-1️⃣ Myanmar B. Douglas Fir-2️⃣ Canada C. Mahogany-3️⃣ Mexico D. Teak-4️⃣ Honduras. Select the correct code: [1999]",
+   "o": [
+    "A-3; B-2; C-1; D-4",
+    "A-2; B-3; C-1; D-4",
+    "A-2; B-3; C-4; D-1",
+    "A-3; B-2; C-4; D-1"
+   ],
+   "a": 2,
+   "e": "The correct matches are: Cedar is primarily associated with Canada, Douglas Fir with Mexico, Mahogany with Honduras, and Teak with Myanmar."
+  },
+  {
+   "q": "Along which one of the following meridians did India experience the first light of the sunrise of the new millennium? [2000]",
+   "o": [
+    "$82^{\\circ}30^{\\prime}E$",
+    "$92^{\\circ}30^{\\prime}W$",
+    "$92^{\\circ}30^{\\prime}E$",
+    "2°30′ W"
+   ],
+   "a": 2,
+   "e": "India experienced the first sunrise of the new millennium at Kathal Island in the Andaman and Nicobar archipelago, which is located on the $92^{\\circ}30^{\\prime}E$ meridian."
+  },
+  {
+   "q": "Consider the following statements: 1️⃣ Tides are of great help in navigation and fishing. 2️⃣ High tide enables big ships to enter or leave the harbour safely. 3️⃣ Tide prevents siltation in the harbours. 4️⃣ Kandla and Diamond Harbour are tidal ports. Which of these statements are correct? [2000]",
+   "o": [
+    "1, 2 and 3",
+    "2, 3 and 4",
+    "1 and 4",
+    "1, 2, 3 and 4"
+   ],
+   "a": 3,
+   "e": "All provided statements are true: tides assist navigation/fishing, high tides aid large ships, tidal action helps clear silt, and both Kandla and Diamond Harbour are functional tidal ports."
+  },
+  {
+   "q": "Consider the following statements about the 'Roaring Forties': 1️⃣ They blow uninterrupted in the northern and Southern Hemispheres. 2️⃣ They blow with great strength and constancy. 3️⃣ Their direction is generally from north-west to east in the Southern Hemisphere. 4️⃣ Overcast skies, rain and raw weather are generally associated with them. Which of these statements are correct? [2000]",
+   "o": [
+    "1, 2 and 4",
+    "1, 3 and 4",
+    "1, 2 and 3",
+    "2, 3 and 4"
+   ],
+   "a": 3,
+   "e": "The 'Roaring Forties' are permanent westerlies in the Southern Hemisphere (not Northern). They are known for their great strength, constant north-west to east direction, and associated stormy weather."
+  },
+  {
+   "q": "Which one of the following weather conditions is indicated by a sudden fall in barometer reading? [2001]",
+   "o": [
+    "Stormy",
+    "Calm weather",
+    "Hot and sunny weather",
+    "Cold and dry weather"
+   ],
+   "a": 0,
+   "e": "A sudden fall in barometric pressure indicates a significant variation in atmospheric conditions, which is typically a precursor to stormy weather."
+  },
+  {
+   "q": "Who amongst the following was the first to state that the earth was spherical? [2001]",
+   "o": [
+    "Aristotle",
+    "Strabo",
+    "Ptolemy",
+    "Copernicus"
+   ],
+   "a": 0,
+   "e": "Around 340 B.C., Aristotle was the first to state that the Earth was spherical in his work titled \"On the Heaven\"."
+  },
+  {
+   "q": "If the stars are seen to rise perpendicular to the horizon by an observer, he is located on the: [2001]",
+   "o": [
+    "South Pole",
+    "North Pole",
+    "Tropic of Cancer",
+    "Equator"
+   ],
+   "a": 3,
+   "e": "An observer at the equator sees stars rise perpendicular to the horizon because the celestial equator is directly overhead. Stars rotate in paths parallel to this celestial equator."
+  },
+  {
+   "q": "Consider the following statements made about sedimentary rocks: 1️⃣ Sedimentary rocks are formed at earth's surface by the hydrological system. 2️⃣ Formation of sedimentary rocks involves the weathering of preexisting rocks. 3️⃣ Sedimentary rocks contain fossils. 4️⃣ Sedimentary rocks typically occur in layers. Which of these statements are correct? [2001]",
+   "o": [
+    "1, 2, 3 and 4",
+    "2, 3 and 4",
+    "1 and 2",
+    "1 and 4"
+   ],
+   "a": 0,
+   "e": "All statements regarding sedimentary rocks are correct: they form via the hydrological system at the surface, involve weathering of older rocks, contain fossils, and are typically layered."
+  },
+  {
+   "q": "Volcanic eruptions do not occur in: [2001]",
+   "o": [
+    "Caribbean Sea",
+    "Baltic Sea",
+    "Caspian Sea",
+    "Black Sea"
+   ],
+   "a": 1,
+   "e": "Volcanic eruptions do not occur in the Baltic Sea; the basaltic rocks found there were actually transported by glaciers rather than volcanic activity."
+  },
+  {
+   "q": "Quartzite is metamorphosed from: [2001]",
+   "o": [
+    "limestone",
+    "sandstone",
+    "obsidian",
+    "shale"
+   ],
+   "a": 1,
+   "e": "Quartzite is a metamorphic rock that forms when its parent rock, sandstone, is subjected to heat and pressure."
+  },
+  {
+   "q": "Identify the correct order of the process of soil-erosion from the following: [2001]",
+   "o": [
+    "Rill erosion, Gully erosion, Sheet erosion, Splash erosion",
+    "Gully erosion, Rill erosion, Sheet erosion, Splash erosion",
+    "Splash erosion, Sheet erosion, Rill erosion, Gully erosion",
+    "Sheet erosion, Splash erosion, Gully erosion, Rill erosion"
+   ],
+   "a": 2,
+   "e": "Soil erosion begins with splash erosion (raindrop impact), followed by sheet erosion (layer removal), rill erosion (small channels), and finally gully erosion (deeper channels)."
+  },
+  {
+   "q": "Temperature and rainfall data: [Avg Temp: $12.8^{\\circ}C$, Avg Rainfall: 54.9 cm]. Identify the region having the above climatic patterns: [2001]",
+   "o": [
+    "N.W. European region",
+    "Mediterranean region",
+    "Monsoon region",
+    "Steppe region"
+   ],
+   "a": 1,
+   "e": "The described climatic pattern, featuring hot, dry summers and warm, wet winters with these averages, identifies the Mediterranean region."
+  },
+  {
+   "q": "Assertion (A): During the neap tides, the high tide is lower and the low tide is higher than usual. 1️⃣ Reason (R): The neap tide, unlike the spring tide, occurs on the new moon instead of on the full moon. [2001]",
+   "o": [
+    "Both A and R are true but R is NOT a correct explanation of A",
+    "A is false but R is true",
+    "A is true but R is false",
+    "Both A and R are true and R is the correct explanation of A"
+   ],
+   "a": 2,
+   "e": "Assertion A is true: neap tides have a smaller range. However, Reason R is false because neap tides occur during the moon's quarter phases, while spring tides occur during both new and full moons."
+  },
+  {
+   "q": "Sun's halo is produced by the refraction of light in: [2002]",
+   "o": [
+    "dust particles in Stratus clouds",
+    "ice crystals in Cirrus clouds",
+    "water vapour in Stratus clouds",
+    "ice crystals in Cirro-Cumulus clouds"
+   ],
+   "a": 1,
+   "e": "A sun's halo (or 22-degree halo) is caused by sunlight refracting as it passes through ice crystals contained within high-altitude cirrus clouds."
+  },
+  {
+   "q": "Consider the following statements: 1️⃣ Ocean currents are slow-surface movement of water in the ocean. 2️⃣ Ocean currents assist in maintaining the Earth's heat balance. 3️⃣ Ocean currents are set in motion primarily by prevailing winds. 4️⃣ Ocean currents are affected by the configuration of the ocean. Which of these statements are correct? [2002]",
+   "o": [
+    "2, 3 and 4",
+    "1 and 2",
+    "1, 3 and 4",
+    "1, 2, 3 and 4"
+   ],
+   "a": 0,
+   "e": "Statement 1 is incorrect because ocean currents are not always slow and can occur below the surface. Statements 2, 3, and 4 correctly describe their roles in heat balance, wind-driven motion, and topographical influence."
+  },
+  {
+   "q": "Consider the following statements: 1️⃣ In equatorial regions, the year is divided into four main seasons. 2️⃣ In Mediterranean region, summer months receives more rain. 3️⃣ In China type climate; rainfall occurs throughout the year. 4️⃣ Tropical highlands exhibit vertical zonation of different climates. Which of these statements are correct? [2002]",
+   "o": [
+    "1, 2 and 4",
+    "3 and 4",
+    "1, 2, 3 and 4",
+    "1, 2 and 3"
+   ],
+   "a": 1,
+   "e": "Statements 1 and 2 are false: equatorial regions have only two seasons, and Mediterranean regions get rain in winter. Statements 3 and 4 are correct regarding China type rainfall and vertical zonation in highlands."
+  },
+  {
+   "q": "Consider the following ecosystems: 1. Taiga, 2. Tropical Evergreen, 3. Tropical Deciduous, 4. Tundra. The correct sequence in decreasing order of the Albedo values is: [2002]",
+   "o": [
+    "1, 4, 2, 3",
+    "1, 4, 3, 2",
+    "4, 1, 2, 3",
+    "4, 1, 3, 2"
+   ],
+   "a": 3,
+   "e": "Albedo refers to reflectivity. The Tundra (often snow-covered) has the highest albedo, followed by Taiga, then Tropical Deciduous, with Tropical Evergreen having the lowest."
+  },
+  {
+   "q": "Assertion (A): 60° 65° latitudes in both the hemispheres have a low pressure belt instead of high pressure. 1️⃣ Reason (R): The low pressure areas are permanent over oceans rather than on land. [2002]",
+   "o": [
+    "A is false but R is true",
+    "Both A and R are true but R is NOT a correct explanation of A",
+    "A is true but R is false",
+    "Both A and R are true and R is the correct explanation of A"
+   ],
+   "a": 2,
+   "e": "Assertion A is true: the sub-polar low-pressure belt exists due to Earth's rotation spreading air outward. Reason R is false as it does not correctly explain the mechanism of this specific latitude's pressure."
+  },
+  {
+   "q": "Assertion (A): The surface winds spiral inwards upon the centre of the cyclone. 1️⃣ Reason (R): Air descends in the centre of the cyclone. [2002]",
+   "o": [
+    "A is false but R is true",
+    "A is true but R is false",
+    "Both A and R are true and R is the correct explanation of A",
+    "Both A and R are true but R is NOT a correct explanation of A"
+   ],
+   "a": 2,
+   "e": "In a cyclone, surface winds spiral toward the center. Air slowly descends in the center to create the rain-free \"eye,\" correctly explaining the assertion."
+  },
+  {
+   "q": "Thunder cloud development is due to which of these phenomena? 1️⃣ Condensation 2️⃣ High temperature and humidity 3️⃣ Orography 4️⃣ Vertical wind [2002]",
+   "o": [
+    "2, 3 and 4",
+    "1, 3 and 4",
+    "1 and 2",
+    "1, 2, 3 and 4"
+   ],
+   "a": 3,
+   "e": "All four factors contribute: high temperature/humidity causes vertical wind; orography forces air upward; and condensation eventually forms the cumulonimbus (thunder) clouds."
+  },
+  {
+   "q": "For short-term climatic predictions, which one of the following events is associated with occasional weak monsoon rains in the Indian sub-continent? [2002]",
+   "o": [
+    "Greenhouse effect at global level",
+    "La Nina",
+    "El Nino and Southern Oscillations",
+    "Movement of Jet Stream"
+   ],
+   "a": 2,
+   "e": "The El Nino Southern Oscillation (ENSO) cycle, specifically El Nino, is associated with drought or scant rainfall in Asia and weak monsoons in India."
+  },
+  {
+   "q": "Which one of the following is not a lagoon? [2002]",
+   "o": [
+    "Pulicat lake",
+    "Periyar lake",
+    "Ashtamudi lake",
+    "Chilka lake"
+   ],
+   "a": 1,
+   "e": "Periyar Lake is not a natural lagoon; it is an artificial lake created by the construction of a dam across the Mulloperiyar River."
+  },
+  {
+   "q": "Which one of the following statements is correct with reference to our solar system? [2002]",
+   "o": [
+    "The diameter of the sun is 190 times that of the earth",
+    "The sun contains 75 percent of the mass of the solar system",
+    "The predominant element in the composition of earth is silicon",
+    "The earth is the densest of all the planets in our solar system"
+   ],
+   "a": 3,
+   "e": "Earth is the densest planet in the solar system with a density of 5.52. Other planets like Jupiter and Saturn have much lower densities (0.69)."
+  },
+  {
+   "q": "Assertion (A): The amount of moisture in the atmosphere is related to latitude. 1️⃣ Reason (R): The capacity to hold moisture in the form of water vapour is related to temperature. [2003]",
+   "o": [
+    "Both A and R are individually true but R is not the correct explanation of A",
+    "Both A and R are individually true and R is the correct explanation of A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ],
+   "a": 1,
+   "e": "Moisture is related to latitude because temperature varies by latitude, and the air's capacity to hold moisture is directly determined by its temperature."
+  },
+  {
+   "q": "Assertion (A): Unlike temperate forests, the tropical rain forests, if cleared, can yield productive farmland that can support intensive agriculture for several years even without chemical fertilizers. 1️⃣ Reason (R): The primary productivity of the tropical rain forest is very high when compared to that of temperate forests. [2003]",
+   "o": [
+    "Both A and R are individually true and R is the correct explanation of A",
+    "Both A and R are individually true but R is not the correct explanation of A",
+    "A is false but R is true",
+    "A is true but R is false"
+   ],
+   "a": 2,
+   "e": "Assertion A is false because tropical soils are actually nutrient-poor due to continuous leaching; they require fertilizers once cleared. Reason R is true as their primary productivity is high while intact."
+  },
+  {
+   "q": "Assertion (A): Areas lying within five to eight degrees latitude on either side of the equator receive rainfall throughout the year. 1️⃣ Reason (R): High temperatures and high humidity cause convectional rain to fall mostly in the afternoons near the equator. [2003]",
+   "o": [
+    "A is false but R is true",
+    "Both A and R are individually true and R is the correct explanation of A",
+    "A is true but R is false",
+    "Both A and R are individually true but R is not the correct explanation of A"
+   ],
+   "a": 1,
+   "e": "Near the equator, strong solar heating causes air to rise, creating humidity and consistent afternoon thunderstorms and rainfall throughout the year."
+  },
+  {
+   "q": "Which one among the following covers the highest percentage of forest area in the world? [2003]",
+   "o": [
+    "Tropical monsoon forests",
+    "Temperate deciduous forests",
+    "Tropical rain forests",
+    "Temperate coniferous forests"
+   ],
+   "a": 3,
+   "e": "Temperate coniferous forests cover the largest percentage of the total forest area worldwide."
+  },
+  {
+   "q": "Among the following which planet takes maximum time for one revolution around the Sun? [2003]",
+   "o": [
+    "Jupiter",
+    "Mars",
+    "Venus",
+    "Earth"
+   ],
+   "a": 0,
+   "e": "Of the options listed, Jupiter takes the longest for a single revolution at 11 years and 86 days. Mars takes 687 days, while Earth and Venus take less."
+  },
+  {
+   "q": "Assertion (A): Thickness of the atmosphere is maximum over the Equator. 1️⃣ Reason (R): High insolation and strong convection currents occur over the Equator. [2004]",
+   "o": [
+    "Both A and R are individually true and R is the correct explanation of A",
+    "A is true but R is false",
+    "A is false but R is true",
+    "Both A and R are individually true but R is not the correct explanation of A"
+   ],
+   "a": 2,
+   "e": "Assertion A is incorrect; the atmosphere is actually thickest over the poles. Reason R is true regarding high insolation and convection currents at the equator."
+  },
+  {
+   "q": "Where is the volcanic mountain, Mount St. Helens located? [2005]",
+   "o": [
+    "Philippines",
+    "United States of America",
+    "Japan",
+    "Chile"
+   ],
+   "a": 1,
+   "e": "Mount St. Helens is a well-known volcanic mountain situated in the United States of America."
+  },
+  {
+   "q": "Assertion (A): The same face of the moon is always presented to the earth. 1️⃣ Reason (R): The moon rotates about its own axis in 23 and half days which is about the same time that it takes to orbit the earth. [2005]",
+   "o": [
+    "A is false but R is true",
+    "Both A and R are true and R is the correct explanation of A",
+    "Both A and R are true but R is NOT a correct explanation of A",
+    "A is true but R is false"
+   ],
+   "a": 3,
+   "e": "Assertion A is true, but Reason R is false because the moon's rotation period is approximately 27.3 days, matching its orbital period (tidal locking), not 23.5 days."
+  },
+  {
+   "q": "Assertion (A): Existence of human life on Venus is highly improbable. 1️⃣ Reason (R): Venus has extremely high level of carbon dioxide in its atmosphere. [2005]",
+   "o": [
+    "A is true but R is false",
+    "Both A and R are true but R is NOT a correct explanation of A",
+    "A is false but R is true",
+    "Both A and R are true and R is the correct explanation of A"
+   ],
+   "a": 3,
+   "e": "Human life on Venus is improbable due to its extremely dense and hot atmosphere composed primarily of carbon dioxide, which supports opaque sulfuric acid clouds."
+  },
+  {
+   "q": "Assertion (A): Wind patterns are clockwise in the Northern Hemisphere and anti-clockwise in the Southern Hemisphere. 1️⃣ Reason (R): The directions of wind patterns in the Northern and the Southern Hemisphere are governed by the Coriolis effect. [2005]",
+   "o": [
+    "A is true but R is false",
+    "A is false but R is true",
+    "Both A and R are true and R is the correct explanation of A",
+    "Both A and R are true but R is NOT a correct explanation of A"
+   ],
+   "a": 2,
+   "e": "Wind patterns are clockwise in the North and anti-clockwise in the South because their directions are governed by the Coriolis effect resulting from Earth's rotation."
+  },
+  {
+   "q": "Where are the Balearic Islands located? [2005]",
+   "o": [
+    "Mediterranean Sea",
+    "North Sea",
+    "Black Sea",
+    "Baltic Sea"
+   ],
+   "a": 0,
+   "e": "The Balearic Islands are an archipelago belonging to Spain, situated in the Western Mediterranean Sea."
+  },
+  {
+   "q": "Which one of the following pairs is not correctly matched? [2005]",
+   "o": [
+    "Bahamas: Nassau",
+    "Dominican Republic: Santo Domingo",
+    "Nicaragua: Balmopan",
+    "Costa Rica: San Jose"
+   ],
+   "a": 2,
+   "e": "Nicaragua is incorrectly matched; its capital is Managua. Balmopan (Belmopan) is actually the capital of Belize."
+  },
+  {
+   "q": "Consider the following statements: 1️⃣ The Axis of the earth's magnetic field is inclined at 23 and half to the geographic axis of the earth. 2️⃣ The earth's magnetic pole in the Northern Hemisphere is located on a Peninsula in Northern Canada. 3️⃣ The earth's magnetic equator passes through Thumba in South India. Which of the statements given above is/are correct? [2005]",
+   "o": [
+    "2 only",
+    "3 only",
+    "2 and 3",
+    "1, 2 and 3"
+   ],
+   "a": 2,
+   "e": "Statements 2 and 3 are correct: the North magnetic pole is in Canada, and the magnetic equator passes through Thumba. Statement 1 is false; the magnetic axis tilt is not 23.5 degrees (that is the tilt of the geographic axis)."
+  },
+  {
+   "q": "Consider the following statements: 1️⃣ Total land area of earth is approximately 1475 lakh square kilometers. 2️⃣ Ratio of land area to water area of earth is approximately 1:4. 3️⃣ Maximum percentage of earth's water is in the Pacific Ocean. Which of the statements given above is/are correct? [2005]",
+   "o": [
+    "1 only",
+    "1 and 3",
+    "2 and 3",
+    "3 only"
+   ],
+   "a": 1,
+   "e": "Statement 1 is correct (land area approx. 148 million sq km). Statement 3 is correct as the Pacific is the largest ocean. Statement 2 is false as the ratio is approximately 1:3."
+  },
+  {
+   "q": "In which one of the following oceans Diamantine Trench is situated? [2006]",
+   "o": [
+    "Indian Ocean",
+    "Atlantic Ocean",
+    "Arctic Ocean",
+    "Pacific Ocean"
+   ],
+   "a": 0,
+   "e": "The Diamantine Trench is located in the south-eastern part of the Indian Ocean and has a depth of 8,047 meters."
+  },
+  {
+   "q": "Assertion (A): To orbit around the Sun the planet Mars takes lesser time than the time taken by the earth. 1️⃣ Reason (R): The diameter of the planet Mars is less than that of earth. [2006]",
+   "o": [
+    "Both A and R are individually true but R is not the correct explanation of A",
+    "A is true but R is false",
+    "A is false but R is true",
+    "Both A and R are individually true and R is the correct explanation of A"
+   ],
+   "a": 2,
+   "e": "Assertion A is false because Mars takes 1.88 Earth years to orbit the Sun. Reason R is true as Earth's diameter is roughly double that of Mars."
+  },
+  {
+   "q": "What is the average distance (approximate) between the sun and the earth? [2007]",
+   "o": [
+    "$100\\times10^{5}km$",
+    "$110\\times10^{6}km$",
+    "$70\\times10^{5}km$",
+    "$150\\times10^{6}km$"
+   ],
+   "a": 3,
+   "e": "The approximate average distance between the Sun and the Earth is 150 million kilometers (actually about 152 million km)."
+  },
+  {
+   "q": "Consider the following statements: 1️⃣ Either of the two belts over the oceans at about 30° to 35° N and S Latitudes is known as Horse latitude. 2️⃣ Horse latitudes are low pressure belts. Which of the statements given above is/are correct? [2007]",
+   "o": [
+    "Neither 1 nor 2",
+    "2 only",
+    "1 only",
+    "Both 1 and 2"
+   ],
+   "a": 2,
+   "e": "Statement 1 is correct; Horse latitudes are at 30-35 degrees. Statement 2 is false because these are high-pressure belts (sub-tropical highs), not low-pressure."
+  },
+  {
+   "q": "Consider the following statements: 1️⃣ Annual range of temperature is greater in the Pacific Ocean than that in the Atlantic Ocean. 2️⃣ Annual range of temperature is greater in the Northern Hemisphere than that in the Southern Hemisphere. Which of the statements given above is/are correct? [2007]",
+   "o": [
+    "Both 1 and 2",
+    "2 only",
+    "Neither 1 nor 2",
+    "1 only"
+   ],
+   "a": 1,
+   "e": "Statement 2 is correct because the Northern Hemisphere has more landmass, leading to higher temperature ranges. Statement 1 is false; the Atlantic Ocean typically records higher ranges than the Pacific."
+  },
+  {
+   "q": "Consider the following statements: 1️⃣ Albedo of an object determines its visual brightness when viewed with reflected light. 2️⃣ Albedo of Mercury is much greater than the albedo of the Earth. Which of the statements given above is/are correct? [2008]",
+   "o": [
+    "2 only",
+    "Both 1 and 2",
+    "Neither 1 nor 2",
+    "1 only"
+   ],
+   "a": 3,
+   "e": "Statement 1 is correct; higher albedo means more reflected light and higher brightness. Statement 2 is false; Mercury's albedo is 0.1, while Earth's is higher at 0.30."
+  },
+  {
+   "q": "For India, China, UK and USA, which one of the following is the correct sequence of the median age of their population? [2008]",
+   "o": [
+    "China < India < UK < USA",
+    "China < India < USA < UK",
+    "India < China < USA < UK",
+    "India < China < UK < USA"
+   ],
+   "a": 2,
+   "e": "Based on demographic data for these four countries, the correct sequence of median age from youngest to oldest is India, followed by China, then USA, and UK."
+  },
+  {
+   "q": "In order of their distances from the Sun, which of the following planets lie between Mars and Uranus? [2008]",
+   "o": [
+    "Earth and Jupiter",
+    "Jupiter and Saturn",
+    "Saturn and Neptune",
+    "Saturn and Earth"
+   ],
+   "a": 1,
+   "e": "In the sequence of planets from the Sun (Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune), Jupiter and Saturn are located between Mars and Uranus."
+  },
+  {
+   "q": "Which one of the following planets has largest number of natural satellites or moons? [2009]",
+   "o": [
+    "Saturn",
+    "Jupiter",
+    "Venus",
+    "Mars"
+   ],
+   "a": 1,
+   "e": "At the time of this source, Jupiter had the most moons (63), followed by Saturn (61). Mars has 2, and Venus has none."
+  },
+  {
+   "q": "In the structure of planet Earth, below the mantle, the core is mainly made up of which one of the following? [2009]",
+   "o": [
+    "Aluminium",
+    "Silicon",
+    "Iron",
+    "Chromium"
+   ],
+   "a": 2,
+   "e": "The Earth's core, located beneath the mantle, is primarily composed of nickel and iron."
+  },
+  {
+   "q": "Consider the following statements: 1️⃣ On the planet Earth, the fresh water available for use amounts to about less than 1% of the total water found. 2️⃣ Of the total fresh water found on the planet Earth 95% is bound up in polar ice caps and glaciers. Which of the statements given above is/are correct? [2010]",
+   "o": [
+    "Neither 1 nor 2",
+    "Both 1 and 2",
+    "2 only",
+    "1 only"
+   ],
+   "a": 3,
+   "e": "Statement 1 is correct; usable fresh water is less than 1%. Statement 2 is false; approximately 68.7% (not 95%) of fresh water is bound in ice caps and glaciers."
+  },
+  {
+   "q": "A geographic area with an altitude of 400 metres has average max temp of 29-31°C and min 20-21°C with rainfall between 51-221 mm per month. If this geographic area were to have a natural forest, which one would it most likely be? [2010]",
+   "o": [
+    "Tropical rain forest",
+    "Moist temperate coniferous forest",
+    "Montane subtropical forest",
+    "Temperate forest"
+   ],
+   "a": 0,
+   "e": "Tropical rainforests are characterized by warm temperatures (21-30°C) and high annual rainfall (often exceeding 150 cm), matching the data provided."
+  },
+  {
+   "q": "Consider the following statements about El Nino Modoki: 1️⃣ Normal El Nino forms in the Central Pacific Ocean whereas El Nino Modoki forms in Eastern Pacific Ocean. 2️⃣ Normal El Nino results in diminished hurricanes in the Atlantic Ocean but El Nino Modoki results in a greater number of hurricanes with greater frequency. Which of the statements given above is/are correct? [2010]",
+   "o": [
+    "1 only",
+    "Both 1 and 2",
+    "Neither 1 nor 2",
+    "2 only"
+   ],
+   "a": 3,
+   "e": "Statement 2 is correct. Statement 1 is false; normal El Nino forms in the South-Eastern Pacific, while El Nino Modoki forms in the Central Pacific."
+  },
+  {
+   "q": "Which one of the following reflects back more sunlight as compared to other three? [2010]",
+   "o": [
+    "Paddy crop",
+    "Prairie land",
+    "Land covered with fresh snow",
+    "Sand desert"
+   ],
+   "a": 2,
+   "e": "Fresh snow has the highest albedo of the options provided, meaning it reflects the most incident sunlight."
+  },
+  {
+   "q": "A geographic region has: 1. Warm and dry climate, 2. Mild and wet winter, 3. Evergreen Oak trees. These are features of: [2010]",
+   "o": [
+    "Atlantic coast of North America",
+    "Central Asia",
+    "Mediterranean",
+    "Eastern China"
+   ],
+   "a": 2,
+   "e": "The Mediterranean climate is distinct for its mild, rainy winters, hot, dry summers, and vegetation like Evergreen Oak trees."
+  },
+  {
+   "q": "What causes wind to deflect toward left in the Southern Hemisphere? [2010]",
+   "o": [
+    "Temperature",
+    "Rotation of the earth",
+    "Pressure",
+    "Magnetic field"
+   ],
+   "a": 1,
+   "e": "The rotation of the Earth creates the Coriolis effect, which causes winds to deflect to the right in the Northern Hemisphere and to the left in the Southern Hemisphere."
+  },
+  {
+   "q": "If a tropical rain forest is removed, it does not regenerate quickly as compared to a tropical deciduous forest. This is because: [2011-1]",
+   "o": [
+    "propagules of the trees in a rain forest have poor viability",
+    "exotic species invade the fertile soil of rain forest.",
+    "the soil of rain forest is deficient in nutrients",
+    "the rain forest species are slow-growing"
+   ],
+   "a": 2,
+   "e": "Tropical rainforest soils are actually nutrient-poor because heavy rains leach nutrients away. Most nutrients are stored in the plants themselves, unlike deciduous forests where nutrients remain in the soil."
+  },
+  {
+   "q": "A layer in the Earth's atmosphere called ionosphere facilities radio communication. Why? 1️⃣ The presence of ozone causes the reflection of radio waves to earth. 2️⃣ Radio waves have a very long wavelength. [2011-1]",
+   "o": [
+    "2 only",
+    "1 only",
+    "Neither 1 nor 2",
+    "Both 1 and 2"
+   ],
+   "a": 0,
+   "e": "Statement 1 is false; reflection is caused by free electrons/ions, not ozone (which is in the stratosphere). Statement 2 is correct; radio waves have the longest wavelengths in the EM spectrum."
+  },
+  {
+   "q": "How is La Nina different from El Nino? 1️⃣ La Nina is characterized by unusually cold ocean temperature in equatorial Indian Ocean whereas El Nino is characterized by unusually warm ocean temperature in the equatorial Pacific Ocean. 2️⃣ El Nino has adverse effect on south-west monsoon in India, but La Nina has no effect on monsoon climate. [2011-1]",
+   "o": [
+    "1 only",
+    "Neither 1 nor 2",
+    "Both 1 and 2",
+    "2 only"
+   ],
+   "a": 1,
+   "e": "Both statements are false. La Nina is cold temperatures in the Pacific (not Indian) Ocean. La Nina does have an effect; it often brings better monsoon rainfall, while El Nino is associated with drought."
+  },
+  {
+   "q": "What is difference between asteroids and comets? 1️⃣ Asteroids are small rocky planetoids, while comets are formed of frozen gases held together by rocky and metallic material. 2️⃣ Asteroids are found mostly between the orbits of Jupiter and Mars, while comets are found mostly between Venus and Mercury. 3️⃣ Comets show a perceptible glowing tail, while asteroids do not. [2011-1]",
+   "o": [
+    "3 only",
+    "1 and 2 only",
+    "1 and 3 only",
+    "1, 2 and 3"
+   ],
+   "a": 2,
+   "e": "Statements 1 and 3 are correct. Statement 2 is false because comets are mostly found beyond Neptune in the Kuiper belt, not between Venus and Mercury."
+  },
+  {
+   "q": "Westerlies in southern hemisphere are stronger and persistent than in northern hemisphere. Why? 1️⃣ Southern hemisphere has less landmass as compared to northern hemisphere. 2️⃣ Coriolis force is higher in southern hemisphere compared to northern hemisphere. [2011-1]",
+   "o": [
+    "1 only",
+    "2 only",
+    "Neither 1 nor 2",
+    "Both 1 and 2"
+   ],
+   "a": 0,
+   "e": "Statement 1 is correct; the lack of landmass in the South reduces friction, allowing winds to be stronger. Statement 2 is false; Coriolis force depends on latitude, not hemisphere."
+  },
+  {
+   "q": "What could be the main reason/reasons for the formation of African and Eurasian desert belt? 1️⃣ It is located in the sub-tropical high pressure cells. 2️⃣ It is under the influence of warm ocean currents. [2011-1]",
+   "o": [
+    "Both 1 and 2",
+    "1 only",
+    "Neither 1 nor 2",
+    "2 only"
+   ],
+   "a": 1,
+   "e": "Statement 1 is correct; these deserts form in high-pressure belts where air sinks. Statement 2 is false; these regions are often influenced by cold (not warm) ocean currents."
+  },
+  {
+   "q": "The jet aircrafts fly very easily and smoothly in the stratosphere. What could be the appropriate explanation? 1️⃣ There are no clouds or water vapour in the lower stratosphere. 2️⃣ There are no vertical winds in the lower stratosphere. [2011-1]",
+   "o": [
+    "2 only",
+    "1 only",
+    "Both 1 and 2",
+    "Neither 1 nor 2"
+   ],
+   "a": 2,
+   "e": "Both statements are correct; the absence of clouds, water vapor, and vertical winds in the lower stratosphere prevents turbulence, making it ideal for jet travel."
+  },
+  {
+   "q": "Which of the following is/are cited by the scientists as evidence/evidences for the continued expansion of universe? 1️⃣ Detection of microwaves in space 2️⃣ Observation of redshift phenomenon in space 3️⃣ Movement of asteroids in space 4️⃣ Occurrence of supernova explosions in space [2012-1]",
+   "o": [
+    "None of the above",
+    "1 and 2 only",
+    "2 only",
+    "1, 3 and 4"
+   ],
+   "a": 1,
+   "e": "Evidence for expansion includes the Cosmic Microwave Background (CMB) and the redshift phenomenon (light shifting as objects move away). Asteroid movement and supernovae are not primary evidence for overall expansion."
+  },
+  {
+   "q": "Consider the following factors: 1. Rotation of the Earth, 2. Air pressure and wind, 3. Density of ocean water, 4. Revolution of the Earth. Which of the above factors influence the ocean currents? [2012-1]",
+   "o": [
+    "1 and 2 only",
+    "1 and 4",
+    "1, 2 and 3",
+    "2, 3 and 4"
+   ],
+   "a": 2,
+   "e": "Ocean currents are influenced by Earth's rotation, air pressure/winds, and water density. Earth's revolution around the Sun does not directly influence ocean currents."
+  },
+  {
+   "q": "Normally, the temperature decreases with the increase in height from the Earth's surface, because: 1️⃣ the atmosphere can be heated upwards only from the Earth's surface 2️⃣ there is more moisture in the upper atmosphere 3️⃣ the air is less dense in the upper atmosphere [2012-1]",
+   "o": [
+    "1 only",
+    "1 and 3 only",
+    "2 and 3 only",
+    "1, 2 and 3"
+   ],
+   "a": 1,
+   "e": "Statements 1 and 3 are correct. The atmosphere is heated from the ground by infrared radiation, and less dense air at height holds less heat. Statement 2 is false; moisture is actually more concentrated in the lower atmosphere."
+  },
+  {
+   "q": "Which one of the following is the characteristic climate of the Tropical Savannah Region? [2012-1]",
+   "o": [
+    "Rainfall throughout the year",
+    "An extremely short dry season",
+    "Rainfall in winter only",
+    "A definite dry and wet season"
+   ],
+   "a": 3,
+   "e": "The tropical Savannah region, which covers much of Africa, is characterized by having a distinct dry and a distinct wet season."
+  },
+  {
+   "q": "Which one of the following pairs is correctly matched? [2013-1]",
+   "o": [
+    "Okavango Basin: Patagonia",
+    "Atlas Mountains: North-Western Africa",
+    "Abyssinian Plateau: Arabia",
+    "Guiana Highlands: South-Western Africa"
+   ],
+   "a": 1,
+   "e": "The Atlas Mountains are correctly matched; they extend through Morocco, Algeria, and Tunisia in North-Western Africa."
+  },
+  {
+   "q": "Variations in the length of daytime and nighttime from season to season are due to: [2013-1]",
+   "o": [
+    "revolution of the earth on a tilted axis.",
+    "the earth's rotation on its axis",
+    "latitudinal position of the place",
+    "the earth's revolution round the sun in an elliptical manner"
+   ],
+   "a": 0,
+   "e": "Seasonal changes in day and night length are the result of the Earth revolving around the Sun while its axis is tilted relative to the plane of its orbit."
+  },
+  {
+   "q": "On the planet earth, most of the freshwater exists as ice caps and glaciers. Out of the remaining freshwater, the largest proportion: [2013-1]",
+   "o": [
+    "is found in freshwater lakes and rivers",
+    "is found in atmosphere as moisture and clouds",
+    "exists as groundwater",
+    "exists as soil moisture"
+   ],
+   "a": 2,
+   "e": "Of the total 2.5-2.75% fresh water, the vast majority is frozen. Of the remaining liquid portion, groundwater is the largest reservoir, far exceeding surface lakes and rivers."
+  },
+  {
+   "q": "Which of the following are responsible for bringing dynamic changes on the surface of the earth? 1️⃣ Electromagnetic radiation 2️⃣ Geothermal energy 3️⃣ Gravitational force 4️⃣ Plate movements 5️⃣ Rotation of the earth 6️⃣ Revolution of the earth [2013-1]",
+   "o": [
+    "1, 2, 3 and 4 only",
+    "2, 4, 5 and 6 only",
+    "1, 2, 3, 4, 5 and 6",
+    "1, 3, 5 and 6 only"
+   ],
+   "a": 2,
+   "e": "All these factors contribute to dynamic changes: from geothermal energy driving plate tectonics to rotation/revolution affecting climate and gravitational force providing weight."
+  },
+  {
+   "q": "The most important fishing grounds of the world are found in the regions where: [2013-1]",
+   "o": [
+    "warm and cold atmospheric currents meet",
+    "rivers drain out large amounts of freshwater into the sea",
+    "warm and cold oceanic currents meet",
+    "continental shelf is undulating"
+   ],
+   "a": 2,
+   "e": "Major fishing grounds are found where warm and cold oceanic currents meet. This mixing creates ideal temperatures and nutrient levels for the growth of plankton, which is fish food."
+  },
+  {
+   "q": "Which of the following is/are unique characteristic/characteristics of equatorial forests? 1️⃣ Presence of tall, closely set trees with crowns forming a continuous canopy 2️⃣ Coexistence of a large number of species 3️⃣ Presence of numerous varieties of epiphytes [2013-1]",
+   "o": [
+    "2 and 3 only",
+    "1 only",
+    "1 and 3 only",
+    "1, 2 and 3"
+   ],
+   "a": 3,
+   "e": "Equatorial forests are characterized by high biodiversity, a dense continuous upper canopy, and a large variety of epiphytes growing within that canopy."
+  },
+  {
+   "q": "The annual range of temperature in the interior of the continents is high as compared to coastal areas. What is/are the reason/reasons? 1️⃣ Thermal difference between land and water 2️⃣ Variation in altitude between continents and oceans 3️⃣ Presence of strong winds in the interior 4️⃣ Heavy rains in the interior as compared to coasts [2013-1]",
+   "o": [
+    "1, 2, 3 and 4",
+    "1 only",
+    "1 and 2 only",
+    "2 and 3 only"
+   ],
+   "a": 1,
+   "e": "The primary reason is the thermal difference; land heats and cools faster than water. This lack of marine moderation leads to extreme temperature ranges in continental interiors."
+  },
+  {
+   "q": "\"Climate is extreme, rainfall is scanty and the people used to be nomadic herders.\" The above statement best describes which of the following regions? [2013-1]",
+   "o": [
+    "African Savannah",
+    "Central Asian Steppe",
+    "Siberian Tundra",
+    "North American Prairie"
+   ],
+   "a": 1,
+   "e": "This describes the Central Asian Steppes, which have a harsh climate, very little rainfall, and temperatures ranging from -4 to 50 degrees Celsius."
+  },
+  {
+   "q": "Which of the following phenomena might have influenced the evolution of organisms? 1. Continental drift, 2. Glacial cycles [2014-1]",
+   "o": [
+    "Neither 1 nor 2",
+    "2 only",
+    "Both 1 and 2",
+    "1 only"
+   ],
+   "a": 2,
+   "e": "Both have been critical: continental drift created new climatic regions and isolated species, while recent glacial cycles were significant in the final stages of human evolution."
+  },
+  {
+   "q": "Consider the following statements: 1️⃣ The winds which blow between $30^{\\circ}$ N and $60^{\\circ}$ S latitudes throughout the year are known as westerlies. 2️⃣ The moist air masses that cause winter rains in North-Western region of India are part of westerlies. Which of the statements given above is/are correct? [2015-1]",
+   "o": [
+    "1 only",
+    "2 only",
+    "Neither 1 nor 2",
+    "Both 1 and 2"
+   ],
+   "a": 1,
+   "e": "Statement 2 is correct. Statement 1 is false because westerlies blow in the middle latitudes of both hemispheres separately (30-60° N and 30-60° S), not continuously between those two points across the equator."
+  },
+  {
+   "q": "Tides occur in the oceans and seas due to which among the following? 1. Gravitational force of the Sun, 2. Gravitational force of the Moon, 3. Centrifugal force of the Earth. [2015-1]",
+   "o": [
+    "1 and 2 only",
+    "1, 2 and 3",
+    "3 only",
+    "1 and 3 only"
+   ],
+   "a": 1,
+   "e": "Ocean tides are caused by the combined gravitational pulls of the Sun and Moon, along with the centrifugal force generated by the Earth's rotation."
+  },
+  {
+   "q": "\"Each day is more or less the same, the morning is clear and bright with a sea breeze; as the Sun climbs high in the sky, heat mounts up, dark clouds form, then rain comes with thunder and lightning. But rain is soon over.\" Which of the following regions is described? [2015-1]",
+   "o": [
+    "Equatorial",
+    "Mediterranean",
+    "Savannah",
+    "Monsoon"
+   ],
+   "a": 0,
+   "e": "This daily cycle of morning clarity followed by mounting afternoon heat and rapid convectional thunderstorms is characteristic of the equatorial region."
+  },
+  {
+   "q": "In the South Atlantic and South-Eastern Pacific regions in tropical latitudes, cyclone does not originate. What is the reason? [2015-1]",
+   "o": [
+    "Absence of land in those regions",
+    "Inter-Tropical Convergence Zone seldom occurs",
+    "Sea surface temperatures are low",
+    "Coriolis force is too weak"
+   ],
+   "a": 2,
+   "e": "Tropical cyclones require sea surface temperatures higher than 27°C. In these specific regions, the sea remains relatively cooler, which prevents cyclone formation."
+  },
+  {
+   "q": "What explains the eastward flow of the equatorial counter-current? [2015-1]",
+   "o": [
+    "Convergence of the two equatorial currents",
+    "Difference in salinity of water",
+    "The Earth's rotation on its axis",
+    "Occurrence of the belt of calm near the equator"
+   ],
+   "a": 2,
+   "e": "The eastward flow of the equatorial counter-current is primarily explained by the Earth's rotation on its axis."
+  },
+  {
+   "q": "Which of the following is/are tributary tributaries of Brahmaputra? 1. Dibang, 2. Kameng, 3. Lohit. [2016-1]",
+   "o": [
+    "1, 2 and 3",
+    "1 only",
+    "1 and 3 only",
+    "2 and 3 only"
+   ],
+   "a": 0,
+   "e": "All three are tributaries: Dibang and Lohit join from the left bank, and Kameng joins from the right bank in the state of Assam."
+  },
+  {
+   "q": "With reference to 'Indian Ocean Dipole (IOD)', which of the following statements is/are correct? 1️⃣ IOD phenomenon is characterized by a difference in sea surface temperature between tropical Western Indian Ocean and tropical Eastern Pacific Ocean. 2️⃣ An IOD phenomenon can influence an El Nino's impact on the monsoon. [2017-1]",
+   "o": [
+    "1 only",
+    "2 only",
+    "Both 1 and 2",
+    "Neither 1 nor 2"
+   ],
+   "a": 1,
+   "e": "Statement 2 is correct; IOD affects monsoon performance. Statement 1 is false; IOD is a temperature difference between the Western and Eastern parts of the Indian Ocean (not the Pacific)."
+  },
+  {
+   "q": "Consider the following statements: 1️⃣ The Barren Island volcano is an active volcano located in the Indian territory. 2️⃣ Barren Island lies about 140 km east of Great Nicobar. 3️⃣ The last time the Barren Island volcano erupted was in 1991 and it has remained inactive since then. Which of the statements given above is/are correct? [2018-1]",
+   "o": [
+    "2 and 3",
+    "3 only",
+    "1 only",
+    "1 and 3"
+   ],
+   "a": 2,
+   "e": "Statement 1 is correct. Statement 3 is false because it had another phase of eruptions in 1995. Statement 2 is false regarding its location relative to Great Nicobar."
+  },
+  {
+   "q": "With reference to agricultural soils, consider the following statements: 1️⃣ A high content of organic matter in soil drastically reduces its water holding capacity. 2️⃣ Soil does not play any role in the Sulphur cycle. 3️⃣ Irrigation over a period of time can contribute to the salinization of some agricultural lands. Which of the statements given above is/are correct? [2018-1]",
+   "o": [
+    "1, 2 and 3",
+    "1 only",
+    "3 only",
+    "2 and 3 only"
+   ],
+   "a": 2,
+   "e": "Statement 3 is correct. Statement 1 is false because organic matter (humus) actually enhances water retention. Statement 2 is false as soil is part of the Sulphur cycle."
+  },
+  {
+   "q": "Which of the following is/are the possible consequence/s of heavy sand mining in riverbeds? 1. Decreased salinity in the river, 2. Pollution of groundwater, 3. Lowering of the water-table. [2018-1]",
+   "o": [
+    "1 and 3 only",
+    "1, 2 and 3",
+    "1 only",
+    "2 and 3 only"
+   ],
+   "a": 3,
+   "e": "Sand mining can lead to the lowering of the water table and pollution of groundwater. It increases (not decreases) salinity by allowing saline water ingress."
+  },
+  {
+   "q": "Which of the following statements best describes \"carbon fertilization\"? [2018-1]",
+   "o": [
+    "Adaptation of all living beings on Earth to the climate change",
+    "Increased plant growth due to increased concentration of carbon dioxide in the atmosphere",
+    "Increased temperature of Earth due to increased concentration of carbon dioxide in the atmosphere",
+    "Increased acidity of oceans as a result of increased concentration of carbon dioxide in the atmosphere"
+   ],
+   "a": 1,
+   "e": "Carbon fertilization refers to the spurred plant growth that occurs because increased concentrations of $CO_{2}$ in the atmosphere increase the rate of photosynthesis."
+  },
+  {
+   "q": "Consider the following statements: 1️⃣ The Earth's magnetic field has reversed every few hundred thousand years. 2️⃣ When the Earth was created more than 4000 million years ago, there was 54% oxygen and no carbon dioxide. 3️⃣ When living organisms originated, they modified the early atmosphere of the Earth. Which of the statements given above is/are correct? [2018-1]",
+   "o": [
+    "1, 2 and 3",
+    "1 only",
+    "None of the above",
+    "1 and 3 only"
+   ],
+   "a": 3,
+   "e": "Statement 1 is correct. Statement 2 is false; early Earth had no free oxygen but did have $CO_{2}$. Statement 3 is considered correct as biological life eventually modified the atmosphere."
+  },
+  {
+   "q": "On 21st June the sun: [2019-1]",
+   "o": [
+    "Does not set below the horizon at the Arctic circle",
+    "Does not set below the horizon at Antarctic circle",
+    "Shines vertically overhead at noon on the Equator",
+    "Shines vertically overhead at the tropic of Capricorn"
+   ],
+   "a": 0,
+   "e": "On June 21st, the Northern Hemisphere tilts toward the sun, causing the sun to stay above the horizon for 24 hours at the Arctic Circle."
+  },
+  {
+   "q": "Which of the following statements are correct about the deposits of methane hydrate? 1️⃣ Global warming might trigger the release of methane gas from these deposits. 2️⃣ Large deposits of 'methane hydrate' are found in Arctic Tundra and under the seafloor. 3️⃣ Methane in atmosphere oxidizes to carbon dioxide after a decade or two. [2019-1]",
+   "o": [
+    "1, 2 and 3",
+    "2 and 3 only",
+    "1 only",
+    "2 only"
+   ],
+   "a": 0,
+   "e": "All three are correct: global warming threatens to release methane from tundra/marine sediments, and atmospheric methane typically oxidizes into $CO_{2}$ and water within about 8 years."
+  },
+  {
+   "q": "Why are dewdrops not formed on a cloudy night? [2019-1]",
+   "o": [
+    "Clouds deflect the blowing wind to ground level.",
+    "Clouds absorb the radiation released from the Earth's surface.",
+    "The Earth's surface would have low temperature on cloudy nights.",
+    "Clouds reflect back the Earth's radiation."
+   ],
+   "a": 3,
+   "e": "Dew requires surface cooling. On cloudy nights, clouds reflect and re-emit longwave radiation back to the surface, preventing the ground from cooling enough for dew to form."
+  },
+  {
+   "q": "With reference to Ocean Mean Temperature (OMT), which of the following statements is/are correct? 1️⃣ OMT is measured up to a depth of $26^{\\circ}C$ isotherm which is 129 meters in the south-western Indian Ocean during January - March. 2️⃣ OMT collected during January March can be used in assessing whether the amount of rainfall in monsoon will be less or more than a certain long-term mean. [2020-1]",
+   "o": [
+    "1 only",
+    "Neither 1 nor 2",
+    "Both 1 and 2",
+    "2 only"
+   ],
+   "a": 3,
+   "e": "Statement 2 is correct; OMT is a better predictor for monsoons than sea surface temperature. Statement 1 is false because the 26°C isotherm depth is 59 meters (not 129m) during that period."
+  },
+  {
+   "q": "Consider the following statements: 1️⃣ Jet streams occur in the Northern Hemisphere only. 2️⃣ Only some cyclones develop an eye. 3️⃣ The temperature inside the eye of a cyclone is nearly 10 C lesser than that of the surroundings. Which of the statements given above is/are correct? [2020-1]",
+   "o": [
+    "2 and 3 only",
+    "1 only",
+    "1, 2 and 3",
+    "2 only"
+   ],
+   "a": 3,
+   "e": "Statement 2 is correct. Statement 1 is false; jet streams exist in both hemispheres. Statement 3 is false; the \"eye\" actually has the highest temperature within the cyclonic system."
+  }
+ ]
+}

@@ -1,0 +1,2494 @@
+{
+ "title": "Indian Geography",
+ "category": "UPSC Prelims PYQs",
+ "minutes": 113,
+ "negative": 0.25,
+ "questions": [
+  {
+   "q": "The alpine vegetation in the Western Himalayas is found only up to a height of 3000 metres while in the Eastern Himalayas it is found up to a height of 4000 metres. The reason for this variation in the same mountain range is that: [1995]",
+   "o": [
+    "Eastern Himalayas get more monsoon rainfall than the Western Himalayas",
+    "Eastern Himalayas are higher than Western Himalayas",
+    "Eastern Himalayas are nearer to the equator and sea coast than the Western Himalayas",
+    "Eastern Himalayan rocks are more fertile than the Western Himalayan rocks"
+   ],
+   "a": 2,
+   "e": "The alpine vegetation in eastern Himalayas is found up to 4000 meters because the monsoon rainfall is higher there than in the western Himalayas. Additionally, the Eastern Himalayas are closer to the equator and the sea coast."
+  },
+  {
+   "q": "Consider the map given below: [1995] Of the four places marked 1, 2, 3 and 4 on the map, the one indicating a tidal port is:",
+   "o": [
+    "3",
+    "2",
+    "1",
+    "4"
+   ],
+   "a": 2,
+   "e": "On the provided map, '1' indicates the Calcutta port (situated on the Hooghly river) and '4' indicates Kandla port in Gujarat, both of which are tidal ports. Other marked places like Paradeep (2) and Kochi (3) are natural ports."
+  },
+  {
+   "q": "The division along India's coastal region indicate: [1995]",
+   "o": [
+    "the areas upto which Indian sovereignty extends",
+    "salinity density isopleths",
+    "underwater relief contours",
+    "coastal pollution zones"
+   ],
+   "a": 2,
+   "e": "The markings on the map indicate the coastal region underwater relief contours of India. This region includes various basins and ridges such as the Arabian basin and the Chagos Ridge."
+  },
+  {
+   "q": "\"Monoculture of commercially viable trees is destroying the unique natural profile. Thoughtless exploitation of timber, deforesting vast tracts for palm cultivation, destruction of mangroves, illegal logging by tribals and poaching only compounds the problem. Fresh water pockets are fast drying up due to deforestation and destruction of mangroves\". The place referred to in this quotation is: [1995]",
+   "o": [
+    "Andaman and Nicobar Island",
+    "Sundarban",
+    "Orissa coast",
+    "Kerala coast"
+   ],
+   "a": 1,
+   "e": "The quotation refers to the Sundarbans of West Bengal. It is world-renowned for its mangrove forests and tiger population, situated at the delta region of the Ganga."
+  },
+  {
+   "q": "The palaeomagnetic results obtained from India indicate that in the past, the Indian land mass has moved: [1995]",
+   "o": [
+    "westward",
+    "eastward",
+    "northward",
+    "southward"
+   ],
+   "a": 2,
+   "e": "Palaeomagnetic results indicate that the Indian land mass was once part of the Gondwanaland continent and moved northward after breaking away from Africa."
+  },
+  {
+   "q": "In the map given below, three out of the four places marked indicate places where a thermal power station is located: [1995] The place where there is no thermal power station is marked:",
+   "o": [
+    "2",
+    "1",
+    "4",
+    "3"
+   ],
+   "a": 0,
+   "e": "In the map, '1' indicates Ukai in Gujarat, '3' indicates Korba in Chhattisgarh, and '4' indicates a station in the northeast, all of which host thermal plants. '2' indicates Dondapadu in Andhra Pradesh, which is noted as the location without a thermal station in this context."
+  },
+  {
+   "q": "The Indian subcontinent was originally a part of a huge mass called: [1995]",
+   "o": [
+    "Gondwana continent",
+    "Indiana",
+    "Jurassic land mass",
+    "Aryavarta"
+   ],
+   "a": 0,
+   "e": "Geologists believe that the Indian peninsula was part of the Gondwanaland continent, which eventually drifted northwards, leading to the separation of India and Africa."
+  },
+  {
+   "q": "Which one of the following mountain ranges is spread over only one state in India? [1995]",
+   "o": [
+    "Sahyadri",
+    "Satpura",
+    "Aravalli",
+    "Ajanta"
+   ],
+   "a": 3,
+   "e": "The Ajanta mountain range is a short range located entirely within the state of Maharashtra, specifically in the Aurangabad district. Aravalli, Satpura, and Sahyadris spread across multiple states."
+  },
+  {
+   "q": "The National Highway from Amritsar to Calcutta via Delhi is numbered: [1995]",
+   "o": [
+    "2",
+    "8",
+    "1",
+    "4"
+   ],
+   "a": 0,
+   "e": "National Highway No. 2 connects Amritsar to Calcutta via Delhi. It was historically part of the Grand Trunk Road constructed by Sher Shah Suri."
+  },
+  {
+   "q": "Examine the map of Jammu and Kashmir given below: [1995] The mountains ranges marked 1, 2, 3 and 4 are respectively:",
+   "o": [
+    "Karakoram, Zanskar, Pir Panjal and Ladakh",
+    "Ladakh, Pir Panjal, Karakoram and Zanskar",
+    "Karakoram, Ladakh, Zanskar and Pir Panjal",
+    "Ladakh, Zanskar, Karakoram and Pir Panjal"
+   ],
+   "a": 2,
+   "e": "Based on the physiography of Jammu and Kashmir, '1' represents the Karakoram range, '2' represents the Ladakh range, '3' represents the Zanskar range, and '4' represents the Pir Panjal range."
+  },
+  {
+   "q": "High temperature and low pressure over the Indian subcontinent during the summer season draws air from the Indian Ocean leading to the in-blowing of the: [1996]",
+   "o": [
+    "Trade winds",
+    "South-east monsoon",
+    "Westerlies",
+    "South-west monsoon"
+   ],
+   "a": 3,
+   "e": "The development of an intensive low-pressure belt over the north-western plains during summer causes the south-west monsoon to blow into the subcontinent from the Arabian Sea and Bay of Bengal."
+  },
+  {
+   "q": "Match List-I (Ores) with List-II (States where they are mined) and select the correct answer: 1️⃣ Manganese: Madhya Pradesh 2️⃣ Nickel: Orissa 3️⃣ Lead-zinc: Rajasthan 4️⃣ Asbestos: Andhra Pradesh [1996]",
+   "o": [
+    "A-1; B-2; C-3; D-4",
+    "A-4; B-2; C-3; D-1",
+    "A-4; B-3; C-2; D-1",
+    "A-1; B-3; C-3; D-4"
+   ],
+   "a": 0,
+   "e": "The correct mining locations are Manganese in Madhya Pradesh, Nickel in Orissa, Lead-Zinc in Rajasthan (Zawar mines), and Asbestos in Andhra Pradesh."
+  },
+  {
+   "q": "As per the 1991 Census, which one of the following states has a lower population density than the other three? [1996]",
+   "o": [
+    "Meghalaya",
+    "Manipur",
+    "Sikkim",
+    "Nagaland"
+   ],
+   "a": 2,
+   "e": "According to 1991 census data, the population densities were: Sikkim (57), Nagaland (73), Manipur (82), and Meghalaya (79). Thus, Sikkim had the lowest density."
+  },
+  {
+   "q": "Which of the following pairs are correctly matched? 1️⃣ Idukki: Thermal power station 2️⃣ Sabarigiri: Hydro-electric project 3️⃣ Ghatprabha: Irrigation project 4️⃣ Ramganga: Multipurpose project [1996]",
+   "o": [
+    "1, 2, 3 and 4",
+    "3 and 4",
+    "1 and 2",
+    "2, 3 and 4"
+   ],
+   "a": 3,
+   "e": "Pair 1 is incorrect because Idukki is a major hydro-electric project in Kerala, not a thermal station. Sabarigiri, Ghatprabha, and Ramganga are correctly matched to their respective project types."
+  },
+  {
+   "q": "In the Indian context the term 'De-notified tribes' refers to: [1996]",
+   "o": [
+    "tribes which were earlier classified as criminal tribes",
+    "tribes which are aboriginals",
+    "tribes practising shifting cultivation",
+    "nomadic tribes"
+   ],
+   "a": 0,
+   "e": "'De-notified tribes', also known as Vimukta Jati, refers to tribes that were originally listed under the Criminal Tribes Act of 1871 during the British regime."
+  },
+  {
+   "q": "Which one of the following rivers thrice forks into two streams and reunites a few miles farther on, thus, forming the islands of Srirangapattanam, Sivasamudram and Srirangam? [1996]",
+   "o": [
+    "Cauvery",
+    "Krishna",
+    "Godavari",
+    "Tungabhadra"
+   ],
+   "a": 0,
+   "e": "The River Cauvery forms three large islands on its journey: Srirangapattanam and Sivasamudram in Karnataka, and Srirangam in Tamil Nadu. All three are significant pilgrimage centers."
+  },
+  {
+   "q": "\"You might see a few curious Danes around, but that is because-used to be Danish outpost. This quaint town with its fort and a beautiful church, the New Jerusalem, empty streets and deserted beach front is a quaint gem.\" The place referred to in this quotation lies on the: [1996]",
+   "o": [
+    "Tamil Nadu coast",
+    "Kerala coast",
+    "Karnataka coast",
+    "Goa coast"
+   ],
+   "a": 0,
+   "e": "The description refers to Tharangambadi (Tranquebar) on the Tamil Nadu coast. The New Jerusalem Church was built there by Danish missionaries in 1718."
+  },
+  {
+   "q": "Consider the following rivers: 1️⃣ Kishenganga 2️⃣ Ganga 3️⃣ Wainganga 4️⃣ Penganga. The correct sequence of these rivers when arranged in the north-south direction is: [1996]",
+   "o": [
+    "1, 2, 4, 3",
+    "2, 1, 4, 3",
+    "2, 1, 3, 4",
+    "1, 2, 3, 4"
+   ],
+   "a": 3,
+   "e": "In a north-to-south direction, the sequence is Kishenganga (J&K), Ganga (Uttarakhand/UP), Wainganga (Madhya Pradesh), and Penganga (Maharashtra)."
+  },
+  {
+   "q": "Match List-I with List-II and select the correct answer: 1️⃣ Madras is warmer than Calcutta: Latitude 2️⃣ Snowfall in Himalayas: Altitude 3️⃣ Rainfall decreases from West Bengal to Punjab: Distance from the sea 4️⃣ Sutlej-Ganga plain gets some rain in winter: Western depressions [1997]",
+   "o": [
+    "A-1; B-2; C-4; D-5",
+    "A-5; B-1; C-3; D-4",
+    "A-5; B-2; C-4; D-3",
+    "A-4; B-5; C-1; D-3"
+   ],
+   "a": 2,
+   "e": "Madras is warmer due to its lower latitude (closer to the equator). Snowfall occurs in the Himalayas due to high altitude. Rainfall decreases toward Punjab due to distance from the sea, and winter rain in the plains is caused by western disturbances."
+  },
+  {
+   "q": "Match List-I with List-II and select the correct answer: 1️⃣ Deccan Traps: Cretaceous Eocene 2️⃣ Western Ghats: Late cenozoic 3️⃣ Aravalli: Pre-cambrian 4️⃣ Narmada-Tapi alluvial deposits: Pleistocene [1997]",
+   "o": [
+    "A-3; B-5; C-1; D-4",
+    "A-2; B-1; C-3; D-4",
+    "A-1; B-4; C-2; D-5",
+    "A-3; B-1; C-2; D-5"
+   ],
+   "a": 0,
+   "e": "The geological periods for these features are: Deccan Traps (Cretaceous), Western Ghats (Late Cenozoic), Aravalli (Pre-Cambrian - the oldest), and Narmada-Tapi deposits (Pleistocene)."
+  },
+  {
+   "q": "The January isotherm taken as a basis for dividing India into tropical and subtropical zones is: [1997]",
+   "o": [
+    "21°C",
+    "18°C",
+    "12°C",
+    "15°C"
+   ],
+   "a": 3,
+   "e": "The 15°C January isotherm is used by geographers to distinguish between the tropical and subtropical climate zones of India."
+  },
+  {
+   "q": "Match List-I with List-II and select the correct answer: 1️⃣ Coal: Karanpura 2️⃣ Gold: Hutti 3️⃣ Mica: Nellore 4️⃣ Manganese: Bhandara [1997]",
+   "o": [
+    "A-2; B-1; C-4; D-3",
+    "A-1; B-3; C-2; D-4",
+    "A-3; B-4; C-2; D-1",
+    "A-2; B-3; C-4; D-1"
+   ],
+   "a": 3,
+   "e": "Karanpura (Jharkhand) is known for coal, Hutti (Karnataka) for gold, Nellore (Andhra Pradesh) for mica, and Bhandara (Maharashtra) for manganese."
+  },
+  {
+   "q": "The Alamatti is on the river: [1997]",
+   "o": [
+    "Kavery",
+    "Godavari",
+    "Mahanadi",
+    "Krishna"
+   ],
+   "a": 3,
+   "e": "The Alamatti Dam is a multi-purpose project built on the Krishna River in Karnataka, used for both irrigation and hydroelectricity."
+  },
+  {
+   "q": "The predominant languages spoken in the areas marked A, B, C and D in the provided map are respectively: [1997]",
+   "o": [
+    "Awadhi, Maithili, Bhojpuri and Brajbhasha",
+    "Maithili, Bhojpuri, Brajbhasha and Awadhi",
+    "Brajbhasha, Bhojpuri, Maithili and Awadhi",
+    "Brajbhasha, Awadhi, Bhojpuri and Maithili"
+   ],
+   "a": 3,
+   "e": "Area A (Mathura) speaks Brajbhasha, B (Faizabad) speaks Awadhi, C (Arah, Bihar) speaks Bhojpuri, and D (North Bihar) speaks Maithili."
+  },
+  {
+   "q": "The canal-carrying capacity of Farakka is: [1997]",
+   "o": [
+    "75,000 Cusecs",
+    "40,000 Cusecs",
+    "70,000 Cusecs",
+    "35,000 Cusecs"
+   ],
+   "a": 1,
+   "e": "The Farakka Barrage, which is 2245 metres long across the Ganga, has a feeder canal with a carrying capacity of 40,000 cusecs."
+  },
+  {
+   "q": "Which one of the following pairs is correctly matched? [1997]",
+   "o": [
+    "Sundari : West Bengal",
+    "Deodar : Madhya Pradesh",
+    "Sandalwood : Kerala",
+    "Teak : Jammu and Kashmir"
+   ],
+   "a": 0,
+   "e": "Sundari trees are characteristic of the Sundarbans in West Bengal. Teak is common in central India, Deodar in the Himalayas, and Sandalwood is most famous in Karnataka."
+  },
+  {
+   "q": "Consider the map given below: The place marked A, B, C and D in the map are respectively: [1997]",
+   "o": [
+    "Chhattisgarh plain, Rain shadow region, Chhota Nagpur plateau and Rift valley region",
+    "Rift valley region, Chhattisgarh plain, Chhota Nagpur plateau and Rain shadow region",
+    "Chhattisgarh plain, Chhota Nagpur plateau, Rift valley region, and Rain shadow region",
+    "Rift valley region, Chhattisgarh plain, Rain shadow region and Chhota Nagpur"
+   ],
+   "a": 1,
+   "e": "Area A represents the Narmada-Tapi rift valley, B is the Chhattisgarh plain, C is the Chhota Nagpur plateau in Jharkhand, and D is the rain shadow area of the Western Ghats."
+  },
+  {
+   "q": "According to the latest census figures (at the time of the question), sex ratio in India is: [1997]",
+   "o": [
+    "stable",
+    "fluctuating",
+    "declining",
+    "increasing"
+   ],
+   "a": 1,
+   "e": "The sex ratio in India has historically fluctuated; it was 934 in 1981, declined to 927 in 1991, and rose to 933 in the 2001 census."
+  },
+  {
+   "q": "The tribal population in Andaman and Nicobar islands belongs to the: [1997]",
+   "o": [
+    "Mongoloid race",
+    "Caucasoid race",
+    "Australoid race",
+    "Negroid race"
+   ],
+   "a": 3,
+   "e": "The major tribes of the Andaman Islands (like the Onge) belong to the Negroid race. A smaller population in the Nicobars is of Mongoloid descent."
+  },
+  {
+   "q": "In the map shown (referencing the Ganges tributaries), rivers 1, 2, 3 and 4 are respectively: [1997]",
+   "o": [
+    "Teesta, Gomti, Ghaghara and Kosi",
+    "Kosi, Ganga, Gomti and Ghaghara",
+    "Kosi, Gomti, Ghaghara and Gandak",
+    "Gandak, Ganga, Gomti and Ghaghara"
+   ],
+   "a": 3,
+   "e": "The correct sequence of the tributaries of the Ganga shown in the map (moving from west to east) is Gandak, Ganga (main stream), Gomti, and Ghaghara."
+  },
+  {
+   "q": "Which one of the following east flowing rivers of India has a rift valley due to down warping? [1998]",
+   "o": [
+    "Damodar",
+    "Yamuna",
+    "Sone",
+    "Mahanadi"
+   ],
+   "a": 0,
+   "e": "The Damodar River flows through a rift valley created by down-warping, which is a segment of the earth's crust that has bent downward."
+  },
+  {
+   "q": "Forest areas have been labelled as 1, 2, 3 and 4 in the map. Among these, those which were threatened in 1997 by a serious epidemic include: [1998]",
+   "o": [
+    "teak forests of 3 and 4",
+    "oak forests of 1 and sal forests of 2",
+    "sandalwood forests of 4",
+    "sal forests of 3"
+   ],
+   "a": 3,
+   "e": "In 1997, the Sal forests of Madhya Pradesh (marked as '3') were severely affected by a borer insect epidemic that caused large-scale destruction."
+  },
+  {
+   "q": "Commercial production of mineral oil has started in which one of the areas of India, labelled 1, 2, 3 and 4 in the map given below: [1998]",
+   "o": [
+    "3",
+    "1",
+    "2",
+    "4"
+   ],
+   "a": 0,
+   "e": "During the period of the question, the Cauvery basin (marked as '3') had successfully started the commercial production of mineral oil."
+  },
+  {
+   "q": "Match List-I (Minerals) with List-II (Mining area) and select the correct answer: 1️⃣ Graphite: Rampa 2️⃣ Lead: Zawar 3️⃣ Salt: Didwana 4️⃣ Silver: Bellary [1998]",
+   "o": [
+    "A-3; B-4; C-1; D-2",
+    "A-3; B-4; C-2; D-1",
+    "A-2; B-3; C-1; D-4",
+    "A-1; B-4; C-2; D-3"
+   ],
+   "a": 1,
+   "e": "Graphite is found in Rampa (Andhra Pradesh), Lead in Zawar (Rajasthan), Salt in Didwana (Rajasthan), and Bellary is noted for other minerals, but the matching code specifies this arrangement."
+  },
+  {
+   "q": "The discovery of Oak flora in 1966 added a new chapter to the history of Indian Sericulture. Which one of the following states is the leading producer of Oak tasar silk? [1998]",
+   "o": [
+    "Bihar",
+    "Assam",
+    "Orissa",
+    "Manipur"
+   ],
+   "a": 1,
+   "e": "Oak Tasar silk is produced in Assam. The discovery of appropriate Oak flora in 1966 in the region significantly boosted the sericulture industry there."
+  },
+  {
+   "q": "Match List I (Places) with List II (Industries) and select the correct answer: 1️⃣ Jamnagar: Woollen textile 2️⃣ Hospet: Iron and steel 3️⃣ Korba: Aluminium 4️⃣ Haldia: Fertilizers [1998]",
+   "o": [
+    "A-4; B-3; C-1; D-2",
+    "A-2; B-1; C-4; D-3",
+    "A-4; B-5: C-2; D-1",
+    "A-2; B-5; C-1; D-3"
+   ],
+   "a": 3,
+   "e": "Jamnagar is a center for Woollen textiles, Hospet for Iron and Steel, Korba for Aluminium, and Haldia for Fertilizers."
+  },
+  {
+   "q": "In the vicinity of Mumbai, a number of specialised towns have been developed. Match the towns with their specialisation: 1️⃣ Alibag: Holiday resort 2️⃣ Balapur: Fishing centre 3️⃣ Nhava Sheva: Port 4️⃣ Ratnagiri: Petrochemical complex [1998]",
+   "o": [
+    "A-2; B-1; C-4; D-3",
+    "A-3; B-4; C-2; D-1",
+    "A-2; B-3; C-4; D-1",
+    "A-1; B-3; C-2; D-4"
+   ],
+   "a": 2,
+   "e": "Alibag is a popular Holiday Resort, Balapur is a Fishing Centre, Nhava Sheva is a major Port, and Ratnagiri hosts a Petrochemical complex."
+  },
+  {
+   "q": "What is the correct sequence of the following Indian states in descending order of their length of surface roads per 100 km² of their areas? 1️⃣ Haryana 2️⃣ Maharashtra 3️⃣ Punjab 4️⃣ Tamil Nadu [1998]",
+   "o": [
+    "3, 4, 1, 2",
+    "4, 3, 2, 1",
+    "3, 4, 2, 1",
+    "4, 3, 1, 2"
+   ],
+   "a": 3,
+   "e": "Based on historical data, the descending order was Tamil Nadu (158.78 km), Punjab (127.78 km), Maharashtra (117.61 km), and Haryana (63.70 km)."
+  },
+  {
+   "q": "The four railway junctions shown by numerals 1, 2, 3, 4 on the rough outline map of Gujarat are respectively: [1998]",
+   "o": [
+    "Palanpur, Kanda, Bhuj and Okla",
+    "Mahesana, Surendranagar, Rajkot and Junagarh",
+    "Palanpur, Mahesana, Ahmedabad and Vadodara",
+    "Ahmedabad, Vadodara, Bhavnagar and Broach"
+   ],
+   "a": 1,
+   "e": "The numbered points on the Gujarat map represent the junctions of Mahesana (1), Surendranagar (2), Rajkot (3), and Junagarh (4)."
+  },
+  {
+   "q": "Some people in Manipur live in house built on floating islands of weeds and decaying vegetation held together by suspended silt. These are called: [1998]",
+   "o": [
+    "Tipis",
+    "Izba",
+    "Barkhans",
+    "Phoomdis"
+   ],
+   "a": 3,
+   "e": "In the Loktak Lake of Manipur, the unique floating islands made of organic matter and soil are locally known as \"Phoomdis.\""
+  },
+  {
+   "q": "Which one of the following is the correct sequence of the states (labelled 1, 2, 3 and 4) of India shown on the map in descending order in terms of available ground water resources for irrigation? [1998]",
+   "o": [
+    "3, 1, 4, 2",
+    "1, 3, 4, 2",
+    "3, 1, 2, 4",
+    "1, 3, 2, 4"
+   ],
+   "a": 1,
+   "e": "Uttar Pradesh (1) has the highest ground water coverage (9.3 million hectares), followed by Maharashtra (3), West Bengal (4), and Assam (2)."
+  },
+  {
+   "q": "Among the Indian States shown labelled 1, 2, 3 and 4 in the map, the correct sequence in descending order of percent of scheduled tribe population to their total population is: [1998]",
+   "o": [
+    "4, 3, 2, 1",
+    "4, 3, 1, 2",
+    "3, 4, 1, 2",
+    "3, 4, 2, 1"
+   ],
+   "a": 1,
+   "e": "Based on 2001 Census, the percentages are Mizoram (94.75% - 4), Arunachal Pradesh (63.66% - 3), Manipur (34.4% - 1), and Orissa (22.21% - 2)."
+  },
+  {
+   "q": "Which one of the following sets of states benefits the most from the Konkan Railway? [1998]",
+   "o": [
+    "Madhya Pradesh, Maharashtra, Tamil Nadu, Kerala",
+    "Gujarat, Maharashtra, Goa, Tamil Nadu",
+    "Goa, Karnataka, Maharashtra, Kerala",
+    "Tamil Nadu, Kerala, Goa, Maharashtra"
+   ],
+   "a": 2,
+   "e": "The Konkan Railway connects Roha in Maharashtra to Mangalore in Karnataka, passing through Goa. Kerala also benefits significantly as it serves as a major transit route for the state."
+  },
+  {
+   "q": "Which one of the following pairs of cities has recently (at the time) been connected through a 6-lane express way? [1998]",
+   "o": [
+    "Islamabad and Lahore",
+    "Dhaka and Chittagong",
+    "Ahmedabad and Vadodara",
+    "Mumbai and Pune"
+   ],
+   "a": 3,
+   "e": "The Mumbai-Pune Expressway was the first 6-lane, high-speed, access-controlled tolled expressway project in India."
+  },
+  {
+   "q": "\"India has the largest population of the Asian X. Today, there are just about 20,000 to 25,000 X in their natural habitat spreading across... forest divisions of Dehradun, Bijnor... to the Western Ghats... and Southern Bihar and Orissa.\" The animal \"X\" referred to in this quotation is : [1999]",
+   "o": [
+    "elephant",
+    "lion",
+    "one-horned rhinoceros",
+    "tiger"
+   ],
+   "a": 0,
+   "e": "The description refers to the Asian Elephant (Elephas maximus), which is found in habitats ranging from the Himalayan foothills (Dehradun) to the Western Ghats and central India."
+  },
+  {
+   "q": "Assertion (A): According to statistics, more female children are born each year than male children in India. Reason (R): In India, the death rate of a male child is higher than that of the female child. [1999]",
+   "o": [
+    "Both A and R are true but R is not a correct explanation of A",
+    "A is false but R is true",
+    "Both A and R are true and R is the correct explanation of A",
+    "A is true but R is false"
+   ],
+   "a": 1,
+   "e": "The assertion is false because India historically has a lower female-to-male birth ratio due to various social factors including female foeticide. The reason, however, is statistically true as male infant mortality can often be higher."
+  },
+  {
+   "q": "The minimum land area recommended for forest cover to maintain proper ecological balance in India is: [1999]",
+   "o": [
+    "33%",
+    "53%",
+    "25%",
+    "43%"
+   ],
+   "a": 0,
+   "e": "The National Forest Policy recommends that 33% of the total land area should be under forest cover for ecological stability, though India's actual coverage is lower."
+  },
+  {
+   "q": "In which one of the following areas in the given map was there a recent discovery of copper deposits by the Atomic Minerals Division? [1999]",
+   "o": [
+    "3",
+    "4",
+    "2",
+    "1"
+   ],
+   "a": 1,
+   "e": "In 1999, significant copper deposits were discovered by the Atomic Minerals Division at Hassan in Karnataka, which is marked as '4' on the map."
+  },
+  {
+   "q": "In the given figure, the site of the Tehri dam has been labelled as: [1999]",
+   "o": [
+    "C",
+    "D",
+    "B",
+    "A"
+   ],
+   "a": 0,
+   "e": "The Tehri Dam is located in the Tehri district of Uttarakhand at the confluence of the Bhagirathi and Bhilangana rivers, marked as 'C'."
+  },
+  {
+   "q": "The figure shows a portion of Southern India. The proposed site (Koodankulam) for construction of two 1000 MW nuclear power plants has been labelled in the map as: [1999]",
+   "o": [
+    "B",
+    "D",
+    "C",
+    "A"
+   ],
+   "a": 0,
+   "e": "Koodankulam is located in the Tirunelveli district of Tamil Nadu, which is correctly identified by the label 'B' in the southern tip map."
+  },
+  {
+   "q": "The first marine sanctuary in India, within its bounds coral reefs, mollusca, dolphins, tortoises and various kinds of sea birds, has been established in: [1999]",
+   "o": [
+    "Sundarbans",
+    "Chilka Lake",
+    "Gulf of Kutch",
+    "Lakshadweep"
+   ],
+   "a": 2,
+   "e": "The Marine National Park and Sanctuary in the Gulf of Kutch was established in 1980/1982, becoming the first of its kind in India."
+  },
+  {
+   "q": "Which one of the following pairs of states and tribes is not correctly matched? [1999]",
+   "o": [
+    "Arunachal: Apatani",
+    "Madhya Pradesh: Lambada",
+    "Assam: Miri",
+    "Nagaland: Konyak"
+   ],
+   "a": 1,
+   "e": "Lambada tribes are primarily found in Rajasthan and parts of Andhra Pradesh/Telangana, not Madhya Pradesh."
+  },
+  {
+   "q": "In the rough outline map of a part of Jammu and Kashmir, places marked A, B, C and D represent respectively: [1999]",
+   "o": [
+    "Baramula, Srinagar, Kargil and Anantnag",
+    "Baramula, Srinagar, Anantnag and Kargil",
+    "Anantnag, Baramula, Srinagar and Kargil",
+    "Srinagar, Baramula, Kargil and Anantnag"
+   ],
+   "a": 1,
+   "e": "Following the geography of the region, A is Baramula, B is Srinagar, C is Anantnag, and D is Kargil."
+  },
+  {
+   "q": "If it is 10.00 a.m. I.S.T., then what would be the local time at Shillong on 92° E longitude? [1999]",
+   "o": [
+    "9.22 a.m.",
+    "10.22 a.m.",
+    "9.38 a.m.",
+    "10.38 a.m."
+   ],
+   "a": 3,
+   "e": "IST is based on 82.5° E. Shillong at 92° E is 9.5° further east. Since 1° = 4 minutes, the time difference is 9.5 x 4 = 38 minutes. Being east, Shillong is ahead, so the time is 10:38 a.m."
+  },
+  {
+   "q": "The Ravva offshore block, with great potential for oil, is located in: [1999]",
+   "o": [
+    "Mahanadi basin",
+    "Krishna-Godavari basin",
+    "Palar-Pennar basin",
+    "Cauvery basin"
+   ],
+   "a": 1,
+   "e": "The Ravva offshore field is a significant source of petroleum and natural gas located in the Krishna-Godavari basin of Andhra Pradesh."
+  },
+  {
+   "q": "Which one of the following statements is not true? [2000]",
+   "o": [
+    "Penganga is a tributary of the Godavari",
+    "Narmada rises from Amarkantak region",
+    "Nizam Sagar is situated on the Manjra river",
+    "Ghaggar's water is utilised in the Indira Gandhi canal"
+   ],
+   "a": 3,
+   "e": "Statement (a) is false because the Indira Gandhi Canal originates from the Harike Barrage at the confluence of the Sutlej and Beas rivers."
+  },
+  {
+   "q": "Match the locations of ports labelled as A, B, C and D in the given map: 1️⃣ Veraval: A 2️⃣ Karwar: B 3️⃣ Tuticorin: C 4️⃣ Kakinada: D [1999]",
+   "o": [
+    "A-5; B-2; C-4; D-1",
+    "A-1; B-3; C-4; D-2",
+    "A-4; B-2; C-3; D-5",
+    "A-5; B-3; C-2; D-1"
+   ],
+   "a": 0,
+   "e": "A is Veraval (Gujarat), B is Karwar (Karnataka), C is Tuticorin (Tamil Nadu), and D is Kakinada (Andhra Pradesh)."
+  },
+  {
+   "q": "Which one of the following pairs of primitive tribes and places of their inhabitation is NOT correctly matched? [2000]",
+   "o": [
+    "Munda: Chhota Nagpur",
+    "Korba: Kodagu",
+    "Buksa: Pauri-Garhwal",
+    "Kol: Jabalpur"
+   ],
+   "a": 1,
+   "e": "The Korba tribe is found in the Chhota Nagpur region (Chhattisgarh/Jharkhand), whereas Kodagu is a district in Karnataka."
+  },
+  {
+   "q": "Assertion (A): The frequency of floods in north Indian plains has increased during the last couple of decades. Reason (R): There has been a reduction in the depth of river valleys due to deposition of silt. [2000]",
+   "o": [
+    "Both A and R are true but R is not a correct explanation of A",
+    "A is true but R is false",
+    "Both A and R are true and R is the correct explanation of A",
+    "A is false but R is true"
+   ],
+   "a": 2,
+   "e": "Increased siltation in North Indian rivers has raised the river beds, reducing their carrying capacity and leading to more frequent flooding in the plains."
+  },
+  {
+   "q": "Which one of the following statements is true according to 1991 Census data? [2000]",
+   "o": [
+    "West Bengal has the highest growth rate of population in India",
+    "Bihar has the lowest literacy rate in India",
+    "U.P. has the highest density of population in India",
+    "Himachal Pradesh has the highest female to male sex ratio in India"
+   ],
+   "a": 1,
+   "e": "According to the 1991 Census, Bihar recorded the lowest literacy rate at 47.53%. Other claims like UP having the highest density were incorrect (West Bengal was higher)."
+  },
+  {
+   "q": "Assertion (A): Ganga plain is the most densely populated part of India. Reason (R): Ganga is the most harnessed river of India. [2000]",
+   "o": [
+    "Both A and R are true but R is not a correct explanation of A",
+    "A is true but R is false",
+    "Both A and R are true and R is the correct explanation of A",
+    "A is false but R is true"
+   ],
+   "a": 0,
+   "e": "The Ganga plain is the most densely populated because of its fertile alluvial soil and water availability for agriculture, not simply because the river is \"harnessed.\""
+  },
+  {
+   "q": "Match the different ports of Union Territory of Pondicherry labelled as A, B, C and D in the given map: 1️⃣ Mahe: A 2️⃣ Karaikal: B 3️⃣ Pondicherry: C 4️⃣ Yanam: D [2000]",
+   "o": [
+    "A-1; B-2; C-4; D-3",
+    "A-2; B-1; C-3; D-4",
+    "A-1; B-2; C-3; D-4",
+    "A-2; B-1; C-4; D-3"
+   ],
+   "a": 1,
+   "e": "Mahe (A) is on the west coast, while Karaikal (B), Pondicherry (C), and Yanam (D) are on the east coast."
+  },
+  {
+   "q": "In the provided map (referencing markings in central/eastern India), the black marks show distribution of: [2001]",
+   "o": [
+    "asbestos",
+    "limestone",
+    "gypsum",
+    "mica"
+   ],
+   "a": 3,
+   "e": "Mica is widely distributed across several Indian states including Jharkhand, Odisha, Bihar, Rajasthan, and Andhra Pradesh, as shown by the markings."
+  },
+  {
+   "q": "In the shaded area of the map (referencing tropical wet/dry regions), the mean temperature for the month of July varies between: [2001]",
+   "o": [
+    "27.5°C - 30.0°C",
+    "30.0°C - 32.5°C",
+    "25.0°C - 27.5°C",
+    "22.5°C - 25.0°C"
+   ],
+   "a": 0,
+   "e": "The shaded area represents the tropical wet and dry region of central/southern India, where July mean temperatures typically range between 27.5°C and 30°C."
+  },
+  {
+   "q": "Mekong Ganga Co-operation Project is: [2001]",
+   "o": [
+    "a joint tourism initiative of some Asian countries",
+    "a defence and security agreement of India with its eastern neighbours",
+    "an irrigation project involving India and Myanmar",
+    "a hydroelectric power project involving India, Bangladesh and Myanmar"
+   ],
+   "a": 0,
+   "e": "The MGC (established in 2000) involves six countries (India, Thailand, Myanmar, Cambodia, Laos, Vietnam) focusing on tourism, culture, education, and transport."
+  },
+  {
+   "q": "Assertion (A): Anticyclonic conditions are formed in winter season when atmospheric pressure is high and air temperatures are low. Reason (R): Winter rainfall in northern India causes development of anticyclonic conditions with low temperatures. [2001]",
+   "o": [
+    "Both A and R are true and R is the correct explanation of A",
+    "A is false but R is true",
+    "Both A and R are true but R is not a correct explanation of A",
+    "A is true but R is false"
+   ],
+   "a": 0,
+   "e": "In winter, high pressure develops over north India. Light winds blow outward from the Ganga valley, creating anticyclonic conditions, often associated with cold weather following winter disturbances."
+  },
+  {
+   "q": "Consider the following statements regarding power sector in India (as of 2001): 1️⃣ The installed capacity of power generation is around 95000 MW 2️⃣ Nuclear plants contribute nearly 15% of total power generation 3️⃣ Hydroelectricity plants contribute nearly 40% of total power generation 4️⃣ Thermal plants at present account for nearly 80% of total power generation. Which of the statements is/are correct? [2001]",
+   "o": [
+    "3 and 4",
+    "1 and 4",
+    "1 only",
+    "2 and 3"
+   ],
+   "a": 2,
+   "e": "In 2001, the capacity was approx. 95,000 MW. Statement 2 is false (Nuclear was ~2%), 3 is false (Hydro ~25%), and 4 is close but usually cited at ~73%."
+  },
+  {
+   "q": "The approximate age of the Aravallis range is: [2001]",
+   "o": [
+    "570 million years",
+    "670 million years",
+    "370 million years",
+    "470 million years"
+   ],
+   "a": 1,
+   "e": "The Aravallis are among the oldest fold mountains in the world, with an approximate age of 670 million years."
+  },
+  {
+   "q": "The correct sequence of the eastward flowing rivers of the peninsular India from north to south is: [2002]",
+   "o": [
+    "Mahanadi, Subarnarekha, Krishna, Godavari, Cauvery, Vagai and Pennar",
+    "Mahanadi, Subarnarekha, Godavari, Krishna, Cauvery, Pennar and Vagai",
+    "Subarnarekha, Mahanadi, Krishna, Godavari, Cauvery and Vagai",
+    "Subarnarekha, Mahanadi, Godavari, Krishna, Pennar, Cauvery and Vagai"
+   ],
+   "a": 3,
+   "e": "The spatial arrangement from North to South along the East Coast is: Subarnarekha, Mahanadi, Godavari, Krishna, Pennar, Cauvery, and finally Vagai."
+  },
+  {
+   "q": "Match List-I (Period) with List-II (Phase of population growth): 1️⃣ 1901-1921: Stagnant growth 2️⃣ 1921-1951: Steady growth 3️⃣ 1951-1981: Rapid high growth 4️⃣ 1981-2001: High growth with definite signs of slowdown [2002]",
+   "o": [
+    "A-1; B-3; C-4; D-2",
+    "A-1; B-3; C-2; D-4",
+    "A-3; B-1; C-4; D-2",
+    "A-3; B-1; C-2; D-4"
+   ],
+   "a": 2,
+   "e": "India's demographic history is divided into stagnant (pre-1921), steady (1921-51), rapid (1951-81), and the current slowing growth phase."
+  },
+  {
+   "q": "With reference to Indian transport systems, consider the following statements: 1️⃣ Indian railway system is the largest in the world 2️⃣ National Highways cater to 45 percent of the total road transport demand 3️⃣ Among the states, Kerala has the highest density of surface road 4️⃣ National Highway No. 7 is the longest in the country. Which of these statements are correct? [2002]",
+   "o": [
+    "2 and 4",
+    "1 and 2",
+    "1 and 3",
+    "2 and 3"
+   ],
+   "a": 0,
+   "e": "Indian Railways is the 4th largest (not 1st). National Highways carry ~40-45% of traffic. Maharashtra has the highest surface road density, not Kerala. NH 7 (Varanasi-Kanyakumari) was the longest at that time."
+  },
+  {
+   "q": "The average annual temperature of a meteorological station is 26°C, its average annual rainfall is 63 cm and the annual range temperature is 9°C. The station in question is: [2002]",
+   "o": [
+    "Allahabad",
+    "Chennai",
+    "Cherrapunji",
+    "Kolkata"
+   ],
+   "a": 1,
+   "e": "These climatic parameters (high average temperature, moderate rainfall, and low annual temperature range) are characteristic of the Tropical Savanna climate of Chennai."
+  },
+  {
+   "q": "The sea coast of which one of the following states has become famous as a nesting place for the giant Olive Ridley turtles from South America? [2002]",
+   "o": [
+    "Tamil Nadu",
+    "Goa",
+    "Orissa",
+    "Gujarat"
+   ],
+   "a": 2,
+   "e": "The Gahirmatha beach in Orissa is the world's largest nesting ground for the Olive Ridley sea turtles."
+  },
+  {
+   "q": "With reference to India, which one of the following statements is not correct? [2002]",
+   "o": [
+    "Alluvial soil is the predominant type of soil in northern plains of the country",
+    "About one-third of the area of the country records more than 750 millimetres of annual rainfall",
+    "The dominant source of irrigation in the country is wells",
+    "The mountain areas account for about thirty percent of the surface area of the country"
+   ],
+   "a": 1,
+   "e": "Statement (a) is incorrect because much more than one-third of India receives over 750 mm of rainfall. Statement (b) is true as wells/tube wells are the primary source of irrigation (~64%)."
+  },
+  {
+   "q": "Open stunted forests with bushes and small trees having long roots and sharp thorns or spines are commonly found in: [2002]",
+   "o": [
+    "North-Eastern Tamil Nadu",
+    "Eastern Orissa",
+    "Shivalik and Terai region",
+    "Western Andhra Pradesh"
+   ],
+   "a": 3,
+   "e": "These are characteristics of dry thorn forests found in semi-arid regions (rainfall < 80cm) such as Rajasthan, Gujarat, and parts of the Deccan rain shadow like western Andhra Pradesh."
+  },
+  {
+   "q": "Match List-I (Mangrove) with List-II (State): 1️⃣ Achra Ratnagiri: Maharashtra 2️⃣ Coondapur: Karnataka 3️⃣ Pichavaram: Tamil Nadu 4️⃣ Vembanad: Kerala [2002]",
+   "o": [
+    "A-2; B-5; C-3; D-4",
+    "A-2; B-1; C-5; D-4",
+    "A-4; B-5; C-3; D-2",
+    "A-4; B-1; C-5; D-2"
+   ],
+   "a": 3,
+   "e": "The correct matches are Achra Ratnagiri (Maharashtra), Coondapur (Karnataka), Pichavaram (Tamil Nadu), and Vembanad (Kerala)."
+  },
+  {
+   "q": "What is the correct sequence of the rivers-Godavari, Mahanadi, Narmada and Tapi in the descending order of their lengths? [2003]",
+   "o": [
+    "Godavari-Narmada-Mahanadi-Tapi",
+    "Narmada-Tapi-Godavari-Mahanadi",
+    "Godavari-Mahanadi-Narmada-Tapi",
+    "Narmada-Godavari-Tapi-Mahanadi"
+   ],
+   "a": 0,
+   "e": "The lengths are Godavari (1465 km), Narmada (1312 km), Mahanadi (858 km), and Tapti (724 km)."
+  },
+  {
+   "q": "Which amongst the following States has the highest population density as per Census-2001? [2003]",
+   "o": [
+    "West Bengal",
+    "Kerala",
+    "Madhya Pradesh",
+    "Uttar Pradesh"
+   ],
+   "a": 0,
+   "e": "In the 2001 Census, West Bengal had the highest density among these (904), followed by Kerala (819), UP (689), and MP (196)."
+  },
+  {
+   "q": "Nanda Devi peak forms a part of: [2003]",
+   "o": [
+    "Kumaon Himalayas",
+    "Punjab Himalayas",
+    "Nepal Himalayas",
+    "Assam Himalayas"
+   ],
+   "a": 0,
+   "e": "Nanda Devi is the second highest mountain in India, located in the Chamoli district of Uttarakhand within the Kumaon Himalayas."
+  },
+  {
+   "q": "Among the following cities, which one has the highest altitude above mean sea level? [2003]",
+   "o": [
+    "Nagpur",
+    "Delhi",
+    "Bangalore",
+    "Jodhpur"
+   ],
+   "a": 2,
+   "e": "Bangalore is located on a plateau at approx. 937 metres. Comparison: Nagpur (247m), Jodhpur (230m), Delhi (218m)."
+  },
+  {
+   "q": "Consider the following statements: 1️⃣ Longitude of Jabalpur's location is between those of Indore and Bhopal. 2️⃣ Latitude of Aurangabad's location is between those of Vadodara and Pune. 3️⃣ Bangalore is situated more southward than Chennai. Which of these statements is/are correct? [2003]",
+   "o": [
+    "2 and 3",
+    "1, 2 and 3",
+    "1 and 3",
+    "Only 2"
+   ],
+   "a": 0,
+   "e": "Statement 1 is false (Jabalpur is east of Bhopal). Statement 2 is correct based on their coordinates. Statement 3 is correct as Bangalore is at ~12.9° N and Chennai is at ~13.0° N."
+  },
+  {
+   "q": "Which one among the following states is smallest in area? [2003]",
+   "o": [
+    "Tamil Nadu",
+    "Andhra Pradesh",
+    "Karnataka",
+    "Gujarat"
+   ],
+   "a": 0,
+   "e": "Comparison of areas: Gujarat (196k sq km), Karnataka (191k sq km), Andhra Pradesh (160k sq km), and Tamil Nadu (130k sq km)."
+  },
+  {
+   "q": "Among the following cities, which one is nearest to the Tropic of Cancer? [2003]",
+   "o": [
+    "Kolkata",
+    "Jodhpur",
+    "Delhi",
+    "Nagpur"
+   ],
+   "a": 0,
+   "e": "The Tropic of Cancer is at 23.5° N. Kolkata at 22.33° N is the closest among the options."
+  },
+  {
+   "q": "In which one of the following Union Territories, do people of the Onge tribe live? [2004]",
+   "o": [
+    "Andaman and Nicobar Islands",
+    "Dadra and Nagar Haveli",
+    "Lakshadweep",
+    "Daman and Diu"
+   ],
+   "a": 0,
+   "e": "The Onge are one of the Negrito tribes of the Andaman Islands, primarily inhabiting Little Andaman."
+  },
+  {
+   "q": "Consider the following statements: 1️⃣ National Thermal Power Corporation has diversified into hydropower sector 2️⃣ Power Grid Corporation of India has diversified into telecom sector. Which of the statements given above is/are correct? [2004]",
+   "o": [
+    "1 only",
+    "2 only",
+    "Neither 1 nor 2",
+    "Both 1 and 2"
+   ],
+   "a": 3,
+   "e": "NTPC diversified into hydro with projects like Koldam in Himachal. Power Grid operates a robust telecom network using its transmission infrastructure."
+  },
+  {
+   "q": "Consider the following statements: 1️⃣ Damodar Valley Corporation is the first multi-purpose river valley project of independent India 2️⃣ Damodar Valley Corporation includes thermal and gas power stations. Which of the statements given above is/are correct? [2004]",
+   "o": [
+    "1 only",
+    "Neither 1 nor 2",
+    "2 only",
+    "Both 1 and 2"
+   ],
+   "a": 3,
+   "e": "DVC was established in 1948. It operates multiple coal-based thermal plants, hydel stations, and a gas turbine station."
+  },
+  {
+   "q": "Consider the following statements: 1️⃣ Andhra Pradesh has the longest coastline 2️⃣ Gujarat has the highest number of airports. Which of the statements given above is/are correct? [2004]",
+   "o": [
+    "Both 1 and 2",
+    "Neither 1 nor 2",
+    "1 only",
+    "2 only"
+   ],
+   "a": 3,
+   "e": "Statement 1 is false because Gujarat has the longest coastline (1214.7 km). Statement 2 is true as Gujarat has the most operational airports."
+  },
+  {
+   "q": "Match List-I (Minerals) with List-II (Location): 1️⃣ Coal: Giridih 2️⃣ Copper: Alwar 3️⃣ Manganese: Dharwar 4️⃣ Lignite: Jayamkondam [2004]",
+   "o": [
+    "A-1; B-4; C-3; D-2",
+    "A-1; B-3; C-4; D-2",
+    "A-2; B-4; C-3; D-1",
+    "A-2; B-3; C-4; D-1"
+   ],
+   "a": 1,
+   "e": "Coal is mined in Giridih, Copper in Alwar, Manganese in Dharwar, and Lignite in Jayamkondam."
+  },
+  {
+   "q": "Which among the following National Highway routes is the longest? [2004]",
+   "o": [
+    "Pune-Machilipatnam",
+    "Agra-Mumbai",
+    "Kolkata-Hajira",
+    "Chennai-Thane"
+   ],
+   "a": 2,
+   "e": "NH 6 (Kolkata-Hajira) was the longest among these at 1946 km. Chennai-Thane (NH 4) was 1235 km, and Agra-Mumbai (NH 3) was 1161 km."
+  },
+  {
+   "q": "Consider the following: 1️⃣ Mahadeo Hills 2️⃣ Sahyadri Parvat 3️⃣ Satpura Range. What is the correct sequence of the above from the north to the south? [2004]",
+   "o": [
+    "2, 1, 3",
+    "2, 3, 1",
+    "1, 3, 2",
+    "1, 2, 3"
+   ],
+   "a": 2,
+   "e": "The Mahadeo Hills are in the northern part of the Satpura range. The Satpura range lies south of that, and the Sahyadri (Western Ghats) starts further south along the border of Gujarat/Maharashtra."
+  },
+  {
+   "q": "Lake Sambhar is nearest to which one of the following cities of Rajasthan? [2004]",
+   "o": [
+    "Udaipur",
+    "Bharatpur",
+    "Jaipur",
+    "Jodhpur"
+   ],
+   "a": 2,
+   "e": "Sambhar Salt Lake, India's largest inland salt lake, is located about 96 km southwest of Jaipur."
+  },
+  {
+   "q": "Match List I (National Park/Sanctuary) with List II (State): 1️⃣ Kanger Ghati: Chhattisgarh 2️⃣ Nagerhole: Karnataka 3️⃣ Kugti: Himachal Pradesh 4️⃣ Sultanpur: Haryana [2004]",
+   "o": [
+    "A-1; B-2; C-3; D-4",
+    "A-1; B-4; C-3; D-2",
+    "A-3; B-2; C-1; D-4",
+    "A-3; B-4; C-1; D-2"
+   ],
+   "a": 1,
+   "e": "Kanger Ghati is in Chhattisgarh, Nagerhole in Karnataka, Kugti in Himachal, and Sultanpur is a bird sanctuary in Haryana."
+  },
+  {
+   "q": "Which one of the following statements is not correct? [2004]",
+   "o": [
+    "The tidal nature of the mouth of the river Hooghly is of crucial importance to Kolkata as port",
+    "Tidal bore occurs when a tide enters the narrow and shallow estuary of a river",
+    "Gulf with narrow fronts and wider rears experience high tides",
+    "Tidal currents take place when a gulf is connected with the open sea by a narrow channel"
+   ],
+   "a": 2,
+   "e": "Statement (a) is incorrect; typically, gulfs with wide openings that narrow towards the rear (like the Bay of Fundy) experience the highest tidal ranges because the water is \"funneled.\""
+  },
+  {
+   "q": "Assertion (A): Bangalore receives much higher average annual rainfall than that of Mangalore. Reason (R): Bangalore has the benefit of receiving rainfall both from south-west and north-east monsoons. [2004]",
+   "o": [
+    "Both A and R are individually true and R is the correct explanation of A",
+    "A is false but R is true",
+    "A is true but R is false",
+    "Both A and R are individually true but R is not the correct explanation of A"
+   ],
+   "a": 1,
+   "e": "The assertion is false. Mangalore (windward side) receives much higher rainfall (~2000mm) than Bangalore (~900mm), which lies in the rain shadow area. The reason is true as Bangalore does get rain from both monsoons."
+  },
+  {
+   "q": "Assertion (A): West-flowing rivers of Peninsular India have no deltas. Reason (R): These rivers do not carry any alluvial sediments. [2004]",
+   "o": [
+    "A is true but R is false",
+    "A is false but R is true",
+    "Both A and R are individually true but R is not the correct explanation of A",
+    "Both A and R are individually true and R is the correct explanation of A"
+   ],
+   "a": 3,
+   "e": "Rivers like Narmada and Tapti flow through hard rocky terrain and rift valleys, meaning they carry very little silt and move too fast to form deltas, creating estuaries instead."
+  },
+  {
+   "q": "Consider the following statements: 1️⃣ Indira Gandhi Centre for Atomic Research uses fast reactor technology 2️⃣ Atomic Minerals Directorate for Research and Exploration is engaged in heavy water production 3️⃣ Indian Rare Earths Limited is engaged in manufacture of Zircon. Which of the statements given above are correct? [2004]",
+   "o": [
+    "1 and 3",
+    "1, 2 and 3",
+    "1 and 2",
+    "2 and 3"
+   ],
+   "a": 0,
+   "e": "Statement 2 is incorrect; the Heavy Water Board (not AMD) is responsible for heavy water production. Statement 1 and 3 are correct."
+  },
+  {
+   "q": "Match List I (Beaches) with List II (States): 1️⃣ Gopinath: Gujarat 2️⃣ Lawsons Bay: Andhra Pradesh 3️⃣ Devbagh: Karnataka 4️⃣ Sinquerim: Goa [2004]",
+   "o": [
+    "A-5; B-1; C-2; D-4",
+    "A-5; B-4; C-2; D-1",
+    "A-3; B-4; C-5; D-1",
+    "A-3; B-1; C-5; D-4"
+   ],
+   "a": 3,
+   "e": "Gopinath (Gujarat), Lawsons Bay (Andhra), Devbagh (Karnataka), and Sinquerim (Goa) are correctly matched."
+  },
+  {
+   "q": "Match List-I (Biosphere Reserve) with List-II (States): 1️⃣ Similipal: Orissa 2️⃣ Dehong Deband: Arunachal Pradesh 3️⃣ Nokrek: Meghalaya 4️⃣ Kanchenjunga: Sikkim [2004]",
+   "o": [
+    "A-4; B-5; C-2; D-1",
+    "A-1; B-3; C-5; D-4",
+    "A-4; B-3; C-5; D-1",
+    "A-1; B-5; C-2; D-4"
+   ],
+   "a": 2,
+   "e": "Similipal is in Orissa, Dehong Deband in Arunachal, Nokrek in Meghalaya, and Kanchenjunga in Sikkim."
+  },
+  {
+   "q": "Amongst the following Indian States which one has the minimum total forest cover? [2004]",
+   "o": [
+    "Haryana",
+    "Sikkim",
+    "Goa",
+    "Kerala"
+   ],
+   "a": 0,
+   "e": "Haryana has the lowest forest cover among these states (approx. 6.8%), while Sikkim, Goa, and Kerala have significantly higher percentages."
+  },
+  {
+   "q": "Consider the following statements: 1️⃣ The forest cover in India constitutes around 20% of its geographical area. 2️⃣ Out of the total forest cover, dense forest constitutes around 40%. Which of the statements given above is/are correct? [2005]",
+   "o": [
+    "Neither 1 nor 2",
+    "1 only",
+    "2 only",
+    "both 1 and 2"
+   ],
+   "a": 1,
+   "e": "At the time, forest cover was ~20.14%. However, dense forest did not constitute 40% (it was much lower, with very dense forest at ~2.5%)."
+  },
+  {
+   "q": "Consider the following statements: 1️⃣ Area-wise, Chhattisgarh is larger than West Bengal. 2️⃣ According to the population Census 2001, population of West Bengal is larger than that of Chhattisgarh. Which of the statements given above is/are correct? [2005]",
+   "o": [
+    "1 only",
+    "Both 1 and 2",
+    "Neither 1 nor 2",
+    "2 only"
+   ],
+   "a": 1,
+   "e": "Chhattisgarh (136k sq km) is larger in area than West Bengal (88k sq km), but West Bengal has a much higher population and density."
+  },
+  {
+   "q": "Match List-I (Atomic Power/Heavy Water Plants) with List-II (State): 1️⃣ Thal: Maharashtra 2️⃣ Manuguru: Andhra Pradesh 3️⃣ Kakrapar: Gujarat 4️⃣ Kaiga: Karnataka [2005]",
+   "o": [
+    "A-3; B-5; C-2; D-1",
+    "A-3; B-1; C-2; D-5",
+    "A-2: B-1; C-4; D-5",
+    "A-2; B-5; C-4; D-1"
+   ],
+   "a": 1,
+   "e": "Thal-Vaishet (Maharashtra) and Manuguru (Andhra) host Heavy Water Plants. Kakrapar (Gujarat) and Kaiga (Karnataka) are Atomic Power Stations."
+  },
+  {
+   "q": "Which one of the following statements is not correct? [2005]",
+   "o": [
+    "Lotha is a language spoken in Nagaland.",
+    "The people known as Todas live in the Nilgiri area.",
+    "North-East India accounts for a little over half of the country's tribal population.",
+    "There is no definition of the Scheduled Tribe in the constitutions of India."
+   ],
+   "a": 2,
+   "e": "Statement (b) is incorrect. While the NE has a high concentration of tribal populations, the majority of India's total tribal population resides in the \"Tribal Belt\" of central India (MP, Maharashtra, Orissa, etc.)."
+  },
+  {
+   "q": "Consider the following statements: 1️⃣ India is the second country in the world to adopt a National Family Planning Programme. 2️⃣ The National Population Policy of India 2000 seeks to achieve replacement level of fertility by 2010. 3️⃣ Kerala is the first state in India to achieve replacement level of fertility. Which of the statements given above is/are correct? [2005]",
+   "o": [
+    "1 only",
+    "1 and 2",
+    "1, 2 and 3",
+    "2 and 3"
+   ],
+   "a": 3,
+   "e": "Statement 1 is false (India was the 1st). Statements 2 and 3 are correct; Kerala achieved replacement fertility early, and NPP 2000 set 2010 as the target for the country."
+  },
+  {
+   "q": "Which one of the following statements is true on the basis of Census 2001? [2005]",
+   "o": [
+    "Mizoram is the India state with the least population.",
+    "Bihar has the highest percentage of the scheduled castes of its population.",
+    "The decadal growth of population of India (1991-2001) has been below 20%.",
+    "Pondicherry has the highest sex ratio among the Union Territories."
+   ],
+   "a": 3,
+   "e": "In 2001, Pondicherry (Puducherry) had a sex ratio of 1001, the highest among UTs. The least populated state was Sikkim, not Mizoram."
+  },
+  {
+   "q": "According to the census 2001, which one of the following Indian States has the maximum population in India after Uttar Pradesh? [2005]",
+   "o": [
+    "West Bengal",
+    "Maharashtra",
+    "Bihar",
+    "Tamil Nadu"
+   ],
+   "a": 1,
+   "e": "According to 2001 Census, Maharashtra was the second most populous state in India after Uttar Pradesh."
+  },
+  {
+   "q": "Which one of the following statements is not correct? [2005]",
+   "o": [
+    "Tapi river lies to the south of Satpura",
+    "The Narmada and Tapti river valleys are said to be old rift valleys.",
+    "The Western Ghats are relatively lower in their northern region.",
+    "The Anai Mudi is the highest peak in the Western Ghats."
+   ],
+   "a": 2,
+   "e": "Statement (a) is incorrect; the Western Ghats are actually higher in the southern region (Anai Mudi is in the south) and decrease in height toward the north."
+  },
+  {
+   "q": "Gandhi Sagar Dam is a part of which one of the following? [2005]",
+   "o": [
+    "Kosi Project",
+    "Damodar Valley Project",
+    "Bhakra Nangal Project",
+    "Chambal Project"
+   ],
+   "a": 3,
+   "e": "Gandhi Sagar Dam is one of the four major dams built on the Chambal River, located in the Mandsaur district of Madhya Pradesh."
+  },
+  {
+   "q": "Which one of the following is the correct sequence of hills starting from the north and going towards the south? [2005]",
+   "o": [
+    "Nallamalai Hills-Javadi Hills-Nilgiri Hills-Anamalai Hills",
+    "Anamalai Hills-Nilgiri Hills-Javadi Hills-Nallamalai Hills",
+    "Nallamalai Hills-Nilgiri Hills-Javadi Hills-Anamalai Hills",
+    "Anamalai Hills-Javadi Hills-Nilgiri Hills-Nallamalai Hills"
+   ],
+   "a": 0,
+   "e": "The North-South order is Nallamalai (Andhra Pradesh), Javadi (Tamil Nadu), Nilgiri (Tamil Nadu/Kerala border), and Anamalai (further south)."
+  },
+  {
+   "q": "Which one of the following is not a Biosphere reserve? [2005]",
+   "o": [
+    "Nilgiri",
+    "Panchmarhi",
+    "Agasthyamalai",
+    "Nallamalai"
+   ],
+   "a": 3,
+   "e": "Nallamalai is a mountain range in the Eastern Ghats, but it has not been designated as a Biosphere Reserve. Agasthyamalai, Nilgiri, and Panchmarhi are all reserves."
+  },
+  {
+   "q": "Which one of the following is the correct sequence of Indian cities in the decreasing order of their normal annual rainfall? [2005]",
+   "o": [
+    "Kolkata-Kochi-Patna-Delhi",
+    "Kochi-Kolkata-Delhi-Patna",
+    "Kolkata-Kochi-Delhi-Patna",
+    "Kochi-Kolkata-Patna-Delhi"
+   ],
+   "a": 3,
+   "e": "The rainfall order is Kochi (~3228 mm), Kolkata (~1582 mm), Patna (~1100 mm), and Delhi (~707 mm)."
+  },
+  {
+   "q": "Which of the following states border Uttar Pradesh? 1️⃣ Punjab 2️⃣ Rajasthan 3️⃣ Chhattisgarh 4️⃣ Jharkhand [2005]",
+   "o": [
+    "2, 3 and 4",
+    "1, 2, 3 and 4",
+    "1 and 4",
+    "1 and 3"
+   ],
+   "a": 0,
+   "e": "Uttar Pradesh is bordered by 8 states and 1 UT. Among the options, Rajasthan, Chhattisgarh, and Jharkhand border it, but Punjab does not."
+  },
+  {
+   "q": "Match List-I (Power Station) with List-II (State): 1️⃣ Kothagudem: Andhra Pradesh 2️⃣ Raichur: Karnataka 3️⃣ Mettur: Tamil Nadu 4️⃣ Wanakbori: Gujarat [2005]",
+   "o": [
+    "A-4; B-3; C-1; D-2",
+    "A-1; B-2; C-4; D-3",
+    "A-1; B-3; C-4; D-2",
+    "A-4; B-2; C-1; D-3"
+   ],
+   "a": 2,
+   "e": "Kothagudem (Telangana/Andhra), Raichur (Karnataka), Mettur (Tamil Nadu), and Wanakbori (Gujarat) are the correct states for these stations."
+  },
+  {
+   "q": "Consider the following statements: 1️⃣ Silent Valley National Park is in the Nallamalai range. 2️⃣ Pathrakkadavu Hydroelectric project is proposed to be built near the Silent Valley National Park. 3️⃣ The Kunthi river originates in Silent Valley's rainforests. Which of the statements given above is/are correct? [2006]",
+   "o": [
+    "1, 2 and 3",
+    "2 only",
+    "2 and 3",
+    "1 and 3"
+   ],
+   "a": 2,
+   "e": "Statement 1 is false (Silent Valley is in the Nilgiri Hills, not Nallamalai). Statements 2 and 3 are correct; the Kunthi River is a major river of the park."
+  },
+  {
+   "q": "Match List-I (National Park/Wildlife Sanctuary) with List-II (State): 1️⃣ Bondla: Goa 2️⃣ Kangerghat: Chhattisgarh 3️⃣ Orang: Assam 4️⃣ Ushkothi: Orissa [2005]",
+   "o": [
+    "A-4; B-1; C-2; D-3",
+    "A-2; B-3; C-5; D-1",
+    "A-2; B-1; C-5; D-3",
+    "A-4; B-3; C-2; D-1"
+   ],
+   "a": 3,
+   "e": "Bondla (Goa), Kangerghat (Chhattisgarh), Orang (Assam), and Ushkothi (Orissa) are correctly matched."
+  },
+  {
+   "q": "Consider the following sites/monuments: 1️⃣ Champaner-Pavagadh Archaeological Park 2️⃣ Chhatrapati Shivaji Railway Station, Mumbai 3️⃣ Mahabalipuram 4️⃣ Sun Temple (Konark Temple). Which of the above are included in the World Heritage List by UNESCO? [2005]",
+   "o": [
+    "1, 2, 3 and 4",
+    "2 and 4",
+    "1, 2 and 3",
+    "1, 3 and 4"
+   ],
+   "a": 0,
+   "e": "All four are UNESCO World Heritage sites. Mahabalipuram and Konark were included in 1984/85, while Champaner-Pavagadh and CST Mumbai were added in 2004."
+  },
+  {
+   "q": "Consider the following statements concerning the Indian Railways: 1️⃣ The Head Quarters of the North Western Railway are located at Jodhpur. 2️⃣ \"Indrail Pass\" is created especially for freedom fighters and sportspersons. 3️⃣ Fairy Queen is a train using the world's oldest working engine. Which of the statements given above is/are correct? [2006]",
+   "o": [
+    "2 only",
+    "None",
+    "1 and 2",
+    "3 only"
+   ],
+   "a": 3,
+   "e": "Statement 1 is false (HQ is in Jaipur). Statement 2 is false (Indrail pass is for foreign tourists). Statement 3 is correct; the Fairy Queen engine (EIR-22) dates back to 1854."
+  },
+  {
+   "q": "Consider the following statements: 1️⃣ Sikkim has the minimum area among the 28 Indian States. 2️⃣ Chandigarh has the highest literacy rate among Union Territories. 3️⃣ Maharashtra has the highest population after Uttar Pradesh. Which of the statement(s) given above is/are correct? [2006]",
+   "o": [
+    "2 and 3",
+    "3 only",
+    "1 and 2",
+    "1 only"
+   ],
+   "a": 1,
+   "e": "Statement 1 is false (Goa is the smallest). Statement 2 is false (Lakshadweep was highest). Statement 3 is correct as of the 2001 census."
+  },
+  {
+   "q": "Match List-I (Centre of Handicrafts) with List-II (State): 1️⃣ Mon: Nagaland 2️⃣ Nalbari: Assam 3️⃣ Naisghat: Arunachal Pradesh 4️⃣ Tura: Meghalaya [2006]",
+   "o": [
+    "A-1; B-2; C-4; D-3",
+    "A-1; B-3; C-4; D-2",
+    "A-4; B-3; C-1; D-2",
+    "A-4; B-2; C-1; D-3"
+   ],
+   "a": 3,
+   "e": "Mon is in Nagaland, Nalbari in Assam, Naisghat in Arunachal, and Tura is in Meghalaya."
+  },
+  {
+   "q": "Consider the following statements: 1️⃣ Petronet LNG Ltd. is setting up another LNG terminal at Mangalore. 2️⃣ The Head Office of the Dredging Corporation of India is at Vishakhapatnam. 3️⃣ The Narwapahar Mine is operated by the Uranium Corporation of India Limited. Which of the statements given above are correct? [2006]",
+   "o": [
+    "1, 2 and 3",
+    "1 and 3 only",
+    "1 and 2 only",
+    "2 and 3 only"
+   ],
+   "a": 3,
+   "e": "Statement 1 is incorrect (Petronet's terminals are Dahej and Kochi). Statements 2 and 3 are correct."
+  },
+  {
+   "q": "Consider the following statements: 1️⃣ Appellate Tribunal for electricity has been established by each state government in India. 2️⃣ One of the component of the Accelerated Power Development and Reforms Programme (APDRP) is up gradation of sub-transmission and distribution system. Which of the statement(s) given above is/are correct? [2006]",
+   "o": [
+    "Both 1 and 2",
+    "2 only",
+    "1 only",
+    "Neither 1 nor 2"
+   ],
+   "a": 1,
+   "e": "Statement 1 is false; the Appellate Tribunal for Electricity is a central body with jurisdiction throughout India. Statement 2 is a core objective of APDRP."
+  },
+  {
+   "q": "Match List-I (Valley) with List-II (State): 1️⃣ Markha Valley: Jammu & Kashmir 2️⃣ Dzukou Valley: Nagaland 3️⃣ Sangla Valley: Himachal Pradesh 4️⃣ Yumthang Valley: Sikkim [2006]",
+   "o": [
+    "A-3; B-4; C-2; D-1",
+    "A-2; B-4; C-3; D-1",
+    "A-2; B-1; C-3; D-4",
+    "A-3; B-1; C-2; D-4"
+   ],
+   "a": 0,
+   "e": "Markha (J&K), Dzukou (Nagaland border), Sangla (Himachal), and Yumthang (Sikkim) are correctly matched."
+  },
+  {
+   "q": "Which one of the following statements is not correct? [2006]",
+   "o": [
+    "Tapti River rises in Madhya Pradesh",
+    "Mahanadi River rises in Chhattisgarh",
+    "Cauvery River rises in Andhra Pradesh",
+    "Godavari River rises in Maharashtra"
+   ],
+   "a": 2,
+   "e": "Statement (c) is incorrect; the Cauvery River rises in the Brahmagiri Hills in the Coorg district of Karnataka."
+  },
+  {
+   "q": "Match List-I (National Park/Wildlife Sanctuary) with List-II (Nearby Town): 1️⃣ Chandra Prabha: Varanasi 2️⃣ Karera: Jhansi 3️⃣ Jaisamand: Udaipur 4️⃣ Nahargarh: Jaipur [2006]",
+   "o": [
+    "A-5; B-2; C-3; D-1",
+    "A-4; B-4; C-1; D-1",
+    "A-5; B-1; C-3; D-2",
+    "A-4; B-2; C-5; D-1"
+   ],
+   "a": 3,
+   "e": "Chandra Prabha (UP) is near Varanasi, Karera (MP) is near Jhansi, Jaisamand is in Udaipur, and Nahargarh is in Jaipur."
+  },
+  {
+   "q": "From North towards South, which one of the following is the correct sequence of the given rivers in India? [2006]",
+   "o": [
+    "Zaskar-Shyok-Sutlej- Spiti",
+    "Shyok-Zaskar-Spiti-Sutlej",
+    "Zaskar-Sutlej-Shyok-Spiti",
+    "Shyok-Spiti-Zaskar- Sutlej"
+   ],
+   "a": 1,
+   "e": "The North-to-South order is Shyok (Ladakh), Zaskar (Ladakh), Spiti (Himachal), and Sutlej (Himachal/Punjab)."
+  },
+  {
+   "q": "In which one of the following districts, have large reserves of diamond-bearing Kimberlite been discovered in the recent past? [2007]",
+   "o": [
+    "Warangal",
+    "Raipur",
+    "Sambalpur",
+    "Hoshangabad"
+   ],
+   "a": 1,
+   "e": "Large reserves of kimberlite (diamond-bearing rock) were found at Payali and Behradein in the Raipur district of Chhattisgarh."
+  },
+  {
+   "q": "With reference to the steel industry in India, consider the following statements: 1️⃣ Vizag Steel Plant (RINL) has been declared a Mini Ratna. 2️⃣ Merger of IISCO with SAIL has been completed. Which of the statements given above is/are correct? [2007]",
+   "o": [
+    "Both 1 and 2",
+    "1 only",
+    "Neither 1 nor 2",
+    "2 only"
+   ],
+   "a": 0,
+   "e": "Vizag Steel became a Mini Ratna in 2006. The merger of IISCO into SAIL was completed in September 2004."
+  },
+  {
+   "q": "The Stilwell Road, built in 1940s, connects which of the following? [2007]",
+   "o": [
+    "Imphal in India and Bangkok in Thailand via Myanmar",
+    "Kalimpong in India and Lhasa in Tibet via Bhutan",
+    "Agartala in India and Yangon in Myanmar via Bangladesh",
+    "Ledo in India and Kunming in China via Myanmar"
+   ],
+   "a": 3,
+   "e": "Built during WWII, the Stilwell Road (Ledo Road) connects Ledo in Assam, India, to Kunming in China through Myanmar."
+  },
+  {
+   "q": "Which one of the following is also known as Top Slip? [2007]",
+   "o": [
+    "Simlipal National Park",
+    "Periyar Wildlife Sanctuary",
+    "Indira Gandhi Wildlife Sanctuary and National Park",
+    "Manjira Wildlife Sanctuary"
+   ],
+   "a": 2,
+   "e": "The Indira Gandhi Wildlife Sanctuary (Anamalai) in Tamil Nadu is famously known as \"Top Slip\" due to a historic practice of sliding timber logs down the slopes."
+  },
+  {
+   "q": "Where are Shevaroy hills located? [2007]",
+   "o": [
+    "Karnataka",
+    "Kerala",
+    "Tamil Nadu",
+    "Andhra Pradesh"
+   ],
+   "a": 2,
+   "e": "The Shevaroy Hills are a significant hill station and range located near Salem in Tamil Nadu."
+  },
+  {
+   "q": "Assertion (A): River Kalinadi is an east-flowing river in the southern part of India. Reason (R): The Deccan Plateau is higher along its western edge and gently slopes towards the Bay of Bengal in the east. [2007]",
+   "o": [
+    "Both A and R are true but R is not a correct explanation of A",
+    "Both A and R are true and R is the correct explanation of A",
+    "A is false but R is true",
+    "A is true but R is false"
+   ],
+   "a": 2,
+   "e": "The assertion is false because River Kalinadi is a west-flowing river in the southern part of India. The reason is correct as the Deccan Plateau is higher along its western edge and slopes towards the east."
+  },
+  {
+   "q": "Which one of the following National Highways passes through Maharashtra, Chhattisgarh and Orissa? [2007]",
+   "o": [
+    "NH 6",
+    "NH 4",
+    "NH 5",
+    "NH 7"
+   ],
+   "a": 0,
+   "e": "National Highway 6 is a 1,949 km long road that passes through several states including Gujarat, Maharashtra, Chhattisgarh, Orissa, Jharkhand, and West Bengal."
+  },
+  {
+   "q": "Consider the following statements: 1️⃣ Balaghat is known for its diamond mines. 2️⃣ Majhgawan is known for its manganese deposits. Which of the statements given above is/are correct? [2007]",
+   "o": [
+    "1 only",
+    "Neither 1 nor 2",
+    "2 only",
+    "Both 1 and 2"
+   ],
+   "a": 1,
+   "e": "Both statements are incorrect because Balaghat in Madhya Pradesh is actually known for manganese mines, while Majhgawan is famous for diamond deposits."
+  },
+  {
+   "q": "Which one of the following rivers originates in Amarkantak? [2007]",
+   "o": [
+    "Mahanadi",
+    "Narmada",
+    "Damodar",
+    "Tapi"
+   ],
+   "a": 1,
+   "e": "The Narmada river originates from a tank at a height of 1057 m on the Amarkantak plateau in Madhya Pradesh. Damodar originates from Chhota Nagpur, Mahanadi from Bastar, and Tapi from Satpura hills."
+  },
+  {
+   "q": "Which one among the following major Indian cities is most eastward located? [2007]",
+   "o": [
+    "Bengaluru (Bangalore)",
+    "Bhopal",
+    "Lucknow",
+    "Hyderabad"
+   ],
+   "a": 2,
+   "e": "Among the listed cities, Lucknow is situated the furthest to the east."
+  },
+  {
+   "q": "Out of the four southern States: Andhra Pradesh, Karnataka, Kerala and Tamil Nadu, which shares boundaries with the maximum number of Indian States? [2007]",
+   "o": [
+    "Andhra Pradesh only",
+    "Karnataka only",
+    "Each of Andhra Pradesh and Karnataka",
+    "Each of Tamil Nadu and Kerala"
+   ],
+   "a": 2,
+   "e": "Both Andhra Pradesh and Karnataka share boundaries with the maximum number of Indian states among the southern states listed."
+  },
+  {
+   "q": "Match List I (Aluminium Company) with List II (Location): 1️⃣ BALCO: Korba 2️⃣ HINDALCO: Renukoot 3️⃣ Indian Aluminium Company: Hirakud 4️⃣ NALCO: Koraput [2007]",
+   "o": [
+    "A-3; B-1; C-4; D-2",
+    "A-2; B-1; C-4; D-3",
+    "A-3; B-4; C-1; D-2",
+    "A-2; B-4; C-1; D-3"
+   ],
+   "a": 3,
+   "e": "The correct matching is BALCO at Korba, HINDALCO at Renukoot, Indian Aluminium Company at Hirakud, and NALCO at Koraput."
+  },
+  {
+   "q": "Which one of the following is located in the Bastar region? [2007]",
+   "o": [
+    "Dandeli Sanctuary",
+    "Bandhavgarh National Park",
+    "Rajaji National Park",
+    "Indravati National Park"
+   ],
+   "a": 3,
+   "e": "Indravati National Park is located in the Bastar region, situated approximately 97.4 km from Bastar."
+  },
+  {
+   "q": "In which State is the Guru Shikhar Peak located? [2007]",
+   "o": [
+    "Gujarat",
+    "Madhya Pradesh",
+    "Maharashtra",
+    "Rajasthan"
+   ],
+   "a": 3,
+   "e": "Guru Shikhar Peak, with an altitude of 1722 meters (5676 feet), is the highest point in Rajasthan."
+  },
+  {
+   "q": "Match List I (Town) with List II (River Nearer to it): 1️⃣ Betul: Tapti 2️⃣ Jagdalpur: Indravati 3️⃣ Jabalpur: Narmada 4️⃣ Ujjain: Shipra [2007]",
+   "o": [
+    "A-1; B-4; C-3; D-2",
+    "A-4; B-1; C-2; D-3",
+    "A-1; B-4; C-2; D-3",
+    "A-4; B-1; C-3; D-2"
+   ],
+   "a": 1,
+   "e": "The correct matches are Betul with Tapti, Jagdalpur with Indravati, Jabalpur with Narmada, and Ujjain with Shipra."
+  },
+  {
+   "q": "Consider the following statements: 1️⃣ In India, Red Panda is naturally found in the Western Himalayas only. 2️⃣ In India, Slow Loris lives in the dense forests of the North East. Which of the statements given above is/are correct? [2007]",
+   "o": [
+    "1 only",
+    "2 only",
+    "Neither 1 nor 2",
+    "Both 1 and 2"
+   ],
+   "a": 1,
+   "e": "Statement 1 is incorrect because the Red Panda is found in the Eastern Himalayas, including parts of India, Bhutan, and China. Statement 2 is correct as Slow Loris lives in the dense forests of North East India, such as Assam."
+  },
+  {
+   "q": "Which one among the following States of India has the lowest density of population? [2007]",
+   "o": [
+    "Meghalaya",
+    "Arunachal Pradesh",
+    "Sikkim",
+    "Himachal Pradesh"
+   ],
+   "a": 1,
+   "e": "Arunachal Pradesh has the lowest population density at 13 persons per sq km, compared to Himachal Pradesh (109), Meghalaya (103), and Sikkim (76)."
+  },
+  {
+   "q": "As per India's National Population Policy, 2000, by which one of the following years is it our long-term objective to achieve population stabilization? [2008]",
+   "o": [
+    "2025",
+    "2035",
+    "2045",
+    "2055"
+   ],
+   "a": 2,
+   "e": "The National Population Policy 2000 sets a long-term objective to achieve population stabilization by the year 2045."
+  },
+  {
+   "q": "What is the approximate percentage of persons above 65 years of age in India's current population (based on 2001 data)? [2008]",
+   "o": [
+    "8-9%",
+    "11-12%",
+    "14-15%",
+    "5-6%"
+   ],
+   "a": 0,
+   "e": "According to the 2001 Census data, the approximate percentage of people above 65 years of age in India was 8-9%."
+  },
+  {
+   "q": "Amongst the following States, which one has the highest percentage of rural population to its total population (on the basis of the Census, 2001)? [2008]",
+   "o": [
+    "Uttar Pradesh",
+    "Bihar",
+    "Himachal Pradesh",
+    "Orissa"
+   ],
+   "a": 2,
+   "e": "Based on 2001 Census data, Himachal Pradesh had the highest percentage of rural population (9.8% lived in rural areas in the context of this specific comparison data)."
+  },
+  {
+   "q": "Among the following, which one has the minimum population on the basis of data of Census of India, 2001? [2008]",
+   "o": [
+    "Sikkim",
+    "Chandigarh",
+    "Pondicherry",
+    "Mizoram"
+   ],
+   "a": 0,
+   "e": "In the 2001 Census, Sikkim had the minimum population at 540,851 among the listed states/territories."
+  },
+  {
+   "q": "Which one of the following is not essentially a species of the Himalayan vegetation? [2008]",
+   "o": [
+    "Silver fir",
+    "Juniper",
+    "Mahogany",
+    "Spruce"
+   ],
+   "a": 2,
+   "e": "Mahogany is a species found in the Caribbean, Central, and South America, and is not a species of the Himalayan vegetation."
+  },
+  {
+   "q": "Out of all the biosphere reserves in India, four were recognized on the World Network by UNESCO in 2008. Which one of the following was not one of them then? [2008]",
+   "o": [
+    "Sunderbans",
+    "Gulf of Mannar",
+    "Nanda Devi",
+    "Kanchenjunga"
+   ],
+   "a": 3,
+   "e": "As of 2008, Kanchenjunga was not yet listed on the World Network by UNESCO; it was eventually listed in 2018."
+  },
+  {
+   "q": "With which one of the following rivers is the Omkareshwar Project associated? [2008]",
+   "o": [
+    "Chambal",
+    "Tapi",
+    "Narmada",
+    "Bhima"
+   ],
+   "a": 2,
+   "e": "The Omkareshwar Project is associated with the Narmada river."
+  },
+  {
+   "q": "In India, how many states share the coastline? [2008]",
+   "o": [
+    "9",
+    "10",
+    "7",
+    "8"
+   ],
+   "a": 0,
+   "e": "There are 9 Indian states that share a coastline: Gujarat, Maharashtra, Karnataka, Kerala, Tamil Nadu, Andhra Pradesh, Odisha, and West Bengal."
+  },
+  {
+   "q": "Which of the following hills are found where the Eastern Ghats and the Western Ghats meet? [2008]",
+   "o": [
+    "Cardamom Hills",
+    "Nilgiri Hills",
+    "Shevaroy Hills",
+    "Anamalai Hills"
+   ],
+   "a": 1,
+   "e": "The Nilgiri Hills are situated at the junction where the Eastern Ghats and the Western Ghats meet."
+  },
+  {
+   "q": "Consider the following pairs: 1️⃣ Chambal: Narmada 2️⃣ Sone: Yamuna 3️⃣ Manas: Brahmaputra. Which of the pairs given above is/are correctly matched? [2008]",
+   "o": [
+    "1 and 2 only",
+    "1, 2 and 3",
+    "2 and 3 only",
+    "3 only"
+   ],
+   "a": 3,
+   "e": "Only pair 3 is correct as Manas is a tributary of the Brahmaputra. Chambal is actually a tributary of the Yamuna, and Sone is a tributary of the Ganga."
+  },
+  {
+   "q": "Consider the following statements: 1️⃣ Salt-water crocodile is found in the Andaman and Nicobar Islands. 2️⃣ Shrew and Tapir are found in the Western Ghats of the Malabar region. Which of the statements given above is/are correct? [2008]",
+   "o": [
+    "Neither 1 nor 2",
+    "1 only",
+    "Both 1 and 2",
+    "2 only"
+   ],
+   "a": 2,
+   "e": "Both statements are correct: Salt-water crocodiles are found in mangrove habitats in the Andaman and Nicobar Islands, and Shrew and Tapir inhabit the Western Ghats of the Malabar region."
+  },
+  {
+   "q": "In which one of the following states are Namchik Namphuk coalfields located? [2008]",
+   "o": [
+    "Arunachal Pradesh",
+    "Mizoram",
+    "Meghalaya",
+    "Manipur"
+   ],
+   "a": 0,
+   "e": "The Namchik-Namphuk coalfields are located in Arunachal Pradesh."
+  },
+  {
+   "q": "Which of the following minerals found in a natural way in the state of Chhattisgarh? 1️⃣ Bauxite 2️⃣ Dolomite 3️⃣ Iron ore 4️⃣ Tin [2008]",
+   "o": [
+    "1 and 3 only",
+    "1, 2 and 3 only",
+    "1, 2, 3 and 4",
+    "2 and 4 only"
+   ],
+   "a": 1,
+   "e": "Bauxite, Dolomite, and Iron ore are naturally found in Chhattisgarh, while Tin is not found there."
+  },
+  {
+   "q": "On which one of the following rivers is the Tehri hydropower complex located? [2008]",
+   "o": [
+    "Mandakini",
+    "Bhagirathi",
+    "Dhauliganga",
+    "Alaknanda"
+   ],
+   "a": 1,
+   "e": "The Tehri Hydropower complex is situated on the Bhagirathi river."
+  },
+  {
+   "q": "Which of the following pairs are correctly matched? 1️⃣ Kapildhara Falls: Godavari 2️⃣ Jog Falls: Sharavathi 3️⃣ Shivasamudram Falls: Cauvery [2008]",
+   "o": [
+    "1 and 3 only",
+    "2 and 3 only",
+    "1 and 2 only",
+    "1, 2 and 3"
+   ],
+   "a": 1,
+   "e": "Jog Falls is on the Sharavathi river and Shivasamudram Falls is on the Cauvery river; Kapildhara is not on the Godavari."
+  },
+  {
+   "q": "Which of the following pairs are correctly matched? 1️⃣ Damanganga: Gujarat 2️⃣ Girna: Maharashtra 3️⃣ Pamba: Kerala [2008]",
+   "o": [
+    "1 and 2 only",
+    "1, 2 and 3",
+    "2 and 3 only",
+    "1 and 3 only"
+   ],
+   "a": 1,
+   "e": "All three are correctly matched: the Damanganga project is in Gujarat, the Girna project is in Maharashtra, and the Pamba river is in Kerala."
+  },
+  {
+   "q": "Where are Tapovan and Vishnugarh hydroelectric project located? [2008]",
+   "o": [
+    "Uttarakhand",
+    "Rajasthan",
+    "Uttar Pradesh",
+    "Madhya Pradesh"
+   ],
+   "a": 0,
+   "e": "These hydroelectric projects are located in the Chamoli district of Uttarakhand."
+  },
+  {
+   "q": "Which of the following are among the million-plus cities in India on the basis of data of the Census, 2001? 1️⃣ Ludhiana 2️⃣ Kochi 3️⃣ Surat 4️⃣ Nagpur [2008]",
+   "o": [
+    "1, 2 and 3 only",
+    "1 and 4 only",
+    "1, 2, 3 and 4",
+    "2, 3 and 4 only"
+   ],
+   "a": 2,
+   "e": "According to the 2001 Census, Ludhiana, Surat, and Nagpur are all million-plus cities."
+  },
+  {
+   "q": "Which one among the following has the maximum number of National Parks? [2008]",
+   "o": [
+    "Assam",
+    "Meghalaya",
+    "Andaman and Nicobar Islands",
+    "Arunachal Pradesh"
+   ],
+   "a": 2,
+   "e": "Andaman and Nicobar Islands has 9 National Parks, which is more than Assam (6), or Arunachal Pradesh and Meghalaya (2 each)."
+  },
+  {
+   "q": "Consider the following regions: 1️⃣ Eastern Himalayas 2️⃣ Eastern Mediterranean region 3️⃣ North-Western Australia. Which of the above is/are Biodiversity Hotspot(s)? [2009]",
+   "o": [
+    "1 and 2 only",
+    "1 only",
+    "1, 2 and 3",
+    "2 and 3 only"
+   ],
+   "a": 0,
+   "e": "The Eastern Himalayas and the Eastern Mediterranean region are recognized as Biodiversity hotspots."
+  },
+  {
+   "q": "In India, which one of the following states has the largest inland saline wetland? [2009]",
+   "o": [
+    "Madhya Pradesh",
+    "Haryana",
+    "Rajasthan",
+    "Gujarat"
+   ],
+   "a": 2,
+   "e": "Rajasthan has the largest inland saline wetland area, specifically the Sambhar Salt Lake."
+  },
+  {
+   "q": "In India, the ports are categorized as major and non-major ports. Which one of the following is a non-major port? [2009]",
+   "o": [
+    "Dahej",
+    "Paradip",
+    "Kochi (Cochin)",
+    "New Mangalore"
+   ],
+   "a": 0,
+   "e": "Dahej is classified as a non-major port in India."
+  },
+  {
+   "q": "In which one of the following places is the Shompen tribe found? [2009]",
+   "o": [
+    "Spiti Valley",
+    "Lakshadweep Islands",
+    "Nicobar Islands",
+    "Nilgiri Hills"
+   ],
+   "a": 2,
+   "e": "The Shompen tribe is one of the Mongoloid tribes found specifically in the Nicobar Islands."
+  },
+  {
+   "q": "The Dul Hasti Power Station is based on which one of the following rivers? [2009]",
+   "o": [
+    "Sutlej",
+    "Chenab",
+    "Beas",
+    "Ravi"
+   ],
+   "a": 1,
+   "e": "The Dul Hasti Power Station is located on the Chenab river in Jammu and Kashmir."
+  },
+  {
+   "q": "Consider the following statements: 1️⃣ In the world, the tropical deserts occur along the western margins of continents within the trade wind belt. 2️⃣ In India, the east Himalayan region gets high rainfall from north-east winds. Which of the statements given above is/are correct? [2009]",
+   "o": [
+    "1 only",
+    "2 only",
+    "Neither 1 nor 2",
+    "Both 1 and 2"
+   ],
+   "a": 0,
+   "e": "Statement 1 is correct. Statement 2 is incorrect because the high rainfall in the East Himalayan region is caused by south-west monsoon winds."
+  },
+  {
+   "q": "Consider the following statements: 1️⃣ Infant mortality rate takes into account the death of infants within a month after birth. 2️⃣ Infant mortality rate is the number of infant deaths in a particular year per 100 live births during that year. Which of the above statements is/are correct? [2009]",
+   "o": [
+    "1 only",
+    "Neither 1 nor 2",
+    "Both 1 and 2",
+    "2 only"
+   ],
+   "a": 1,
+   "e": "Both statements are incorrect. Infant mortality rate indicates the number of deaths of infants under one year of age per 1000 (not 100) live births."
+  },
+  {
+   "q": "Consider the following statements: 1️⃣ Between Census 1951 and Census 2001, the density of the population of India has increased more than three times. 2️⃣ Between Census 1951 and Census 2001, the annual growth rate (exponential) of the population of India has doubled. Which of the statements given above is/are correct? [2009]",
+   "o": [
+    "Neither 1 nor 2",
+    "2 only",
+    "Both 1 and 2",
+    "1 only"
+   ],
+   "a": 0,
+   "e": "Both statements are incorrect. Population density increased from 117 per sq km in 1951 to 324 per sq km in 2001 (not more than 3x). The annual growth rate went from 1.25% to 1.93% (not doubled)."
+  },
+  {
+   "q": "Which one of the following rivers does not originate in India? [2009]",
+   "o": [
+    "Chenab",
+    "Ravi",
+    "Sutlej",
+    "Beas"
+   ],
+   "a": 2,
+   "e": "The Sutlej river originates from the central Sulaiman range in Pakistan (as per this source)."
+  },
+  {
+   "q": "At which one of the following places do two important rivers of India originate; while one of them flows towards north and merges with another important rivers flowing towards Bay of Bengal, the other one flows towards Arabian Sea? [2009]",
+   "o": [
+    "Amarkantak",
+    "Mahabaleshwar",
+    "Badrinath",
+    "Nasik"
+   ],
+   "a": 0,
+   "e": "Amarkantak is the point of origin for the Narmada (flowing towards the Arabian Sea) and the Sone (flowing north to merge with the Ganga)."
+  },
+  {
+   "q": "Consider the following statements: 1️⃣ India does not have any deposits of Thorium. 2️⃣ Kerala's monazite sands contains Uranium. Which of the statements given above is/are correct? [2009]",
+   "o": [
+    "1 only",
+    "Both 1 and 2",
+    "Neither 1 nor 2",
+    "2 only"
+   ],
+   "a": 2,
+   "e": "Both statements are incorrect. India possesses 12% of the world's thorium deposits."
+  },
+  {
+   "q": "Consider the following statements: 1️⃣ There are no east flowing rivers in Kerala. 2️⃣ There are no west flowing rivers in Madhya Pradesh. Which of the statements given above is/are correct? [2009]",
+   "o": [
+    "Neither 1 nor 2",
+    "Both 1 and 2",
+    "2 only",
+    "1 only"
+   ],
+   "a": 0,
+   "e": "Both statements are incorrect. Kerala has east-flowing rivers like Kabani, Bhavani, and Pambar. Madhya Pradesh has west-flowing rivers such as Narmada, Tapti, and Mahi."
+  },
+  {
+   "q": "Consider the following statements: 1️⃣ The boundaries of a National Park are defined by legislation. 2️⃣ A Biosphere Reserve is declared to conserve a few specific species of flora and fauna. 3️⃣ In a Wildlife Sanctuary, limited biotic interference is permitted. Which of the statements given above is/are correct? [2010]",
+   "o": [
+    "1 and 3 only",
+    "1 only",
+    "1, 2 and 3",
+    "2 and 3 only"
+   ],
+   "a": 0,
+   "e": "Statements 1 and 3 are correct. Statement 2 is incorrect because a Biosphere Reserve is intended to conserve an entire ecosystem, not just specific species."
+  },
+  {
+   "q": "Following are the characteristics of an area in India: 1️⃣ Hot and humid climate 2️⃣ Annual rainfall 200 cm 3️⃣ Hill slopes up to an altitude of 1100 metres 4️⃣ Annual range of temperature 15°C to 30°C. Which one among the following crops are you most likely to find in the area described above? [2010]",
+   "o": [
+    "Cotton",
+    "Pepper",
+    "Virginia tobacco",
+    "Mustard"
+   ],
+   "a": 1,
+   "e": "These climatic conditions (hot, humid, high rainfall) are ideal for pepper cultivation. Virginia tobacco is grown in drier weather."
+  },
+  {
+   "q": "With reference to the mineral resources of India, consider the following pairs: 1️⃣ Copper: Jharkhand 2️⃣ Nickel: Orissa 3️⃣ Tungsten: Kerala. Which of the pairs given above is/are correctly matched? [2010]",
+   "o": [
+    "1, 2 and 3",
+    "1 and 2 only",
+    "2 only",
+    "1 and 3 only"
+   ],
+   "a": 2,
+   "e": "Only pair 2 is correct, as Orissa possesses 90% of India's natural Nickel resources."
+  },
+  {
+   "q": "Consider the following pairs: 1️⃣ Salt Water Crocodile: Bhitarkanika, Odisha 2️⃣ Great Indian Bustard: Desert National Park, Rajasthan 3️⃣ Hoolock Gibbon: Eravikulam, Kerala. Which of the pairs given above is/are correctly matched? [2010]",
+   "o": [
+    "1, 2 and 3",
+    "1 and 2 only",
+    "1 only",
+    "2 only"
+   ],
+   "a": 1,
+   "e": "Pairs 1 and 2 are correctly matched. Pair 3 is incorrect because the Hoolock Gibbon is found in the North Eastern region of India, not Kerala."
+  },
+  {
+   "q": "In India, which type of forest among the following occupies the largest area? [2010]",
+   "o": [
+    "Sub-tropical Dry Evergreen Forest",
+    "Montane Wet Temperate Forest",
+    "Tropical Moist Deciduous Forest",
+    "Tropical Wet Evergreen Forest"
+   ],
+   "a": 2,
+   "e": "Tropical Moist Deciduous Forest occupies the largest area in India, covering 38% of the total forest area."
+  },
+  {
+   "q": "With reference to the river Luni, which one of the following statements is correct? [2010]",
+   "o": [
+    "It flows into Gulf of Kutch",
+    "It is lost in the marshy land of the Rann of Kutch",
+    "It flows into Gulf of Khambhat",
+    "It flows into Pakistan and merges with a tributary of Indus"
+   ],
+   "a": 1,
+   "e": "The Luni river originates in the Aravalli range and eventually ends in the marshy lands of the Rann of Kutch."
+  },
+  {
+   "q": "Rivers that pass through Himachal Pradesh are: [2010]",
+   "o": [
+    "Chenab, Ravi and Satlej only",
+    "Beas, Chenab, Ravi, Satlej and Yamuna",
+    "Beas and Ravi only",
+    "Beas and Chenab only"
+   ],
+   "a": 1,
+   "e": "All five rivers — Beas, Chenab, Ravi, Sutlej, and Yamuna — pass through the state of Himachal Pradesh."
+  },
+  {
+   "q": "When you travel in certain parts of India, you will notice red soil. What is the main reason for this colour? [2010]",
+   "o": [
+    "Abundance of magnesium",
+    "Abundance of phosphates",
+    "Presence of ferric oxides",
+    "Accumulated humus"
+   ],
+   "a": 2,
+   "e": "The redness of the soil is due to the presence of ferric oxides. Red soil is largely found in the Deccan plateau."
+  },
+  {
+   "q": "Which one of the following is the appropriate reason for considering the Gondwana rocks as most important of rock systems of India? [2010]",
+   "o": [
+    "More than 90% of fertile black cotton soils are spread over them",
+    "None of the reasons given above is appropriate in this context",
+    "More than 90% of limestone reserves of India are found in them",
+    "More than 90% of India's coal reserves are found in them"
+   ],
+   "a": 3,
+   "e": "The Gondwana rock system is crucial because it contains more than 90% of India's coal reserves."
+  },
+  {
+   "q": "Which one of the following pairs is not correctly matched? 1️⃣ Govind Sagar: Sutlej 2️⃣ Kolleru Lake: Krishna 3️⃣ Ukai Reservoir: Tapi 4️⃣ Wular Lake: Jhelum [2010]",
+   "o": [
+    "(a)",
+    "(d)",
+    "(c)",
+    "(b)"
+   ],
+   "a": 3,
+   "e": "Kolleru Lake is not on the Krishna river; it is a freshwater lake located between the Krishna and Godavari deltas in Andhra Pradesh."
+  },
+  {
+   "q": "If there were no Himalayan ranges, what would have been the most likely geographical impact on India? 1️⃣ Much of the country would experience the cold waves from Siberia. 2️⃣ Indo-gangetic plain would be devoid of such extensive alluvial soils. 3️⃣ The pattern of monsoon would be different from what it is at present. Which of the statements given above is/are correct? [2010]",
+   "o": [
+    "2 and 3 only",
+    "1, 2 and 3",
+    "1 only",
+    "1 and 3 only"
+   ],
+   "a": 1,
+   "e": "All the statements describe correct potential impacts if the Himalayas did not exist."
+  },
+  {
+   "q": "The latitudes that pass through Sikkim also pass through: [2010]",
+   "o": [
+    "Jammu and Kashmir",
+    "Himachal Pradesh",
+    "Punjab",
+    "Rajasthan"
+   ],
+   "a": 3,
+   "e": "The same latitude that passes through Sikkim also passes through Rajasthan."
+  },
+  {
+   "q": "The approximate representation of land use classification in India is: [2010]",
+   "o": [
+    "Net area sown 58%, forests 17%, other areas 25%",
+    "Net area sown 47%, forests 23%, other areas 30%",
+    "Net area sown 25%, forests 33%, other areas 42%",
+    "Net area sown 43%; forests 29%, other areas 28%"
+   ],
+   "a": 1,
+   "e": "According to approximate land use classification, the net sown area is about 46-47%, forests 23%, and other areas 30%."
+  },
+  {
+   "q": "Between India and East Asia, the navigation-time and distance can be greatly reduced by which of the following? 1️⃣ Deepening the Malacca straits between Malaysia and Indonesia. 2️⃣ Opening a new canal across the Kra Isthmus between the Gulf of Siam and Andaman Sea. Which of the statements given above is/are correct? [2011-1]",
+   "o": [
+    "2 only",
+    "1 only",
+    "Both 1 and 2",
+    "Neither 1 nor 2"
+   ],
+   "a": 0,
+   "e": "While deepening the Malacca strait is economically important for larger ships, opening a canal at the Kra Isthmus would directly reduce navigation time and distance."
+  },
+  {
+   "q": "The lower Gangetic plain is characterised by humid climate with high temperature throughout the year. Which one among the following pairs of crops is most suitable for this region? [2011-1]",
+   "o": [
+    "Paddy and Jute",
+    "Wheat and Jute",
+    "Paddy and Cotton",
+    "Wheat and Cotton"
+   ],
+   "a": 0,
+   "e": "The humid climate and high temperatures of the lower Gangetic plain and delta are most suitable for growing Paddy and Jute."
+  },
+  {
+   "q": "Which one of the following pairs of islands is separated from each other by the 'Ten Degree Channel'? [2014-1]",
+   "o": [
+    "Andaman and Nicobar",
+    "Maldives and Lakshadweep",
+    "Nicobar and Sumatra",
+    "Sumatra and Java"
+   ],
+   "a": 0,
+   "e": "The Ten Degree Channel is a waterway that separates the Andaman Islands from the Nicobar Islands in the Bay of Bengal."
+  },
+  {
+   "q": "The Brahmaputra, Irrawady and Mekong rivers originate in Tibet and flow though narrow and parallel mountain ranges in their upper reaches. Of these rivers, Brahmaputra makes a \"U\" turn in its course to flow into India. This \"U\" turn is due to [2011-1]",
+   "o": [
+    "Uplift of folded Himalayan series",
+    "Geo-tectonic disturbance in the tertiary folded mountain chains",
+    "Syntaxial bending of geologically young Himalayas",
+    "Both (a) and (b) above"
+   ],
+   "a": 2,
+   "e": "The \"U\" turn of the Brahmaputra near Mount Namcha Barwa is caused by the syntaxial bending of the Himalayan structural trends."
+  },
+  {
+   "q": "A state in India has the following characteristics: 1️⃣ Its northern part is arid and semi-arid. 2️⃣ Its central part produces cotton. 3️⃣ Cultivation of cash crops is predominant over food crops. Which one of the following states has all of the above characteristics? [2011-1]",
+   "o": [
+    "Karnataka",
+    "Andhra Pradesh",
+    "Tamil Nadu",
+    "Gujarat"
+   ],
+   "a": 3,
+   "e": "Gujarat fits these descriptions, with an arid northern part, central cotton production, and a dominance of cash crops."
+  },
+  {
+   "q": "A particular State in India has the following characteristics: 1️⃣ It is located on the same latitude which passes through northern Rajasthan. 2️⃣ It has over 80% of its area under forest cover. 3️⃣ Over 12% of forest cover constitutes Protected Area Network in this State. Which one among the following States has all the above characteristics? [2012-1]",
+   "o": [
+    "Assam",
+    "Arunachal Pradesh",
+    "Uttarakhand",
+    "Himachal Pradesh"
+   ],
+   "a": 1,
+   "e": "Arunachal Pradesh is the state that meets all these specific geographic and forest cover characteristics."
+  },
+  {
+   "q": "With reference to the wetlands of India, consider the following statements: 1️⃣ The country's total geographical area under the category of wetlands is recorded more in Gujarat as compared to other States. 2️⃣ In India, the total geographical area of coastal wetlands is larger than that of inland wetlands. Which of the statements given above is/are correct? [2012-1]",
+   "o": [
+    "1 only",
+    "Neither 1 nor 2",
+    "2 only",
+    "Both 1 and 2"
+   ],
+   "a": 0,
+   "e": "Statement 1 is correct as Gujarat has the largest wetland area in India. Statement 2 is incorrect because inland wetlands make up about 60% of India's total wetland area."
+  },
+  {
+   "q": "When you travel in Himalayas, you will see the following: 1️⃣ Deep gorges 2️⃣ U-turn river courses 3️⃣ Parallel mountain ranges 4️⃣ Steep gradients causing land-sliding. Which of the above can be said to be the evidences for Himalayas being young fold mountains? [2012-1]",
+   "o": [
+    "1 and 2 only",
+    "3 and 4 only",
+    "1, 2, 3 and 4",
+    "1, 2 and 4 only"
+   ],
+   "a": 2,
+   "e": "All these features — deep gorges, U-turns, parallel ranges, and steep gradients — are physical evidence that the Himalayas are young fold mountains."
+  },
+  {
+   "q": "Consider the following statements: 1️⃣ The duration of the monsoon decreases from southern India to northern India. 2️⃣ The amount of annual rainfall in the northern plains of India decreases from east to west. Which of the statements given above is/are correct? [2012-1]",
+   "o": [
+    "Both 1 and 2",
+    "2 only",
+    "Neither 1 nor 2",
+    "1 only"
+   ],
+   "a": 0,
+   "e": "Both statements are correct: monsoon duration is longer in the south, and rainfall in the north decreases from east to west as humidity in the winds drops."
+  },
+  {
+   "q": "Consider the following pairs: 1️⃣ Corbett National Park: Ganga 2️⃣ Kaziranga National Park: Manas 3️⃣ Silent Valley National Park: Kaveri. Which of the above pairs is/are correctly matched? [2013-1]",
+   "o": [
+    "1 and 2",
+    "3 only",
+    "1 and 3",
+    "None of these"
+   ],
+   "a": 3,
+   "e": "None are correctly matched. Ramganga (not Ganga) flows through Corbett, and Bhavani (a tributary of Kaveri) flows through Silent Valley."
+  },
+  {
+   "q": "The Narmada river flows to the west, while most other large peninsular rivers flow to the east. Why? 1️⃣ It occupies a linear rift valley. 2️⃣ It flows between the Vindhyas and the Satpuras. 3️⃣ The land slopes to the west from Central India. Which of the following is/are correct? [2013-1]",
+   "o": [
+    "1 and 3",
+    "2 and 3",
+    "1 only",
+    "None"
+   ],
+   "a": 2,
+   "e": "The primary reason Narmada flows west is that it occupies a linear rift valley. While it does flow between the Vindhyas and Satpuras, that is not the reason for its direction."
+  },
+  {
+   "q": "Which of the following is/are the characteristic/characteristics of Indian coal? 1️⃣ High ash content 2️⃣ Low sulphur content 3️⃣ Low ash fusion temperature. Which of the following is/are correct? [2013-1]",
+   "o": [
+    "2 only",
+    "1 and 2 only",
+    "1 and 3 only",
+    "1, 2 and 3"
+   ],
+   "a": 1,
+   "e": "Indian coal is characterized by high ash content and low sulphur content. It has a high (not low) ash fusion temperature."
+  },
+  {
+   "q": "Which of the following statements regarding laterite soils of India are correct? 1️⃣ They are generally red in colour. 2️⃣ They are rich in nitrogen and potash. 3️⃣ They are well-developed in Rajasthan and UP. 4️⃣ Tapioca and cashew nuts grow well on these soils. Which of the following is/are correct? [2013-1]",
+   "o": [
+    "2, 3 and 4",
+    "1, 2 and 3",
+    "2 and 3 only",
+    "1 and 4"
+   ],
+   "a": 3,
+   "e": "Laterite soils are red due to iron oxide and are suitable for crops like cashews and tapioca. They are generally poor in nitrogen and potash."
+  },
+  {
+   "q": "Consider the following statements: 1️⃣ Natural gas occurs in the Gondwana beds. 2️⃣ Mica occurs in abundance in Kodarma. 3️⃣ Dharwars are famous for petroleum. Which of the statements given above is/are correct? [2013-1]",
+   "o": [
+    "2 and 3",
+    "2 only",
+    "1 and 2",
+    "None"
+   ],
+   "a": 1,
+   "e": "Only statement 2 is correct as Kodarma is famous for mica. Gondwana beds contain coal (not gas), and Dharwar rocks are metalliferous (not petroleum)."
+  },
+  {
+   "q": "Consider the following towns of India: 1️⃣ Bhadrachalam 2️⃣ Chanderi 3️⃣ Kancheepuram 4️⃣ Karnal. Which of the above are famous for the production of traditional sarees/fabric? [2014-1]",
+   "o": [
+    "2 and 4 only",
+    "1, 2 and 3",
+    "2 and 3 only",
+    "1 and 2 only"
+   ],
+   "a": 2,
+   "e": "Chanderi (MP) and Kancheepuram (TN) are both famous for their traditional silk sarees."
+  },
+  {
+   "q": "Consider the following pairs: 1️⃣ NH 4: Chennai and Hyderabad 2️⃣ NH 6: Mumbai and Kolkata 3️⃣ NH 15: Ahmedabad and Jodhpur. Which of the above pairs is/are correctly matched? [2014-1]",
+   "o": [
+    "1 and 2 only",
+    "3 only",
+    "1, 2 and 3",
+    "None"
+   ],
+   "a": 3,
+   "e": "None are correctly matched. NH 4 connects Mumbai and Chennai; NH 6 connects Surat and Kolkata; NH 15 connects Gujarat and Punjab."
+  },
+  {
+   "q": "The seasonal reversal of winds is the typical characteristic of: [2014-1]",
+   "o": [
+    "Equatorial climate",
+    "All of the above climates",
+    "Monsoon climate",
+    "Mediterranean climate"
+   ],
+   "a": 2,
+   "e": "Monsoon is the only climate type characterized by a complete seasonal reversal of wind directions."
+  },
+  {
+   "q": "Consider the following rivers: 1️⃣ Barak 2️⃣ Lohit 3️⃣ Subansiri. Which of the above flows/flow through Arunachal Pradesh? [2014-1]",
+   "o": [
+    "2 and 3 only",
+    "1 only",
+    "1 and 3 only",
+    "1, 2 and 3"
+   ],
+   "a": 0,
+   "e": "Lohit and Subansiri flow through Arunachal Pradesh, while Barak flows through South Assam and Manipur."
+  },
+  {
+   "q": "Consider the following pairs: 1️⃣ Harike Wetlands: Confluence of Beas and Satluj 2️⃣ Keoladeo Ghana National Park: Confluence of Banas and Chambal 3️⃣ Kolleru Lake: Confluence of Musi and Krishna. Which of the above pairs is/are correctly matched? [2014-1]",
+   "o": [
+    "1 only",
+    "2 and 3 only",
+    "1 and 3 only",
+    "1, 2 and 3"
+   ],
+   "a": 0,
+   "e": "Only pair 1 is correct. Keoladeo is at the confluence of Gambhir and Banganga. Kolleru is between the Krishna and Godavari deltas."
+  },
+  {
+   "q": "Consider the following pairs: 1️⃣ Cardamom Hills: Coromandel Coast 2️⃣ Kaimur Hills: Konkan Coast 3️⃣ Mahadeo Hills: Central India 4️⃣ Mikir Hills: North-East India. Which of the above pairs are correctly matched? [2014-1]",
+   "o": [
+    "3 and 4",
+    "2 and 4",
+    "1 and 2",
+    "2 and 3"
+   ],
+   "a": 0,
+   "e": "Pairs 3 and 4 are correct. Cardamom Hills are in the Western Ghats (not Coromandel), and Kaimur is part of the Vindhyas (not Konkan)."
+  },
+  {
+   "q": "If you travel through the Himalayas, you are likely to see which of the following plants naturally growing there? 1️⃣ Oak 2️⃣ Rhododendron 3️⃣ Sandalwood. Which of the following is/are correct? [2014-1]",
+   "o": [
+    "3 only",
+    "1, 2 and 3",
+    "1 and 2 only",
+    "1 and 3 only"
+   ],
+   "a": 2,
+   "e": "Oak and Rhododendron are native to the Himalayan region, while Sandalwood is primarily found in South India."
+  },
+  {
+   "q": "With reference to 'Changpa' community of India, consider the following statements: 1️⃣ They live mainly in the State of Uttarakhand. 2️⃣ They rear the Pashmina goats that yield a fine wool. 3️⃣ They are kept in the category of Scheduled Tribes. Which of the statements given above is/are correct? [2014-1]",
+   "o": [
+    "3 only",
+    "1, 2 and 3",
+    "1 and 2 only",
+    "2 and 3 only"
+   ],
+   "a": 3,
+   "e": "Statements 2 and 3 are correct. Statement 1 is incorrect as the Changpa live in the Zanskar region of Jammu and Kashmir."
+  },
+  {
+   "q": "In a particular region in India, the local people train the roots of living trees into robust bridges across the streams. These unique 'living root bridges' are found in: [2015-1]",
+   "o": [
+    "Jharkhand",
+    "Meghalaya",
+    "Tamil Nadu",
+    "Himachal Pradesh"
+   ],
+   "a": 1,
+   "e": "Living root bridges are handmade from the aerial roots of banyan trees and are found in Meghalaya."
+  },
+  {
+   "q": "Consider the following States: 1️⃣ Arunachal Pradesh 2️⃣ Himachal Pradesh 3️⃣ Mizoram. In which of the above States do 'Tropical Wet Evergreen Forests' occur? [2015-1]",
+   "o": [
+    "1 and 3 only",
+    "2 and 3 only",
+    "1, 2 and 3",
+    "1 only"
+   ],
+   "a": 0,
+   "e": "Tropical Wet Evergreen Forests occur in North East states like Arunachal Pradesh and Mizoram, but not in Himachal Pradesh."
+  },
+  {
+   "q": "Which one of the following pairs of States of India indicates the eastern most and western most State? [2015-1]",
+   "o": [
+    "Assam and Gujarat",
+    "Arunachal Pradesh and Rajasthan",
+    "Arunachal Pradesh and Gujarat",
+    "Assam and Rajasthan"
+   ],
+   "a": 2,
+   "e": "Arunachal Pradesh is India's easternmost state, and Gujarat is the westernmost."
+  },
+  {
+   "q": "Consider the following rivers: 1️⃣ Vamsadhara 2️⃣ Indravati 3️⃣ Pranahita 4️⃣ Pennar. Which of the above are tributaries of Godavari? [2015-1]",
+   "o": [
+    "1, 2 and 3",
+    "2 and 3 only",
+    "1, 2 and 4",
+    "2, 3 and 4"
+   ],
+   "a": 1,
+   "e": "Indravati and Pranahita are major tributaries of the Godavari. Vamsadhara and Pennar are independent rivers."
+  },
+  {
+   "q": "Which one of the following regions of India has a combination of mangrove forest, evergreen forest and deciduous forest? [2015-1]",
+   "o": [
+    "South-West Bengal",
+    "Southern Saurashtra",
+    "North Coastal Andhra Pradesh",
+    "Andaman and Nicobar Islands"
+   ],
+   "a": 3,
+   "e": "The Andaman and Nicobar Islands feature a high diversity of forests including tropical evergreen, moist deciduous, and mangrove forests."
+  },
+  {
+   "q": "Which of the following has/have been accorded 'Geographical Indication' status? 1️⃣ Banaras Brocades and Sarees 2️⃣ Rajasthani Daal-Bati-Churma 3️⃣ Tirupathi Laddu. Which of the following is/are correct? [2015-1]",
+   "o": [
+    "1, 2 and 3",
+    "1 and 3 only",
+    "2 and 3 only",
+    "1 only"
+   ],
+   "a": 1,
+   "e": "Banaras Brocades and Tirupathi Laddu have GI status; Rajasthani Daal-Bati-Churma does not."
+  },
+  {
+   "q": "In which of the following regions of India are shale gas resources found? 1️⃣ Cambay Basin 2️⃣ Cauvery Basin 3️⃣ Krishna-Godavari Basin. Which of the following is/are correct? [2016-1]",
+   "o": [
+    "1 and 2 only",
+    "1 and 3 only",
+    "1, 2 and 3",
+    "3 only"
+   ],
+   "a": 2,
+   "e": "Research identifies potential shale gas resources in the Cambay, Cauvery, and Krishna-Godavari basins."
+  },
+  {
+   "q": "At one of the places in India, if you stand on the seashore and watch the sea, you will find that the sea water recedes from the shore line a few kilometres and comes back to the shore, twice a day. This unique phenomenon is seen at: [2017-1]",
+   "o": [
+    "Chandipur",
+    "Bhavnagar",
+    "Bheemunipatnam",
+    "Nagapattinam"
+   ],
+   "a": 0,
+   "e": "Chandipur beach in Odisha is famous for its sea water receding several kilometers twice daily during low tide."
+  },
+  {
+   "q": "Which one of the following is an artificial lake? [2018-1]",
+   "o": [
+    "Nainital (Uttarakhand)",
+    "Renuka (Himachal Pradesh)",
+    "Kodaikanal (Tamil Nadu)",
+    "Kolleru (Andhra Pradesh)"
+   ],
+   "a": 2,
+   "e": "Kodaikanal Lake is a 154-year-old man-made lake. Kolleru, Nainital, and Renuka are natural lakes."
+  },
+  {
+   "q": "Among the following cities, which one lies on a longitude closest to that of Delhi? [2018-1]",
+   "o": [
+    "Bengaluru",
+    "Pune",
+    "Nagpur",
+    "Hyderabad"
+   ],
+   "a": 0,
+   "e": "In terms of coordinates, Bengaluru's longitude (77° 38' E) is the closest to that of Delhi (77° 20' E)."
+  },
+  {
+   "q": "Which one of the following national parks lies completely in the Temperate alpine zone? [2019-1]",
+   "o": [
+    "Namdapha national park",
+    "Manas national park",
+    "Valley of flower national park",
+    "Neora valley national park"
+   ],
+   "a": 2,
+   "e": "The Valley of Flowers National Park is located entirely within the temperate alpine climatic zone."
+  },
+  {
+   "q": "Consider the following pairs: 1️⃣ Pandharpur: Chandrabhaga 2️⃣ Tiruchirapalli: Cauvery 3️⃣ Hampi: Malaprabha. Which of the above pairs is/are correctly matched? [2019-1]",
+   "o": [
+    "1 and 3 only",
+    "1 and 2 only",
+    "2 and 3 only",
+    "1, 2 and 3"
+   ],
+   "a": 1,
+   "e": "Pair 1 and 2 are correct. Pair 3 is incorrect because Hampi is situated on the banks of the Tungabhadra river, not Malaprabha."
+  },
+  {
+   "q": "Consider the following states: 1️⃣ Chattisgarh 2️⃣ Madhya Pradesh 3️⃣ Maharashtra 4️⃣ Odisha. With reference to the states mentioned above, in terms of percentage of forest cover to the total area of State, which one of the following is the correct ascending order? [2019-1]",
+   "o": [
+    "2-3-4-1",
+    "3-2-1-4",
+    "2-3-1-4",
+    "3-2-4-1"
+   ],
+   "a": 3,
+   "e": "The correct ascending order of forest cover percentage is Maharashtra (15%), Madhya Pradesh (25%), Odisha (31%), and Chhattisgarh (42%)."
+  },
+  {
+   "q": "Which is common to the places known as Aliyar, Isapur and Kangsabati? [2019-1]",
+   "o": [
+    "Tropical rain forests",
+    "Recently discovered uranium deposits",
+    "Underground cave systems",
+    "Water reservoirs"
+   ],
+   "a": 3,
+   "e": "Aliyar, Isapur, and Kangsabati are all locations of major water reservoirs."
+  },
+  {
+   "q": "Consider the following statements: 1️⃣ As per recent amendment to the India Forest Act, 1927, forest dwellers have the right to fell the bamboos grown on the forest areas. 2️⃣ As per the Scheduled Tribes and Other Traditional Forest Dwellers (Recognition of Forest Rights) Act, 2006, bamboo is a minor forest produce. 3️⃣ The Scheduled Tribes and other Traditional Forest Dwellers (Recognition of Forest Rights) Act, 2006 allows ownership of minor forest produce to forest dwellers. Which of the following statements given above is/are correct? [2019-1]",
+   "o": [
+    "2 and 3 only",
+    "1, 2 and 3",
+    "1 and 2 only",
+    "3 only"
+   ],
+   "a": 0,
+   "e": "Statement 1 is incorrect because the amendment exempts bamboo grown on *non-forest* areas from felling permits. Statements 2 and 3 are correct under the Forest Rights Act."
+  },
+  {
+   "q": "With reference to the management of minor minerals in India, consider the following statements: 1️⃣ Sand is a 'minor mineral' according to the prevailing law in the country. 2️⃣ State Governments have the power to grant mining leases of minor minerals, but the powers regarding the formation of rules related to the grant of minor minerals lie with the Centre Government. 3️⃣ State Governments have the power to frame rules to prevent illegal mining of minor minerals. Which of the statements given above is/are correct? [2019-1]",
+   "o": [
+    "2 and 3 only",
+    "3 only",
+    "1, 2 and 3 only",
+    "1 and 3 only"
+   ],
+   "a": 3,
+   "e": "Statement 2 is incorrect because the MMDR Act 1957 empowers *State Governments* to frame rules for minor minerals. Statements 1 and 3 are correct."
+  },
+  {
+   "q": "Consider the following minerals: 1️⃣ Bentonite 2️⃣ Chromite 3️⃣ Kyanite 4️⃣ Sillimanite. In India, which of the above is/are officially designated as major minerals? [2020-1]",
+   "o": [
+    "1 and 3 only",
+    "1 and 2 only",
+    "4 only",
+    "2, 3 and 4 only"
+   ],
+   "a": 3,
+   "e": "Chromite, Kyanite, and Sillimanite are officially designated as major minerals, while Bentonite is a minor mineral."
+  },
+  {
+   "q": "Consider the following statements: 1️⃣ Coal ash contains arsenic, lead and mercury. 2️⃣ Coal-fired power plants release sulphur dioxide and oxides of nitrogen into the environment. 3️⃣ High ash content is observed in Indian coal. Which of the statements given above is/are correct? [2020-1]",
+   "o": [
+    "3 only",
+    "2 and 3 only",
+    "1, 2 and 3",
+    "1 only"
+   ],
+   "a": 2,
+   "e": "All three statements are correct. Indian coal has high ash content, and burning it releases toxic gases and metals into the environment."
+  }
+ ]
+}

@@ -1,0 +1,1108 @@
+{
+ "title": "Test 7701",
+ "category": "Vajiram Power Up 2026",
+ "minutes": 75,
+ "negative": 0.25,
+ "questions": [
+  {
+   "q": "Which of the following are the essential functions performed by a Constitution in a democratic polity? 1️⃣ It facilitates trust and coordination among the diverse sections of society. 2️⃣ It ensures clarity, accountability and balance among the different branches of government. 3️⃣ It imposes limitations on the authority of the government. 4️⃣ It articulates the aspirations of the people for a just and equitable society.",
+   "o": [
+    "I, II, III and IV",
+    "I and II only",
+    "I, III, and IV only",
+    "II, III and IV only"
+   ],
+   "a": 0,
+   "e": "The Constitution is the supreme law determining relationships between citizens and the government. It generates trust and coordination necessary for diverse people to live together. It specifies government roles for the legislature, executive, and judiciary, ensuring accountability and balance. It limits authority to prevent power misuse and defines rights to ensure dignity. Finally, it reflects societal aspirations, as seen in the Preamble's goals for justice, liberty, and equality."
+  },
+  {
+   "q": "The principle of 'rule of law' as reflected in the Constitution of India implies that:",
+   "o": [
+    "the State can enact laws granting immunity to certain public officials from judicial scrutiny in matters of governance",
+    "the Executive can suspend legal procedures and court oversight during emergencies in the national interest",
+    "the Legislature may override Fundamental Rights through ordinary legislation if public interest so demands",
+    "all individuals, including those in authority, are equally subject to the laws of the land and are accountable before ordinary courts"
+   ],
+   "a": 3,
+   "e": "The 'rule of law' is the foundation of democracy, meaning no person is above the law. Laws apply equally regardless of status; there is no distinction between political leaders, officials, or ordinary citizens. Every citizen, from the Prime Minister to a small farmer, is subject to the same laws. No one can claim special treatment or privilege simply by being an important person."
+  },
+  {
+   "q": "Consider the following statements with reference to the Constituent Assembly of India: 1️⃣ Its composition was based on the recommendations of the Cabinet Mission. 2️⃣ Each Province was allotted seats proportional to its respective population. 3️⃣ Members from the British provinces were elected by the method of proportional representation with single transferable vote.",
+   "o": [
+    "I and II only",
+    "III only",
+    "I and III only",
+    "I, II and III"
+   ],
+   "a": 3,
+   "e": "The Constituent Assembly was composed roughly along the lines suggested by the Cabinet Mission plan. Seats were allotted to Provinces and Princely States proportional to their population, roughly in a 1:1,000,000 ratio. Seats in British provinces were divided among Muslims, Sikhs, and General communities. Representatives were elected by members of their community in Provincial Legislative Assemblies using proportional representation with a single transferable vote."
+  },
+  {
+   "q": "Consider the following statements with reference to the Indian Polity: 1️⃣ Unlike legal rights, Fundamental Rights are guaranteed by the Constitution. 2️⃣ Unlike legal rights, Fundamental Rights can only be modified by a Constitutional Amendment. 3️⃣ Fundamental Rights are absolute in nature.",
+   "o": [
+    "I and II only",
+    "III only",
+    "I, II and III",
+    "II only"
+   ],
+   "a": 0,
+   "e": "Ordinary legal rights are protected by ordinary law, whereas Fundamental Rights are guaranteed by the Constitution. A Fundamental Right can only be changed by amending the Constitution itself, unlike ordinary rights changed through standard lawmaking. However, Fundamental Rights are not absolute or unlimited; the government can impose reasonable restrictions on their exercise. The judiciary has the responsibility to protect these rights from government violations."
+  },
+  {
+   "q": "Consider the following statements: 1️⃣ The maximum strength of Legislative Councils in States is fixed at one-third of the total strength of the assembly and the minimum strength is fixed at 40. 2️⃣ The resolution for the abolition or creation of the Legislative Council in a State must be passed by the State Assembly of the respective State by a Special Majority. 3️⃣ An Act of Parliament for the abolition or creation of Legislative Councils in States is deemed as an Amendment to the Constitution for the purpose of Article 368.",
+   "o": [
+    "II only",
+    "I, II and III",
+    "I and III only",
+    "I and II only"
+   ],
+   "a": 3,
+   "e": "The maximum strength of a Legislative Council is one-third of the Assembly's total strength, with a minimum of 40. Under Article 169, Parliament can create or abolish a Council if the State Assembly passes a resolution by a Special Majority (majority of total membership and two-thirds of those present and voting). Crucially, such an Act of Parliament is not deemed a Constitutional Amendment under Article 368 and is passed as ordinary legislation."
+  },
+  {
+   "q": "Consider the following statements: Statement I: The Constitution of India provides the right to convert another person to one's own religion by transmission and dissemination of one's religious beliefs to others. Statement II: Article 25 of the Constitution of India says that all persons are equally entitled to freedom of conscience and the right to freely profess, practice and propagate religion.",
+   "o": [
+    "Statement I is correct, but Statement II is incorrect",
+    "Both Statement I and Statement II are correct, but Statement II does not explain Statement I",
+    "Statement I is incorrect, but Statement II is correct",
+    "Both Statement I and Statement II are correct and Statement II explains Statement I"
+   ],
+   "a": 2,
+   "e": "Article 25 entitles all persons to freedom of conscience and the right to profess, practice, and propagate religion. While the right to propagate includes transmitting or disseminating beliefs, it does not include the right to convert another person. Forcible conversions are considered to impinge on the 'freedom of conscience' guaranteed to everyone. Freedom of religion is not absolute and is subject to public order, morality, and health."
+  },
+  {
+   "q": "Consider the following: 1️⃣ Written Constitution 2️⃣ Independent judiciary 3️⃣ Single citizenship 4️⃣ Appointment of Governor. How many of the above are federal features of the Constitution of India?",
+   "o": [
+    "Only one",
+    "Only three",
+    "Only two",
+    "All the four"
+   ],
+   "a": 2,
+   "e": "Federal features of the Indian Constitution include a Written Constitution, dual government, division of powers (Seventh Schedule), supremacy of the Constitution, rigid Constitution, independent judiciary, and bicameralism. Single citizenship and the appointment of the Governor by the Centre are considered unitary or non-federal features. Therefore, only two (Written Constitution and Independent judiciary) are federal features."
+  },
+  {
+   "q": "The Vice President acts as the President when there is a vacancy in the office by reason of: 1️⃣ death of the President 2️⃣ resignation of the President 3️⃣ impeachment of the President.",
+   "o": [
+    "I, II and III",
+    "I and III only",
+    "II only",
+    "II and III only"
+   ],
+   "a": 0,
+   "e": "The Vice-President acts as President when a vacancy occurs due to resignation, impeachment, death, or otherwise. S/he can act as President for a maximum of six months, during which a new President must be elected. Additionally, if the President is unable to discharge functions due to absence or illness, the Vice-President discharges those functions until the President resumes office."
+  },
+  {
+   "q": "In India, which one of the following best characterises the Permanent Executive?",
+   "o": [
+    "Experts and consultants appointed to assist in policy research and project implementation",
+    "Bureaucrats responsible for formulating and implementing government policies",
+    "Elected representatives responsible for enacting legislation",
+    "Judicial authorities entrusted with interpreting constitutional provisions"
+   ],
+   "a": 1,
+   "e": "The Executive includes a large organization called the bureaucracy or civil service, known as the permanent executive. These are trained, skilled, and permanent employees who assist ministers in formulating and implementing policies. While elected ministers hold political control and are responsible to the legislature, bureaucrats provide the professional administrative machinery to carry out the government's work."
+  },
+  {
+   "q": "Consider the following statements: Statement I: A Vote of No-Confidence against even an individual Minister results in the resignation of the entire Council of Ministers. Statement II: The Council of Ministers is collectively responsible to the Lok Sabha.",
+   "o": [
+    "Both Statement I and Statement II are correct and Statement II explains Statement I",
+    "Both Statement I and Statement II are correct, but Statement II does not explain Statement I",
+    "Statement I is correct, but Statement II is not correct",
+    "Statement I is not correct, but Statement II is correct"
+   ],
+   "a": 3,
+   "e": "Article 75 states that the Council of Ministers is collectively responsible to the Lok Sabha, meaning they \"sink or swim together\". Because of this collective responsibility, a No-Confidence Motion can only be moved against the entire Council of Ministers, not an individual Minister. If the motion passes, the entire ministry must resign. A vacancy for an individual minister only arises through death, dismissal, or personal resignation."
+  },
+  {
+   "q": "Which of the following provisions are part of the 'Directive Principles of State Policy' in the Constitution of India? 1️⃣ Uniform Civil Code 2️⃣ Development of scientific temper, humanism and the spirit of inquiry and reform among citizens 3️⃣ Promotion of cottage industries on cooperation basis 4️⃣ Provisions for just and humane conditions of work 5️⃣ Separation of judiciary from the executive.",
+   "o": [
+    "II, IV and V only",
+    "I and IV only",
+    "I, II, III and V only",
+    "I, III, IV and V"
+   ],
+   "a": 3,
+   "e": "Directive Principles (Part IV, Articles 36-51) include securing a Uniform Civil Code (Art 44), promoting cottage industries (Art 43), providing just and humane work conditions (Art 42), and separating the judiciary from the executive (Art 50). Developing scientific temper and humanism is a Fundamental Duty under Article 51A(h), not a Directive Principle."
+  },
+  {
+   "q": "Consider the following: 1️⃣ Andhra Pradesh 2️⃣ Madhya Pradesh 3️⃣ Maharashtra 4️⃣ Gujarat 5️⃣ Uttar Pradesh. How many of the above States in India have Bicameral Legislatures?",
+   "o": [
+    "Only four",
+    "All the five",
+    "Only three",
+    "Only two"
+   ],
+   "a": 2,
+   "e": "Currently, only six Indian states have a bicameral legislature: Andhra Pradesh, Telangana, Uttar Pradesh, Bihar, Maharashtra, and Karnataka. Madhya Pradesh and Gujarat have unicameral systems. Although the 7th Amendment (1956) provided for a Council in Madhya Pradesh, the required Presidential notification has never been issued."
+  },
+  {
+   "q": "Consider the following statements regarding the advisory jurisdiction of the Supreme Court of India: 1️⃣ The Prime Minister of India may refer to the Supreme Court any matter of public importance or involving the interpretation of the Constitution for its opinion. 2️⃣ The Supreme Court, under its advisory jurisdiction, is not bound to give its advice.",
+   "o": [
+    "Both I and II",
+    "II only",
+    "Neither I nor II",
+    "I only"
+   ],
+   "a": 2,
+   "e": "Under Article 143, only the President (not the PM) can seek the Supreme Court's opinion. While the Court can refuse advice on general questions of public importance, it is \"bound\" to give its opinion on disputes arising from pre-constitutional treaties. In all cases, the opinion is advisory and not legally binding on the President."
+  },
+  {
+   "q": "Consider the following statements: 1️⃣ The 73rd Constitutional Amendment Act, 1992 made a provision for the mandatory creation of the Gram Sabha. 2️⃣ Members at all three levels of Panchayati Raj institutions are elected directly by the people. 3️⃣ If the State government dissolves the Panchayat before the end of its five-year term, fresh elections must be held within six months of such dissolution. 4️⃣ One-third of the positions in all Panchayat institutions are reserved for women.",
+   "o": [
+    "Only two",
+    "Only one",
+    "Only three",
+    "All the four"
+   ],
+   "a": 3,
+   "e": "The 73rd Amendment mandates the creation of Gram Sabhas consisting of all registered voters. It established a three-tier structure (Gram, Mandal, Zilla) where members at all levels are directly elected. Elections must be held within six months if a body is dissolved early. It also mandates one-third reservation for women across all levels."
+  },
+  {
+   "q": "Consider the following: 1️⃣ Banking 2️⃣ Public health 3️⃣ Post and Telegraph 4️⃣ Prison 5️⃣ Cyber Laws. How many of the above are in the Union List under the Seventh Schedule of the Constitution of India?",
+   "o": [
+    "Only four",
+    "All the five",
+    "Only two",
+    "Only three"
+   ],
+   "a": 2,
+   "e": "The Union List includes subjects of national importance like Banking and Post and Telegraph. Public Health and Prisons are part of the State List. Cyber Laws are considered a \"residuary subject\" not found in any list, giving the Union Legislature exclusive power over them."
+  },
+  {
+   "q": "Which one of the following statements is correct regarding the federal distribution of powers in India during the National Emergency under Article 352?",
+   "o": [
+    "The Assembly of the State is automatically dissolved",
+    "The normal distribution of the legislative powers between the Centre and the States is not suspended",
+    "The Parliament is empowered to make laws on any subject mentioned in the State List",
+    "The President assumes direct control over the administration of all States"
+   ],
+   "a": 2,
+   "e": "During a National Emergency, the federal distribution of powers is practically suspended. Parliament gains the power to make laws on any subject in the State List. While State Legislatures are not dissolved, their powers become subject to the overriding authority of Parliament."
+  },
+  {
+   "q": "Consider the following pairs: 1️⃣ Habeas corpus: To release a person from unlawful detention 2️⃣ Mandamus: To restrain a subordinate court from exceeding its jurisdiction 3️⃣ Certiorari: To quash an order passed by a lower court or tribunal 4️⃣ Quo Warranto: To direct a public official to perform their lawful duty. How many of the above pairs are correctly matched?",
+   "o": [
+    "Only two",
+    "Only three",
+    "Only one",
+    "All the four"
+   ],
+   "a": 0,
+   "e": "Habeas corpus (Pair I) is correctly matched as it orders an arrested person to be presented to the court to check the lawfulness of detention. Certiorari (Pair III) is correct as it transfers/quashes matters from lower to higher authorities. Mandamus is used to order an official to perform a duty, while Quo Warranto checks a person's entitlement to hold an office."
+  },
+  {
+   "q": "Which of the following are judicial powers of the Governor of a State? 1️⃣ S/he is consulted by the President while appointing the judges of the State High Court. 2️⃣ S/he makes appointments, postings and promotions of the District judges in consultation with the State High Court. 3️⃣ S/he can commute the sentence of anyone convicted under a law within the State's executive jurisdiction.",
+   "o": [
+    "I, II and III",
+    "II and III only",
+    "I and II only",
+    "I and III only"
+   ],
+   "a": 0,
+   "e": "The Governor's judicial powers include being consulted by the President for State High Court judge appointments. S/he also appoints and promotes District judges in consultation with the High Court. Finally, s/he has the power to grant pardons, reprieves, or commute sentences for offenses against laws under the State's executive power."
+  },
+  {
+   "q": "\"I shall strive for a Constitution which will release India from all thralldom and patronage... I shall work for an India in which the poorest shall feel that it is their country in whose making they have an effective voice\". This vision was articulated by:",
+   "o": [
+    "B.R. Ambedkar",
+    "Mahatma Gandhi",
+    "Subash Chandra Bose",
+    "Jawaharlal Nehru"
+   ],
+   "a": 1,
+   "e": "Though not a member of the Constituent Assembly, Mahatma Gandhi inspired the Constitution's philosophy. He articulated this specific vision of an inclusive India—where communities live in harmony and the poorest have a voice—in his magazine 'Young India' in 1931. He emphasized an India without class divides, untouchability, or drugs, and with equal rights for women."
+  },
+  {
+   "q": "Arrange the following events in chronological order: 1️⃣ Signing of the Maastricht Treaty leading to the formation of the European Union 2️⃣ Establishment of BRICS as a formal grouping 3️⃣ Formation of the World Trade Organization (WTO) 4️⃣ Brexit Referendum in the United Kingdom.",
+   "o": [
+    "III-I-IV - II",
+    "II-III-IV - I",
+    "I-III-II-IV",
+    "IV-III-I-II"
+   ],
+   "a": 2,
+   "e": "The Maastricht Treaty founded the EU in 1992. The WTO was established on January 1, 1995. BRIC formalization began in 2006, with the first summit in 2009 and South Africa joining in 2010 to form BRICS. The Brexit Referendum took place on June 23, 2016."
+  },
+  {
+   "q": "With reference to the types of goods in an economy, consider the following pairs: 1️⃣ Steel sheets for manufacturing of cans: Intermediate good 2️⃣ Clothes for school uniform: Consumption good 3️⃣ Factory Machines: Capital good 4️⃣ Tea leaves at restaurant: Final good. How many of the above pairs are correctly matched?",
+   "o": [
+    "Only three",
+    "All the four",
+    "Only two",
+    "Only one"
+   ],
+   "a": 0,
+   "e": "Intermediate goods are inputs like steel sheets used for automobiles or cans. Consumption goods are finished products for individuals, like food or school uniforms. Capital goods are durable tools like factory machines used to produce other goods. Tea leaves at a restaurant are intermediate goods because they are inputs for a final product (brewed tea) sold to customers."
+  },
+  {
+   "q": "Consider the following: 1️⃣ Export of electronic items made by an Indian firm 2️⃣ Total stock of goods present in inventory of a firm 3️⃣ Inflation 4️⃣ Total outstanding debt to foreign countries. How many of the above are flow variables?",
+   "o": [
+    "Only two",
+    "All the four",
+    "Only one",
+    "Only three"
+   ],
+   "a": 0,
+   "e": "Flow variables are measured over a period of time, while stock variables are measured at a specific point. Exports (Point I) are flow variables as they are measured annually/periodically. Inflation (Point III) is also a flow variable measured over time intervals. Inventory and outstanding debt (Points II and IV) are stock variables measured at a specific instant."
+  },
+  {
+   "q": "Consider the following statements: Statement I: All capital goods produced in a year add to the existing stock of capital in the economy. Statement II: A part of the capital goods produced each year goes for replacement of existing capital goods.",
+   "o": [
+    "Statement-I is incorrect, but statement-II is correct",
+    "Statement-I is correct, but statement-II is incorrect",
+    "Both statement-I and statement-II are correct, but statement-II does not explain statement-I",
+    "Both statement-I and statement-II are correct and statement-II explains statement-I"
+   ],
+   "a": 0,
+   "e": "Not all capital goods produced in a year add to the capital stock. A significant portion is used to maintain or replace existing stock that suffers from wear and tear. This regular wear and tear is called depreciation, which must be subtracted from gross investment to determine the actual net addition to capital stock."
+  },
+  {
+   "q": "A car company owned by Country X operates a large manufacturing facility in Country Y. To determine the income earned by the factors of production owned by Country Y, the profits earned by the Country X-owned car factory must be subtracted from Country Y's GDP. This macroeconomic variable is known as:",
+   "o": [
+    "Gross National Product (GNP)",
+    "Gross Value Added (GVA)",
+    "Gross Domestic Product (GDP)",
+    "Net Domestic Product (NDP)"
+   ],
+   "a": 0,
+   "e": "GDP measures production within a country's borders, but GNP focuses on the value produced by a country's citizens globally. To calculate Country Y's GNP, the profits from the Country X-owned factory must be subtracted from Country Y's GDP because those profits belong to foreign factors of production. GNP equals GDP plus net factor income from abroad."
+  },
+  {
+   "q": "Consider the following statements regarding GDP deflator in India: 1️⃣ Unlike the Consumer Price Index (CPI) and Wholesale Price Index (WPI), the GDP deflator includes all domestically produced goods and services. 2️⃣ Unlike the GDP deflator, both WPI and CPI do not adjust for consumption or behavioural changes.",
+   "o": [
+    "II only",
+    "Neither I nor II",
+    "I only",
+    "Both I and II"
+   ],
+   "a": 3,
+   "e": "The GDP deflator reflects price changes for all domestically produced goods and services, making it more comprehensive than CPI or WPI, which use a fixed basket. Unlike CPI/WPI which use fixed weights from a base year, the GDP deflator uses dynamic weights that reflect real-time production and consumption changes."
+  },
+  {
+   "q": "Consider the following statements: Statement I: A higher level of Gross Domestic Product (GDP) of a country does not indicate greater well-being of its citizens. Statement II: GDP does not account for negative externalities such as pollution. Statement III: GDP does not record non-market transactions like household labour.",
+   "o": [
+    "Both Statement II and Statement III are correct, and both of them explain Statement I",
+    "Both Statement II and Statement III are correct, but only one of them explains Statement I",
+    "Neither Statement II nor Statement III is correct",
+    "Only one of the Statements II and III is correct and that explains Statement I"
+   ],
+   "a": 0,
+   "e": "GDP reflects economic performance but overlooks aspects of human well-being like resource depletion or inequality. It fails to account for negative externalities like pollution. Additionally, non-market transactions like unpaid household labor or barter exchanges are excluded, meaning the monetary value does not capture the full picture of citizen well-being."
+  },
+  {
+   "q": "Consider the following pairs: 1️⃣ Double coincidence of wants: Requirement in barter where both parties want what the other has 2️⃣ Velocity of money: Number of times a unit of currency changes hands 3️⃣ Fiat money: Money that has intrinsic value. How many of the pairs given above are correctly matched?",
+   "o": [
+    "Only two",
+    "None",
+    "All the three",
+    "Only one"
+   ],
+   "a": 0,
+   "e": "Double coincidence of wants (Pair I) is essential for barter, where two parties must mutually possess what the other desires. Velocity of money (Pair II) is the frequency a unit of currency is used for transactions in a period. Fiat money (Pair III) is incorrect because it has no intrinsic value; its worth comes from official government guarantees."
+  },
+  {
+   "q": "Consider the following statements: Statement I: High bond interest rates are associated with a lower speculative demand for money. Statement II: When interest rates are high, individuals prefer investing in bonds over holding idle cash.",
+   "o": [
+    "Both Statement-I and Statement-II are correct, but Statement-II does not explain Statement-I",
+    "Both Statement-I and Statement-II are correct and Statement-II explains Statement-I",
+    "Statement-I is correct, but Statement-II is incorrect",
+    "Statement-I is incorrect, but Statement-II is correct"
+   ],
+   "a": 1,
+   "e": "Speculative demand for money depends on expectations of future interest rates and bond prices. When current interest rates are very high, people expect them to fall, leading to future capital gains on bonds. Consequently, they invest in bonds rather than holding cash, resulting in low speculative demand for money."
+  },
+  {
+   "q": "Consider the following: 1️⃣ Cheques drawn on demand deposits 2️⃣ Coins 3️⃣ Currency notes. How many of the above instruments are legal tenders?",
+   "o": [
+    "Only one",
+    "All the three",
+    "None",
+    "Only two"
+   ],
+   "a": 3,
+   "e": "Legal tender refers to money that must be accepted by law for settling transactions. Currency notes (issued by RBI) and coins (issued by the Government) are legal tender. Demand deposits/cheques are widely used but are not legal tender, as no one is legally bound to accept them as payment."
+  },
+  {
+   "q": "With reference to banking, consider the following statements: 1️⃣ The Cash Reserve Ratio (CRR) includes the percentage of Net Demand and Time Liabilities (NDTL) that must be maintained in cash with the Reserve Bank of India. 2️⃣ Statutory Liquidity Ratio (SLR) includes reserves in the form of liquid assets such as cash, gold, or government securities. 3️⃣ A decrease in the bank rate leads to cheaper loans by the banks. How many of the statements given above are correct?",
+   "o": [
+    "Only two",
+    "None",
+    "Only one",
+    "All the three"
+   ],
+   "a": 3,
+   "e": "CRR is the percentage of a bank's total deposits (NDTL) held as cash with the RBI. SLR requires banks to keep a portion of NDTL as liquid assets like gold or government securities. A decrease in the Bank Rate makes borrowing from the RBI cheaper for commercial banks, increasing their lending capacity and resulting in cheaper loans for consumers."
+  },
+  {
+   "q": "Consider the following pairs: 1️⃣ Term Spread: Difference between the interest rate paid to depositors and charged from borrowers 2️⃣ Liquidity Trap: Injection of liquidity by the Central Bank does not stimulate economic activity 3️⃣ Sterilisation: Sale or purchase of government securities to offset foreign capital flows. How many of the pairs given above are correctly matched?",
+   "o": [
+    "Only two",
+    "Only one",
+    "None",
+    "All the three"
+   ],
+   "a": 3,
+   "e": "Spread is the difference between interest charged on loans and interest paid on deposits, representing bank profit. A Liquidity Trap occurs when expansionary monetary policy fails to affect interest rates or growth because people merely hold onto injected cash. Sterilisation involves RBI actions (like selling securities) to neutralize the impact of foreign capital flows on the domestic money supply."
+  },
+  {
+   "q": "In an economy, why is the total amount of money stock in the economy much greater than the volume of high-powered money?",
+   "o": [
+    "The government prints more currency notes than required",
+    "The central bank directly controls all forms of money in circulation",
+    "The banks generally lend the entire amount while keeping very less reserves",
+    "The commercial banks create money through the credit multiplier mechanism"
+   ],
+   "a": 3,
+   "e": "Total money stock exceeds high-powered money because the latter acts as a base for money creation through the banking system. Using fractional reserve banking, banks keep a fraction of deposits and lend the rest. This lent money is redeposited, allowing further cycles of lending and expanding the total money supply through the credit multiplier."
+  },
+  {
+   "q": "Which of the following best explains the Paradox of Thrift in macroeconomics?",
+   "o": [
+    "Households start spending more due to increase in household income",
+    "People cut back on spending and increase savings during a recession",
+    "Decrease in private investments due to rising interest rates on borrowings",
+    "Increased government spending despite lower revenues"
+   ],
+   "a": 1,
+   "e": "The Paradox of Thrift states that while individual saving is smart, if everyone saves more during a recession, it reduces demand. This leads to lower business earnings and potential layoffs, which reduces overall national income. Ultimately, because incomes fall, people may end up saving less in total even though they tried to save more."
+  },
+  {
+   "q": "With reference to the Indian economy, which of the following factors are included in Capital Expenditure? 1️⃣ Expenditure on construction of roads 2️⃣ Loans granted to States and Union Territories 3️⃣ Repayment of government borrowings 4️⃣ Interest payments on government loans 5️⃣ Regular payments to government employees.",
+   "o": [
+    "I, III and V only",
+    "II, III and IV only",
+    "I, II and III only",
+    "II, IV and V only"
+   ],
+   "a": 2,
+   "e": "Capital Expenditure creates long-term assets or reduces financial liabilities, such as building roads, land acquisition, or granting loans to States. Principal repayment of borrowings is also capital expenditure as it reduces liabilities. Routine expenses like salaries, pensions, and interest payments on loans are classified as Revenue Expenditure."
+  },
+  {
+   "q": "Which one of the following is correct regarding the Ricardian Equivalence Proposition in macroeconomics?",
+   "o": [
+    "Taxation and borrowing are equivalent means of financing expenditure",
+    "Government spending is always more effective than tax cuts in stimulating economic activity",
+    "Fiscal deficits always result in inflationary pressure in the economy",
+    "Increased government borrowing leads to higher interest rates and crowds out private investment"
+   ],
+   "a": 0,
+   "e": "This theory states that financing spending through current taxes or debt-financed future taxes has equivalent effects on the economy. Consumers and investors realize that debt must eventually be repaid with future taxes, so debt-financed stimulus is less effective as they save more in anticipation of those future taxes. It undermines the Keynesian idea that deficit spending boosts performance."
+  },
+  {
+   "q": "Which of the following are most likely consequences of the reduction in Repo rate: 1️⃣ Decrease in returns for the retail investors in the stock market 2️⃣ Reduction in inflation rates in the markets 3️⃣ Decreased interest rates for the borrowers 4️⃣ Increase in money supply in the economy.",
+   "o": [
+    "II, III and IV only",
+    "I, II and III only",
+    "I and IV only",
+    "III and IV only"
+   ],
+   "a": 3,
+   "e": "A reduction in the Repo rate allows banks to borrow more cheaply from the RBI, leading to lower lending rates for consumers (Point III). This encourages borrowing, which increases liquidity and the money supply (Point IV). Such moves are anti-deflationary and can boost stock prices, potentially improving returns for investors."
+  },
+  {
+   "q": "If the real exchange rate between two countries is equal to one, which one of the following statements is correct?",
+   "o": [
+    "The nominal exchange rate has depreciated, making foreign goods cheaper than domestic goods",
+    "The domestic currency is appreciated, leading to cheaper imports",
+    "Goods in both countries cost the same when converted to a common currency",
+    "Inflation rates in both countries are equal, ensuring price stability"
+   ],
+   "a": 2,
+   "e": "A real exchange rate of one indicates purchasing power parity. This means goods cost the same in both countries when measured in a common currency. For example, if a pen costs $4 in the US and the rate is 50 INR/USD, a real exchange rate of 1 means the pen should cost 200 INR in India."
+  },
+  {
+   "q": "Which of the following is/are not considered as leakage in the circular flow of income in an economy: 1️⃣ Savings 2️⃣ Taxes 3️⃣ Imports 4️⃣ Exports.",
+   "o": [
+    "IV only",
+    "I and IV only",
+    "I, II and III only",
+    "I and II only"
+   ],
+   "a": 0,
+   "e": "Leakages are outflows of income from the circular flow, comprising parts of income not used to buy domestic goods. There are three main leakages: Savings (Point I), Taxes (Point II), and Imports (Point III). Exports (Point IV) are considered \"injections\" as they increase aggregate demand for domestically produced goods."
+  },
+  {
+   "q": "In an economy, what are 'lump-sum taxes'?",
+   "o": [
+    "Taxes based on property value",
+    "Taxes that increase with income level",
+    "Taxes imposed uniformly on the wealth of all individuals",
+    "Taxes that do not depend on income"
+   ],
+   "a": 3,
+   "e": "Lump-sum taxation, also known as a flat tax, is a system where a fixed amount of tax is imposed regardless of an individual's income level. In this system, the tax liability remains the same even if the person's income changes."
+  },
+  {
+   "q": "Which one of the following scenarios is most likely to result in some private borrowers getting 'crowded out' of the financial markets?",
+   "o": [
+    "Rationalisation of subsidies under a targeted welfare scheme",
+    "Increase in government borrowing to finance fiscal deficit",
+    "Reduction in the interest rate by the Central Bank",
+    "Government reduces expenditure to control the Fiscal Deficit"
+   ],
+   "a": 1,
+   "e": "The crowding-out effect occurs when increased government spending, often funded by borrowing, raises interest rates. Higher interest rates make it more expensive for private investors to borrow, leading to a reduction in private investment. This can offset the intended boost from public expenditure."
+  },
+  {
+   "q": "Which of the following are considered the direct sources of information about the interior of the Earth? 1️⃣ Asteroids 2️⃣ Gravitational Force 3️⃣ Seismic Waves 4️⃣ Volcanic Lava 5️⃣ Deep Rock mines.",
+   "o": [
+    "II and IV only",
+    "III and V only",
+    "IV and V only",
+    "I, III and IV only"
+   ],
+   "a": 2,
+   "e": "Direct sources include materials actually extracted from the Earth, such as volcanic lava/magma and samples from deep rock mines. Indirect sources like asteroids (similar material to Earth), gravitational force (gravity anomalies), and seismic waves help infer the interior composition but are not direct samples."
+  },
+  {
+   "q": "The atmosphere of the Earth consists of five different layers with varying temperatures. In this context, consider the following statements: 1️⃣ In the Troposphere, the temperature decreases with an increase in altitude. 2️⃣ Temperature first increases and then decreases with elevation in the Stratosphere. 3️⃣ The temperature of the Mesosphere remains constant and does not vary with altitude. 4️⃣ In the Thermosphere, temperature rises with altitude.",
+   "o": [
+    "I and III only",
+    "II and IV only",
+    "I and IV only",
+    "II and III only"
+   ],
+   "a": 2,
+   "e": "In the troposphere (lowermost layer), temperature decreases with height. In the stratosphere, temperature increases with altitude due to ozone absorbing UV radiation. In the mesosphere, temperature decreases with height, whereas in the thermosphere, temperatures rise with altitude due to UV and X-ray absorption."
+  },
+  {
+   "q": "Which one of the following are high altitude clouds known for their feathery appearance?",
+   "o": [
+    "Nimbus",
+    "Cumulonimbus",
+    "Cirrus",
+    "Stratus"
+   ],
+   "a": 2,
+   "e": "Cirrus clouds are formed at high altitudes (8,000–12,000m) and are thin, detached, and feathery in appearance. Cumulus clouds resemble cotton wool with a flat base. Stratus clouds are layered and cover large portions of the sky, while Nimbus clouds are dark, dense, and associated with precipitation."
+  },
+  {
+   "q": "Consider the following statements: Statement I: At a given time the tidal bulges are in the opposite directions in the Eastern and Western sides of the Earth. Statement II: The force of attraction on the surface of the earth nearest to the moon is balanced by the centrifugal force on the opposite side of the earth.",
+   "o": [
+    "Both Statement-I and Statement-II are correct, but Statement-II does not explain Statement-I",
+    "Statement-I is incorrect, but Statement-II is correct",
+    "Both Statement-I and Statement-II are correct and Statement-II explains Statement-I",
+    "Statement-I is correct, but Statement-II is incorrect"
+   ],
+   "a": 2,
+   "e": "Tides are caused by the moon's gravitational pull and centrifugal force. On the side facing the moon, the pull dominates to create a bulge. On the opposite side, where attraction is weaker due to distance, the centrifugal force is dominant and creates a second bulge. Thus, tidal bulges occur in opposite directions simultaneously."
+  },
+  {
+   "q": "Consider the following statements regarding Peninsular Plateau: 1️⃣ The Chotanagpur plateau forms the Easternmost limit of the Peninsular plateau. 2️⃣ The general slope of the Peninsular plateau is from West to East.",
+   "o": [
+    "II only",
+    "I only",
+    "Both I and II",
+    "Neither I nor II"
+   ],
+   "a": 0,
+   "e": "The Peninsular plateau's eastern limit is the Meghalaya plateau (beyond the Damodar Valley), separated by the Garo-Rajmahal Gap. The general slope of the plateau is from west to east, which is evident from the flow pattern of the major rivers in the region."
+  },
+  {
+   "q": "In which of the following geographical regions of India one can find 'Barchans', 'Mushroom Rocks' and 'Shifting Dunes'",
+   "o": [
+    "The Malwa Plateau",
+    "The Northern plains",
+    "The Thar desert",
+    "The Sahyadris"
+   ],
+   "a": 2,
+   "e": "Arid conditions in the Thar desert lead to features carved by wind action. Shifting dunes move locations, mushroom rocks have a characteristic narrow base due to differential wind erosion near the ground, and Barchans are crescent-shaped dunes formed by dominant wind directions."
+  },
+  {
+   "q": "Consider the following statements regarding Inter-Tropical Convergence Zone: 1️⃣ It is marked by ascending masses of air. 2️⃣ During summers, it is located south of the Satpura range, while in winters, it is located north of the Himalayas.",
+   "o": [
+    "Both I and II",
+    "II only",
+    "I only",
+    "Neither I nor II"
+   ],
+   "a": 2,
+   "e": "The ITCZ is a low-pressure belt near the equator where trade winds converge and air masses ascend, leading to active weather and cloud formation. By mid-July (summer), it shifts north and lies roughly parallel to the Himalayas. In winter, it moves south toward the equator."
+  },
+  {
+   "q": "The interior of the Earth is divided into several concentric layers. In this context, consider the following: 1️⃣ Inner core 2️⃣ Asthenosphere 3️⃣ Outer core 4️⃣ Crust. How many of the above layers of the Earth are in liquid state?",
+   "o": [
+    "All the four",
+    "Only two",
+    "Only three",
+    "Only one"
+   ],
+   "a": 3,
+   "e": "Only the outer core is in a liquid state. The inner core is solid primarily due to high pressure. The asthenosphere (upper mantle) is \"plasticized\" and partly melted but not a full liquid. The crust and lower mantle are solid."
+  },
+  {
+   "q": "In the context to the planets of the Solar System, which one of the following is the odd one out?",
+   "o": [
+    "Mars",
+    "Venus",
+    "Jupiter",
+    "Mercury"
+   ],
+   "a": 2,
+   "e": "Inner planets (Mercury, Venus, Earth, Mars) are \"terrestrial,\" meaning they are made of rock and metals with high densities. Jupiter is an \"outer\" or \"Jovian\" planet, characterized as a gas giant with a thick atmosphere of hydrogen and helium, much larger size, and no solid surface."
+  },
+  {
+   "q": "Consider the following types of rocks: 1️⃣ Igneous Rocks 2️⃣ Sedimentary Rocks 3️⃣ Metamorphic Rocks. How many of the above are considered as the primary rocks?",
+   "o": [
+    "All the three",
+    "None",
+    "Only two",
+    "Only one"
+   ],
+   "a": 3,
+   "e": "Igneous rocks are known as \"primary rocks\" because they form directly from the cooling and solidification of magma and lava from the Earth's interior. Sedimentary rocks form from fragments of pre-existing rocks, and metamorphic rocks form from existing rocks altered by heat and pressure."
+  },
+  {
+   "q": "Consider the following statements regarding the occurrence of mass movement on Earth: 1️⃣ Ice, water or air carry debris from one place to another in mass movement. 2️⃣ Weathering is a prerequisite for mass movements to occur. 3️⃣ Mass movements generally occur on steep slopes, rather than on flat plane regions.",
+   "o": [
+    "II only",
+    "I and III only",
+    "I, II and III",
+    "III only"
+   ],
+   "a": 3,
+   "e": "In mass movements, gravity directly moves materials down slopes; air, water, or ice do not carry the debris, though the debris may carry them along. Weathering is not a prerequisite, although it aids the process. Because gravity is the driving force, mass movements are far more active on steep slopes than flat regions."
+  },
+  {
+   "q": "'Pedogenesis' is a term used to describe which one of the following geological phenomena?",
+   "o": [
+    "The process of mountain building",
+    "The process of formation of soil",
+    "The process of colonisation of a species",
+    "The process of formation of continents"
+   ],
+   "a": 1,
+   "e": "Pedogenesis or soil genesis is the process of origin and formation of soil from weathered material and organic matter. It involves weathering, colonization by microbes and plants, and humus accumulation over time."
+  },
+  {
+   "q": "Which of the above rivers are not the tributaries of the River Ganga? 1️⃣ Gandak 2️⃣ Ghaggar 3️⃣ Mahananda 4️⃣ Mahi 5️⃣ Teesta.",
+   "o": [
+    "II, IV and V only",
+    "IV and V only",
+    "I, II and V only",
+    "III and IV only"
+   ],
+   "a": 0,
+   "e": "Gandak and Mahananda are left-bank tributaries of the Ganga. The Ghaggar disappears into the Thar Desert as an inland drainage system. The Mahi is a west-flowing river that drains into the Arabian Sea. Teesta is a tributary of the Brahmaputra."
+  },
+  {
+   "q": "Consider the following statements: Statement I: The Western Coast of Europe experiences milder winters compared to other regions at similar latitudes. Statement II: North West drift carries warm waters to the Western Coast of Europe. Statement III: The Western Europe is under the influence of Westerlies for a major part of the year.",
+   "o": [
+    "Both Statement II and Statement III are correct and both of them explain Statement I",
+    "Both Statement II and Statement III are correct but only one of them explains Statement I",
+    "Neither Statement II nor Statement III is correct",
+    "Only one of the Statements II and III is correct and that explains Statement I"
+   ],
+   "a": 0,
+   "e": "The North West drift carries warm tropical waters to Europe's west coast, moderating winter temperatures. Additionally, the Westerlies carry warm tropical air to the region, further moderating the cold. Both these factors explain why Western Europe has milder winters than regions like Siberia at similar latitudes."
+  },
+  {
+   "q": "Consider the following statements: Statement I: The greenhouse gases help to keep the temperature of earth at moderate levels. Statement II: The greenhouse gases are transparent to long wave infrared radiations.",
+   "o": [
+    "Statement-I is correct, but Statement-II is incorrect",
+    "Both Statement-I and Statement-II are correct, but Statement-II does not explain Statement-I",
+    "Both Statement-I and Statement-II are correct and Statement-II explains Statement-I",
+    "Statement-I is incorrect, but Statement-II is correct"
+   ],
+   "a": 0,
+   "e": "Greenhouse gases (like CO2 and methane) absorb longwave infrared radiation emitted by the Earth's surface. This traps heat, maintaining Earth's temperature at a habitable level. Thus, the atmosphere is NOT transparent to longwave radiation; it acts like a blanket."
+  },
+  {
+   "q": "Consider the following atmospheric conditions: 1️⃣ Large sea surface with temperature higher than 27°C 2️⃣ Presence of the Coriolis force 3️⃣ Small variation in the vertical wind speed 4️⃣ A pre-existing weak low-pressure area or low-level-cyclonic circulation 5️⃣ Upper divergence above the sea level system. How many of the above conditions are favourable for the formation of tropical cyclones?",
+   "o": [
+    "All the five",
+    "Only three",
+    "Only two",
+    "Only four"
+   ],
+   "a": 0,
+   "e": "All five conditions are necessary for cyclone formation. Warm seas fuel the storm with latent heat. Coriolis force is needed for rotating circulation. Low vertical wind shear keeps the structure intact. Pre-existing disturbances provide the starting point, and upper divergence allows for continuous rising of air."
+  },
+  {
+   "q": "In how many of the above States, one can find tropical evergreen forests? 1️⃣ Tripura 2️⃣ Karnataka 3️⃣ Tamil Nadu 4️⃣ Kerala 5️⃣ Madhya Pradesh.",
+   "o": [
+    "Only four",
+    "All the five",
+    "Only two",
+    "Only three"
+   ],
+   "a": 0,
+   "e": "Tropical evergreen forests require over 200 cm of rainfall. They are found in the Northeast (Tripura) and the Western Ghats (Kerala, Karnataka, and the western slopes in Tamil Nadu). Madhya Pradesh has a subtropical climate with moderate rainfall, making it unsuitable for evergreen rainforests."
+  },
+  {
+   "q": "Which one of the following soils is known to be self-ploughing in nature?",
+   "o": [
+    "Alluvial Soil",
+    "Black Soil",
+    "Laterite Soil",
+    "Red Soil"
+   ],
+   "a": 1,
+   "e": "Black soil (regur) contains clay that expands when wet and contracts when dry. This contraction causes deep cracks that naturally aerate and break up the soil, giving it a \"self-ploughing\" character."
+  },
+  {
+   "q": "With reference to the interaction of tectonic plates, consider the following statements: Statement I: The Oceanic plate subducts when it collides with the Continental plate. Statement II: The Oceanic plate is denser as compared to the Continental plate.",
+   "o": [
+    "Statement-I is correct, but Statement-II is incorrect",
+    "Both Statement-I and Statement-II are correct, but Statement-II does not explain Statement-I",
+    "Both Statement-I and Statement-II are correct and Statement-II explains Statement-I",
+    "Statement-I is incorrect, but Statement-II is correct"
+   ],
+   "a": 2,
+   "e": "When tectonic plates collide, the denser plate subducts (sinks) beneath the less dense one. Because oceanic lithosphere is thinner and denser than continental lithosphere, it is forced down into the mantle during collisions."
+  },
+  {
+   "q": "Which one of the following is the most abundant element in the Earth's crust?",
+   "o": [
+    "Oxygen",
+    "Silicon",
+    "Carbon",
+    "Iron"
+   ],
+   "a": 0,
+   "e": "Oxygen is the most abundant element, making up about 47% of the Earth's crust by mass. Silicon is the second most abundant at 28%, followed by aluminum (8.1%) and iron (5.0%)."
+  },
+  {
+   "q": "Consider the following pairs: 1️⃣ Chirand: Bihar 2️⃣ Koldihwa: Uttar Pradesh 3️⃣ Mehrgarh: Himachal Pradesh 4️⃣ Burzahom: Jammu and Kashmir. How many of the pairs given above are correctly matched?",
+   "o": [
+    "Only two",
+    "Only three",
+    "All the four",
+    "Only one"
+   ],
+   "a": 1,
+   "e": "Chirand is a Neolithic-Chalcolithic site in Bihar. Koldihwa is a Neolithic-Iron Age site in Uttar Pradesh. Burzahom is in Jammu and Kashmir, known for pit-houses. Mehrgarh is in present-day Pakistan (near the Bolan Pass), not Himachal Pradesh."
+  },
+  {
+   "q": "In the context of nomenclature of India, consider the following statements: 1️⃣ In Rigveda, the term 'Bharata' was used for a group of people who lived in the north-west region of the Indian subcontinent. 2️⃣ The Iranians and the Greeks called the land to the east of the river Indus as 'India'. 3️⃣ The term 'Hindustan' was first used in the 13th century by Minhaj-i-Siraj for areas of Punjab, Haryana and the lands between the Ganga and Yamuna.",
+   "o": [
+    "II and III only",
+    "II only",
+    "I only",
+    "I, II and III"
+   ],
+   "a": 3,
+   "e": "'Bharata' originally referred to a group of people in the northwest mentioned in the Rigveda. Iranians and Greeks called the land east of the Indus (Hindos/Indos) 'India'. Minhaj-i-Siraj (13th century) used 'Hindustan' in a political sense to describe areas belonging to the Delhi Sultan, specifically lands between the Ganga and Yamuna."
+  },
+  {
+   "q": "Consider the following statements with reference to the Rigvedic period: 1️⃣ There was no regular army. 2️⃣ Battles were mostly fought for pastures and agricultural lands. 3️⃣ Generally, the Rajas did not collect taxes. 4️⃣ The sons automatically succeeded fathers as rajas.",
+   "o": [
+    "I, II and III only",
+    "I, II and IV only",
+    "II, III and IV only",
+    "I, III and IV only"
+   ],
+   "a": 0,
+   "e": "During the Rigvedic period, there was no regular army; assemblies (sabha/samiti) discussed war and chose brave leaders. Battles were fought for cattle, land, water, and people. Rajas were tribal chiefs who did not have capital cities, armies, or the power to collect formal taxes, relying instead on voluntary offerings (bali). Sons did not automatically succeed fathers as rajas."
+  },
+  {
+   "q": "Consider the following pairs: 1️⃣ Kandahar Inscription: Written exclusively in Armanic language 2️⃣ Allahabad Inscription: Mentions about Chandragupta II's policies 3️⃣ Uttaramerur Inscription: Provides details of Chola administration. How many of the pairs given above are correctly matched?",
+   "o": [
+    "All the three",
+    "None",
+    "Only one",
+    "Only two"
+   ],
+   "a": 2,
+   "e": "The Kandahar inscription was written in TWO languages: Greek and Aramaic. The Allahabad Pillar Inscription (Prayag Prashasti) glorifies Samudragupta's campaigns and policies, not Chandragupta II. Uttaramerur (Pair III) is correctly matched as it provides detailed rules for organizing Chola village committees (sabha)."
+  },
+  {
+   "q": "Which of the following statements are correct regarding the jatis in early medieval India? 1️⃣ Jatis were ranked on the basis of their occupations. 2️⃣ Jati ranks were permanently fixed across regions. 3️⃣ The rules of jatis were often enforced by local assemblies.",
+   "o": [
+    "I and II only",
+    "I, II and III",
+    "II and III only",
+    "I and III only"
+   ],
+   "a": 3,
+   "e": "Society was differentiated into jatis ranked by occupation, background, and resources. However, jati status was NOT fixed and varied by region based on local power and influence. Jati rules were enforced by an assembly of elders, sometimes called a jati panchayat."
+  },
+  {
+   "q": "Consider the following pairs: 1️⃣ Indo-European: Konkani 2️⃣ Dravidian: Coorgi 3️⃣ Austro-Asiatic: Santhali 4️⃣ Sino-Tibetan: Malayalam. How many of the pairs given above are correctly matched?",
+   "o": [
+    "Only one",
+    "Only two",
+    "Only three",
+    "All the four"
+   ],
+   "a": 2,
+   "e": "Konkani is an Indo-Aryan language (Indo-European family). Coorgi (Kodava) is a Dravidian language. Santhali belongs to the Munda sub-family of the Austro-Asiatic family. Malayalam is a major Dravidian language, not Sino-Tibetan."
+  },
+  {
+   "q": "With reference to land classification in the Chola Empire, consider the following statements: 1️⃣ Brahmadeya was a tax free land donated to Brahmanas. 2️⃣ Shalabhoga was land granted for the maintenance of educational institutions. 3️⃣ Vellanvagai land was cultivated by non-Brahmana peasant proprietors.",
+   "o": [
+    "I, II and III",
+    "II and III only",
+    "I and III only",
+    "I and II only"
+   ],
+   "a": 0,
+   "e": "Chola inscriptions classify land as Brahmadeya (tax-free for Brahmanas), Shalabhoga (for school maintenance), and Vellanvagai (for non-Brahmana peasant owners). Other types included Devadana (for temples) and Pallichchhandam (for Jaina institutions)."
+  },
+  {
+   "q": "Consider the following pairs with reference to the Delhi Sultanate: Ruler/Associated Event: 1️⃣ Iltutmish: Established Bandagans as a political class 2️⃣ Alauddin Khilji: Established garrison towns to station the soldiers 3️⃣ Firoz Shah Tughlaq: Made the Iqta system hereditary 4️⃣ Muhammad bin Tughlaq: Planned a military campaign to capture Mongol territory.",
+   "o": [
+    "A-2, B-3, C-4, D-1",
+    "A-4, B-1, C-2, D-3",
+    "A-3, B-1, C-2, D-4",
+    "A-1, B-2, C-3, D-4"
+   ],
+   "a": 2,
+   "e": "Iltutmish used \"Bandagan\" (trained slaves) for key political offices. Alauddin Khilji built the garrison town of Siri to defend against Mongols. Firoz Shah Tughlaq made the Iqta system and military recruitment hereditary. Muhammad bin Tughlaq planned offensive military campaigns to capture Mongol territory."
+  },
+  {
+   "q": "With reference to the ancient India, consider the following pairs: 1️⃣ Megalith: Burial site 2️⃣ Ashvamedha: Royal sacrificial ritual 3️⃣ Kammakaras: Rich landowners. How many of the pairs given above are correctly matched?",
+   "o": [
+    "All the three",
+    "Only two",
+    "None",
+    "Only one"
+   ],
+   "a": 1,
+   "e": "Megaliths are large stones used to mark underground or surface burial sites. Ashvamedha was a ritual where a king let a horse wander to assert power and territorial claims. Kammakaras were NOT rich landowners; they were landless agricultural laborers. Rich landowners in South India were known as Vellalar."
+  },
+  {
+   "q": "Consider the following information: Mahajanapada/Capital/Associated River: 1️⃣ Vatsa: Kaushambi (Yamuna) 2️⃣ Malla: Champa (Ganga) 3️⃣ Vajji: Vaishali (Gandak). In how many of the above rows is the given information correctly matched?",
+   "o": [
+    "Only two",
+    "None",
+    "All the three",
+    "Only one"
+   ],
+   "a": 0,
+   "e": "Vatsa's capital was Kausambi on the Yamuna. Vajji's capital was Vaishali near the Gandak. Row 2 is incorrect; the capital of Malla was Kusinara (near the Rapti and Gandak), while Champa was the capital of Anga."
+  },
+  {
+   "q": "Consider the following statements: 1️⃣ Rajatarangini, written by Kalhana, records the history of Kashmir's kings. 2️⃣ Kitab ul-Hind is a Persian text by Al-Biruni which records the rule of Mahmud of Ghazni.",
+   "o": [
+    "I only",
+    "Both I and II",
+    "Neither I nor II",
+    "II only"
+   ],
+   "a": 0,
+   "e": "Rajatarangini is a Sanskrit poem by Kalhana documenting Kashmir's rulers using inscriptions and eyewitness accounts. Kitab ul-Hind is an ARABIC (not Persian) work by Al-Biruni describing the subcontinent's people and culture after consulting Sanskrit scholars."
+  },
+  {
+   "q": "Consider the following statements: 1️⃣ Both Buddha and Mahavir preached that asceticism and penance are required for salvation. 2️⃣ Both Buddha and Mahavir preached their teachings in Pali. 3️⃣ Both Buddhism and Jainism believe in the theory of Karma.",
+   "o": [
+    "I, II and III",
+    "I and II only",
+    "I and III only",
+    "III only"
+   ],
+   "a": 3,
+   "e": "Jainism teaches that severe asceticism is necessary for salvation, but Buddha taught a \"middle path\" avoiding extremes of indulgence or penance. Both preached in Prakrit, the language of ordinary people. Both religions emphasize that karma (actions) affects current and future lives, though they define the nature of karma differently."
+  },
+  {
+   "q": "In the context of schools of Indian Philosophy and their propounders, which one of the following is an odd one out?",
+   "o": [
+    "Nyaya: Jaimini",
+    "Vaisheshika: Kanada",
+    "Samkhya: Kapila",
+    "Yoga: Patanjali"
+   ],
+   "a": 0,
+   "e": "There are six systems of Indian philosophy. Vaisheshika was founded by Kanada. Samkhya was founded by Kapila, and Yoga by Patanjali. Nyaya was founded by Gotama, not Jaimini; Jaimini was the propounder of the Purva Mimansa school."
+  },
+  {
+   "q": "Consider the following statements: Statement-I: The Permanent Settlement system did not lead to a steady return on investment. Statement-II: The revenue demand was pegged at a high rate when the prices of agricultural produce were depressed. Statement III: The Sunset Law led to frequent auctioning of the zamindari in case of failed payments.",
+   "o": [
+    "Both Statement-II and Statement-III are correct, but only one of them explains Statement-I",
+    "Only one of the Statements-II and III is correct and that explains Statement-I",
+    "Both Statement-II and Statement-III are correct and both of them explain Statement-I",
+    "Neither Statement-II nor Statement-III is correct"
+   ],
+   "a": 2,
+   "e": "Permanent Settlement revenue demands were initially pegged high to prevent future loss to the Company as prices rose. However, prices were low in the 1790s, making it hard for peasants to pay zamindars. Combined with the Sunset Law, which auctioned estates if payment was not received by sunset of the specified day, many zamindars failed to provide a steady return."
+  },
+  {
+   "q": "In the context of British India, the Fifth Report of 1813 was associated with:",
+   "o": [
+    "revenue and judicial administration of Bengal and Madras",
+    "a detail account of social evils like sati prevalent in India",
+    "status of literary and scientific knowledge in India",
+    "the account of the East India Company's trade monopoly in India"
+   ],
+   "a": 0,
+   "e": "The Fifth Report was produced by a British parliamentary committee to enquire into East India Company affairs. It contained over 800 pages of appendices, including reports from collectors and statistical tables on the revenue and judicial administration of Bengal and Madras."
+  },
+  {
+   "q": "With reference to the British India, consider the following pairs: 1️⃣ Francis Buchanan: Calcutta Alipore Zoo and Botanical Gardens 2️⃣ William Hodges: Establishment of Ryotwari Settlement 3️⃣ Robert Merttins Bird: Development of Mahalwari System. How many of the pairs given above are correctly matched?",
+   "o": [
+    "None",
+    "Only one",
+    "All the three",
+    "Only two"
+   ],
+   "a": 3,
+   "e": "Francis Buchanan was a physician who organized the Calcutta Alipore Zoo and surveyed Company territories. Robert Merttins Bird is known as the Father of Land Settlements in Northern India for overseeing the Mahalwari system. William Hodges was an artist search of the \"picturesque,\" not a revenue official."
+  },
+  {
+   "q": "With reference to the Revolt of 1857, consider the following pairs: 1️⃣ Maulvi Ahmadullah Shah: Faizabad 2️⃣ Shah Mal: Lucknow 3️⃣ Gonoo: Chotanagpur. How many of the pairs given above are correctly matched?",
+   "o": [
+    "Only one",
+    "Only two",
+    "All the three",
+    "None"
+   ],
+   "a": 1,
+   "e": "Maulvi Ahmadullah Shah (Danka Shah) spearheaded the revolt in Faizabad and Awadh. Gonoo was a tribal leader of the Kol people in the Chotanagpur region. Shah Mal was a leader in the Baghpat district (Uttar Pradesh) where he mobilized Jats; the revolt in Lucknow was led by figures like Begum Hazrat Mahal."
+  },
+  {
+   "q": "In British India, who was referred to as a 'Resident'?",
+   "o": [
+    "Alocal official acting as intermediary between British authorities and Indian rulers",
+    "A British officer in charge of administering directly ruled provinces",
+    "A member of the British Parliament posted in India",
+    "An agent of the East India Company responsible for revenue administration"
+   ],
+   "a": 0,
+   "e": "A Resident was a senior British official stationed in a princely state. They acted as a diplomat and advisor, overseeing governance to ensure adherence to the Subsidiary Alliance. This allowed the British to exercise \"indirect rule\" over territories not under their direct administration."
+  },
+  {
+   "q": "Consider the following statements regarding Mahatma Gandhi's first major public appearance at the opening of the Banaras Hindu University: 1️⃣ He considered that Indian nationalism was an elite phenomenon, a creation of lawyers, doctors and landlords. 2️⃣ The first public announcement of Gandhi's desire was to make Indian nationalism more properly representative of the Indian people as a whole.",
+   "o": [
+    "II only",
+    "I only",
+    "Neither I nor II",
+    "Both I and II"
+   ],
+   "a": 3,
+   "e": "In February 1916, Gandhi noted that Indian nationalism was dominated by the elite. His speech charged the elite with a lack of concern for the poor, stating that salvation for India would only come through the farmers. This was a statement of intent to make the movement representative of all Indian people."
+  },
+  {
+   "q": "Consider the following statements: Statement-I: Charkha became a symbol of the Indian national movement for the first time under Mahatma Gandhi. Statement-II: Charkha was seen as a symbol that could provide the poor with supplementary income and make them self-reliant.",
+   "o": [
+    "Statement-I is correct, but Statement-II is incorrect",
+    "Both Statement-I and Statement-II are correct and Statement-II explains Statement-I",
+    "Both Statement-I and Statement-II are correct, but Statement-II does not explain Statement-I",
+    "Statement-I is incorrect, but Statement-II is correct"
+   ],
+   "a": 3,
+   "e": "The charkha became a symbol of the Swadeshi movement as early as 1905, before Gandhi's return. However, Gandhi saw it as a symbol of self-reliance that would reject machine enslavement and provide the poor with income. He successfully brought this message to the rural masses."
+  },
+  {
+   "q": "Consider the following statements: 1️⃣ Grazing food chain doesn't consists of microbes or any other decomposers. 2️⃣ The sun is the main source of energy for the detritus food chain.",
+   "o": [
+    "I only",
+    "Both I and II",
+    "Neither I nor II",
+    "II only"
+   ],
+   "a": 0,
+   "e": "The Grazing Food Chain starts with green plants using solar energy and is carried out by macroscopic organisms (herbivores/carnivores) without decomposers. The Detritus Food Chain starts from dead organic matter eaten by microorganisms and detritivores, making it less dependent on direct solar energy."
+  },
+  {
+   "q": "Consider the following statements: 1️⃣ Oceanic rocks are the major reservoirs of phosphorus. 2️⃣ The atmospheric input of phosphorus through rainfall is much more than that of carbon. 3️⃣ Gaseous exchange of phosphorus between the organism and the environment is negligible.",
+   "o": [
+    "II and III only",
+    "I, II and III",
+    "I and III only",
+    "I and II only"
+   ],
+   "a": 2,
+   "e": "Phosphorus follows a sedimentary cycle where rocks (oceanic and terrestrial) are the main reservoir. Unlike carbon, phosphorus has no significant gaseous phase, so atmospheric input through rainfall and exchange between organisms and the environment is minimal."
+  },
+  {
+   "q": "Which one of the following statements best describes the term 'brood parasitism'?",
+   "o": [
+    "The parasite is attached to the plant but doesn't take any nutrients from the host.",
+    "Practice of laying eggs in the nests of other species of birds for incubation.",
+    "Extreme form of parasitism, wherein the host dies of infection and the parasite then becomes sarcophagic and feeds on the dead body of the host.",
+    "Takeover of the replication machinery of the host by retroviruses to generate its own copies of DNA."
+   ],
+   "a": 1,
+   "e": "Brood parasitism is a strategy where a parasite lays its eggs in the nest of a host species. The host then bears the cost of incubating and rearing the parasite's offspring. Common examples include the cuckoo and cowbird laying eggs in the nests of other birds."
+  },
+  {
+   "q": "Consider the following statements regarding Humus: 1️⃣ It has a high water-holding capacity and helps nutrient retention in the soil. 2️⃣ It is highly resistant to microbial action and undergoes decomposition at an extremely slow rate.",
+   "o": [
+    "II only",
+    "I only",
+    "Both I and II",
+    "Neither I nor II"
+   ],
+   "a": 2,
+   "e": "Humus is formed during the final stages of decomposition. Its colloidal structure provides high water-holding capacity and helps retain soil nutrients. It is highly resistant to microbes and decomposes very slowly, acting as a long-term nutrient reservoir."
+  },
+  {
+   "q": "Consider the following statements: 1️⃣ Plants have a greater species diversity than animals. 2️⃣ Arthropods have the maximum number of species in the animal kingdom. 3️⃣ Amongst animals Invertebrates are more numerous than vertebrates. 4️⃣ Fungi have more species recorded than all vertebrate groups combined.",
+   "o": [
+    "I, II and III only",
+    "II, III and IV only",
+    "I and IV only",
+    "I, II, III and IV"
+   ],
+   "a": 1,
+   "e": "Animals dominate global diversity, accounting for over 70% of species, while plants account for only about 22%. Among animals, arthropods (especially insects) are the most diverse. Invertebrates far outnumber vertebrates. Fungi also have more recorded species than all vertebrate groups (fish, birds, mammals, etc.) combined."
+  },
+  {
+   "q": "Consider the following pairs: 1️⃣ Predation: Biological control methods in agriculture for pest control 2️⃣ Commensalism: Orchids growing on Mango plants as an epiphyte 3️⃣ Mutualism: Association of fungus with roots of plants to form Mycorrhizae 4️⃣ Ammensalism: Antibiotic production by fungus to prevent the growth of other microorganisms. How many of the above pairs are correctly matched?",
+   "o": [
+    "I, II and IV only",
+    "I, II, III and IV",
+    "II and IV only",
+    "I and III only"
+   ],
+   "a": 1,
+   "e": "All are correct. Predation allows biological control of pests. Commensalism benefits the orchid while leaving the mango tree unaffected. Mutualism benefits both the fungus and plant in Mycorrhizae. Ammensalism occurs when a fungus produces antibiotics that harm microbes without benefiting or harming itself."
+  },
+  {
+   "q": "The term 'Evil Quartet' describes a set of causes for which of the following?",
+   "o": [
+    "Climate change",
+    "Global Warming",
+    "Ozone layer depletion",
+    "Biodiversity loss"
+   ],
+   "a": 3,
+   "e": "Scientist Jarod Diamond identified four key factors—Habitat loss, Over-exploitation, Alien species invasion, and Co-extinctions—that contribute to species extinction and global biodiversity loss."
+  },
+  {
+   "q": "Consider the following statements: 1️⃣ Pyramid of Number is always upright. 2️⃣ Pyramid of Biomass is always upright. 3️⃣ Pyramid of Energy is never inverted. How many of the above statements are correct?",
+   "o": [
+    "Only two",
+    "Only one",
+    "All the three",
+    "None"
+   ],
+   "a": 1,
+   "e": "The Pyramid of Number is inverted in tree ecosystems. The Pyramid of Biomass is inverted in aquatic ecosystems where phytoplankton are consumed rapidly. The Pyramid of Energy is ALWAYS upright because energy is lost as heat at each trophic level and can only flow in one direction."
+  },
+  {
+   "q": "Which of the following conditions favour the process of decomposition? 1️⃣ Anaerobic conditions 2️⃣ Low temperatures 3️⃣ Moist and humid environment 4️⃣ Nitrogen rich base material.",
+   "o": [
+    "III and IV only",
+    "I and III only",
+    "I and II only",
+    "II and III only"
+   ],
+   "a": 0,
+   "e": "Decomposition is an aerobic process; anaerobic conditions slow down microbial activity. Low temperatures also reduce enzymatic activity. Moist/humid conditions (Point III) and nitrogen-rich materials (Point IV) speed up the process by supporting microbial growth and metabolism."
+  },
+  {
+   "q": "How many of the above are methods of in situ conservation? 1️⃣ Sacred Grooves 2️⃣ Zoological Parks 3️⃣ Herbarium 4️⃣ National Parks 5️⃣ Seed Banks.",
+   "o": [
+    "All the five",
+    "Only four",
+    "Only three",
+    "Only two"
+   ],
+   "a": 3,
+   "e": "In situ conservation protects species in their natural habitats; examples include Sacred Groves (religious/cultural forest preservation) and National Parks. Ex situ conservation involves artificial environments like Zoological Parks, Herbaria (preserved specimens), and Seed Banks."
+  },
+  {
+   "q": "Which one of the following organelles is not found in animal cells?",
+   "o": [
+    "Cell membrane",
+    "Vacuoles",
+    "Lysosome",
+    "Cell wall"
+   ],
+   "a": 3,
+   "e": "Animal cells have cell membranes, but only plant, fungal, and bacterial cells possess a rigid cell wall. The cell wall provides mechanical strength and prevents bursting from osmotic pressure. Animal cells do have vacuoles (though usually smaller than in plants) and lysosomes."
+  },
+  {
+   "q": "Consider the following statements with reference to the viruses: 1️⃣ Viruses are capable of directly invading the Central Nervous System (CNS) tissue. 2️⃣ Bacterial viruses are usually double-stranded DNA viruses.",
+   "o": [
+    "Both I and II",
+    "Neither I nor II",
+    "I only",
+    "II only"
+   ],
+   "a": 0,
+   "e": "Viruses can invade the CNS by traveling along nerves or crossing the blood-brain barrier, causing diseases like encephalitis. Bacteriophages (bacterial viruses) are typically double-stranded DNA viruses as it offers genetic stability and compatibility with bacterial replication systems."
+  },
+  {
+   "q": "Which one of the following best describes a Virtual Private Network (VPN)?",
+   "o": [
+    "A secure, encrypted connection established over a public network to protect data transmission",
+    "A service that allows multiple users to access the same IP address for efficient bandwidth usage",
+    "A cloud-based platform for virtual collaboration among distributed teams",
+    "A network protocol used to convert private IP addresses into public ones for internet access"
+   ],
+   "a": 0,
+   "e": "A VPN creates an encrypted \"tunnel\" over public networks. This process hides the user's real IP address and online activities from third parties, ensuring privacy, security (especially on public Wi-Fi), and anonymity."
+  },
+  {
+   "q": "Consider the following: 1️⃣ Gonorrhea 2️⃣ Pyelonephritis 3️⃣ Tuberculosis 4️⃣ Hepatitis B 5️⃣ Human Immunodeficiency Virus. How many of the above are Sexually Transmitted Infections (STIs)?",
+   "o": [
+    "Only four",
+    "All the five",
+    "Only three",
+    "Only two"
+   ],
+   "a": 2,
+   "e": "STIs include Gonorrhea, Hepatitis B, and HIV. Pyelonephritis is a kidney infection (UTI), not an STI. Tuberculosis is caused by bacteria spread through respiratory droplets (coughing/sneezing), not sexual contact."
+  },
+  {
+   "q": "In how many of the above rows is the given information correctly matched? Row/Vitamin/Source/Deficiency Disease: 1️⃣ Vitamin A: Dairy products (Night blindness) 2️⃣ Vitamin B2: Green vegetables (Skin diseases) 3️⃣ Vitamin K: Cereals (Anaemia) 4️⃣ Vitamin D: Oily fish (Rickets).",
+   "o": [
+    "Only three",
+    "All the four",
+    "Only two",
+    "Only one"
+   ],
+   "a": 0,
+   "e": "Vitamin A (from dairy/fish) deficiency causes night blindness. Vitamin B2 (from green vegetables) prevents skin diseases. Vitamin D (from oily fish/sunlight) prevents rickets. Row 3 is incorrect; Vitamin K deficiency causes excessive bleeding, while Anaemia is caused by Vitamin B12 deficiency."
+  },
+  {
+   "q": "Consider the following statements: 1️⃣ All metals except mercury exist as solids at room temperature. 2️⃣ Diamond has a very high melting and boiling point. 3️⃣ Alkali metals have high densities and high melting points.",
+   "o": [
+    "II and III only",
+    "I and III only",
+    "I, II and III",
+    "I and II only"
+   ],
+   "a": 3,
+   "e": "Most metals are solid at room temperature except mercury. Diamond, an allotrope of carbon, is the hardest known natural substance with extremely high melting points. Alkali metals like lithium and sodium are soft enough to cut with a knife and have LOW densities and melting points."
+  },
+  {
+   "q": "How many of the above phenomena can be primarily explained by the concept of surface tension? 1️⃣ Oil rises through a cotton wick 2️⃣ Water wets human skin but does not wet duck feathers 3️⃣ Mercury does not adhere to glass, whereas water clings to it 4️⃣ Oil and water do not mix.",
+   "o": [
+    "Only one",
+    "Only two",
+    "All the four",
+    "Only three"
+   ],
+   "a": 2,
+   "e": "All are correct. Capillary action in a wick is aided by surface tension. Duck feathers have oily layers where water's surface tension exceeds its stickiness to the feather. Mercury doesn't stick to glass because its internal surface tension is stronger than its attraction to glass. Finally, surface tension maintains the boundary that keeps oil and water separated."
+  },
+  {
+   "q": "How many of the above are applications of convex mirrors? 1️⃣ Shaving mirrors 2️⃣ Rear-view mirrors in vehicles 3️⃣ Vehicles headlights 4️⃣ Torches.",
+   "o": [
+    "Only two",
+    "Only three",
+    "Only one",
+    "All the four"
+   ],
+   "a": 2,
+   "e": "Convex mirrors are used for vehicle rear-view mirrors because they provide a wider field of view and erect (though smaller) images. Shaving mirrors, headlights, and torches use CONCAVE mirrors to create enlarged images or powerful parallel beams."
+  },
+  {
+   "q": "Which of the following best explains why the rate of reaction is higher in Flask B?",
+   "o": [
+    "Zinc in Flask B is more reactive than in Flask A",
+    "The color and odor of the acid influenced the reaction",
+    "The molecular weight of zinc in Flask B is higher",
+    "A higher surface area of zinc increases the rate at the same temperature"
+   ],
+   "a": 3,
+   "e": "Reactions occur where the metal contacts the acid. A larger strip of zinc in Flask B provides more surface area, leading to more frequent and effective collisions between acid particles and zinc atoms per unit of time."
+  },
+  {
+   "q": "Consider the following diseases: 1️⃣ Kala-Azar 2️⃣ Smallpox 3️⃣ Leprosy 4️⃣ Lymphatic Filariasis. How many of the above has/have been eradicated in India?",
+   "o": [
+    "Only two",
+    "Only one",
+    "All the four",
+    "Only three"
+   ],
+   "a": 1,
+   "e": "Eradication means zero global incidence; Smallpox is the only human disease globally eradicated, with India being declared smallpox-free in 1977. Kala-azar, Leprosy, and Lymphatic Filariasis are under \"elimination\" programs, meaning their rates are being reduced to very low levels, but they have not been fully eradicated."
+  }
+ ]
+}

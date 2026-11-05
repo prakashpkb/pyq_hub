@@ -1,0 +1,2208 @@
+{
+ "title": "Biology",
+ "category": "UPSC Prelims PYQs",
+ "minutes": 100,
+ "negative": 0.25,
+ "questions": [
+  {
+   "q": "Most of the desert plants bloom during night time because [1995]",
+   "o": [
+    "the desert insects eat away flowers during day time",
+    "their blooming is controlled by low temperature",
+    "the desert insects are active during night time",
+    "they are sensitive to the phases of moon"
+   ],
+   "a": 2,
+   "e": "Plant and animal activity happens at night in deserts due to high temperature. The desert insect pollinates flowers in night."
+  },
+  {
+   "q": "Living organisms require at least 27 elements, of which 15 are metals. Among these, those required in major quantities, include [1996]",
+   "o": [
+    "sodium, magnesium, copper and manganese",
+    "potassium, manganese, molybdenum and calcium",
+    "potassium, molybdenum, copper and calcium",
+    "potassium, sodium, magnesium and calcium"
+   ],
+   "a": 3,
+   "e": "K, Mg, Na and Ca are required in major quantities. Minor quantity of Mn, Fe, Co, Cu, Zn and Mo and trace amount of V, Cr, Sn, Ni and Al are required by some organisms."
+  },
+  {
+   "q": "It is possible to produce seedless tomato fruits by [1996]",
+   "o": [
+    "spraying hormones on flowers",
+    "applying trace elements in tomato fruits",
+    "spraying mineral solution on plants",
+    "applying fertilizers containing radioactive elements"
+   ],
+   "a": 0,
+   "e": "Hormone auxin is responsible to produce seedless tomato fruits."
+  },
+  {
+   "q": "Match List-I (Physiological processes) with List-II (Cell organelles) and select the correct answer by using the codes given below: [1996] 1️⃣ A. Photosynthesis - 2. Chloroplast 2️⃣ B. Mineral uptake - 1. Plasma membrane 3️⃣ C. Respiration - 3. Mitochondria 4️⃣ D. Protein synthesis - 4. Ribosomes",
+   "o": [
+    "A-1; B-2; C-4; D-3",
+    "A-1; B-2; C-3; D-4",
+    "A-2; B-1; C-3; D-4",
+    "A-2; B-1; C-4; D-2"
+   ],
+   "a": 2,
+   "e": "Photosynthesis occurs in green plants by the help of chloroplast. Plasma membrane helps in transport of minerals. Cellular respiration is related to mitochondria, and Ribosome helps in protein synthesis."
+  },
+  {
+   "q": "Which one of the following is a modified stem? [1996]",
+   "o": [
+    "Coconut",
+    "Sweet potato",
+    "Potato",
+    "Carrot"
+   ],
+   "a": 2,
+   "e": "Potato tuber bears buds in small pits known as eyes. Some of the branches become green, erect and leafy stems that grow horizontally under ground."
+  },
+  {
+   "q": "Which one of the following type of micro organisms is most widely used in industries? [1998]",
+   "o": [
+    "Bacteria and fungi",
+    "Bacteria, microalgae and fungi",
+    "Bacteria and algae",
+    "Bacteria"
+   ],
+   "a": 1,
+   "e": "Bacteria, microalgae and fungi are most widely used in industries. Bacteria like Lactobacillus sp. is used in manufacturing of vinegar and alcohol, and drugs like penicillin are manufactured from fungi."
+  },
+  {
+   "q": "Match List-I with List-II and select the correct answer by using the codes given below the lists [1998] 1️⃣ A. Fruit - 4. Ovary 2️⃣ B. Seed - 1. Ovule 3️⃣ C. Wood - 3. Stem 4️⃣ D. Starch - 2. Leaf",
+   "o": [
+    "A-4; B-1; C-3; D-2",
+    "A-2; B-3; C-1; D-4",
+    "A-4; B-3; C-1; D-2",
+    "A-2; B-1; C-3; D-4"
+   ],
+   "a": 0,
+   "e": "After the pollination of ovary, fruit develops gradually from it. Stem of tree develops to wood. Seed develops from fertilized ovule and leaf produces starch during photosynthesis."
+  },
+  {
+   "q": "Which one of the following statements regarding starch and cellulose is not correct? [1998]",
+   "o": [
+    "Both of them are of plant origin",
+    "Both of them are polymers",
+    "Both of them give colour with iodine",
+    "Both of them are made up of glucose molecules"
+   ],
+   "a": 2,
+   "e": "Starch gives deep blue colour with iodine due to amylose, but cellulose does not give any colour. Both are polymers of plant origin made of glucose units."
+  },
+  {
+   "q": "Ergotism is due to consumption of [1998]",
+   "o": [
+    "safe cooked food",
+    "rotting vegetables",
+    "contaminated grains",
+    "contaminated water"
+   ],
+   "a": 2,
+   "e": "Ergotism is the effect of long term ergot poisoning due to ingestion of alkaloids produced by the fungus Claviceps purpurea found in infected cereals."
+  },
+  {
+   "q": "Which one of the following is a useful functional association between fungi and the roots of higher plants? [1999]",
+   "o": [
+    "Lichen",
+    "Biofertilizer",
+    "Mycorrhiza",
+    "Coralloid root"
+   ],
+   "a": 2,
+   "e": "Mycorrhiza is a symbiotic association between a fungus and the roots of a vascular plant, where the fungus helps the plant by supplying water and minerals."
+  },
+  {
+   "q": "Which one of the following organisms can serve as a biofertilizer for rice crop? [2000]",
+   "o": [
+    "Rhizobium sp.",
+    "Blue-green algae",
+    "Mycorrhizal fungi",
+    "Azotobacter sp."
+   ],
+   "a": 1,
+   "e": "Blue green algae is used as a biofertilizer in rice crop because it has nitrogen fixing ability which enhances production."
+  },
+  {
+   "q": "Phytotron is a facility to [2000]",
+   "o": [
+    "conserve endangered species of plants",
+    "grow plants under disease-free conditions",
+    "induce mutations",
+    "grow plants under controlled conditions"
+   ],
+   "a": 3,
+   "e": "Phytotron is a type of chamber designed to provide a controlled environment for the study of plant growth."
+  },
+  {
+   "q": "Soft drinks such as colas contain significant quantities of: [2000]",
+   "o": [
+    "nicotine",
+    "renin",
+    "tannin",
+    "caffeine"
+   ],
+   "a": 3,
+   "e": "Cocoa/colas contain caffeine, carbonated water, glucose-fructose, kola extract and caramel colour."
+  },
+  {
+   "q": "Canola refers to special type of oil seed mustard varieties bred for human consumption. The main characteristic of these varieties is that the [2000]",
+   "o": [
+    "oil has very low erucic acid content",
+    "oil has long shelf-life",
+    "oil is rich in unsaturated fatty acids",
+    "seeds have very high oil content"
+   ],
+   "a": 0,
+   "e": "Canola oil is lowest in saturated fat and high in certain healthy omega 3 fatty acids and mono saturated fats."
+  },
+  {
+   "q": "Which organelle in the cell, other than nucleus contains DNA? [2001]",
+   "o": [
+    "Golgi apparatus",
+    "Lysosome",
+    "Centriole",
+    "Mitochondrion"
+   ],
+   "a": 3,
+   "e": "DNA is also found in mitochondria other than the nucleus; this is called mitochondrial DNA."
+  },
+  {
+   "q": "\"Athlete's Foot\" is a disease caused by [2001]",
+   "o": [
+    "Fungus",
+    "Bacteria",
+    "Nematode",
+    "Protozoan"
+   ],
+   "a": 0,
+   "e": "Athlete's Foot disease is caused by parasitic fungus of the genus Trichophyton, often transmitted in moist areas where people walk barefoot."
+  },
+  {
+   "q": "Epiphytes are plants which depend on other plants for [2001]",
+   "o": [
+    "mechanical support",
+    "shade",
+    "food",
+    "water"
+   ],
+   "a": 0,
+   "e": "An epiphyte is a plant that normally grows on another plant for mechanical support but is non-parasitic and does not depend on the host for nutrients."
+  },
+  {
+   "q": "In a bisexual flower, if androecium and gynoecium mature at different times, the phenomenon is known as [2002]",
+   "o": [
+    "monogamy",
+    "herkogamy",
+    "heterogamy",
+    "dichogamy"
+   ],
+   "a": 3,
+   "e": "In bisexual flowers, the androecium and gynoecium mature at different times to avoid self-fertilization, a process called dichogamy."
+  },
+  {
+   "q": "Consider the following: 1️⃣ Bougainvillea 2️⃣ Carnations 3️⃣ Cocoa 4️⃣ Grapes. Which of these plants are propagated by stem cuttings? [2002]",
+   "o": [
+    "1, 3 and 4",
+    "2, 3 and 4",
+    "1 and 2",
+    "1, 2, 3 and 4"
+   ],
+   "a": 0,
+   "e": "Bougainvillea, cocoa, and grapes plants are commonly propagated by the stem cutting process."
+  },
+  {
+   "q": "Consider the following statements: 1️⃣ The common blue green algae, Spirogyra and Ulothrix, are found in both fresh water ponds and oceans. 2️⃣ The Chameleon can look ahead with one eye, and at the same time look behind with another. Which of these statements is/are correct? [2002]",
+   "o": [
+    "Only 1",
+    "Neither 1 nor 2",
+    "Both 1 and 2",
+    "Only 2"
+   ],
+   "a": 3,
+   "e": "Statement 1 is incorrect because Spirogyra and Ulothrix are green algae, not blue-green algae. Statement 2 is correct as chameleons can see in two directions at once."
+  },
+  {
+   "q": "Assertion (A): Unsaturated fats are more reactive compared with the saturated fats. Reason (R): Unsaturated fats have only single bonds in their structure. [2003]",
+   "o": [
+    "A is true but R is false",
+    "Both A and R are individually true but R is not the correct explanation of A",
+    "Both A and R are individually true and R is the correct explanation of A",
+    "A is false but R is true"
+   ],
+   "a": 0,
+   "e": "The assertion is true as unsaturated fats have multiple bonds making them more reactive. The reason is false because unsaturated fats have at least one double bond."
+  },
+  {
+   "q": "Consider the following statements: 1️⃣ Molasses is a by-product of sugar production process. 2️⃣ Bagasse obtained in the sugar mills is used as a fuel in the boilers to generate steam for the sugar factories. 3️⃣ Sugar can only be produced from sugarcane as the raw material. Which of these statements are correct? [2003]",
+   "o": [
+    "2 and 3",
+    "1, 2 and 3",
+    "1 and 3",
+    "1 and 2"
+   ],
+   "a": 3,
+   "e": "Statements 1 and 2 are correct. Statement 3 is incorrect because sugar can also be produced from sugar beet."
+  },
+  {
+   "q": "Assertion (A): Cellulose is used in making shatter-proof glass. Reason (R): Polysaccharides are not soluble in water. [2003]",
+   "o": [
+    "'A' is false but 'R' is true",
+    "Both 'A' and 'R' are individually true and 'R' is the correct explanation of 'A'",
+    "'A' is true but 'R' is false",
+    "Both 'A' and 'R' are individually true but 'R' is not the correct explanation of 'A'"
+   ],
+   "a": 1,
+   "e": "Cellulose is a polysaccharide that is not soluble in water, which is why it is used in making shatter-proof glass."
+  },
+  {
+   "q": "Which one of the following parts of the pitcher plant becomes modified into a pitcher? [2007]",
+   "o": [
+    "Petiole",
+    "Leaf",
+    "Stem",
+    "Stipule"
+   ],
+   "a": 1,
+   "e": "In the pitcher plant, the lamina of the leaf is modified into a pitcher to trap insects."
+  },
+  {
+   "q": "Which of the following types of light are strongly absorbed by plants? [2007]",
+   "o": [
+    "Blue and red",
+    "Yellow and violet",
+    "Violet and orange",
+    "Indigo and yellow"
+   ],
+   "a": 0,
+   "e": "Photosynthesis occurs primarily between 400 nm and 750 nm. Plants strongly absorb blue and red light wavelengths within this range."
+  },
+  {
+   "q": "Which of the following are sources of methane, a major greenhouse gas? 1️⃣ Rice fields 2️⃣ Coal mining 3️⃣ Domestic animals 4️⃣ Wet lands [2008]",
+   "o": [
+    "2 and 3 only",
+    "1, 2 and 3 only",
+    "1 and 4 only",
+    "1, 2, 3 and 4"
+   ],
+   "a": 3,
+   "e": "All four mentioned options—rice fields, coal mining, domestic animals, and wetlands—are recognized sources of methane."
+  },
+  {
+   "q": "Which one of the following is an insectivorous plant? [2008]",
+   "o": [
+    "Night queen",
+    "Pitcher plant",
+    "Passion flower plant",
+    "Flame of the forest"
+   ],
+   "a": 1,
+   "e": "The pitcher plant is an insectivorous plant that feeds on insects and small mammals to obtain nutrients, especially nitrogen."
+  },
+  {
+   "q": "Consider the following statements about probiotic food: 1️⃣ Probiotic food contains live bacteria which are considered beneficial to humans. 2️⃣ Probiotic food helps in maintaining gut flora. Which of the statements given above is/are correct? [2008]",
+   "o": [
+    "Neither 1 nor 2",
+    "1 only",
+    "Both 1 and 2",
+    "2 only"
+   ],
+   "a": 2,
+   "e": "Probiotics are living microorganisms like Lactic acid bacteria that are healthy for the host and help maintain gut flora."
+  },
+  {
+   "q": "Consider the following statements: 1️⃣ Sweet orange plant is propagated by grafting technique. 2️⃣ Jasmine plant is propagated by layering technique. Which of the statements given above is/are correct? [2009]",
+   "o": [
+    "2 only",
+    "Both 1 and 2",
+    "1 only",
+    "Neither 1 nor 2"
+   ],
+   "a": 1,
+   "e": "Grafting is used for sweet orange plants, while layering is an artificial vegetative propagation method used for jasmine plants."
+  },
+  {
+   "q": "In making the saffron spice, which one of the following parts of the plant is used? [2009]",
+   "o": [
+    "Sepal",
+    "Leaf",
+    "Stigma",
+    "Petal"
+   ],
+   "a": 2,
+   "e": "Saffron is a spice obtained from the stigma of the flower of Crocus sativus Linnaeus."
+  },
+  {
+   "q": "Given below are the names of four energy crops. Which one of them can be cultivated for ethanol? [2010]",
+   "o": [
+    "Jatropha",
+    "Pongamia",
+    "Sunflower",
+    "Maize"
+   ],
+   "a": 3,
+   "e": "Ethanol is produced in India from starch-heavy crops like maize, sugarcane, and corn grain."
+  },
+  {
+   "q": "Some species of plants are insectivorous. Why? [2010]",
+   "o": [
+    "They have remained in that particular stage of evolution as living fossils",
+    "They are adapted to grow in nitrogen deficient soils and thus depend on insects for sufficient nitrogenous nutrition",
+    "Their growth in shady and dark places does not allow them to undertake sufficient photosynthesis",
+    "They cannot synthesize certain vitamins themselves and depend on the insects digested by them"
+   ],
+   "a": 1,
+   "e": "Insectivorous plants grow in nitrogen-deficient soils and catch insects to fulfill their nutritional needs."
+  },
+  {
+   "q": "Mon 863 is a variety of maize. It was in the news for the following reason. [2010]",
+   "o": [
+    "It is genetically modified dwarf variety which is resistant to drought",
+    "It is a genetically modified variety which is pest resistant",
+    "It is a genetically modified variety with ten times higher protein content than regular maize crop",
+    "It is a genetically modified variety used exclusively for bio-fuel production"
+   ],
+   "a": 1,
+   "e": "Mon 863 is a genetically modified variety of maize that is resistant to the corn rootworm."
+  },
+  {
+   "q": "Though coffee and tea both are cultivated on hill slopes, there is some difference between them regarding their cultivation. In this context, consider the following statements: 1️⃣ Coffee plant requires a hot and humid climate of tropical areas whereas tea can be cultivated in both tropical and subtropical areas. 2️⃣ Coffee is propagated by seeds but tea is propagated by stem cuttings only. Which of the statements given above is/are correct? [2010]",
+   "o": [
+    "Both 1 and 2",
+    "2 only",
+    "Neither 1 nor 2",
+    "1 only"
+   ],
+   "a": 3,
+   "e": "Statement 1 is correct. Statement 2 is wrong because both tea and coffee can be propagated by both seeds and stem cuttings."
+  },
+  {
+   "q": "With reference to soil conservation, consider the following practices: 1️⃣ Crop rotation 2️⃣ Sand fences 3️⃣ Terracing 4️⃣ Wind breaks. Which of the above are considered appropriate methods for soil conservation in India. [2010]",
+   "o": [
+    "1, 2, 3 and 4",
+    "1, 2, and 3 only",
+    "2 and 4 only",
+    "1, 3 and 4 only"
+   ],
+   "a": 0,
+   "e": "All four practices—crop rotation, sand fences, terracing, and windbreaks—are appropriate methods for soil/sand conservation in India."
+  },
+  {
+   "q": "Other than Jatropha curcas, why is Pongamia pinnata also considered a good option for the production of bio-diesel in India? 1️⃣ Pongamia pinnata grows naturally in most of the arid regions of India. 2️⃣ The seeds of Pongamia pinnata are rich in lipid content of which nearly half is oleic acid. Which of the statements given above is/are correct? [2010]",
+   "o": [
+    "1 only",
+    "2 only",
+    "Neither 1 nor 2",
+    "Both 1 and 2"
+   ],
+   "a": 3,
+   "e": "Pongamia pinnata is adaptable to arid zones, grows naturally in India, and its seeds are rich in lipid content including oleic acid."
+  },
+  {
+   "q": "When the bark of a tree is removed in a circular fashion all around near its base, it gradually dries up and dies because? [2011-I]",
+   "o": [
+    "Roots are starved of energy",
+    "Roots do not receive oxygen for respiration",
+    "Tree is infected by soil microbes",
+    "Water from soil cannot rise to aerial parts"
+   ],
+   "a": 0,
+   "e": "The phloem layer just below the bark is responsible for carrying food from leaves to roots. Removing the bark starves the roots of energy."
+  },
+  {
+   "q": "Consider the following kinds of organisms: 1️⃣ Bacteria 2️⃣ Fungi 3️⃣ Flowering plants. Some species of which of the above kinds of organisms are employed as biopesticides? [2012-I]",
+   "o": [
+    "1, 2 and 3",
+    "1 only",
+    "2 and 3 only",
+    "1 and 3 only"
+   ],
+   "a": 0,
+   "e": "Some species of bacteria, fungi, and flowering plants are all employed as biopesticides."
+  },
+  {
+   "q": "Consider the following organisms: 1️⃣ Agaricus 2️⃣ Nostoc 3️⃣ Spirogyra. Which of the above is/are used as biofertilizer/biofertilizers? [2013-I]",
+   "o": [
+    "2 only",
+    "2 and 3",
+    "3 only",
+    "1 and 2"
+   ],
+   "a": 0,
+   "e": "Nostoc is a cyanobacterium that fixes atmospheric nitrogen and is used as a biofertilizer for paddy crops."
+  },
+  {
+   "q": "Fruits stored in a cold chamber exhibit longer storage life because [2013-I]",
+   "o": [
+    "there is an increase in humidity",
+    "concentration of carbon dioxide in the environment is increased",
+    "exposure to sunlight is prevented",
+    "rate of respiration is decreased"
+   ],
+   "a": 3,
+   "e": "Cold storage decreases the rate of respiration and ethylene production in fruits, thereby increasing their shelf life."
+  },
+  {
+   "q": "Many transplanted seedling do not grow because [2013-I]",
+   "o": [
+    "the new soil does not contain favourable minerals",
+    "most of the root hairs are lost during transplantation",
+    "leaves get damaged during transplantation",
+    "most of the root hair grip the new soil too hard"
+   ],
+   "a": 1,
+   "e": "During transplantation, fine root hairs are often destroyed or shocked, preventing the plant from absorbing water and nutrients in the new soil."
+  },
+  {
+   "q": "Which of the following leaf modifications occurs/occur in desert areas to inhibit water loss? 1️⃣ Hard and waxy leaves 2️⃣ Tiny leaves or no leaves 3️⃣ Thorns instead of leaves [2013-I]",
+   "o": [
+    "2 only",
+    "1 and 2 only",
+    "1 and 3 only",
+    "1, 2 and 3"
+   ],
+   "a": 3,
+   "e": "Desert plants use waxy leaves, reduced leaf size, or thorns (modified leaves/stems) to significantly reduce water loss through transpiration."
+  },
+  {
+   "q": "Which one of the following is the process involved in photosynthesis? [2014-I]",
+   "o": [
+    "Oxygen is taken, and carbon dioxide and water vapour are given out",
+    "Free energy is converted into potential energy and stored",
+    "Potential energy is released to form free energy",
+    "Food is oxidized to release carbon dioxide and water"
+   ],
+   "a": 1,
+   "e": "In photosynthesis, light (free) energy is converted into potential chemical energy and stored in the form of food."
+  },
+  {
+   "q": "Which one the following group of a plant domesticated in the new world and introduced into the old world? [2019-I]",
+   "o": [
+    "Rubber, coffee and wheat",
+    "Tobacco, cocoas, and rubber",
+    "Tobacco, cotton and rubbers",
+    "Cotton, coffee and sugarcane"
+   ],
+   "a": 1,
+   "e": "During the Columbian Exchange, plants like cocoa and tobacco were introduced from the New World (Americas) to the Old World."
+  },
+  {
+   "q": "Recently, there was a growing awareness in our country about the importance of Himalayan nettle (Girardinia diversifolia) because it is found to be a sustainable source of [2019-I]",
+   "o": [
+    "textile fibre",
+    "anti-malarial drug",
+    "biodiesel",
+    "pulp for paper industry"
+   ],
+   "a": 0,
+   "e": "Himalayan nettle is recognized as a sustainable source of textile fiber, used to produce high-end fabrics and products."
+  },
+  {
+   "q": "Which of the following statements are correct regarding the general difference between plant and animal cells? 1️⃣ Plant cells have cellulose cell walls whilst animal cells do not. 2️⃣ Plant cells do not have plasma membrane unlike animal cells which do. 3️⃣ Mature plant cell has one large vacuole whilst an animal cell has many small vacuoles. [2020-I]",
+   "o": [
+    "1, 2 and 3",
+    "2 and 3 only",
+    "1 and 2 only",
+    "1 and 3 only"
+   ],
+   "a": 3,
+   "e": "Plant cells have both a cell wall and a plasma membrane. They typically feature one large central vacuole, whereas animal cells have many smaller ones."
+  },
+  {
+   "q": "According to India's National Policy on Biofuels, which of the following can be used as raw materials for the production of biofuels? 1️⃣ Cassava 2️⃣ Damaged wheat grains 3️⃣ Groundnut seeds 4️⃣ Horse gram 5️⃣ Rotten potatoes 6️⃣ Sugar beet [2020-I]",
+   "o": [
+    "1, 2, 5 and 6 only",
+    "2, 3, 4 and 5 only",
+    "1, 3, 4 and 6 only",
+    "1, 2, 3, 4, 5 and 6"
+   ],
+   "a": 0,
+   "e": "The 2018 policy identifies cassava, damaged wheat, rotten potatoes, and sugar beet as raw materials, but does not include groundnut or horse gram."
+  },
+  {
+   "q": "The only snake that builds a nest is: [1995]",
+   "o": [
+    "Saw-scaled viper",
+    "Chain viper",
+    "Krait",
+    "King Cobra"
+   ],
+   "a": 3,
+   "e": "The King Cobra is unique among snakes because it builds a nest to live in and lay eggs."
+  },
+  {
+   "q": "Which one of the following sets is correctly matched? [1995]",
+   "o": [
+    "(1) Diphtheria, Pneumonia and Leprosy: Hereditary",
+    "(4) Polio, Japanese B encephalitis and Plague: Viral",
+    "(3) Colour blindness, Haemophilia and Sickle cell anaemia: Sex linked",
+    "(2) AIDS, Syphilis and Gonorrhoea: Bacterial"
+   ],
+   "a": 2,
+   "e": "Colour blindness and haemophilia are sex-linked diseases. Diphtheria and leprosy are bacterial, while AIDS and Polio are viral."
+  },
+  {
+   "q": "A person with 'AB' blood group is sometimes called a universal recipient because of the [1995]",
+   "o": [
+    "presence of antibodies in his blood",
+    "lack of antibodies in his blood",
+    "lack of both antigens and antibodies in his blood",
+    "lack of antigen in his blood"
+   ],
+   "a": 1,
+   "e": "Blood group 'AB' has no antibodies in the plasma, allowing the person to accept blood from types A, B, and O."
+  },
+  {
+   "q": "Which one of the following is a membrane that protects the developing embryo from desiccation? [1995]",
+   "o": [
+    "Allantois",
+    "Yolk sac",
+    "Chorion",
+    "Amnion"
+   ],
+   "a": 3,
+   "e": "The amnion is a fluid-filled membrane that protects the developing embryo from drying out (desiccation) and physical shock."
+  },
+  {
+   "q": "Which one of the following antimicrobial drugs, is suitable for treatment of both tuberculosis and leprosy? [1995]",
+   "o": [
+    "Rifampicin",
+    "Isoniazid",
+    "P-aminosalicylic acid",
+    "Streptomycin"
+   ],
+   "a": 0,
+   "e": "Rifampicin is an effective drug used for treating diseases caused by Mycobacterium species, including tuberculosis and leprosy."
+  },
+  {
+   "q": "The normal temperature of human on Kelvin scale is [1995]",
+   "o": [
+    "280",
+    "310",
+    "290",
+    "300"
+   ],
+   "a": 1,
+   "e": "Normal human body temperature is 37°C. Converting this to Kelvin ($37 + 273$) results in 310 K."
+  },
+  {
+   "q": "Which of the following elements are present in all proteins? 1️⃣ Carbon 2️⃣ Hydrogen 3️⃣ Oxygen 4️⃣ Nitrogen [1995]",
+   "o": [
+    "2 and 3",
+    "1, 3 and 4",
+    "1, 2 and 4",
+    "1, 2, 3 and 4"
+   ],
+   "a": 3,
+   "e": "Proteins are complex organic compounds composed of carbon, hydrogen, oxygen, and nitrogen."
+  },
+  {
+   "q": "Which one of the following hormones contains iodine? [1995]",
+   "o": [
+    "Thyroxine",
+    "Testosterone",
+    "Insulin",
+    "Adrenaline"
+   ],
+   "a": 0,
+   "e": "Thyroxine, secreted by the thyroid gland, contains iodine as its major component."
+  },
+  {
+   "q": "\"By weaving threads of physics, chemistry and biology into a rich tapestry, this remarkable scientist provided a unifying molecular view of the world... He touted the wonderful properties of Vitamin C...\" One of science's major figures of all time referred to above is [1995]",
+   "o": [
+    "Walter Heitle",
+    "Linus Carl Pauling",
+    "G. N. Lewis",
+    "Fritz London"
+   ],
+   "a": 1,
+   "e": "Linus Carl Pauling proposed that high doses of Vitamin C could prevent common colds and cancer; he is the only person to receive two unshared Nobel prizes."
+  },
+  {
+   "q": "\"It begins as a single cell and grows into a merciless disease that claims millions of lives year after year... New discoveries promise better therapies and hope in the war against....\". The disease referred to in the above quotation is [1995]",
+   "o": [
+    "Cancer",
+    "AIDS",
+    "Tuberculosis",
+    "Alzheimer's disease"
+   ],
+   "a": 0,
+   "e": "Cancer is characterized by abnormal cell growth that can spread to and destroy other healthy tissues."
+  },
+  {
+   "q": "Of the four landmarks in medical history given below, which one was the first to take place? [1996]",
+   "o": [
+    "Organ transplant",
+    "Plastic surgery",
+    "Test tube baby",
+    "Bypass surgery"
+   ],
+   "a": 1,
+   "e": "Plastic surgery (1827) occurred before organ transplants (1954), bypass surgery (1960), and test tube babies (1978)."
+  },
+  {
+   "q": "According to the World Health Organisation (WHO), the disease which causes the death of the largest number of people today is [1996]",
+   "o": [
+    "Ebola",
+    "AIDS",
+    "Malaria",
+    "Tuberculosis"
+   ],
+   "a": 3,
+   "e": "Tuberculosis, caused by Mycobacterium tuberculosis, remains a leading cause of death worldwide."
+  },
+  {
+   "q": "The nutritional deficiency condition that needs to be given top priority for remedial action in India today is [1996]",
+   "o": [
+    "Scurvy",
+    "Pellagra",
+    "Rickets",
+    "Xerophthalmia"
+   ],
+   "a": 3,
+   "e": "Xerophthalmia, caused by Vitamin A deficiency, is common in poorer sections of society and leads to night blindness."
+  },
+  {
+   "q": "Match List-I with List-II and select the correct answer by using the codes given below: 1️⃣ A. Vitamin - 2. Carotene 2️⃣ B. Enzyme - 1. Pepsin 3️⃣ C. Hormone - 4. Progesterone 4️⃣ D. Protein - 3. Keratin [1996]",
+   "o": [
+    "A-1; B-2; C-4; D-3",
+    "A-1; B-2; C-3; D-4",
+    "A-2; B-1; C-4; D-3",
+    "A-2; B-1; C-3; D-4"
+   ],
+   "a": 2,
+   "e": "Carotene is a vitamin substance, Pepsin is a protein-digesting enzyme, Progesterone is a hormone, and Keratin is a structural protein."
+  },
+  {
+   "q": "Which of the following are associated with Diabetes mellitus, a common disease in adults? 1️⃣ Higher sugar level in blood 2️⃣ Lower sugar level in blood 3️⃣ Lower insulin level in blood 4️⃣ Higher insulin level in blood [1996]",
+   "o": [
+    "2 and 3",
+    "1 and 2",
+    "2 and 4",
+    "1 and 3"
+   ],
+   "a": 3,
+   "e": "Diabetes mellitus is caused by a deficiency of insulin, which leads to increased sugar levels in the blood."
+  },
+  {
+   "q": "Consider the following statements. AIDS is transmitted: 1️⃣ By sexual intercourse 2️⃣ By blood transfusion 3️⃣ By mosquitoes and other blood sucking insects 4️⃣ Across the placenta [1996]",
+   "o": [
+    "1, 2 and 4 are correct",
+    "1, 3 and 4 are correct",
+    "1 and 3 are correct",
+    "1, 2 and 3 are correct"
+   ],
+   "a": 0,
+   "e": "AIDS is transmitted via sexual contact, blood transfusion, and from mother to baby. It is not transmitted by mosquitoes."
+  },
+  {
+   "q": "Which of the following would lead to malnutrition? 1️⃣ Overnutrition 2️⃣ Imbalanced nutrition 3️⃣ Undernutrition [1996]",
+   "o": [
+    "1, 2 and 3",
+    "1 and 3",
+    "2 alone",
+    "2 and 3"
+   ],
+   "a": 0,
+   "e": "Malnutrition is defined as the insufficient (under), excessive (over), or imbalanced consumption of nutrients."
+  },
+  {
+   "q": "People drinking water from a shallow hand pump, are likely to suffer from all of the following diseases except [1996]",
+   "o": [
+    "Cholera",
+    "Fluorosis",
+    "Jaundice",
+    "Typhoid"
+   ],
+   "a": 1,
+   "e": "Cholera, Typhoid, and Jaundice are waterborne bacterial/viral diseases common in shallow pumps. Fluorosis is caused by excess fluorine in water."
+  },
+  {
+   "q": "Besides proteins and carbohydrates, other elements of nutritional value found in milk, include [1996]",
+   "o": [
+    "calcium and iron",
+    "calcium and potassium",
+    "potassium and iron",
+    "calcium, potassium and iron"
+   ],
+   "a": 1,
+   "e": "Milk contains significant amounts of calcium, magnesium, phosphorus, and potassium, but is not a significant source of iron."
+  },
+  {
+   "q": "Fat present below the skin surface in our body, acts as a barrier against [1996]",
+   "o": [
+    "Loss of heat from the body",
+    "Loss of essential body fluids",
+    "Entry of harmful micro-organisms from the environment",
+    "Loss of salts from the body"
+   ],
+   "a": 0,
+   "e": "Subcutaneous fat acts as an insulator, preventing the loss of heat from the human body."
+  },
+  {
+   "q": "The major chemical compound found in kidney stones is: [1996]",
+   "o": [
+    "urea",
+    "calcium sulphate",
+    "calcium carbonate",
+    "calcium oxalate"
+   ],
+   "a": 3,
+   "e": "Calcium oxalate is the primary component (about 80%) of kidney stones."
+  },
+  {
+   "q": "Which one of the following endocrine gland can function independent of the pituitary gland? [1996]",
+   "o": [
+    "Thyroid",
+    "Adrenals",
+    "Parathyroid",
+    "Gonads"
+   ],
+   "a": 2,
+   "e": "The parathyroid gland is not controlled by the pituitary; it independently regulates calcium and phosphorus levels."
+  },
+  {
+   "q": "Oxygen transportation in a human body takes place through 1️⃣ Blood 2️⃣ Lungs 3️⃣ Tissue. The correct sequence of transportation is [1997]",
+   "o": [
+    "2, 1, 3",
+    "1, 2, 3",
+    "1, 3, 2",
+    "3, 1, 2"
+   ],
+   "a": 0,
+   "e": "Oxygen enters the body through the lungs, is carried by the blood, and then delivered to the various tissues."
+  },
+  {
+   "q": "Corpus luteum is a mass of cells found in [1997]",
+   "o": [
+    "Brain",
+    "Ovary",
+    "Spleen",
+    "Pancreas"
+   ],
+   "a": 1,
+   "e": "The corpus luteum is found in the ovary and produces the hormone progesterone."
+  },
+  {
+   "q": "Alpha-keratin is a protein, present in [1997]",
+   "o": [
+    "Lymph",
+    "Skin",
+    "Blood",
+    "Eggs"
+   ],
+   "a": 1,
+   "e": "Alpha-keratin is a structural protein found in the skin, hair, nails, and hooves of animals."
+  },
+  {
+   "q": "What is the average fat content of buffalo milk? [1997]",
+   "o": [
+    "7.2%",
+    "10.0%",
+    "9.0%",
+    "4.5%"
+   ],
+   "a": 0,
+   "e": "Buffalo milk has an average fat content of 7.2%, compared to 4.4% in cow's milk."
+  },
+  {
+   "q": "The major component of honey is [1997]",
+   "o": [
+    "fructose",
+    "glucose",
+    "sucrose",
+    "maltose"
+   ],
+   "a": 0,
+   "e": "Fructose is the largest component of honey, making up about 38.2% of its composition."
+  },
+  {
+   "q": "Arteries supplying blood to the heart are called [1997]",
+   "o": [
+    "Carotid arteries",
+    "Hepatic arteries",
+    "Coronary arteries",
+    "Pulmonary arteries"
+   ],
+   "a": 2,
+   "e": "Coronary arteries supply blood to the heart muscle itself. Carotid arteries supply the head, and hepatic arteries supply the liver."
+  },
+  {
+   "q": "Daily intake of proteins, recommended for a moderately active woman is [1997]",
+   "o": [
+    "37 g",
+    "30 g",
+    "46 g",
+    "40 g"
+   ],
+   "a": 2,
+   "e": "The recommended daily protein intake for an active woman is 46 grams, which increases during pregnancy."
+  },
+  {
+   "q": "Match List-I with List-II and select the correct answer by using the codes given below: 1️⃣ A. Malaria - 5. Blood cells 2️⃣ B. Filaria - 4. Lymph node 3️⃣ C. Encephalitis - 2. Brain 4️⃣ D. Leukaemia - 1. Bone marrow [1997]",
+   "o": [
+    "A-5; B-4; C-1; D-2",
+    "A-4; B-3; C-5; D-1",
+    "A-5; B-4; C-2; D-1",
+    "A-5; B-3:C-2;D-1"
+   ],
+   "a": 2,
+   "e": "Malaria parasites invade blood cells, encephalitis affects the brain, filaria parasites are found in lymph nodes, and leukaemia involves abnormal growth in bone marrow."
+  },
+  {
+   "q": "Antigen is a substance which [1997]",
+   "o": [
+    "triggers the immune system",
+    "is used as an antidote to poison",
+    "lowers body temperatures",
+    "destroys harmful bacteria"
+   ],
+   "a": 0,
+   "e": "An antigen is a foreign molecule that triggers an immune response, stimulating lymphocytes to produce antibodies."
+  },
+  {
+   "q": "The sequencing of the entire genome of an organism was completed in 1996. The organism was: [1997]",
+   "o": [
+    "yeast",
+    "plasmodium vivax",
+    "albino mouse",
+    "human being"
+   ],
+   "a": 0,
+   "e": "The complete genome sequencing of yeast was finalized in 1996."
+  },
+  {
+   "q": "Examine the following three statements: 1️⃣ Processed meat is a perishable food 2️⃣ All perishable foods are packed in sealed tins 3️⃣ Sealed tins sometimes do not contain processed meat. Which one of the following inferences can be drawn? [1998]",
+   "o": [
+    "Sealed tins always contain perishable food",
+    "Non-perishable foods are never packed in sealed tins",
+    "Processed meat is always packed in sealed tins",
+    "Processed meat is sometimes not packed in sealed tins"
+   ],
+   "a": 2,
+   "e": "Based on the premise that processed meat is perishable and all perishable foods are packed in sealed tins, it follows that processed meat is always packed in sealed tins."
+  },
+  {
+   "q": "Match List-I with List-II and select the correct answer using the codes given below: 1️⃣ A. Theory of mutation - 4. de Vries 2️⃣ B. Theory of evolution - 3. Darwin 3️⃣ C. One gene one enzyme - 1. Beadle and Tatum 4️⃣ D. Operon concept - 2. Jacob and Monad [1998]",
+   "o": [
+    "A-4; B-3; C-2; D-1",
+    "A-3; B-4; C-1;D-2",
+    "A-3; B-4; C-2; D-1",
+    "A-4; B-3; C-1;D-2"
+   ],
+   "a": 3,
+   "e": "De Vries proposed the mutation theory, Darwin the theory of evolution, Jacob and Monad the operon concept, and Beadle and Tatum the one gene one enzyme hypothesis."
+  },
+  {
+   "q": "A tree species in Mauritius failed to reproduce because of the extinction of a fruit-eating bird. Which one of the following was that bird? [1998]",
+   "o": [
+    "Dove",
+    "Condor",
+    "Dodo",
+    "Skua"
+   ],
+   "a": 2,
+   "e": "The Dodo was an extinct bird in Mauritius that helped in pollinating and propagating the seeds of local tree species."
+  },
+  {
+   "q": "The complete conversion of glucose, in the presence of oxygen, into carbon dioxide and water with release of energy is called [1998]",
+   "o": [
+    "anaerobic respiration",
+    "aerobic respiration",
+    "hydrolysis",
+    "glycolysis"
+   ],
+   "a": 1,
+   "e": "Aerobic respiration is the process of converting glucose into $CO_{2}$, water, and energy in the presence of oxygen."
+  },
+  {
+   "q": "Consumption of fish is considered to be healthy when compared to flesh of other animals because fish contains [1998]",
+   "o": [
+    "saturated fatty acids",
+    "polyunsaturated fatty acids",
+    "essential vitamins",
+    "more carbohydrates and proteins"
+   ],
+   "a": 1,
+   "e": "Fish contains polyunsaturated fatty acids which act as antioxidants and help in tissue building."
+  },
+  {
+   "q": "Match List-I (Disease) with List-II (Organism) and select the answer using the codes given below: 1️⃣ A. Malaria - 4. Protozoan 2️⃣ B. Poliomyelitis - 3. Virus 3️⃣ C. Tuberculosis - 2. Bacteria 4️⃣ D. Ringworm - 1. Fungi [1998]",
+   "o": [
+    "A-3; B-4; C-2; D-1",
+    "A-4; B-3; C-2; D-1",
+    "A-3; B-4; C-1; D-2",
+    "A-4; B-3; C-1; D-2"
+   ],
+   "a": 1,
+   "e": "Malaria is protozoan, TB is bacterial, ringworm is fungal, and polio is viral."
+  },
+  {
+   "q": "Haemophilia is a genetic disorder which leads to [1998]",
+   "o": [
+    "decrease in WBC",
+    "rheumatic heart disease",
+    "non-clotting of blood",
+    "decrease in haemoglobin level"
+   ],
+   "a": 2,
+   "e": "Haemophilia is a sex-linked recessive disorder where blood clotting is abnormally delayed, leading to non-stop bleeding."
+  },
+  {
+   "q": "Endoscopy, a technique used to explore the stomach or other inner parts of the body is based on the phenomenon of [1999]",
+   "o": [
+    "interference",
+    "polarization",
+    "diffraction",
+    "total internal reflection"
+   ],
+   "a": 3,
+   "e": "Endoscopy uses an instrument called an endoscope to examine internal organs, utilizing the principle of total internal reflection."
+  },
+  {
+   "q": "When ants bite, they inject [1999]",
+   "o": [
+    "glacial acetic acid",
+    "methanol",
+    "formic acid",
+    "stearic acid"
+   ],
+   "a": 2,
+   "e": "Ants inject formic acid, which is found in their mandibles, when they bite."
+  },
+  {
+   "q": "In eye donation, which one of the following parts of donor's eye is utilized? [1999]",
+   "o": [
+    "Iris",
+    "Lens",
+    "Cornea",
+    "Retina"
+   ],
+   "a": 2,
+   "e": "In eye donation, only the cornea—the transparent front part of the eye—is utilized for transplantation."
+  },
+  {
+   "q": "Match the hormones in List-I with items in List-II and select the correct answer: 1️⃣ A. Adrenaline - 1. Anger, fear, danger 2️⃣ B. Estrogen - 3. Females 3️⃣ C. Insulin - 4. Glucose 4️⃣ D. Pheromones - 2. Attracting partners [1999]",
+   "o": [
+    "A-3:B-1; C-2; D-4",
+    "A-3; B-1; C-4; D-2",
+    "A-1; B-3; C-2; D-4",
+    "A-1:B-3; C-4; D-2"
+   ],
+   "a": 3,
+   "e": "Adrenaline manages fear/anger, estrogen is a female hormone, insulin regulates blood glucose, and pheromones attract partners."
+  },
+  {
+   "q": "Match List-I (Drugs/Chemicals) with List-II (Their uses): 1️⃣ A. Atropine - 3. Dilation of pupil 2️⃣ B. Ether - 1. Local anaesthesia 3️⃣ C. Nitroglycerine - 2. Heart trouble 4️⃣ D. Pyrethrin - 4. Mosquito control [1999]",
+   "o": [
+    "A-1;B-3; C-4; D-2",
+    "A-3; B-1; C-4; D-2",
+    "A-3; B-1; C-2; D-4",
+    "A-1; B-3; C-2; D-4"
+   ],
+   "a": 2,
+   "e": "Atropine dilates the pupil, ether is an anesthetic, nitroglycerine treats heart trouble, and pyrethrin is a pesticide."
+  },
+  {
+   "q": "Which one of the following genetic diseases is sex-linked? [1999]",
+   "o": [
+    "Royal haemophilia",
+    "Cystic fibrosis",
+    "Tay-Sachs disease",
+    "Hypertension"
+   ],
+   "a": 0,
+   "e": "Royal haemophilia is a sex-linked disease; Queen Victoria was a famous carrier."
+  },
+  {
+   "q": "Lathyrism is caused by excessive consumption of [1999]",
+   "o": [
+    "khesari dal",
+    "mustard oil",
+    "polished rice",
+    "mushrooms"
+   ],
+   "a": 0,
+   "e": "Lathyrism is caused by eating too much khesari dal (Lathyrus sativus) and results in lower limb paralysis."
+  },
+  {
+   "q": "Assertion (A): In human being, the females play a major role in determining the sex of the offspring. Reason (R): Women have two 'X' chromosomes. [2000]",
+   "o": [
+    "Both A and R are true and R is the correct explanation of A",
+    "A is false but R is true",
+    "A is true but R is false",
+    "Both A and R are true but R is not a correct explanation of A"
+   ],
+   "a": 1,
+   "e": "Sex determination depends on the male because sperm contain X or Y chromosomes, while eggs only contain X."
+  },
+  {
+   "q": "At which stage in its life cycle, does the silk worm yield the fibre of commerce? [2000]",
+   "o": [
+    "Pupa",
+    "Egg",
+    "Larva",
+    "Imago"
+   ],
+   "a": 0,
+   "e": "Silk worms yield commercial silk fiber during the pupa stage of their life cycle."
+  },
+  {
+   "q": "Match List-I (Disease) with List-II (Types of disease): 1️⃣ A. Haemophilia - 2. Genetic disease 2️⃣ B. Diabetes - 3. Hormonal disorder 3️⃣ C. Rickets - 1. Deficiency disease 4️⃣ D. Ringworm - 4. Fungal infection [2000]",
+   "o": [
+    "A-3; B-2; C-4; D-1",
+    "A-3; B-2; C-1; D-4",
+    "A-2; B-3; C-1; D-4",
+    "A-2; B-3; C-4; D-1"
+   ],
+   "a": 2,
+   "e": "Haemophilia is genetic, Diabetes is hormonal, Rickets is a Vitamin D deficiency, and ringworm is fungal."
+  },
+  {
+   "q": "The blood glucose level is commonly expressed as [2000]",
+   "o": [
+    "gram per litre",
+    "parts per million",
+    "mm. of Hg",
+    "milligram per decilitre"
+   ],
+   "a": 3,
+   "e": "Blood glucose levels are standardized as milligrams per decilitre (mg/dL)."
+  },
+  {
+   "q": "Match List-I (Endocrine glands) with List-II (Hormones secreted): 1️⃣ A. Gonads - 2. Progesterone 2️⃣ B. Pituitary - 3. Growth hormones 3️⃣ C. Pancreas - 1. Insulin 4️⃣ D. Adrenal - 4. Cortisone [2000]",
+   "o": [
+    "A-3:B-2; C-1; D-4",
+    "A-3:B-2; C-4; D-1",
+    "A-2; B-3; C-1; D-4",
+    "A-2; B-3; C-4; D-1"
+   ],
+   "a": 2,
+   "e": "Progesterone is from gonads, growth hormone from pituitary, insulin from pancreas, and cortisone from adrenal glands."
+  },
+  {
+   "q": "The sensation of fatigue in the muscles after prolonged strenuous physical work is caused by [2000]",
+   "o": [
+    "minor wear and tear of muscle fibres",
+    "a decrease in the supply of oxygen",
+    "the depletion of glucose",
+    "the accumulation of lactic acid"
+   ],
+   "a": 3,
+   "e": "Muscle fatigue and pain are caused by the accumulation of lactic acid during excess anaerobic metabolism."
+  },
+  {
+   "q": "A small pouch containing silica gel is often found in bottles of medicine because silica gel [2000]",
+   "o": [
+    "kills bacteria",
+    "kills germs and spores",
+    "absorbs all gases present inside the bottle",
+    "absorbs moisture"
+   ],
+   "a": 3,
+   "e": "Silica gel contains microscopic pores that attract and hold moisture through absorption."
+  },
+  {
+   "q": "In the eye donation, which part of the eye is transplanted from the donor? [2001]",
+   "o": [
+    "Lens",
+    "The whole eye",
+    "Retina",
+    "Cornea"
+   ],
+   "a": 3,
+   "e": "Only the cornea, which is the transparent front part of the eye, is transplanted during eye donation."
+  },
+  {
+   "q": "A man whose blood group is not known needs blood transfusion immediately. Which blood group will be safe? [2001]",
+   "o": [
+    "O, Rh-",
+    "O, Rh+",
+    "AB, Rh+",
+    "AB, Rh-"
+   ],
+   "a": 0,
+   "e": "O, Rh- negative is the universal donor blood group because it lacks A, B, and Rh antigens on the RBCs."
+  },
+  {
+   "q": "Match List-I (Achievement in genetics) with List-II (Scientists): 1️⃣ A. Transduction/Conjugation - 3. Lederberg 2️⃣ B. Sex-linked inheritance - 4. Morgan 3️⃣ C. DNA polymerase - 2. Kornberg 4️⃣ D. Genetic code - 1. Khurana [2001]",
+   "o": [
+    "A-3; B-4; C-1;D-5",
+    "A-3; B-4; C-2; D-1",
+    "A-4; B-3; C-1;D-5",
+    "A-4; B-3; C-2; D-1"
+   ],
+   "a": 1,
+   "e": "Lederberg discovered bacterial transduction/conjugation, Morgan established sex-linked inheritance, Kornberg isolated DNA polymerase, and Khurana established the genetic code."
+  },
+  {
+   "q": "Which feature of DNA makes it uniquely suited to store and transmit genetic information? [2001]",
+   "o": [
+    "Sugar-phosphate backbone",
+    "Complementary of the two strands",
+    "Number of base-pairs per turn",
+    "Double helix"
+   ],
+   "a": 1,
+   "e": "The complementarity of the two strands in the DNA double helix allows for the accurate transmission of genetic information."
+  },
+  {
+   "q": "\"Metastasis\" is the process by which [2001]",
+   "o": [
+    "cancer cells spread through the blood or lymphatic system to other sites or organs",
+    "cancer cells are successfully inhibited to divide any further",
+    "the chromosomes in cells nuclei are attached to the spindle",
+    "cells divide rapidly under the influence of drugs"
+   ],
+   "a": 0,
+   "e": "Metastasis is the spread of cancer cells from a primary tumor to other organs via the blood or lymphatic systems."
+  },
+  {
+   "q": "Match List-I (Substance) with List-II (Physiological role): 1️⃣ A. Ptyalin - 2. Digests starch 2️⃣ B. Pepsin - 3. Digests proteins 3️⃣ C. Renin - 1. Converts angiotensinogen 4️⃣ D. Oxytocin - 5. Induces contraction [2001]",
+   "o": [
+    "A-3; B-1; C-2; D-4",
+    "A-2;B-3; C-5; D-1",
+    "A-3; B-4, C-2; D-5",
+    "A-2; B-3; C-1;D-5"
+   ],
+   "a": 3,
+   "e": "Ptyalin hydrolyses starch, pepsin degrades proteins, renin converts angiotensinogen, and oxytocin induces muscle contraction."
+  },
+  {
+   "q": "Antigen is a substance which [2001]",
+   "o": [
+    "stimulates formation of antibody",
+    "lowers body temperature",
+    "destroys harmful bacteria",
+    "is used to treat poisoning"
+   ],
+   "a": 0,
+   "e": "An antigen is a foreign molecule that invades an organism and stimulates the production/generation of antibodies."
+  },
+  {
+   "q": "Which organelle in the cell, other than nucleus, contains DNA? [2001]",
+   "o": [
+    "Golgi apparatus",
+    "Mitochondrion",
+    "Lysosome",
+    "Centriole"
+   ],
+   "a": 1,
+   "e": "Mitochondria (and chloroplasts in plants) contain their own DNA in addition to the DNA in the nucleus."
+  },
+  {
+   "q": "Which of the following cell organelles play the most significant role in protein synthesis? [2001]",
+   "o": [
+    "Golgi apparatus and Mitochondria",
+    "Lysosome and Mitochondria",
+    "Lysosome and Centrosome",
+    "Endoplasmic reticulum and Ribosome"
+   ],
+   "a": 3,
+   "e": "Ribosomes and the Endoplasmic reticulum are the primary sites for protein synthesis within the cell."
+  },
+  {
+   "q": "The cellular and molecular control of programmed cell death is known as [2001]",
+   "o": [
+    "necrosis",
+    "degeneration",
+    "apoptosis",
+    "ageing"
+   ],
+   "a": 2,
+   "e": "Apoptosis is the specific term for programmed cell death, distinct from necrosis, which is accidental cell death."
+  },
+  {
+   "q": "Match List-I (Bone) with List-II (Name): 1️⃣ A. Breast-bone - 4. Sternum 2️⃣ B. Collar-bone - 1. Clavicle 3️⃣ C. Knee-cap - 2. Patella 4️⃣ D. Shoulder blade - 3. Scapula [2001]",
+   "o": [
+    "A-4; B-1; C-2; D-3",
+    "A-4; B-1; C-3; D-2",
+    "A-1; B-4; C-2; D-3",
+    "A-1;B-4; C-3; D-2"
+   ],
+   "a": 0,
+   "e": "The sternum is the breast-bone, clavicle is the collar-bone, patella is the knee-cap, and scapula is the shoulder blade."
+  },
+  {
+   "q": "Consider the following statements: 1️⃣ Tapeworm is a hermaphrodite. 2️⃣ Round-worm has separate sexes. 3️⃣ Filaria is caused by a nematode. 4️⃣ Guinea-worm is an annelid. Which of these are correct? [2002]",
+   "o": [
+    "3 and 4",
+    "1, 2 and 3",
+    "1 and 2",
+    "2, 3 and 4"
+   ],
+   "a": 1,
+   "e": "Tapeworms are hermaphrodites and roundworms are unisexual. Filaria and Guinea worm are both nematodes; Guinea worm is not an annelid."
+  },
+  {
+   "q": "In the context of organic evolution, the loss of limbs in snakes is explained by the phenomenon of [2002]",
+   "o": [
+    "use and disuse of organs",
+    "natural selection",
+    "inheritance of acquired characters",
+    "adaptation to living in burrows"
+   ],
+   "a": 0,
+   "e": "According to Lamarckian theory, the loss of limbs in snakes is an example of the use and disuse of organs over time."
+  },
+  {
+   "q": "When one gene controls two or more different characters simultaneously, the phenomenon is called [2002]",
+   "o": [
+    "pleiotropy",
+    "polyteny",
+    "apomixis",
+    "polyploidy"
+   ],
+   "a": 0,
+   "e": "Pleiotropy occurs when a single gene has an influence on multiple, seemingly unrelated phenotypic traits."
+  },
+  {
+   "q": "Consider the following statements: 1️⃣ Men's testes produce progesterone. 2️⃣ The production of somatotropin goes up when a person exercises. 3️⃣ Women's adrenal glands secrete testosterone. 4️⃣ Stress causes the adrenals to release very less cortisol. Which are correct? [2002]",
+   "o": [
+    "2, 3 and 4",
+    "1 and 4",
+    "1, 2 and 3",
+    "1, 2, 3 and 4"
+   ],
+   "a": 1,
+   "e": "Note: The solution key states 1 and 4 are correct based on the provided hint that testes produce testosterone and progesterone is from ovaries."
+  },
+  {
+   "q": "Foot and Mouth disease in animals is caused by [2002]",
+   "o": [
+    "virus",
+    "fungus",
+    "protozoan",
+    "bacterium"
+   ],
+   "a": 0,
+   "e": "Foot and Mouth disease is a highly contagious viral infection affecting cloven-hoofed animals."
+  },
+  {
+   "q": "Match List-I (Indian wild life) with List-II (Scientific names): 1️⃣ A. Asiatic wild ass - 3. Equus hemionus 2️⃣ B. Barasingha - 2. Cervus duvauceli 3️⃣ C. Chinkara - 4. Gazella gazella 4️⃣ D. Nilgai - 1. Boselaphus tragocamelus [2002]",
+   "o": [
+    "A-2:B-3; C-4; D-1",
+    "A-2; B-3; C-1; D-4",
+    "A-3; B-2; C-4; D-1",
+    "A-3; B-2; C-1; D-4"
+   ],
+   "a": 2,
+   "e": "Asiatic wild ass is Equus hemionus, Barasingha is Cervus duvauceli, Chinkara is Gazella gazella, and Nilgai is Boselaphus tragocamelus."
+  },
+  {
+   "q": "Which one of the following is monogamous? [2002]",
+   "o": [
+    "Seal",
+    "Walrus",
+    "Wolf",
+    "Deer"
+   ],
+   "a": 2,
+   "e": "The wolf is a monogamous organism, meaning it has only one mate at a time."
+  },
+  {
+   "q": "Which one of the following statements is not correct? [2002]",
+   "o": [
+    "Roundworm has no circulatory system.",
+    "In cartilaginous fishes, fertilization is internal.",
+    "In bony fishes, swim bladder is usually present.",
+    "All echinoderms are viviparous."
+   ],
+   "a": 3,
+   "e": "Most echinoderms have separate sexes and external fertilization; only a few forms are viviparous."
+  },
+  {
+   "q": "Match List-I (Scientists) with List-II (Achievements): 1️⃣ A. Arber and Smith - 2. Endonucleases 2️⃣ B. Feldman - 1. Transgenic plants 3️⃣ C. Mullis - 4. PCR 4️⃣ D. Temin and Baltimore - 3. Reverse transcriptase [2002]",
+   "o": [
+    "A-1; B-2; C-3; D-4",
+    "A-2:B-1; C-3; D-4",
+    "A-2:B-1; C-4; D-3",
+    "A-1;B-2; C-4; D-3"
+   ],
+   "a": 2,
+   "e": "Arber and Smith discovered endonucleases, Feldman developed transgenic plants, Mullis PCR, and Temin/Baltimore reverse transcriptase."
+  },
+  {
+   "q": "Which one of the following statements is correct? [2002]",
+   "o": [
+    "The cell wall of Mycoplasma is made up of amino sugars",
+    "Viroids consist of single-stranded RNA molecule",
+    "Prions are the smallest free-living cells.",
+    "Rickettsias lack cell wall"
+   ],
+   "a": 1,
+   "e": "Viroids are plant pathogens consisting of a short, single-stranded RNA molecule. Mycoplasma lacks a cell wall entirely."
+  },
+  {
+   "q": "Assertion (A): Drinking of whisky increases the frequency of urination. Reason (R): Alcohol intake speeds up the secretion of vasopressin in the body. [2002]",
+   "o": [
+    "A is false but R is true",
+    "A is true but R is false",
+    "Both A and R are true and R is the correct explanation of A",
+    "Both A and R are true but R is not a correct explanation of A"
+   ],
+   "a": 1,
+   "e": "Alcohol increases urination because it actually decreases the secretion of the hormone vasopressin."
+  },
+  {
+   "q": "Assertion (A): Human diet should compulsorily contains glycine, serine and tyrosine. Reason (R): Essential amino acids can not be synthesized in the human body. [2002]",
+   "o": [
+    "A is true both R is false",
+    "Both A and R are true but R is not a correct explanation of A",
+    "A is false but R is true",
+    "Both A and R are true and R is the correct explanation of A"
+   ],
+   "a": 2,
+   "e": "Glycine, serine, and tyrosine are non-essential amino acids synthesized by the body. Essential amino acids must come from food."
+  },
+  {
+   "q": "Among living organisms, which one is the most responsible factor for bringing about the origin of a new species? [2002]",
+   "o": [
+    "Sexual reproduction",
+    "Natural selection",
+    "Mutation",
+    "Isolation"
+   ],
+   "a": 2,
+   "e": "Mutation is considered the most responsible factor for the origin of a new species in living organisms."
+  },
+  {
+   "q": "Ticks and mites are actually [2002]",
+   "o": [
+    "Crustaceans",
+    "Myriapods",
+    "Arachnids",
+    "Insects"
+   ],
+   "a": 2,
+   "e": "Ticks and mites belong to the order Arachnids within the phylum Arthropoda."
+  },
+  {
+   "q": "With reference to the blood in a normal person, which one of the following statements is correct? [2002]",
+   "o": [
+    "Blood cells constitute about 70 percent of total volume",
+    "White blood cells (WBC) are made by lymph nodes only",
+    "The blood has more platelets than WBC",
+    "Compared to arteries, veins are less numerous and hold less of the body's blood"
+   ],
+   "a": 2,
+   "e": "A microlitre of blood contains 5,000-10,000 WBCs but 150,000-500,000 platelets."
+  },
+  {
+   "q": "Octopus is [2003]",
+   "o": [
+    "an echinoderm",
+    "a mollusc",
+    "a hemichordate",
+    "an arthropod"
+   ],
+   "a": 1,
+   "e": "Octopus belongs to the phylum Mollusca and the class Cephalopoda; it lacks a shell."
+  },
+  {
+   "q": "Consider the following conditions: 1️⃣ Swollen lymph nodes 2️⃣ Sweating at night 3️⃣ Loss of memory 4️⃣ Loss of weight. Which of these are symptoms of AIDS? [2003]",
+   "o": [
+    "1, 2, 3 and 4",
+    "1 and 2",
+    "2, 3 and 4",
+    "1, 3 and 4"
+   ],
+   "a": 0,
+   "e": "AIDS weakens the immune system, leading to symptoms like night sweats, swollen lymph nodes, and weight/memory loss."
+  },
+  {
+   "q": "With reference to the human kidney, consider the following statements: 1️⃣ After waste is removed, clean blood is sent back through renal artery. 2️⃣ From Bowman's capsule, filtered liquid passes through tubes where glucose is reabsorbed. Which are correct? [2003]",
+   "o": [
+    "Only 1",
+    "Neither 1 nor 2",
+    "Only 2",
+    "Both 1 and 2"
+   ],
+   "a": 2,
+   "e": "Statement 2 is correct as glucose is reabsorbed in the tubules. Statement 1 is incorrect because clean blood leaves via the renal vein."
+  },
+  {
+   "q": "Which one of the following statements is not correct? [2003]",
+   "o": [
+    "Vitamin-A (retinol) deficiency leads to dry and scaly skin.",
+    "Milk contains none of the B-vitamins.",
+    "Vitamin B (thiamine) deficiency lead to heart failure.",
+    "One of the symptoms of scurvy is pain in the joints."
+   ],
+   "a": 1,
+   "e": "Milk actually contains several B-vitamins including B1 (Thiamin) and B2 (Riboflavin)."
+  },
+  {
+   "q": "With reference to normal human beings, consider the following statements: 1️⃣ In response to the presence of HCl, secretin is produced from the duodenum. 2️⃣ Enterogastrone is produced in the small intestine in response to the presence of fatty acids. Which of these statements is/are correct? [2003]",
+   "o": [
+    "Both 1 and 2",
+    "Only 1",
+    "Only 2",
+    "Neither 1 nor 2"
+   ],
+   "a": 0,
+   "e": "Both statements are correct. HCl secretion provides an acid medium for pepsin and triggers the production of secretin in the duodenum to stimulate pancreatic juice. Enterogastrone is also produced in the small intestine."
+  },
+  {
+   "q": "Consider the following statements: 1️⃣ Non-functioning of lachrymal gland is an important symptom of deficiency of Vitamin A. 2️⃣ Deficiency of Vitamin $B_{1}$ can lead to indigestion and heart enlargement. 3️⃣ Vitamin C deficiency can lead to pain in the muscles. 4️⃣ Deficiency of Vitamin D causes increased loss of Ca in urine. Which of the statements given above are correct? [2004]",
+   "o": [
+    "1 and 2",
+    "2, 3 and 4",
+    "1, 2, 3 and 4",
+    "1, 3 and 4"
+   ],
+   "a": 2,
+   "e": "All statements are accurate. Vitamin A deficiency impacts the lachrymal (tear) glands. Vitamin $B_{1}$ deficiency is linked to heart disorders and muscular weakness."
+  },
+  {
+   "q": "The hormone insulin is a [2004]",
+   "o": [
+    "fatty acid",
+    "peptide",
+    "sterol",
+    "glycolipid"
+   ],
+   "a": 1,
+   "e": "Insulin is a peptide hormone composed of 51 amino acids. It is secreted from the Islets of Langerhans in the pancreas."
+  },
+  {
+   "q": "Consider the following statements: 1️⃣ Gibbon is the only ape found in India. 2️⃣ Toothless mammals such as Pangolins are not found in India. Which of the statements given above is/are correct? [2004]",
+   "o": [
+    "1 only",
+    "Neither 1 nor 2",
+    "2 only",
+    "Both 1 and 2"
+   ],
+   "a": 0,
+   "e": "Statement 1 is correct as the Gibbon is the only ape found in India, specifically in the rain forests of Assam. Statement 2 is incorrect because Pangolins are indeed found in tropical Asia, including India."
+  },
+  {
+   "q": "In which organ of the human body, lymphocyte cells formed? [2004]",
+   "o": [
+    "Pancreas",
+    "Spleen",
+    "Liver",
+    "Long bone"
+   ],
+   "a": 3,
+   "e": "Lymphocytes originate from the bone marrow of long bones. They then migrate to the lymphatic system to help determine immune response specificity."
+  },
+  {
+   "q": "Assertion (A): Fatty acids should be a part of the balanced human diet. Reason (R): The cells of the human body cannot synthesize any fatty acids. [2004]",
+   "o": [
+    "Both A and R are individually true but R is not the correct explanation of A",
+    "Both A and R are individually true and R is the correct explanation of A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ],
+   "a": 2,
+   "e": "Assertion is true because a balanced diet must contain correct amounts of fats. The reason is false because human cells can synthesize various fatty acids, with the exception of linoleic and linolenic acids."
+  },
+  {
+   "q": "Consider the following statements: 1️⃣ Femur is the longest bone in the human body. 2️⃣ Cholera is a disease caused by bacteria. 3️⃣ 'Athlete's foot' is a disease caused by virus. Which of the statements given above are correct? [2004]",
+   "o": [
+    "1, 2 and 3",
+    "1 and 2",
+    "2 and 3",
+    "1 and 3"
+   ],
+   "a": 1,
+   "e": "Statements 1 and 2 are correct. The femur is the largest bone and Cholera is caused by the bacteria *Vibrio cholerae*. Statement 3 is incorrect because Athlete's foot is caused by a fungus, not a virus."
+  },
+  {
+   "q": "Consider the following statements: 1️⃣ Dengue is a protozoan disease transmitted by mosquitoes. 2️⃣ Retro-orbital pain is not a symptom of dengue. 3️⃣ Skin rash and bleeding from nose and gums are some of the symptoms of dengue. Which of the statements given above is/are correct? [2005]",
+   "o": [
+    "1 and 2",
+    "1 and 3",
+    "3 only",
+    "2 only"
+   ],
+   "a": 2,
+   "e": "Only statement 3 is correct. Dengue is a viral disease, not protozoan. Common symptoms include high fever, muscle/joint pain, and skin rashes."
+  },
+  {
+   "q": "Which of the following diseases of milching animals are infectious? 1️⃣ Foot and mouth disease 2️⃣ Anthrax 3️⃣ Black Quarter 4️⃣ Cowpox [2005]",
+   "o": [
+    "1 and 2 only",
+    "1, 2, 3 and 4",
+    "1, 2 and 3 only",
+    "3 and 4 only"
+   ],
+   "a": 1,
+   "e": "All the listed diseases—Foot and mouth disease, Anthrax, Black Quarter, and Cowpox—are infectious diseases affecting milching animals."
+  },
+  {
+   "q": "Assertion (A): All the proteins in our food are digested in small intestine only. Reason (R): The protein-digesting enzyme from pancreas are released into small intestine. [2005]",
+   "o": [
+    "A is true but R is false",
+    "A is false but R is true",
+    "Both A and R are individually true but R is not the correct explanation of A",
+    "Both A and R are individually true and R is the correct explanation of A"
+   ],
+   "a": 1,
+   "e": "Assertion is false because protein digestion begins in the stomach and continues in the small intestine. The reason is true as pancreatic proteolytic enzymes enter the small intestine."
+  },
+  {
+   "q": "Assertion (A): Amoeba reproduces by fission. Reason (R): All unicellular organisms reproduce by asexual methods. [2005]",
+   "o": [
+    "A is false but R is true",
+    "Both A and R are individually true but R is not the correct explanation of A",
+    "Both A and R are individually true and R is the correct explanation of A",
+    "A is true but R is false"
+   ],
+   "a": 2,
+   "e": "Both are true and R explains A. Amoeba is a unicellular organism that reproduces via fission, which is an asexual method."
+  },
+  {
+   "q": "Assertion (A): The person with Diabetes insipidus feels thirsty. Reason (R): A person with Diabetes insipidus suffers from excess secretion of vasopressin. [2005]",
+   "o": [
+    "A is false but R is true",
+    "Both A and R are individually true and R is the correct explanation of A",
+    "A is true but R is false",
+    "Both A and R are individually true but R is not the correct explanation of A"
+   ],
+   "a": 2,
+   "e": "Assertion is true, but the reason is false. Diabetes insipidus is caused by a *deficiency* of vasopressin, leading to large amounts of dilute urine and extreme thirst."
+  },
+  {
+   "q": "Pneumoconiosis affects the workers who work mainly in [2005]",
+   "o": [
+    "Coal mining industry",
+    "Tanneries",
+    "Distilleries",
+    "Glass industry"
+   ],
+   "a": 0,
+   "e": "Pneumoconiosis is a respiratory disease caused by inhaling dust like coal, silica, or asbestos. It is prevalent among workers in the coal mining industry."
+  },
+  {
+   "q": "Consider the following statements with reference to the human body: 1️⃣ The common bile duct releases its contents into stomach. 2️⃣ The pancreatic duct releases its contents into duodenum. Which of the statements given above is / are correct? [2006]",
+   "o": [
+    "Both 1 and 2",
+    "2 only",
+    "Neither 1 nor 2",
+    "1 only"
+   ],
+   "a": 1,
+   "e": "Statement 2 is correct. Both the bile duct and the pancreatic duct release their contents into the duodenum (part of the small intestine), not the stomach."
+  },
+  {
+   "q": "Which one among the following is not a good source of nutritional calcium? [2006]",
+   "o": [
+    "Ragi",
+    "Rice",
+    "Skimmed milk",
+    "Egg"
+   ],
+   "a": 1,
+   "e": "Rice is not considered a good source of calcium. Ragi, milk, and eggs are better nutritional sources."
+  },
+  {
+   "q": "Consider the following statements: 1️⃣ Caffeine, a constituent of tea and coffee is a diuretic. 2️⃣ Citric acid is used in soft drinks. 3️⃣ Ascorbic acid is essential for formation of bones and teeth. 4️⃣ Citric acid is a good substitution ascorbic acid in our nutrition. Which of the statements given above are correct? [2006]",
+   "o": [
+    "1, 2, 3 and 4",
+    "3 and 4 only",
+    "1 and 2 only",
+    "1, 2 and 3 only"
+   ],
+   "a": 0,
+   "e": "All four statements are correct. Caffeine acts as a diuretic. Acids like citric acid are used in soft drinks for mouth feel, and citric acid can substitute for ascorbic acid in nutritional value."
+  },
+  {
+   "q": "Consider the following statements: 1️⃣ ELISA test is employed as the first and most basic test for an individual to detect cancer. 2️⃣ Almost 50% of human beings have $Rh^{+}$ blood while the remaining have $Rh^{-}$ blood. Which of the statement(s) given above is/are correct? [2006]",
+   "o": [
+    "2 only",
+    "Both 1 and 2",
+    "1 only",
+    "Neither 1 nor 2"
+   ],
+   "a": 3,
+   "e": "Both statements are incorrect. ELISA is the basic test for HIV/AIDS, not cancer. Approximately 85% of humans are $Rh^{+}$ and only 15% are $Rh^{-}$."
+  },
+  {
+   "q": "What is the name of the vessel that delivers the nutrient rich blood from the stomach and small intestine to the liver? [2006]",
+   "o": [
+    "Hepatic portal vein",
+    "Right hepatic artery",
+    "Left hepatic artery",
+    "Hepatic vein"
+   ],
+   "a": 0,
+   "e": "The hepatic portal vein is responsible for delivering nutrient-rich blood from the digestive tract to the liver."
+  },
+  {
+   "q": "Which one of the following pairs is not correctly matched? [Recent Scientific Achievement — Country] [2006]",
+   "o": [
+    "Cloning a human embryo for the first time — Germany",
+    "Landing a spacecraft on an asteroid — Japan",
+    "Guiding a spacecraft for collision with a comet — U.S.A.",
+    "Creating the world first mouse with a full human chromosome — U.K."
+   ],
+   "a": 0,
+   "e": "The pair in option (b) is incorrectly matched. The first cloning of a human embryo took place in the U.S.A., not Germany."
+  },
+  {
+   "q": "Consider the following statements: 1️⃣ Meningococcal Meningitis is transmitted from person to person by mosquito bites. 2️⃣ Vomiting and neck pain are two of the symptoms of Meningococcal Meningitis. Which of the statement(s) given above is/are correct? [2006]",
+   "o": [
+    "Both 1 and 2",
+    "2 only",
+    "Neither 1 nor 2",
+    "1 only"
+   ],
+   "a": 1,
+   "e": "Statement 2 is correct. Statement 1 is incorrect because Meningococcal meningitis is transmitted person-to-person via droplets (like coughing) or regular body contact, not mosquito bites."
+  },
+  {
+   "q": "Robert Webster is known for his work associated with which one of the following? [2007]",
+   "o": [
+    "Alzheimer",
+    "HIV/AIDS",
+    "Influenza virus",
+    "Cardiology"
+   ],
+   "a": 2,
+   "e": "Robert Webster is a scientist recognized for his work on the structure and function of influenza virus proteins and vaccine development."
+  },
+  {
+   "q": "In the human body, which structure is the appendix attached to? [2007]",
+   "o": [
+    "The large intestine",
+    "The gall bladder",
+    "The stomach",
+    "The small intestine"
+   ],
+   "a": 0,
+   "e": "The appendix is attached to the first part of the large intestine. It is considered to have no function in modern humans."
+  },
+  {
+   "q": "In human body, which one of the following hormones regulates blood calcium and phosphate? [2007]",
+   "o": [
+    "Growth hormone",
+    "Parathyroid hormone",
+    "Thyroxine",
+    "Glucagon"
+   ],
+   "a": 1,
+   "e": "The parathyroid hormone, secreted by the parathyroid gland, regulates and raises blood calcium while decreasing phosphate levels."
+  },
+  {
+   "q": "How do most insects respire? [2007]",
+   "o": [
+    "By lungs",
+    "By tracheal system",
+    "Through skin",
+    "Through gills"
+   ],
+   "a": 1,
+   "e": "Most insects use a tracheal system, a network of chitin-ringed tubes (trachea) that channel oxygen directly to body parts through openings called spiracles."
+  },
+  {
+   "q": "In human beings, normally in which one of the following parts, does the sperm fertilize the ovum? [2007]",
+   "o": [
+    "Cervix",
+    "Upper part of uterus",
+    "Lower part of uterus",
+    "Fallopian tube"
+   ],
+   "a": 3,
+   "e": "Fertilization occurs in the fallopian tube, which carries the egg from the ovary to the uterus."
+  },
+  {
+   "q": "Which one of the following parts of the human brain is the regulating centre for swallowing and vomiting? [2007]",
+   "o": [
+    "Cerebrum",
+    "Pons",
+    "Cerebellum",
+    "Medulla oblongata"
+   ],
+   "a": 3,
+   "e": "The medulla oblongata, located at the bottom of the brain stem, contains nerve centers that control vital processes like swallowing and vomiting."
+  },
+  {
+   "q": "Production of which one of the following is a function of the liver? [2007]",
+   "o": [
+    "Urea",
+    "Lipase",
+    "Mucus",
+    "Hydrochloric acid"
+   ],
+   "a": 0,
+   "e": "Liver cells produce urea via the urea cycle as the main nitrogenous excretory product from excess amino acids."
+  },
+  {
+   "q": "Which one of the following is not a digestive enzyme in the human system? [2007]",
+   "o": [
+    "Gastrin",
+    "Pepsin",
+    "Trypsin",
+    "Ptyalin"
+   ],
+   "a": 0,
+   "e": "Gastrin is a hormone that stimulates digestive enzymes, whereas Trypsin, Ptyalin, and Pepsin are actual digestive enzymes."
+  },
+  {
+   "q": "Which one of the following is the correct sequence in the order of decreasing length of the three structural parts of small intestine in the human body? [2007]",
+   "o": [
+    "Ileum - Duodenum - Jejunum",
+    "Ileum - Jejunum - Duodenum",
+    "Jejunum - Ileum - Duodenum",
+    "Jejunum - Duodenum - Ileum"
+   ],
+   "a": 1,
+   "e": "The correct sequence of small intestine parts in order of decreasing length is Ileum, followed by Jejunum, and finally the Duodenum."
+  },
+  {
+   "q": "In which of the following kinds of organisms is the phenomenon found wherein the female kills the male after copulation? [2008]",
+   "o": [
+    "Honeybee",
+    "Dragonfly",
+    "Pit viper",
+    "Spider"
+   ],
+   "a": 3,
+   "e": "Sexual cannibalism, where the female kills the male during or after copulation, is identified specifically in spiders."
+  },
+  {
+   "q": "For which one of the following snakes is the diet mainly composed of other snakes? [2008]",
+   "o": [
+    "Russell's viper",
+    "Krait",
+    "King cobra",
+    "Rattlesnake"
+   ],
+   "a": 2,
+   "e": "The diet of the King cobra is primarily composed of other snakes"
+  },
+  {
+   "q": "What is the pH level of blood of a normal person? [2008]",
+   "o": [
+    "7.35 - 7.45",
+    "4.5 - 4.6",
+    "8.25 - 8.35",
+    "6.45 - 6.55"
+   ],
+   "a": 0,
+   "e": "Human blood is slightly alkaline, with a normal pH level ranging from 7.35 to 7.45."
+  },
+  {
+   "q": "Assertion (A): In human body, liver has important role in fat digestion. Reason (R): Liver produces two important fat-digesting enzymes. [2008]",
+   "o": [
+    "A is false but R is true",
+    "A is true but R is false",
+    "Both A and R are individually true but R is not the correct explanation of A",
+    "Both A and R are individually true and R is the correct explanation of A"
+   ],
+   "a": 1,
+   "e": "Assertion is true because liver bile is vital for fat metabolism. The reason is false because the liver does not contain or produce digestive enzymes itself."
+  },
+  {
+   "q": "Among the following, which one lays eggs and does not produce young ones directly? [2008]",
+   "o": [
+    "Porcupine",
+    "Kangaroo",
+    "Whale",
+    "Echidna"
+   ],
+   "a": 3,
+   "e": "The Echidna is a unique mammal that lays eggs instead of producing live young."
+  },
+  {
+   "q": "The release of which one of the following into ponds and wells helps in controlling the mosquitoes? [2008]",
+   "o": [
+    "Dogfish",
+    "Crab",
+    "Gambusia fish",
+    "Snail"
+   ],
+   "a": 2,
+   "e": "*Gambusia affinis* is a larvivorous fish that helps control mosquitoes by feeding on their larvae in ponds and wells."
+  },
+  {
+   "q": "Among the following, which one is not an ape? [2008]",
+   "o": [
+    "Gorilla",
+    "Orangutan",
+    "Gibbon",
+    "Langur"
+   ],
+   "a": 3,
+   "e": "While Gibbons, Gorillas, and Orangutans are apes, the Langur is classified as a monkey."
+  },
+  {
+   "q": "In the context of genetic disorders, consider the following: A woman suffers from colour blindness while her husband does not. They have a son and a daughter. Which one of the following statements is correct? [2009]",
+   "o": [
+    "Both children suffer from colour blindness.",
+    "Daughter suffers from colour blindness while son does not.",
+    "Both children do not suffer from colour blindness.",
+    "Son suffers from colour blindness while daughter does not."
+   ],
+   "a": 3,
+   "e": "Since colour blindness is sex-linked, a colour-blind mother ($X^{c}X^{c}$) will pass the gene to her son ($X^{c}Y$), while the daughter will be a carrier ($XX^{c}$) but not suffer from the disease."
+  },
+  {
+   "q": "In the context of Indian wild life, the flying fox is a [2009]",
+   "o": [
+    "Kite",
+    "Bat",
+    "Vulture",
+    "Stork"
+   ],
+   "a": 1,
+   "e": "In India, fruit bats are commonly referred to as flying foxes."
+  },
+  {
+   "q": "With reference to the evolution of living organisms, which one of the following sequences is correct? [2009]",
+   "o": [
+    "Octopus - Dolphin - Shark",
+    "Salamander - Python - Kangaroo",
+    "Pangolin - Tortoise - Hawk",
+    "Frog - Crab - Prawn"
+   ],
+   "a": 1,
+   "e": "Evolutionarily, amphibians (Salamander) appeared 350 million years ago, followed by reptiles (Python) 300 million years ago, and mammals (Kangaroo) 200 million years ago."
+  },
+  {
+   "q": "The Panda belongs to the same family as that of [2009]",
+   "o": [
+    "Bear",
+    "Dog",
+    "Rabbit",
+    "Cat"
+   ],
+   "a": 0,
+   "e": "Pandas belong to the family Ursidae, effectively making them medium-sized bears."
+  },
+  {
+   "q": "The marine animal called Dugong which is vulnerable to extinction is a [2009]",
+   "o": [
+    "Amphibian",
+    "Shark",
+    "Mammal",
+    "Bony fish"
+   ],
+   "a": 2,
+   "e": "The Dugong is a large marine mammal that lacks a dorsal fin and depends heavily on seagrass for survival."
+  },
+  {
+   "q": "Why is it difficult to develop effective malaria vaccine? [2010]",
+   "o": [
+    "Malaria is caused by several species of Plasmodium",
+    "Man does not develop immunity to malaria during natural infection",
+    "Man is only an intermediate host and not the definitive host.",
+    "Vaccines can be developed only against bacteria"
+   ],
+   "a": 1,
+   "e": "Natural infection does not produce detectable resistance to the exo-erythrocytic cycle of malaria in humans, making vaccine development difficult."
+  },
+  {
+   "q": "Consider the following statements: 1️⃣ Hepatitis B is several times more infectious than HIV/AIDS. 2️⃣ Hepatitis B can cause liver cancer. Which of the statements given above is/ are correct? [2010]",
+   "o": [
+    "Neither 1 nor 2",
+    "2 only",
+    "1 only",
+    "Both 1 and 2"
+   ],
+   "a": 3,
+   "e": "Both are correct. Hepatitis-B is highly infectious and puts patients at high risk of chronic liver disease, cirrhosis, and liver cancer."
+  },
+  {
+   "q": "Aspartame is used as a low-calorie sweetening agent in food items. What is the basis of this use? [2011-I]",
+   "o": [
+    "Aspartame is as sweet as sugar, but after ingestion into the body, it is converted into metabolites that yield no calories.",
+    "When aspartame is used in food processing, the sweet taste remains, but it becomes resistant to oxidation.",
+    "Aspartame is as sweet as table sugar, but unlike table sugar, it is not readily oxidized in human body due to lack of requisite enzymes.",
+    "Aspartame is several times sweeter than table sugar, hence food items made with small quantities of aspartame yield fewer calories on oxidation."
+   ],
+   "a": 3,
+   "e": "Aspartame is metabolized into amino acids and methanol, components that yield no calories and add nothing new to the diet."
+  },
+  {
+   "q": "How does the knowledge of gene arrangement benefit us? 1️⃣ It is possible to know the pedigree of livestock. 2️⃣ It is possible to understand the causes of all human diseases. 3️⃣ It is possible to develop disease-resistant animal breeds. Which of the statements given above is/are correct? [2011-I]",
+   "o": [
+    "2 only",
+    "1 and 2 only",
+    "1 and 3 only",
+    "1, 2 and 3"
+   ],
+   "a": 3,
+   "e": "All statements are correct. The Human Genome Project provides tools to understand human diseases, which often have a genetic component."
+  },
+  {
+   "q": "A company advertises that its food products do not contain trans-fats. What does this campaign signify to customers? 1️⃣ The food products are not made out of hydrogenated oils. 2️⃣ The food products are not made out of animal fats/ oils. 3️⃣ The oils used are not likely to damage the cardiovascular health of the consumers. Which of the statements given above is/are correct? [2011-I]",
+   "o": [
+    "1 and 3 only",
+    "1 only",
+    "2 and 3 only",
+    "1, 2 and 3"
+   ],
+   "a": 0,
+   "e": "Statements 1 and 3 are the focus. While natural trans-fats occur in animal fat at low levels (2-5%), the campaign primarily targets harmful hydrogenated oils linked to cardiovascular health."
+  },
+  {
+   "q": "A couple with blood groups AB positive and O negative adopts a child. Their twin sons born later have groups A positive and B positive. The third son is O positive. The blood group of the adopted son is? [2011-I]",
+   "o": [
+    "B positive",
+    "Cannot be determined on the basis of the given data",
+    "A positive",
+    "O positive"
+   ],
+   "a": 3,
+   "e": "Biological children of AB and O parents can only be A or B. Thus, the son with blood group O positive must be the adopted child."
+  },
+  {
+   "q": "How do antioxidants help a person maintain health and promote longevity? [2011-I]",
+   "o": [
+    "They prevent excessive oxidation of carbohydrates, fats and proteins in the body",
+    "They activate the enzymes necessary for vitamin synthesis in the body",
+    "They neutralize the free radicals produced in the body during metabolism",
+    "They activate certain genes in the cells of the body and help delay the ageing process"
+   ],
+   "a": 2,
+   "e": "Antioxidants terminate chain reactions by removing free radical intermediates that could otherwise cause cell damage or death."
+  },
+  {
+   "q": "Which one of the following sets of elements was primarily responsible for the origin of life on the Earth? [2012-I]",
+   "o": [
+    "Oxygen, Calcium, Phosphorus",
+    "Carbon, Hydrogen, Potassium",
+    "Hydrogen, Oxygen, Sodium",
+    "Carbon, Hydrogen, Nitrogen"
+   ],
+   "a": 3,
+   "e": "Carbon, Hydrogen, and Nitrogen were the primary elements responsible for life's origin."
+  },
+  {
+   "q": "Consider the following kinds of organisms: 1️⃣ Bat 2️⃣ Bee 3️⃣ Bird. Which of the above is/are pollinating agent/agents? [2012-I]",
+   "o": [
+    "1 and 2 only",
+    "1 and 3 only",
+    "1, 2 and 3",
+    "2 only"
+   ],
+   "a": 2,
+   "e": "All three—bats, bees, and birds—serve as pollinating agents in nature"
+  },
+  {
+   "q": "Aflatoxins are produced by [2013-I]",
+   "o": [
+    "moulds",
+    "bacteria",
+    "protozoa",
+    "viruses"
+   ],
+   "a": 0,
+   "e": "Aflatoxins are produced by species of *Aspergillus*, which are moulds that grow under high moisture conditions."
+  },
+  {
+   "q": "Which of the following adds / add nitrogen to the soil? 1️⃣ Excretion of urea by animals 2️⃣ Burning of coal by man 3️⃣ Death of vegetation [2013-I]",
+   "o": [
+    "1 and 3 only",
+    "2 and 3 only",
+    "1 only",
+    "1, 2 and 3"
+   ],
+   "a": 0,
+   "e": "Urea from animal excretion and the decomposition of dead vegetation release nitrogen back into the soil."
+  },
+  {
+   "q": "Which of the following diseases can be transmitted through tattooing? 1️⃣ Chikungunya 2️⃣ Hepatitis B 3️⃣ HIV-AIDS [2013-I]",
+   "o": [
+    "2 and 3 only",
+    "1 only",
+    "1 and 3 only",
+    "1, 2 and 3"
+   ],
+   "a": 0,
+   "e": "Hepatitis B and HIV-AIDS can be transmitted through infected, unsterilized needles used in tattooing."
+  },
+  {
+   "q": "Which of the minerals given above is/are required by human body for the contraction of muscles? 1️⃣ Calcium 2️⃣ Iron 3️⃣ Sodium [2013-I]",
+   "o": [
+    "1 and 3 only",
+    "1 only",
+    "1, 2 and 3",
+    "2 and 3 only"
+   ],
+   "a": 0,
+   "e": "Calcium helps muscles relax and contract, while sodium is needed for muscle contraction and nerve transmission."
+  },
+  {
+   "q": "Which of the following animals is/are mammal/mammals? 1️⃣ Sea cow 2️⃣ Sea horse 3️⃣ Sea lion [2013-I]",
+   "o": [
+    "2 and 3 only",
+    "1 and 3 only",
+    "1, 2 and 3",
+    "1 only"
+   ],
+   "a": 1,
+   "e": "Sea cow and Sea lion are mammals; Sea horse is a fish."
+  },
+  {
+   "q": "Which of the following statements is/are correct? 1️⃣ Viruses lack enzymes necessary for the generation of energy. 2️⃣ Viruses can be cultured in any synthetic medium. 3️⃣ Viruses are transmitted by biological vectors only. [2013-I]",
+   "o": [
+    "1 only",
+    "2 and 3 only",
+    "1, 2 and 3",
+    "1 and 3 only"
+   ],
+   "a": 0,
+   "e": "Statement 1 is correct as viruses lack metabolic enzymes. Statement 2 is false as they require living cells, and 3 is false as they can be transmitted by mechanical vectors."
+  },
+  {
+   "q": "Among the following organisms, which one does not belong to the class of other three? [2014-I]",
+   "o": [
+    "Spider",
+    "Scorpion",
+    "Crab",
+    "Mite"
+   ],
+   "a": 2,
+   "e": "Mites, spiders, and scorpions are Arachnids, while crabs are crustaceans."
+  },
+  {
+   "q": "Which of the following diseases has/have been eradicated in India? 1️⃣ Diphtheria 2️⃣ Chickenpox 3️⃣ Smallpox [2014-I]",
+   "o": [
+    "1, 2 and 3",
+    "None",
+    "3 only",
+    "1 and 2 only"
+   ],
+   "a": 2,
+   "e": "Smallpox is the only disease from the list that has been eradicated in India."
+  },
+  {
+   "q": "Which of the pairs given above is/ are correctly matched? 1️⃣ Vitamin C: Scurvy 2️⃣ Vitamin D: Rickets 3️⃣ Vitamin E: Night blindness [2014-I]",
+   "o": [
+    "1 and 2 only",
+    "3 only",
+    "None",
+    "1, 2 and 3"
+   ],
+   "a": 0,
+   "e": "Pairs 1 and 2 are correct. Night blindness is caused by a deficiency in Vitamin A, not Vitamin E."
+  },
+  {
+   "q": "The phenomenon of hibernation can be observed in which of the following kinds of animals? 1️⃣ Bats 2️⃣ Bears 3️⃣ Rodents [2014-I]",
+   "o": [
+    "1 and 2 only",
+    "1, 2 and 3",
+    "Hibernation cannot be observed in any of the above",
+    "2 only"
+   ],
+   "a": 1,
+   "e": "Hibernation is a state of metabolic depression observed in bats, bears, and rodents."
+  },
+  {
+   "q": "H1N1 virus is sometimes mentioned in the news with reference to which one of the following diseases? [2015-I]",
+   "o": [
+    "Dengue",
+    "Bird flu",
+    "AIDS",
+    "Swine flu"
+   ],
+   "a": 3,
+   "e": "H1N1 is an influenza A virus designated as the cause of swine flu"
+  },
+  {
+   "q": "Which of the following statements is/are correct? Viruses can infect: 1️⃣ bacteria 2️⃣ fungi 3️⃣ plants [2016-I]",
+   "o": [
+    "1 and 3 only",
+    "1 and 2 only",
+    "3 only",
+    "1, 2 and 3"
+   ],
+   "a": 3,
+   "e": "Viruses can infect all types of life forms, including animals, plants, bacteria, and fungi."
+  },
+  {
+   "q": "Consider the following statements: 1️⃣ In tropical regions, Zika virus disease is transmitted by the same mosquito that transmits dengue. 2️⃣ Sexual transmission of Zika virus disease is possible. Which of the statements given above is/are correct? [2017-1]",
+   "o": [
+    "Neither 1 nor 2",
+    "Both 1 and 2",
+    "1 only",
+    "2 only"
+   ],
+   "a": 1,
+   "e": "Both statements are correct. Zika is spread by the Aedes aegypti mosquito and can also be transmitted sexually."
+  },
+  {
+   "q": "Which of the above spread plant diseases? 1️⃣ Birds 2️⃣ Dust blowing 3️⃣ Rain 4️⃣ Wind blowing [2018-I]",
+   "o": [
+    "1, 2 and 4 only",
+    "3 and 4 only",
+    "1, 3 and 4 only",
+    "1 and 3 only"
+   ],
+   "a": 2,
+   "e": "Birds can carry pathogens, wind carries bacteria, and rain splashes can disseminate fire blight bacteria."
+  },
+  {
+   "q": "Which of the following leaf modifications occur(s) in the desert areas to inhibit water loss? 1️⃣ Hard and waxy leaves 2️⃣ Tiny leaves 3️⃣ Thorns instead of leaves [2018-I]",
+   "o": [
+    "1, 2 and 3",
+    "3 only",
+    "2 only",
+    "2 and 3 only"
+   ],
+   "a": 0,
+   "e": "All three are desert adaptations to reduce transpiration. Although thorns are technically stem modifications, they are included in desert foliage descriptions for water loss reduction."
+  },
+  {
+   "q": "Consider the following statements: 1️⃣ Some species of turtle are herbivores 2️⃣ Some species of fish are herbivores 3️⃣ Some species of marine mammals are herbivores 4️⃣ Some species of snakes are viviparous [2019-I]",
+   "o": [
+    "1, 2, 3 and 4",
+    "1 and 3 only",
+    "2 and 4 only",
+    "2, 3 and 4 only"
+   ],
+   "a": 0,
+   "e": "All are correct. Some turtles and fish are herbivores, and sea cows are herbivorous marine mammals. Pythons and cobras are viviparous."
+  },
+  {
+   "q": "Which of the following are the reasons for the occurrence of multi-drug resistance in microbial pathogens in India? 1️⃣ Genetic predisposition of some people. 2️⃣ Taking incorrect doses of antibiotics to cure diseases. 3️⃣ Using antibiotics in livestock farming. 4️⃣ Multiple chronic diseases in some people. [2019-I]",
+   "o": [
+    "1 and 2",
+    "2, 3 and 4",
+    "1, 3 and 4",
+    "2 and 3 only"
+   ],
+   "a": 3,
+   "e": "The primary causes are overuse, misuse (incorrect doses), and the indiscriminate use of antibiotics in livestock, which humans then ingest."
+  },
+  {
+   "q": "Which of the following statements is not correct? [2019-I]",
+   "o": [
+    "Globally, the number of people infected with Hepatitis B and C viruses are several times more than those infected with HIV.",
+    "Hepatitis B, unlike Hepatitis C, does not have a vaccine.",
+    "Some of those infected with Hepatitis B and C viruses do not show the symptoms for many years.",
+    "Hepatitis B virus is transmitted much like HIV."
+   ],
+   "a": 1,
+   "e": "Option (b) is wrong. Hepatitis B vaccines are available and produced at large scales using recombinant DNA technology in yeast."
+  },
+  {
+   "q": "Consider the following statements: 1️⃣ Genetic changes can be introduced in the cells that produce eggs or sperms of a prospective parent. 2️⃣ A person's genome can be edited before birth at the early embryonic stage. 3️⃣ Human induced pluripotent stem cells can be injected into the embryo of a pig. Which of the statements given above is/are correct? [2020-I]",
+   "o": [
+    "1, 2 and 3",
+    "2 only",
+    "2 and 3 only",
+    "1 only"
+   ],
+   "a": 0,
+   "e": "All statements are correct. CRISPR technology allows for germline genetic changes and embryonic editing, and chimeras have been created by injecting human stem cells into pig embryos."
+  },
+  {
+   "q": "What is the importance of using Pneumococcal Conjugate Vaccines in India? 1️⃣ These vaccines are effective against pneumonia as well as meningitis and sepsis. 2️⃣ Dependence on antibiotics that are not effective against drug-resistant bacteria can be reduced. 3️⃣ These vaccines have no side effects and cause no allergic reactions. [2020-I]",
+   "o": [
+    "1, 2 and 3",
+    "3 only",
+    "1 only",
+    "1 and 2 only"
+   ],
+   "a": 3,
+   "e": "Statements 1 and 2 are correct. The vaccine is 80% effective against pneumonia/meningitis and helps reduce the burden of antibiotic-resistant disease. However, like all vaccines, it can cause side effects."
+  }
+ ]
+}

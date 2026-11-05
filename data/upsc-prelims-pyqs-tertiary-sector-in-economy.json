@@ -1,0 +1,624 @@
+{
+ "title": "Tertiary Sector In Economy",
+ "category": "UPSC Prelims PYQs",
+ "minutes": 28,
+ "negative": 0.25,
+ "questions": [
+  {
+   "q": "Which one of the following is not an instrument of selective credit control in India? [1995]",
+   "o": [
+    "(c) Margin requirements",
+    "(b) Rationing of credit",
+    "(a) Regulation of consumer credit",
+    "(d) Variable cash reserve ratios"
+   ],
+   "a": 3,
+   "e": "Variable Reserve Ratio (Cash Reserve Ratio) is a quantitative method aimed to control the volume of credit, not the specific purpose or selective direction of credit. Instruments like margin requirements and rationing of credit are qualitative or selective methods."
+  },
+  {
+   "q": "Bank Rate implies the rate of interest: [1995]",
+   "o": [
+    "(b) charged by Banks on loans and advances",
+    "(c) payable on Bonds",
+    "(d) at which the Reserve Bank of India discounts the Bills of Exchange",
+    "(a) paid by the Reserve Bank of India on the Deposits of Commercial Banks"
+   ],
+   "a": 2,
+   "e": "Bank Rate is the benchmark rate at which the central bank (RBI) provides refinancing facilities to commercial banks by buying or re-discounting bills of exchange or other eligible commercial papers."
+  },
+  {
+   "q": "Consider the following: 1️⃣ Industrial Finance Corporation of India 2️⃣ Industrial Credit and Investment Corporation of India 3️⃣ Industrial Development Bank of India 4️⃣ Unit Trust of India. The correct sequence in which the above were established is: [1995]",
+   "o": [
+    "(b) 1, 3, 2, 4",
+    "(a) 1, 2, 4, 3",
+    "(d) 1, 4, 3, 2",
+    "(c) 4, 3, 2, 1"
+   ],
+   "a": 1,
+   "e": "The establishment dates are: IFCI in July 1948, ICICI in 1955, UTI in 1963, and IDBI in July 1964."
+  },
+  {
+   "q": "As part of the liberalisation programme and with a view to attract foreign exchange, the government and the RBI have devised two schemes known as FCNR 'A' and FCNR 'B'. Which of the following is/are true regarding these two schemes? 1️⃣ Under scheme 'A' RBI bears exchange rate fluctuations. 2️⃣ Under scheme 'B' other banks are to meet out the difference in exchange rate fluctuations. 3️⃣ Both the schemes stand withdrawn now. 4️⃣ Only scheme 'A' has been withdrawn. [1995]",
+   "o": [
+    "(a) 3 only",
+    "(c) 1, 2 and 3",
+    "(d) 1, 2 and 4",
+    "(b) 1 and 2"
+   ],
+   "a": 2,
+   "e": "Under FCNR(A), the RBI bore the exchange risk, whereas under FCNR(B), banks bear the risk. FCNR(A) was replaced by FCNR(B) in 1994, meaning only scheme A was withdrawn at that time."
+  },
+  {
+   "q": "Hawala transactions relate to payments: [1996]",
+   "o": [
+    "(a) received in rupees against overseas currencies...",
+    "(d) made to political parties or to individuals fo...",
+    "(b) received for sale/transfer of shares without g...",
+    "(c) received as commission for services rendered t..."
+   ],
+   "a": 0,
+   "e": "Hawala is an illegal remittance system that works outside the official banking system based on mutual trust between agents (Hundi), involving no physical movement of cash."
+  },
+  {
+   "q": "The sum of which of the following constitutes Broad Money (M3)? 1️⃣ Currency with the public 2️⃣ Demand deposits with banks 3️⃣ Time deposits with banks 4️⃣ Other deposits with RBI. Choose the correct answer using the codes given below: [1997]",
+   "o": [
+    "(c) 1, 2, 3 and 4",
+    "(a) 1 and 2",
+    "(b) 1, 2 and 3",
+    "(d) 1, 2 and 4"
+   ],
+   "a": 0,
+   "e": "Broad Money (M3) consists of Narrow Money (M1) plus time deposits of the public with banks. M1 includes currency with the public, demand deposits, and other deposits with the RBI."
+  },
+  {
+   "q": "The banks are required to maintain a certain ratio between their cash in hand and total assets. This is called: [1998]",
+   "o": [
+    "(d) CLR (Central Liquid Reserve)",
+    "(a) SBR (Statutory Bank Ratio)",
+    "(b) SLR (Statutory Liquid Ratio)",
+    "(c) CBR (Central Liquid Reserve)"
+   ],
+   "a": 2,
+   "e": "Statutory Liquidity Ratio (SLR) is the portion of total deposits that commercial banks must maintain in liquid assets like cash, gold, or approved securities."
+  },
+  {
+   "q": "The accounting year of the Reserve Bank of India is: [1998]",
+   "o": [
+    "(a) April-March",
+    "(d) January-December",
+    "(c) October-September",
+    "(b) July-June"
+   ],
+   "a": 3,
+   "e": "The RBI's accounting year runs from July 1 to June 30. It was changed from the calendar year (Jan-Dec) to July-June in March 1940."
+  },
+  {
+   "q": "Which one of the following is the correct sequence of decreasing order of the given currencies in terms of their value in Indian Rupees? [1998]",
+   "o": [
+    "(a) US dollar, Canadian dollar, New Zealand dollar, Hong Kong dollar",
+    "(b) US dollar, New Zealand dollar, Canadian dollar, Hong Kong dollar",
+    "(c) US dollar, Hong Kong dollar, Canadian dollar, New Zealand dollar",
+    "(d) Hong Kong dollar, US dollar, New Zealand dollar, Canadian Dollar"
+   ],
+   "a": 0,
+   "e": "Based on historical exchange values at the time of the question, the order of value in INR follows the US Dollar as the highest, followed by the Canadian and New Zealand dollars, with the Hong Kong dollar being the lowest."
+  },
+  {
+   "q": "The farmers are provided credit from a number of sources for their short and long term needs. The main sources of credit to the farmers include: [1999]",
+   "o": [
+    "(c) the District Central Cooperative Banks (DCCB), the lead banks, IRDP and JRY",
+    "(d) the Large Scale Multi-purpose Adivasis Programme, DCCB, IFFCO and commercial banks",
+    "(a) the Primary Agricultural Cooperative Societies, commercial banks, RRBs and private money lenders",
+    "(b) the NABARD, RBI, commercial banks and private money lenders"
+   ],
+   "a": 2,
+   "e": "Direct credit sources for farmers include Cooperative Societies, Commercial Banks, and Regional Rural Banks (RRBs). Private money lenders also remain a source in the informal sector."
+  },
+  {
+   "q": "Since 1980, the share of the tertiary sector in the total GDP of India has: [1999]",
+   "o": [
+    "(b) shown a decreasing trend",
+    "(a) shown an increasing trend",
+    "(d) been fluctuating",
+    "(c) remained constant"
+   ],
+   "a": 1,
+   "e": "The increasing share of the tertiary (services) sector in India's GDP is a hallmark of economic development, mirroring the trends seen in western developing nations."
+  },
+  {
+   "q": "Consider the following statements regarding Reserve Bank of India: 1️⃣ It is a banker to the Central Government. 2️⃣ It formulates and administers monetary policy. 3️⃣ It acts as an agent of the Government in respect of India. 4️⃣ It handles the borrowing programme of Government of India. Which of the statements given above is/are correct? [2001]",
+   "o": [
+    "(a) 1 only",
+    "(b) 2 only",
+    "(c) 1 and 2",
+    "(d) 1, 2 and 4"
+   ],
+   "a": 3,
+   "e": "RBI's functions include being the government's bank, formulating monetary policy, and managing the public debt/borrowing programmes for both Central and State governments."
+  },
+  {
+   "q": "Consider the following: 1️⃣ Currency with the public 2️⃣ Demand deposits with banks 3️⃣ Time deposits with banks. Which of these are included in Broad Money ($M_3$) in India? [2002]",
+   "o": [
+    "(c) 2 and 3",
+    "(d) 1, 2 and 3",
+    "(a) 1 and 2",
+    "(b) 1 and 3"
+   ],
+   "a": 1,
+   "e": "M3 is defined as M1 (currency + demand deposits) plus time deposits. It represents the total money supply in the economy including less liquid assets like fixed deposits."
+  },
+  {
+   "q": "Consider the following financial institutions of India: 1️⃣ Industrial Finance Corporation of India (IFCI) 2️⃣ Industrial Credit and Investment Corporation of India (ICICI) 3️⃣ Industrial Development Bank of India (IDBI) 4️⃣ National Bank for Agriculture and Rural Development (NABARD). The correct chronological sequence of the establishment of these institution is: [2002]",
+   "o": [
+    "(b) 2, 3, 4, 1",
+    "(d) 4, 1, 2, 3",
+    "(c) 3, 4, 1, 2",
+    "(a) 1, 2, 3, 4"
+   ],
+   "a": 3,
+   "e": "The order of establishment is IFCI (1948), ICICI (1955), IDBI (1964), and NABARD (1982)."
+  },
+  {
+   "q": "Debenture holders of a company are its: [2003]",
+   "o": [
+    "(c) debtors",
+    "(d) directors",
+    "(a) shareholders",
+    "(b) creditors"
+   ],
+   "a": 3,
+   "e": "A debenture is a long-term debt instrument issued by a company. Holders are creditors who receive a fixed rate of interest and have a claim on the company's assets."
+  },
+  {
+   "q": "In the last one decade, which one among the following sectors has attracted the highest Foreign Direct Investment inflows into India? [2004]",
+   "o": [
+    "(c) Food processing",
+    "(a) Chemicals other than fertilizers",
+    "(b) Services sector",
+    "(d) Telecommunication"
+   ],
+   "a": 2,
+   "e": "The Services sector attracted the highest FDI inflows (approximately 21%) during the period mentioned in the source material (2006-2010)."
+  },
+  {
+   "q": "Consider the following statements: 1️⃣ The National Housing Bank, the apex institution of housing finance in India, was set up as a wholly-owned subsidiary of the Reserve Bank of India. 2️⃣ The Small Industries Development Bank of India was established as a wholly-owned subsidiary of the Industrial Development Bank of India. Which of the statements given above is/are correct? [2004]",
+   "o": [
+    "(c) Both 1 and 2",
+    "(a) 1 only",
+    "(d) Neither 1 nor 2",
+    "(b) 2 only"
+   ],
+   "a": 0,
+   "e": "NHB was established in 1988 as a subsidiary of RBI. SIDBI was established in 1990 as a subsidiary of IDBI to support small-scale industries."
+  },
+  {
+   "q": "Consider the following statements: 1️⃣ Reserve Bank of India was nationalized on 26 January, 1950. 2️⃣ The borrowing programme of the Government of India is handled by the Department of Expenditure, Ministry of Finance. Which of the statements given above is/are correct? [2004]",
+   "o": [
+    "(d) Neither 1 nor 2",
+    "(a) 1 only",
+    "(b) 2 only",
+    "(c) Both 1 and 2"
+   ],
+   "a": 0,
+   "e": "RBI was nationalized on January 1, 1949 (not 1950). The borrowing programme of the Government is handled by the RBI, not the Department of Expenditure."
+  },
+  {
+   "q": "Consider the following statements: 1️⃣ Sensex is based on 50 of the most important stocks available on the Bombay stock Exchange (BSE). 2️⃣ For calculating the Sensex, all the stock are assigned proportional weightage. 3️⃣ New York Stock Exchange is the oldest stock exchange in the world. Which of the statements given above is/are correct? [2005]",
+   "o": [
+    "(b) 1 and 3",
+    "(d) none",
+    "(c) 2 and 3",
+    "(a) 2 only"
+   ],
+   "a": 3,
+   "e": "Statement 1 is wrong because Sensex consists of 30 stocks. Statement 3 is wrong because the Amsterdam Stock Exchange (1602) is the oldest; the NYSE dates to 1792. Statement 2 is correct regarding weightage calculation."
+  },
+  {
+   "q": "Which one of the following Indian banks is not a nationalized bank? [2006]",
+   "o": [
+    "(a) Corporation Bank",
+    "(b) Dena Bank",
+    "(d) Vijaya Bank",
+    "(c) Federal Bank"
+   ],
+   "a": 3,
+   "e": "Federal Bank is a major Indian commercial bank in the private sector, headquartered in Kerala, whereas the others were nationalized public sector banks."
+  },
+  {
+   "q": "Consider the following statements: 1️⃣ Life Insurance Corporation of India is the oldest insurance company in India. 2️⃣ National Insurance Company Limited was nationalized in the year 1972 and made a subsidiary of General Insurance Corporation of India. 3️⃣ Headquarters of United Indian Insurance Company Limited are located at Chennai. Which of the statements given above are correct? [2006]",
+   "o": [
+    "(a) 1, 2 and 3",
+    "(c) 2 and 3 only",
+    "(d) 1 and 3 only",
+    "(b) 1 and 2 only"
+   ],
+   "a": 1,
+   "e": "National Insurance Company (founded 1906) is older than LIC (founded 1956). Statements 2 and 3 correctly describe the nationalization of general insurance and the HQ location of United India Insurance."
+  },
+  {
+   "q": "Consider the following statements: 1️⃣ The repo rate is the rate at which other banks borrow from the Reserve Bank of India. 2️⃣ A value of 1 for Gini Coefficient in a country implies that there is perfectly equal income for everyone in its population. Which of the statements given above is/are correct? [2007]",
+   "o": [
+    "(d) Neither 1 nor 2",
+    "(a) 1 only",
+    "(b) 2 only",
+    "(c) Both 1 and 2"
+   ],
+   "a": 1,
+   "e": "Repo rate is the rate at which banks borrow from RBI. For Gini Coefficient, 0 represents perfect equality and 1 represents perfect inequality."
+  },
+  {
+   "q": "The National Housing Bank was set up in India as a wholly-owned subsidiary of which one of the following? [2007]",
+   "o": [
+    "(b) Reserve Bank of India",
+    "(a) State Bank of India",
+    "(d) Life Insurance Corporation of India",
+    "(c) ICICI Bank"
+   ],
+   "a": 0,
+   "e": "The National Housing Bank (NHB) was created in 1988 under the National Housing Bank Act as a wholly-owned subsidiary of the RBI."
+  },
+  {
+   "q": "Which one of the following pairs is not correctly matched? [2009]",
+   "o": [
+    "(d) Nasdaq : USA",
+    "(a) Nikkei : Japan",
+    "(b) Shcomp : Singapore",
+    "(c) FTSE : UK"
+   ],
+   "a": 2,
+   "e": "Shcomp (Shanghai Composite Index) is the stock market index for China (Shanghai), not Singapore. Singapore's indices include SIMEX and Straits Times."
+  },
+  {
+   "q": "Which of the following terms indicates a mechanism used by commercial banks for providing credit to the government? [2010]",
+   "o": [
+    "(b) Debt Service Obligation",
+    "(a) Cash Credit Ratio",
+    "(c) Liquidity Adjustment Facility",
+    "(d) Statutory Liquidity Ratio"
+   ],
+   "a": 3,
+   "e": "Under SLR, commercial banks are mandated to invest a portion of their deposits in government securities, effectively providing credit to the government."
+  },
+  {
+   "q": "With reference to the Non-banking Financial Companies (NBFCs) in India, consider the following statements: 1️⃣ They cannot engage in the acquisition of securities issued by the government. 2️⃣ They cannot accept demand deposits like Savings Account. Which of the statement given above is/ are correct? [2010]",
+   "o": [
+    "(b) 2 only",
+    "(a) 1 only",
+    "(d) Neither 1 nor 2",
+    "(c) Both 1 and 2"
+   ],
+   "a": 0,
+   "e": "NBFCs can indeed acquire government securities. However, they are strictly prohibited from accepting demand deposits (like savings accounts) because they are not part of the payment and settlement system."
+  },
+  {
+   "q": "In the parlance of financial investments, the term 'bear' denotes: [2010]",
+   "o": [
+    "(c) A shareholder or a bondholder who has an interest in a company",
+    "(d) Any lender whether by making a loan or buying a bond",
+    "(a) An investor who feels that the price of a particular security is going to fall",
+    "(b) An investor who expects the price of particular shares to rise"
+   ],
+   "a": 2,
+   "e": "A 'bear' is a speculator who sells securities in anticipation of a price decline, hoping to buy them back later at a lower price for profit."
+  },
+  {
+   "q": "In India, the interest rate on savings accounts in all the nationalized commercial banks is fixed by: [2010]",
+   "o": [
+    "(d) None of the above",
+    "(a) Union Ministry of Finance",
+    "(b) Union Finance Commission",
+    "(c) Indian Banks' Association"
+   ],
+   "a": 0,
+   "e": "Historically, the RBI fixed these rates. However, since 2011, the RBI has permitted commercial banks to fix their own interest rates on savings accounts independently."
+  },
+  {
+   "q": "With reference to the institution of Banking Ombudsman in India, which one of the statements is not correct? [2010]",
+   "o": [
+    "(a) The Banking Ombudsman is appointed by the Rese...",
+    "(d) The service provided by the Banking Ombudsman...",
+    "(c) The orders passed by the Banking Ombudsman are...",
+    "(b) The Banking Ombudsman can consider complaints..."
+   ],
+   "a": 2,
+   "e": "The orders are not final; an aggrieved person can appeal to the Appellate Authority, which is vested with a Deputy Governor of the RBI."
+  },
+  {
+   "q": "With reference to India, consider the following: 1️⃣ Nationalization of Banks 2️⃣ Formation of Regional Rural Banks 3️⃣ Adoption of villages by Bank Branches. Which of the above can be considered as steps taken to achieve the \"financial inclusion\" in India? [2010]",
+   "o": [
+    "(c) 3 only",
+    "(b) 2 and 3 only",
+    "(d) 1, 2 and 3",
+    "(a) 1 and 2 only"
+   ],
+   "a": 2,
+   "e": "Financial inclusion aims to provide affordable financial services to disadvantaged groups. Bank nationalization, RRBs, and the village adoption scheme were all intended to expand the banking reach."
+  },
+  {
+   "q": "Consider the following statements: The functions of commercial banks in India include 1️⃣ Purchase and sale of shares and securities on behalf of customers. 2️⃣ Acting as executors and trustees of wills. Which of the statements given above is/are correct? [2010]",
+   "o": [
+    "(a) 1 only",
+    "(b) 2 only",
+    "(c) Both 1 and 2",
+    "(d) Neither 1 nor 2"
+   ],
+   "a": 2,
+   "e": "Commercial banks perform various agency and miscellaneous services, including managing investments for customers and acting as executors or trustees for wills."
+  },
+  {
+   "q": "The International Development Association, a lending agency, is administered by the: [2010]",
+   "o": [
+    "(a) International Bank for Reconstruction and Development",
+    "(c) United Nations Development Programme",
+    "(d) United Nations Industrial Development Organization",
+    "(b) International Fund for Agricultural Development"
+   ],
+   "a": 0,
+   "e": "IDA is the part of the World Bank that helps the poorest countries. It is administered by the IBRD, which is the main arm of the World Bank."
+  },
+  {
+   "q": "The basic aim of Lead Bank Scheme is that: [2012-1]",
+   "o": [
+    "(b) there should be stiff competition among the various nationalized banks",
+    "(c) individual banks should adopt particular districts for intensive development",
+    "(d) all the banks should make intensive efforts to mobilize deposits",
+    "(a) big banks should try to open offices in each district"
+   ],
+   "a": 1,
+   "e": "The Lead Bank Scheme tasks specific banks with the \"lead\" role in a district to coordinate and ensure intensive development through credit and banking services."
+  },
+  {
+   "q": "The Reserve Bank of India regulates the commercial banks in matters of: 1️⃣ liquidity of assets 2️⃣ branch expansion 3️⃣ merger of banks 4️⃣ winding-up of banks. Select the correct answer using the codes given below: [2013-1]",
+   "o": [
+    "(b) 2, 3 and 4 only",
+    "(d) 1, 2, 3 and 4",
+    "(c) 1, 2 and 3 only",
+    "(a) 1 and 4 only"
+   ],
+   "a": 1,
+   "e": "As the central monetary authority, RBI has comprehensive regulatory powers over commercial banks, including their asset liquidity, growth, structural changes (mergers), and exit (winding-up)."
+  },
+  {
+   "q": "An increase in the Bank Rate generally indicates that the: [2013-1]",
+   "o": [
+    "(d) Central Bank is following a tight money policy",
+    "(b) Central Bank is no longer making loans to commercial banks",
+    "(c) Central Bank is following an easy money policy",
+    "(a) market rate of interest is likely to fall"
+   ],
+   "a": 0,
+   "e": "A higher bank rate makes borrowing from the central bank more expensive for commercial banks, signaling a \"tight\" or contractionary monetary policy to curb inflation."
+  },
+  {
+   "q": "Which of the following grants/grant direct credit assistance to rural households? 1️⃣ Regional Rural Banks 2️⃣ National Bank for Agriculture and Rural Development 3️⃣ Land Development Banks. Select the correct answer using the codes given below: [2013-1]",
+   "o": [
+    "(c) 1 and 3 only",
+    "(d) 1, 2 and 3",
+    "(a) 1 and 2 only",
+    "(b) 2 only"
+   ],
+   "a": 0,
+   "e": "RRBs and Land Development Banks provide direct loans to farmers and rural artisans. NABARD is an apex institution and does not provide \"direct\" credit to households; it works via intermediaries."
+  },
+  {
+   "q": "Consider the following statements: 1️⃣ Inflation benefits the debtors. 2️⃣ Inflation benefits the bondholders. Which of the statements given above is/are correct? [2013-1]",
+   "o": [
+    "(d) Neither 1 nor 2",
+    "(a) 1 only",
+    "(c) Both 1 and 2",
+    "(b) 2 only"
+   ],
+   "a": 1,
+   "e": "Inflation allows debtors to pay back loans with money that is worth less than when they borrowed it. Conversely, bondholders (creditors) suffer as the real value of their interest and principal decreases."
+  },
+  {
+   "q": "Consider the following liquid assets: 1️⃣ Demand deposits with the banks 2️⃣ Time deposits with the banks 3️⃣ Saving deposits with the banks 4️⃣ Currency. The correct sequence of these assets in the decreasing order of liquidity is: [2013-1]",
+   "o": [
+    "(a) 1-4-3-2",
+    "(c) 2-3-1-4",
+    "(d) 4-3-2-1",
+    "(b) 4-1-3-2"
+   ],
+   "a": 3,
+   "e": "Currency (cash) is the most liquid. This is followed by demand deposits (current accounts), then saving deposits, and finally time deposits (fixed deposits), which are the least liquid."
+  },
+  {
+   "q": "What is/are the facility/facilities the beneficiaries can get from the services of Business Correspondent (Bank Saathi) in branchless areas? 1️⃣ It enables the beneficiaries to draw their subsidies and social security benefits in their villages. 2️⃣ It enables the beneficiaries in the rural areas to make deposits and withdrawals. Select the correct answer using the code given below: [2014-1]",
+   "o": [
+    "(a) 1 only",
+    "(c) Both 1 and 2",
+    "(d) Neither 1 nor 2",
+    "(b) 2 only"
+   ],
+   "a": 1,
+   "e": "Business Correspondents act as a bridge in rural areas, allowing villagers to perform basic banking transactions like deposits, withdrawals, and receiving government transfers without traveling to a branch."
+  },
+  {
+   "q": "In the context of Indian economy, which of the following is/ are the purpose/purposes of Statutory Reserve Requirements? 1️⃣ To enable the Central Bank to control the amount of advances the banks can create 2️⃣ To make the people's deposits with banks safe and liquid 3️⃣ To prevent the commercial banks from making excessive profits 4️⃣ To force the banks to have sufficient vault cash to meet their day-to-day requirements. Select the correct answer using the code given below: [2014-1]",
+   "o": [
+    "(b) 1 and 2 only",
+    "(a) 1 only",
+    "(d) 1, 2, 3 and 4",
+    "(c) 2 and 3 only"
+   ],
+   "a": 1,
+   "e": "The primary purpose of reserve requirements like SLR/CRR is to control the money supply and credit creation capacity of banks. Safety of deposits is primarily addressed by Capital Adequacy Ratios."
+  },
+  {
+   "q": "'Basel III Accord' or simply 'Basel III', often seen in the news, seeks to: [2015-1]",
+   "o": [
+    "(d) transfer technology from developed Countries t...",
+    "(b) improve banking sector's ability to deal with...",
+    "(c) reduce the greenhouse gas emissions but places...",
+    "(a) develop national strategies for the conservati..."
+   ],
+   "a": 1,
+   "e": "Basel III is a set of international banking regulations designed to strengthen regulation, supervision, and risk management within the banking sector."
+  },
+  {
+   "q": "With reference to Indian economy, consider the following: 1️⃣ Bank rate 2️⃣ Open market operations 3️⃣ Public debt 4️⃣ Public revenue. Which of the above is/are component/components of Monetary Policy? [2015-1]",
+   "o": [
+    "(b) 2, 3 and 4",
+    "(d) 1, 3 and 4",
+    "(a) 1 only",
+    "(c) 1 and 2"
+   ],
+   "a": 3,
+   "e": "Bank rate and Open Market Operations (OMO) are tools used by the RBI for monetary policy. Public debt and revenue are parts of Fiscal Policy managed by the government."
+  },
+  {
+   "q": "When the Reserve Bank of India reduces the Statutory Liquidity Ratio by 50 basis points, which of the following is likely to happen? [2015-1]",
+   "o": [
+    "(a) India's GDP growth rate increases drastically",
+    "(d) It may drastically reduce the liquidity to the banking system",
+    "(c) Scheduled Commercial Banks may cut their lending rates",
+    "(b) Foreign Institutional Investors may bring more capital into our country"
+   ],
+   "a": 2,
+   "e": "Reducing SLR leaves more funds with banks to lend. To attract borrowers for this extra liquidity, banks are likely to reduce their lending interest rates."
+  },
+  {
+   "q": "What is/are the purpose/purposes of the Marginal Cost of Funds based Lending Rate (MCLR) announced by RBI? 1️⃣ These guidelines help improve the transparency in the methodology followed by banks for determining the interest rates on advances. 2️⃣ These guidelines help ensure availability of bank credit at interest rates which are fair to the borrowers as well as the banks. Select the correct answer using the code given below: [2016-1]",
+   "o": [
+    "(c) Both 1 and 2",
+    "(a) 1 only",
+    "(d) Neither 1 nor 2",
+    "(b) 2 only"
+   ],
+   "a": 0,
+   "e": "MCLR was introduced to make the determination of lending rates more transparent and to ensure that changes in policy rates (like repo rate) are better transmitted to borrowers."
+  },
+  {
+   "q": "The establishment of 'Payment Banks' is being allowed in India to promote financial inclusion. Which of the following statements is/are correct in this context? 1️⃣ Mobile telephone companies and supermarket chains that are owned and controlled by residents are eligible to be promoters of Payment Banks. 2️⃣ Payment Banks can issue both credit cards and debit cards. 3️⃣ Payment Banks cannot undertake lending activities. Select the correct answer using the code given below: [2016-1]",
+   "o": [
+    "(a) 1 and 2 only",
+    "(c) 2 only",
+    "(b) 1 and 3 only",
+    "(d) 1, 2 and 3"
+   ],
+   "a": 2,
+   "e": "Payment Banks are restricted to basic services; they can issue debit cards but NOT credit cards. They are also prohibited from providing loans or lending activities."
+  },
+  {
+   "q": "The term 'Core Banking Solutions' is sometimes seen in the news. Which of the following statements best describes/ describe this term? 1️⃣ It is a networking of a bank's branches which enables customers to operate their accounts from any branch of the bank on its network regardless of where they open their accounts. 2️⃣ It is an effort to increase RBI's control over commercial banks through computerization. 3️⃣ It is a detailed procedure by which a bank with huge non-performing assets is taken over by another bank. Select the correct answer using the code given below: [2016-1]",
+   "o": [
+    "(c) 1 and 3 only",
+    "(d) 1, 2 and 3",
+    "(a) 1 only",
+    "(b) 2 and 3 only"
+   ],
+   "a": 2,
+   "e": "CBS allows \"Anywhere, Anytime Banking\" by networking branches so that the customer becomes a customer of the bank rather than just a specific branch."
+  },
+  {
+   "q": "With reference to 'Bitcoins', sometimes seen in the news, which of the following statements is/are correct? 1️⃣ Bitcoins are tracked by the Central Banks of the countries. 2️⃣ Anyone with a Bitcoin address can send and receive Bitcoins from anyone else with a Bitcoin address. 3️⃣ Online payments can be sent without either side knowing the identity of the other. Select the correct answer using the code given below: [2016-1]",
+   "o": [
+    "(b) 2 and 3 only",
+    "(a) 1 and 2 only",
+    "(d) 1, 2 and 3",
+    "(c) 3 only"
+   ],
+   "a": 0,
+   "e": "Bitcoins are a decentralized cryptocurrency not tracked or maintained by any central bank. They allow peer-to-peer transactions and offer a degree of anonymity to users."
+  },
+  {
+   "q": "The term 'Base Erosion and Profit Shifting' is sometimes seen in the news in the context of: [2016-1]",
+   "o": [
+    "(c) exploitation of genetic resources of a country...",
+    "(b) curbing of the tax evasion by multinational co...",
+    "(d) lack of consideration of environmental costs i...",
+    "(a) mining operation by multinational companies in..."
+   ],
+   "a": 1,
+   "e": "BEPS refers to tax avoidance strategies used by MNCs to shift profits from high-tax jurisdictions to low or no-tax jurisdictions (tax havens)."
+  },
+  {
+   "q": "There has been a persistent deficit budget year after year. Which action/actions of the following can be taken by the Government to reduce the deficit? 1️⃣ Reducing revenue expenditure 2️⃣ Introducing new welfare schemes 3️⃣ Rationalizing subsidies 4️⃣ Reducing import duty. Select the correct answer using the code given below: [2016-1]",
+   "o": [
+    "(c) 1 and 3 only",
+    "(d) 1, 2, 3 and 4",
+    "(a) 1 only",
+    "(b) 2 and 3 only"
+   ],
+   "a": 0,
+   "e": "To reduce a deficit, the government must decrease expenditure (e.g., cutting revenue spending, rationalizing subsidies) or increase income. New welfare schemes increase spending, and reducing import duty decreases revenue."
+  },
+  {
+   "q": "Which of the following is/are included in the capital budget of the Government of India? 1️⃣ Expenditure on acquisition of assets like roads, buildings, machinery, etc. 2️⃣ Loans received from foreign governments 3️⃣ Loans and advances granted to the States and Union Territories. Select the correct answer using the code given below: [2016-1]",
+   "o": [
+    "(d) 1, 2 and 3",
+    "(c) 1 and 3 only",
+    "(a) 1 only",
+    "(b) 2 and 3 only"
+   ],
+   "a": 0,
+   "e": "Capital budget includes capital receipts (like foreign loans) and capital expenditure (like asset creation and lending to states)."
+  },
+  {
+   "q": "'Global Financial Stability Report' is prepared by the: [2016-1]",
+   "o": [
+    "(c) International Bank for Reconstruction and Development",
+    "(a) European Central Bank",
+    "(d) Organization for Economic Cooperation and Development",
+    "(b) International Monetary Fund"
+   ],
+   "a": 3,
+   "e": "The Global Financial Stability Report (GFSR) is a semi-annual report published by the IMF that assesses the global financial system."
+  },
+  {
+   "q": "With reference to the governance of public sector banking in India, consider the following statements: 1️⃣ Capital infusion into public sector banks by the Government of India has steadily increased in the last decade. 2️⃣ To put the public sector banks in order, the merger of associate banks with the parent State Bank of India has been affected. Which of the statements given above is/are correct? [2018-1]",
+   "o": [
+    "(a) 1 only",
+    "(d) Neither 1 nor 2",
+    "(b) 2 only",
+    "(c) Both 1 and 2"
+   ],
+   "a": 2,
+   "e": "Statement 1 is incorrect because capital infusion has fluctuated, not steadily increased. Statement 2 is correct as SBI merged its associate banks to improve efficiency."
+  },
+  {
+   "q": "Which one of the following statements correctly describes the meaning of legal tender money? [2018-1]",
+   "o": [
+    "(c) The bank money in the form of cheques, drafts, bills of exchange, etc.",
+    "(b) The money which a creditor is under compulsion to accept in settlement of his claims",
+    "(a) The money which is tendered in courts of law to defray the fee of legal cases",
+    "(d) The metallic money in circulation in a country"
+   ],
+   "a": 1,
+   "e": "Legal tender is fiat money that, by law, cannot be refused by a citizen or creditor for the settlement of any debt or transaction."
+  },
+  {
+   "q": "The Service Area Approach was implemented under the purview of: [2019-1]",
+   "o": [
+    "(b) Lead Bank Scheme",
+    "(c) Mahatma Gandhi National Rural Employment Guarantee Scheme",
+    "(d) National Skill Development Mission",
+    "(a) Integrated Rural Development Programme"
+   ],
+   "a": 0,
+   "e": "The Service Area Approach (SAA) is a modification of the Lead Bank Scheme designed to improve the quality of rural lending by assigning specific areas to bank branches."
+  },
+  {
+   "q": "Which of the following is issued by registered foreign portfolio investors to overseas investors who want to be part of the Indian stock market without registering themselves directly? [2019-1]",
+   "o": [
+    "(c) Promissory Note",
+    "(d) Participatory Note",
+    "(b) Commercial Paper",
+    "(a) Certificate of Deposit"
+   ],
+   "a": 1,
+   "e": "Participatory Notes (P-Notes) allow foreign investors to invest in Indian stocks through registered FPIs, avoiding the need for direct registration with SEBI."
+  },
+  {
+   "q": "In the context of any country which one of the following would be considered as part of its social capital? [2019-1]",
+   "o": [
+    "(a) The proportion of literates in the population.",
+    "(d) The level of mutual trust and harmony in the society.",
+    "(c) The size of the population in the working age group.",
+    "(b) The stock of its buildings, other infrastructure and machines."
+   ],
+   "a": 1,
+   "e": "Social capital refers to the networks of relationships, trust, and shared values in a society that enable it to function effectively. Literates represent human capital, and buildings represent physical capital."
+  }
+ ]
+}

@@ -1,0 +1,349 @@
+{
+ "title": "Agriculture In Economy",
+ "category": "UPSC Prelims PYQs",
+ "minutes": 16,
+ "negative": 0.25,
+ "questions": [
+  {
+   "q": "Agricultural income tax is assigned to the State Government by: [1995]",
+   "o": [
+    "The Constitution of India",
+    "Inter-State Council",
+    "National Development Council",
+    "Finance Commission"
+   ],
+   "a": 0,
+   "e": "Article 269 of the Constitution specifies that taxes on income other than agricultural income shall be levied by the Government of India. Entry 46 in the State List of the Seventh Schedule gives power to the state governments to impose agricultural income tax."
+  },
+  {
+   "q": "In which one of the following crops international trade is low in the context of total produce? [1995]",
+   "o": [
+    "Wheat",
+    "Coffee",
+    "Rubber",
+    "Rice"
+   ],
+   "a": 3,
+   "e": "Rice production is highest in India among cereals, but most of it is meant for internal consumption. While India is a major exporter of Basmati, the overall international trade of rice is low compared to total production."
+  },
+  {
+   "q": "In India, rural incomes are generally lower than the urban incomes. Which of the following reasons account for this? 1️⃣ A large number of farmers are illiterate and know little about scientific agriculture. 2️⃣ Prices of primary products are lower than of manufactured products. 3️⃣ Investment in agriculture has been low when compared to investment in industry. [1996]",
+   "o": [
+    "1 and 2",
+    "1 and 3",
+    "2 and 3",
+    "1, 2 and 3"
+   ],
+   "a": 2,
+   "e": "Illiteracy doesn't necessarily lower productivity as farmers often have adequate knowledge of techniques. However, the lower prices of primary products compared to manufactured goods and lower investment in the agricultural sector are major factors for lower rural incomes."
+  },
+  {
+   "q": "Match List-I (Commodities exported from India) with List-II (Countries of destination) and select the correct answer: List-I: A. Iron ore, B. Leather goods, C. Tea, D. Cotton fabrics. List-II: 1. Russia, 2. U.S.A, 3. Japan, 4. U.K., 5. Canada. [1997]",
+   "o": [
+    "A-5; B-1; C-2; D-3",
+    "A-1; B-5; C-4; D-3",
+    "A-3; B-4; C-1; D-2",
+    "A-3; B-1; C-4; D-2"
+   ],
+   "a": 3,
+   "e": "Based on the historical trade patterns mentioned, Iron ore is primarily exported to Japan, Leather goods to Russia, Tea to the United Kingdom, and Cotton fabrics to the U.S.A."
+  },
+  {
+   "q": "Regional disparities in India are high and have been rising in recent years because: 1️⃣ There is persistent investment over time only in select locates. 2️⃣ Some areas are agro-climatically less conducive to development. 3️⃣ Some areas continue to face little or no agrarian transformation and the consequent lack of social and economic opportunities. 4️⃣ Some areas have faced continuous political instability. [1998]",
+   "o": [
+    "1, 2 and 3",
+    "1, 2 and 4",
+    "1, 3 and 4",
+    "2, 3 and 4"
+   ],
+   "a": 0,
+   "e": "Investment patterns, weather conditions, and the level of agrarian transformation are the primary indicators of agricultural development. Political instability is considered to play a very small role in this context."
+  },
+  {
+   "q": "Indian farmers are unhappy over the introduction of \"Terminator Seed Technology\" because the seeds produced by this technology are expected to: [1999]",
+   "o": [
+    "show poor germination",
+    "give rise to sexually sterile plants",
+    "from low-yielding plants despite the high quality",
+    "give rise to plants incapable of forming viable seeds"
+   ],
+   "a": 3,
+   "e": "The terminator gene renders the seeds produced by a crop sterile. This prevents farmers from retaining seeds for future crops, forcing them to repurchase seeds at a heavy cost."
+  },
+  {
+   "q": "The correct sequence in decreasing order of the four sugarcane producing States in India is: [2000]",
+   "o": [
+    "Maharashtra, U. P., Andhra Pradesh, Tamil Nadu",
+    "U. P., Maharashtra, Andhra Pradesh, Tamil Nadu",
+    "U. P., Maharashtra, Tamil Nadu, Andhra Pradesh",
+    "Maharashtra, U.P., Tamil Nadu, Andhra Pradesh"
+   ],
+   "a": 2,
+   "e": "According to 2012-13 data, the order of production is Uttar Pradesh, followed by Maharashtra, Karnataka, Tamil Nadu, and then Andhra Pradesh."
+  },
+  {
+   "q": "Consider the following statements: 1️⃣ Maharashtra has the highest acreage under Jawar in India. 2️⃣ Gujarat is the largest producer of groundnut in India. 3️⃣ Rajasthan has the largest area of cultivable wastelands in India. 4️⃣ Andhra Pradesh has the highest per hectare yield of maize in India. [2000]",
+   "o": [
+    "1 and 4",
+    "1, 2, 3 and 4",
+    "2 and 3",
+    "1, 2 and 3"
+   ],
+   "a": 1,
+   "e": "All statements are correct: Maharashtra leads in Jawar acreage; Gujarat produces over 50% of India's groundnuts; Rajasthan has the most cultivable wasteland (84,929 sq. km); and Andhra Pradesh leads in maize yield due to hybrid usage."
+  },
+  {
+   "q": "The annual agricultural production of a product for the period 1991-92 to 1998-99 is shown in the figure given below. Which one of the following is the product in question? [2001]",
+   "o": [
+    "Wheat",
+    "Pulses",
+    "Rice",
+    "Oilseeds"
+   ],
+   "a": 2,
+   "e": "The bar diagram provided in the text represents the annual production of Rice for the period between 1991-92 and 1998-99."
+  },
+  {
+   "q": "In terms of value, which one of the following commodities accounted for the largest agricultural exports by India during the three year period from 1997-1998 to 1999-2000? [2002]",
+   "o": [
+    "Tea",
+    "Cereals",
+    "Spices",
+    "Marine products"
+   ],
+   "a": 3,
+   "e": "During the specified period from 1997 to 2000, marine products were the largest agricultural export by value, followed by tea and spices."
+  },
+  {
+   "q": "Consider the following statements: 1️⃣ Regarding the procurement of food-grains, Government of India follows a procurement target rather than an open-ended procurement policy. 2️⃣ Government of India announces minimum support prices only for cereals. 3️⃣ For distribution under Targeted Public Distribution System (TPDS), wheat and rice are issued by the Government of India at uniform central issue prices to the States/Union Territories. [2004]",
+   "o": [
+    "1 and 3",
+    "2 only",
+    "3 only",
+    "1 and 2"
+   ],
+   "a": 2,
+   "e": "Statement 1 is false because the government typically follows an open-ended policy where agencies like FCI buy whatever is offered at MSP. Statement 2 is false as MSP is announced for about 22 crops, not just cereals. Statement 3 is correct regarding uniform CIPs for TPDS."
+  },
+  {
+   "q": "India continues to be dependent on imports to meet the requirement of oilseeds in the country because: 1️⃣ farmers prefer to grow food grains with highly remunerative support prices. 2️⃣ most of the cultivation of oilseed crops continues to be dependent on rainfall. 3️⃣ oils from the seeds of free origin and rice bran have remained unexploited. 4️⃣ it far cheaper to import oilseeds than to cultivate the oilseed crops. [2004]",
+   "o": [
+    "2 and 3",
+    "1, 2 and 3",
+    "1, 2, 3 and 4",
+    "1 and 2"
+   ],
+   "a": 3,
+   "e": "The main reasons for oilseed import dependence are the lack of consistent rainfall for cultivation and a lack of seed preservation technology."
+  },
+  {
+   "q": "Consider the following statements: 1️⃣ The Commission for Agricultural Costs and Prices recommends the Minimum Support Prices for 32 crops. 2️⃣ The Union Ministry of Consumer Affairs, Food and Public Distribution has launched the National Food Security Mission. [2009]",
+   "o": [
+    "2 only",
+    "1 only",
+    "Neither 1 nor 2",
+    "Both 1 and 2"
+   ],
+   "a": 2,
+   "e": "Statement 1 is incorrect as MSP is recommended for about 22-25 crops (not 32). Statement 2 is incorrect because the National Food Security Mission was launched by the Ministry of Agriculture following a National Development Council resolution."
+  },
+  {
+   "q": "Consider the following statements: 1️⃣ The Union Government fixes the Statutory Minimum Price of sugarcane for each sugar season. 2️⃣ Sugar and sugarcane are essential commodities under the Essential Commodities Act. [2010]",
+   "o": [
+    "Both 1 and 2",
+    "1 only",
+    "2 only",
+    "Neither 1 nor 2"
+   ],
+   "a": 0,
+   "e": "Both statements are correct. The Statutory Minimum Price (now FRP) is a policy provision fixed by the Union Government, and both sugar and sugarcane are listed under the Essential Commodities Act."
+  },
+  {
+   "q": "With reference to micro-irrigation, which of the following statements is/are correct? 1️⃣ Fertilizer/nutrient loss can be reduced. 2️⃣ It is the only means of irrigation in dry land farming. 3️⃣ In some areas of farming, receding of ground water table can be checked. [2011-I]",
+   "o": [
+    "2 and 3",
+    "1, 2 and 3",
+    "1 only",
+    "1 and 3"
+   ],
+   "a": 3,
+   "e": "Micro-irrigation allows for fertigation, which reduces nutrient loss. It also helps check the receding water table by supplying water efficiently to the root zone. However, it is not the \"only\" means of irrigation in dry land farming."
+  },
+  {
+   "q": "Government of India encourages the cultivation of 'sea buckthorn'. What is the importance of this plant? 1️⃣ It helps in controlling soil erosion and in preventing desertification. 2️⃣ It is a rich source of biodiesel. 3️⃣ It has nutritional value and is well-adapted to live in cold areas of high altitudes. 4️⃣ Its timber is of great commercial value. [2012-I]",
+   "o": [
+    "2, 3 and 4",
+    "1 and 3",
+    "1 only",
+    "1, 2, 3 and 4"
+   ],
+   "a": 1,
+   "e": "Sea buckthorn is a medicinal plant that prevents soil erosion and fixes nitrogen in cold desert areas. It has high nutritional value but is not a primary source of biodiesel or commercial timber."
+  },
+  {
+   "q": "In the context of food and nutritional security of India, enhancing the 'Seed Replacement Rates' of various crops helps in achieving the food production targets of the future. But what is/are the constraint/constraints in its wider/greater implementation? 1️⃣ There is no National Seeds Policy in place. 2️⃣ There is no participation of private sector seed companies in the supply of quality seeds of vegetables and planting materials of horticultural crops. 3️⃣ There is a demand-supply gap regarding quality seeds in case of low value and high volume crops. [2014-I]",
+   "o": [
+    "3 only",
+    "None",
+    "2 and 3",
+    "1 and 2"
+   ],
+   "a": 0,
+   "e": "Statement 1 is false (National Seed Policy was made in 2002). Statement 2 is false as the private sector supplies almost all hybrid vegetable seeds. Statement 3 is the actual constraint; for crops like wheat and rice, farmers use their own seeds due to a supply gap."
+  },
+  {
+   "q": "Which of the following is/are the advantage/advantages of practising drip irrigation? 1️⃣ Reduction in weed 2️⃣ Reduction in soil salinity 3️⃣ Reduction in soil erosion [2016-I]",
+   "o": [
+    "3 only",
+    "1 and 2 only",
+    "None of the above",
+    "1 and 3 only"
+   ],
+   "a": 3,
+   "e": "Drip irrigation saves water, increases yield, and reduces weed formation and soil erosion. While experts debate its effect on soil salinity, the official UPSC answer key identifies the reduction of weed and soil erosion as the primary advantages."
+  },
+  {
+   "q": "Why does the Government of India promote the use of 'Neem-coated Urea' in agriculture? [2016-I]",
+   "o": [
+    "Neem coating slows down the rate of dissolution of urea in the soil",
+    "Release of Neem oil in the soil increases nitrogen fixation by the soil microorganisms",
+    "Nitrous oxide, which is a greenhouse gas, is not at all released into atmosphere by crop fields",
+    "It is a combination of a weedicide and a fertilizer for particular crops"
+   ],
+   "a": 0,
+   "e": "Neem oil acts as a nitrification inhibitor. When coated on urea, it slows down the release of nitrogen into the soil by 10-15%, which reduces the overall consumption of the fertilizer."
+  },
+  {
+   "q": "With reference to 'Pradhan Mantri Fasal Bima Yojana', consider the following statements: 1️⃣ Under this scheme, farmers will have to pay a uniform premium of two percent for any crop they cultivate in any season of the year. 2️⃣ This scheme covers post-harvest losses arising out of cyclones and unseasonal rains. [2016-I]",
+   "o": [
+    "2 only",
+    "Neither 1 nor 2",
+    "1 only",
+    "Both 1 and 2"
+   ],
+   "a": 0,
+   "e": "Statement 1 is false because premiums are 2% for Kharif, 1.5% for Rabi, and 5% for commercial/horticultural crops. Statement 2 is correct as it covers localized calamities and post-harvest losses."
+  },
+  {
+   "q": "Which of the following has/have occurred in India after its liberalization of economic policies in 1991? 1️⃣ Share of agriculture in GDP increased enormously. 2️⃣ Share of India's exports in world trade increased. 3️⃣ FDI inflows increased. 4️⃣ India's foreign exchange reserves increased enormously. [2017-I]",
+   "o": [
+    "2, 3 and 4 only",
+    "1, 2, 3 and 4",
+    "1, 2 and 3",
+    "1 only"
+   ],
+   "a": 0,
+   "e": "Post-1991, India's share in world exports, FDI inflows, and forex reserves all increased significantly. However, the share of agriculture in GDP has actually declined over time, not increased."
+  },
+  {
+   "q": "Consider the following statements: 1️⃣ The Standard Mark of Bureau of Indian Standards (BIS) is mandatory for automotive tyres and tubes. 2️⃣ AGMARK is a quality Certification Mark issued by the Food and Agriculture Organisation (FAO). [2017-I]",
+   "o": [
+    "1 only",
+    "Both 1 and 2",
+    "Neither 1 nor 2",
+    "2 only"
+   ],
+   "a": 0,
+   "e": "The BIS mark is indeed mandatory for automotive tyres. However, AGMARK is a certification mark issued under an Indian Act, not by the international FAO."
+  },
+  {
+   "q": "Which one of the following group of a plant domesticated in the new world and introduced into the old world? [2019-I]",
+   "o": [
+    "Tobacco, cocoas, and rubber",
+    "Tobacco, cotton and rubbers",
+    "Rubber, coffee and wheat",
+    "Cotton, coffee and sugarcane"
+   ],
+   "a": 0,
+   "e": "During the Columbian Exchange (15th-16th centuries), plants like Cocoa, Tobacco, and Rubber were moved from the New World (Americas) to the Old World (Europe, Asia, Africa)."
+  },
+  {
+   "q": "Consider the following statements: 1️⃣ According to the Indian Patents Act, a biological process to create a seed can be patented in India. 2️⃣ In India, there is no Intellectual Property Appellate Board. 3️⃣ Plant Varieties are not eligible to be patented in India. [2019-I]",
+   "o": [
+    "3 only",
+    "2 and 3 only",
+    "1 and 3 only",
+    "1, 2 and 3"
+   ],
+   "a": 0,
+   "e": "Under the Indian Patent Act, seeds and biological processes are not patentable. Plant varieties are also not eligible for patents (though they have separate protection). Statement 2 is false as the IPAB exists (shifted to the Commerce Ministry in 2016)."
+  },
+  {
+   "q": "Consider the following statements: 1️⃣ Most of India's external debt is owed by government entities. 2️⃣ All of India's external debt is denominated in US dollars. [2019-I]",
+   "o": [
+    "2 only",
+    "Both 1 and 2",
+    "1 only",
+    "Neither 1 nor 2"
+   ],
+   "a": 3,
+   "e": "Most of India's external debt is owed by the private sector through commercial borrowings. Debt is denominated in various currencies, with the US dollar accounting for about 55% and the Indian Rupee about 30%."
+  },
+  {
+   "q": "The economic cost of food grains to the Food Corporation of India is Minimum Support Price and bonus (if any) paid to the farmers plus: [2019-I]",
+   "o": [
+    "Interest cost only",
+    "Procurement incidentals and charges for godowns",
+    "Transportation cost only",
+    "Procurement incidentals and distribution costs"
+   ],
+   "a": 3,
+   "e": "The economic cost of food grains for the FCI consists of three components: the pooled cost (weighted MSP), procurement incidentals, and the cost of distribution."
+  },
+  {
+   "q": "With reference to chemical fertilizers in India, consider the following statements: 1️⃣ At present, the retail price of chemical fertilizers is market-driven and not administered by the Government. 2️⃣ Ammonia, which is an input of urea, is produced from natural gas. 3️⃣ Sulphur, which is a raw material for phosphoric acid fertilizer, is a by-product of oil refineries. [2020-I]",
+   "o": [
+    "2 only",
+    "1 only",
+    "2 and 3 only",
+    "1, 2 and 3"
+   ],
+   "a": 2,
+   "e": "Statement 1 is incorrect because Urea prices are still statutorily fixed by the government. Statement 2 is correct as ammonia is produced from natural gas. Statement 3 is correct as sulphur is a refinery by-product used for phosphoric acid."
+  },
+  {
+   "q": "With reference to pulse production in India, consider the following sentences: 1️⃣ Black gram (Urad) can be cultivated as both Kharif and rabi crop. 2️⃣ Green gram (Moong) alone accounts for nearly half of pulse production. 3️⃣ In the last three decades, while the production of kharif pulses has increased, the production of rabi pulses has decreased. [2020-I]",
+   "o": [
+    "1, 2 and 3",
+    "1 only",
+    "2 and 3 only",
+    "2 only"
+   ],
+   "a": 1,
+   "e": "Black gram is indeed grown in both seasons. Statement 2 is false as Gram (Chanaa) and Tur have higher production than Moong. Statement 3 is false as there is no clear-cut consistent increase/decrease trend in seasonal pulse production."
+  },
+  {
+   "q": "In India, which of the following can be considered as public investment in agriculture? 1️⃣ Social Capital development 2️⃣ Computerization of Primary Agriculture Credit Societies 3️⃣ Setting up of cold storage facilities by the governments 4️⃣ Free electricity supply of farmers 5️⃣ Waiver of agriculture loans by the banking system 6️⃣ Fixing Minimum Support Price for agriculture produce of all crops [2020-I]",
+   "o": [
+    "1, 2 and 5 only",
+    "2, 3 and 6 only",
+    "1, 3, 4 and 5 only",
+    "1, 2, 3, 4, 5 and 6"
+   ],
+   "a": 1,
+   "e": "Investment refers to the capital part of the budget. Subsidies (free electricity), loan waivers, and MSP are revenue expenditures/transfers, not capital investments. Social capital, PACS computerization, and cold storage are considered investments."
+  },
+  {
+   "q": "Consider the following statements: 1️⃣ In the case of all cereals, pulses and oil-seeds, the procurement at Minimum Support Price (MSP) is unlimited in any State/UT of India. 2️⃣ In the case of cereals and pulses, the MSP is fixed in any State/UT at a level to which the market price will never rise. [2020-I]",
+   "o": [
+    "Neither 1 nor 2",
+    "1 only",
+    "2 only",
+    "Both 1 and 2"
+   ],
+   "a": 0,
+   "e": "Statement 1 is false as open-ended procurement is largely limited to wheat and rice. Statement 2 is false because market prices can and do rise above the MSP based on supply and demand; MSP is a floor price, not a ceiling."
+  },
+  {
+   "q": "Consider the following statements: 1️⃣ In terms of short-term credit delivery to the agriculture sector, District Central Cooperative Banks (DCCBs) deliver more credit in comparison to Scheduled Commercial Banks and Regional Rural Banks. 2️⃣ One of the most important functions of DCCBs is to provide funds to the Primary Agricultural Credit Societies. [2020-I]",
+   "o": [
+    "Neither 1 nor 2",
+    "Both 1 and 2",
+    "2 only",
+    "1 only"
+   ],
+   "a": 2,
+   "e": "Scheduled Commercial Banks deliver significantly more credit than DCCBs due to their larger branch networks and PSL obligations. However, statement 2 is correct as a primary role of DCCBs is to fund the PACS."
+  }
+ ]
+}

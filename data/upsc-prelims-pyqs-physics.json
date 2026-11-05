@@ -1,0 +1,1206 @@
+{
+ "title": "Physics",
+ "category": "UPSC Prelims PYQs",
+ "minutes": 54,
+ "negative": 0.25,
+ "questions": [
+  {
+   "q": "A parachutist jumps from a height of 5000 metre. The relationship between his falling speed, v and the distance fallen through d is best represented as: [1995]",
+   "o": [
+    "(a)",
+    "(b)",
+    "(d)",
+    "(c)"
+   ],
+   "a": 2,
+   "e": "When a parachutist jumps from a height, his speed first increases with the distance fallen due to gravity and then becomes constant (terminal velocity) due to air resistance. The graph in option (d) best represents this physical situation."
+  },
+  {
+   "q": "Who among the following anticipated Newton by declaring that all things gravitate to the earth? [1995]",
+   "o": [
+    "(b) Varahamihira",
+    "(c) Buddhagupta",
+    "(a) Aryabhatta",
+    "(d) Brahmagupta"
+   ],
+   "a": 3,
+   "e": "Brahmagupta was an Indian mathematician and astronomer who anticipated Newton's law of universal gravitation by declaring that all things gravitate to the earth."
+  },
+  {
+   "q": "A liquid is flowing in a streamlined manner through a cylindrical pipe. Along a section containing the axis of the pipe, the flow profile will be: [1996]",
+   "o": [
+    "(c)",
+    "(a)",
+    "(d)",
+    "(b)"
+   ],
+   "a": 1,
+   "e": "In a streamline flow through a cylindrical pipe, the velocity is maximum at the axis and decreases towards the walls, forming a parabolic velocity profile as represented in figure (a)."
+  },
+  {
+   "q": "The variation of displacement d with time in the case of a particle falling freely under gravity from rest is correctly shown in graph: [1996]",
+   "o": [
+    "(d)",
+    "(c)",
+    "(a)",
+    "(b)"
+   ],
+   "a": 2,
+   "e": "For a particle falling from rest, displacement $d = \\frac{1}{2}gt^2$. Since displacement is proportional to the square of time ($d \\propto t^2$), the graph is a parabola opening upwards."
+  },
+  {
+   "q": "A simple machine helps a person in doing: [1996]",
+   "o": [
+    "(c) the same amount of work slowly",
+    "(b) the same amount of work with lesser force",
+    "(d) the same amount of work much faster",
+    "(a) less work"
+   ],
+   "a": 1,
+   "e": "Simple machines like pulleys or levers use mechanical advantage to multiply force, allowing a person to perform the same amount of work using a smaller input force."
+  },
+  {
+   "q": "The tendency of a liquid drop to contract and occupy minimum area is due to: [1997]",
+   "o": [
+    "(d) vapour pressure",
+    "(c) density",
+    "(a) surface tension",
+    "(b) viscosity"
+   ],
+   "a": 2,
+   "e": "Surface tension is the property of liquids to occupy the minimum surface area possible. This is why small liquid drops assume a spherical shape, as a sphere has the minimum surface area for a given volume."
+  },
+  {
+   "q": "Which one of the following is a vector quantity? [1997]",
+   "o": [
+    "(d) Work",
+    "(a) Momentum",
+    "(b) Pressure",
+    "(c) Energy"
+   ],
+   "a": 1,
+   "e": "Momentum is a vector quantity because it has both magnitude and direction ($p = mv$). In contrast, pressure, energy, and work are scalar quantities."
+  },
+  {
+   "q": "A girl is swinging on a swing in sitting position. When the girl stands up, the period of swing will: [1997]",
+   "o": [
+    "(d) not change",
+    "(a) be shorter",
+    "(c) depends on the height of the girl",
+    "(b) be longer"
+   ],
+   "a": 1,
+   "e": "When the girl stands up, the center of gravity rises, shortening the effective length ($l$) of the swing. Since the time period $T = 2\\pi\\sqrt{l/g}$, a shorter length results in a shorter time period."
+  },
+  {
+   "q": "A boy standing at the point O in the given diagram throws a ball three times with the same force, but projecting it along different inclinations from the ground. The results of the throws have been plotted in the diagram. Which one of the following is a valid conclusion? [1997]",
+   "o": [
+    "(c) The larger the height reached, the shorter the throw",
+    "(a) The larger the initial inclination, the longer the throw",
+    "(d) The larger the initial inclination, the greater the height reached",
+    "(b) The larger the height reached, the longer the throw"
+   ],
+   "a": 2,
+   "e": "In projectile motion, the maximum height reached is given by $y_{max} = \\frac{v^2 \\sin^2 \\theta}{2g}$. Therefore, a larger initial inclination ($\\theta$) results in a greater height reached."
+  },
+  {
+   "q": "The working principle of a washing machine is: [1997]",
+   "o": [
+    "(c) reverse osmosis",
+    "(b) dialysis",
+    "(a) centrifugation",
+    "(d) diffusion"
+   ],
+   "a": 2,
+   "e": "Washing machines use the principle of centrifugation, where centrifugal force separates water and dirt particles from clothes based on their density differences."
+  },
+  {
+   "q": "A smooth plane inclined at an angle $\\theta$ with the horizontal as shown in the given figure. A body starts from rest and slides down on the inclined surface. The time taken by the body to reach the bottom is: [1997]",
+   "o": [
+    "(b) $1/\\sin\\theta\\sqrt{2h/g}$",
+    "(d) $\\sqrt{2l/g}$",
+    "(a) $\\sqrt{2h/g}$",
+    "(c) $\\sin\\theta\\sqrt{2h/g}$"
+   ],
+   "a": 0,
+   "e": "The acceleration down the plane is $g \\sin \\theta$. Using $l = \\frac{1}{2}at^2$ and $h = l \\sin \\theta$, the time taken is calculated as $t = \\frac{1}{\\sin \\theta}\\sqrt{\\frac{2h}{g}}$."
+  },
+  {
+   "q": "A ball is dropped from the top of a high building with a constant acceleration of $9.8 m/s^2$. What will be its velocity after 2 seconds? [1998]",
+   "o": [
+    "(d) $39.2 m/s$",
+    "(a) $9.8 m/s$",
+    "(b) $19.6 m/s$",
+    "(c) $29.4 m/s$"
+   ],
+   "a": 2,
+   "e": "Using the equation $v = u + gt$, where $u = 0$, $g = 9.8 m/s^2$, and $t = 2 s$, the final velocity $v$ is $0 + (9.8 \\times 2) = 19.6 m/s$."
+  },
+  {
+   "q": "A hunter aims his gun at a point between the eyebrows of a monkey sitting on a branch of a tree. Just as he fires, the monkey jumps down. The bullet will: [1999]",
+   "o": [
+    "(d) miss the monkey altogether",
+    "(a) hit the monkey at the point aimed",
+    "(b) hit the monkey below the point aimed",
+    "(c) hit the monkey above the point aimed"
+   ],
+   "a": 1,
+   "e": "Since both the bullet and the monkey fall under the same gravitational acceleration ($g$) starting at the same moment, the bullet will hit the monkey at the exact point aimed."
+  },
+  {
+   "q": "For which one of the following is capillarity not the reason? [1999]",
+   "o": [
+    "(a) Blotting of ink",
+    "(d) Rising of water from the roots of a plant to its foliage",
+    "(b) Rising of underground water",
+    "(c) Spread a water drop on a cotton cloth"
+   ],
+   "a": 2,
+   "e": "While blotting of ink and rising water in plants involve capillarity, the rising of underground water is generally attributed to other factors; capillarity is the specific rise in narrow spaces."
+  },
+  {
+   "q": "Consider the following features of newer models of motor cars: 1️⃣ Radial tyres 2️⃣ Streamlined body 3️⃣ Multipoint fuel injection 4️⃣ Catalytic converter with exhaust. Which of these features make the new models of motor cars more fuel efficient? [2000]",
+   "o": [
+    "(a) 1 and 2",
+    "(d) 1, 3 and 4",
+    "(b) 2 and 3",
+    "(c) 2, 3 and 4"
+   ],
+   "a": 2,
+   "e": "A streamlined body reduces air resistance (drag), and multipoint fuel injection optimizes the fuel-to-air ratio for better combustion; both contribute directly to fuel efficiency."
+  },
+  {
+   "q": "Assertion (A): A man standing on a completely frictionless surface can propel himself by whistling. Reason (R): If no external force acts on a system, its momentum cannot change. [2000]",
+   "o": [
+    "(b) Both A and R are true but R is not a correct explanation of A",
+    "(a) Both A and R are true and R is the correct explanation of A",
+    "(d) A is false but R is true",
+    "(c) A is true but R is false"
+   ],
+   "a": 0,
+   "e": "Statement A is true via Newton's third law (air expelled acts as propellant). Statement R is also true (conservation of momentum), but it doesn't explain the mechanism of propelling through air expulsion."
+  },
+  {
+   "q": "The mass of a body on earth is 100 kg (acceleration due to gravity, $g_e = 10 m/s^2$). If acceleration due to gravity on the moon is $g_e/6$, then the mass of the body on the moon is: [2001]",
+   "o": [
+    "(a) 100/6 kg",
+    "(b) 60 kg",
+    "(c) 100 kg",
+    "(d) 600 kg"
+   ],
+   "a": 2,
+   "e": "Mass is a universal constant and does not change with the location or the strength of gravity. Only weight changes with gravity."
+  },
+  {
+   "q": "Consider the following statements: A simple pendulum is set into oscillation. Then: 1️⃣ the acceleration is zero when the bob passes through the mean position. 2️⃣ in each cycle the bob attains a given velocity twice. 3️⃣ both acceleration and velocity of the bob are zero when it reaches its extreme position during the oscillation. 4️⃣ the amplitude of oscillation of the simple pendulum decreases with time. [2001]",
+   "o": [
+    "(d) 2, 3 and 4",
+    "(c) 1, 2 and 4",
+    "(a) 1 and 2",
+    "(b) 3 and 4"
+   ],
+   "a": 1,
+   "e": "Statement 3 is incorrect because acceleration is maximum at the extreme position. Amplitude decreases over time due to air resistance, and velocity is attained twice per cycle."
+  },
+  {
+   "q": "Which of the following distance-time graph (x-t) represents one-dimensional uniform motion? [2001]",
+   "o": [
+    "(d)",
+    "(a)",
+    "(b)",
+    "(c)"
+   ],
+   "a": 0,
+   "e": "In uniform motion, distance is directly proportional to time, resulting in a straight line passing through the origin on a distance-time graph."
+  },
+  {
+   "q": "Assertion (A): With the increase of temperature, the viscosity of glycerine increases. Reason (R): Rise of temperature increases kinetic energy of molecules. [2002]",
+   "o": [
+    "(d) A is false but R is true",
+    "(a) Both A and R are true and R is the correct explanation of A",
+    "(c) A is true but R is false",
+    "(b) Both A and R are true but R is not a correct explanation of A"
+   ],
+   "a": 0,
+   "e": "Assertion is false because the viscosity of liquids decreases as temperature increases. Reason is true as kinetic energy is directly proportional to absolute temperature."
+  },
+  {
+   "q": "Assertion (A): An iron ball floats on mercury but gets immersed in water. Reason (R): The specific gravity of iron is more than that of mercury. [2002]",
+   "o": [
+    "(b) Both A and R are true but R is not a correct explanation of A",
+    "(d) A is false but R is true",
+    "(a) Both A and R are true and R is the correct explanation of A",
+    "(c) A is true but R is false"
+   ],
+   "a": 3,
+   "e": "Iron (specific gravity ~7.21) is less dense than mercury (~13.56), so it floats. It is denser than water (1.0), so it sinks. Thus, the reason is false."
+  },
+  {
+   "q": "A solid cube gets completely immersed in water when a 0.2 kg mass is placed on it. If the mass is removed, the cube is 2 cm above the water level. What is the length of each side of the cube? [2002]",
+   "o": [
+    "(b) 10 cm",
+    "(c) 8 cm",
+    "(d) 6 cm",
+    "(a) 12 cm"
+   ],
+   "a": 0,
+   "e": "The weight of the 200g mass equals the weight of water displaced by the 2cm height of the cube. $200 = x^2 \\times 2 \\times 1$ (density of water), giving $x^2 = 100$ and $x = 10$ cm."
+  },
+  {
+   "q": "Assertion (A): The weight of a body decreases with the increase of altitude on earth. Reason (R): The earth is not a perfect sphere. [2003]",
+   "o": [
+    "(b) Both A and R are true but R is not a correct explanation of A",
+    "(d) A is false but R is true",
+    "(a) Both A and R are true and R is the correct explanation of A",
+    "(c) A is true but R is false"
+   ],
+   "a": 0,
+   "e": "Both are true facts, but the decrease in weight with altitude is due to increased distance from the Earth's center, not because the Earth is an oblate spheroid."
+  },
+  {
+   "q": "Consider the following statements: A 4-wheel vehicle moving in a sharp circular path at high speed will: 1️⃣ overturn about its outer wheels 2️⃣ overturn about its inner wheels 3️⃣ skid outwards 4️⃣ skid inwards. [2003]",
+   "o": [
+    "(c) 2 and 3",
+    "(b) 2 and 4",
+    "(d) 1 and 4",
+    "(a) 1 and 3"
+   ],
+   "a": 3,
+   "e": "Centrifugal force acts outwards, causing the vehicle to skid outwards and potentially overturn about the outer wheels if the balance is lost."
+  },
+  {
+   "q": "An oil tanker partially filled with oil moves forward on a level road with uniform acceleration. The free surface of oil then: [2003]",
+   "o": [
+    "(d) assumes a parabolic curve",
+    "(c) is inclined to the horizontal with larger depth at the rear end",
+    "(b) is inclined to the horizontal with smaller depth at the rear end",
+    "(a) remains horizontal"
+   ],
+   "a": 1,
+   "e": "Due to inertia and uniform forward acceleration, the oil piles up at the back, resulting in a larger depth at the rear end of the tanker."
+  },
+  {
+   "q": "If the radius of the earth were to shrink by one per cent, its mass remaining the same, the value of g on the earth's surface would: [2003]",
+   "o": [
+    "(c) decrease by 0.5%",
+    "(b) increase by 2%",
+    "(d) decrease by 2%",
+    "(a) increase by 0.5%"
+   ],
+   "a": 1,
+   "e": "$g = GM/R^2$. If $R$ decreases by 1%, $g$ increases by approximately $2 \\times 1% = 2%$."
+  },
+  {
+   "q": "A car is running on a road at a uniform speed of 60 km/h. The net resultant force on the car is: [2004]",
+   "o": [
+    "(d) equal to zero",
+    "(c) an inclined force",
+    "(a) driving force in the direction of car's motion",
+    "(b) resistance force opposite to the direction of car's motion"
+   ],
+   "a": 0,
+   "e": "According to Newton's second law, if speed is uniform (zero acceleration), the net resultant force acting on the body must be zero."
+  },
+  {
+   "q": "A spherical body moves with a uniform angular velocity ($\\omega$) around a circular path of radius r. Which one of the following statements is correct? [2004]",
+   "o": [
+    "(d) The body has an acceleration $\\omega^2$ tangential to its path",
+    "(a) The body has no acceleration",
+    "(c) The body has a radial acceleration $2/5\\omega^2r$ directed away from the centre of the path",
+    "(b) The body has a radial acceleration $\\omega^2r$ directed toward centre of path"
+   ],
+   "a": 3,
+   "e": "A body in uniform circular motion experiences a centripetal (radial) acceleration directed towards the center, calculated as $a = \\omega^2r$."
+  },
+  {
+   "q": "A weightless rubber balloon is filled with 200 cc of water. Its weight in water is equal to: [2004]",
+   "o": [
+    "(a) 9.8/5 N",
+    "(c) 9.8/2 N",
+    "(b) 9.8/10 N",
+    "(d) zero"
+   ],
+   "a": 3,
+   "e": "The weight of the water in the balloon is perfectly balanced by the upward buoyant force of the surrounding water, making the net weight zero."
+  },
+  {
+   "q": "Which one of the following is the correct sequence of the given substances in the decreasing order of their densities? [2005]",
+   "o": [
+    "(d) Gold > Steel > Mercury",
+    "(b) Gold > Mercury > Steel",
+    "(c) Steel > Gold > Mercury",
+    "(a) Steel > Mercury > Gold"
+   ],
+   "a": 1,
+   "e": "The densities are: Gold (19.30 $g/cm^3$), Mercury (13.53 $g/cm^3$), and Steel (7.80 $g/cm^3$)."
+  },
+  {
+   "q": "What is the approximate mean velocity with which the earth moves round the sun in its orbit? [2006]",
+   "o": [
+    "(b) 30 km/s",
+    "(d) 50 km/s",
+    "(a) 20 km/s",
+    "(c) 40 km/s"
+   ],
+   "a": 0,
+   "e": "The Earth's mean orbital speed while traveling around the sun is approximately 30 km/s."
+  },
+  {
+   "q": "Four wires of same material and of dimensions as under are stretched by a load of same magnitude separately. Which one of them will be elongated maximum? [2007]",
+   "o": [
+    "(c) Wire of 3 m length and 1.5 mm diameter",
+    "(d) Wire of 1 m length and 1 mm diameter",
+    "(b) Wire of 2 m length and 2 mm diameter",
+    "(a) Wire of 1m length and 2 mm diameter"
+   ],
+   "a": 0,
+   "e": "Elongation ($\\Delta l$) is proportional to $l/r^2$. The wire with the longest length (3m) and relatively small diameter (1.5mm) will show maximum elongation."
+  },
+  {
+   "q": "Three identical vessels A, B and C are filled with water, mercury and kerosene respectively up to an equal height. The three vessels are provided with identical taps at the bottom of the vessels. If the three taps are opened simultaneously, then which vessel is emptied first? [2007]",
+   "o": [
+    "(d) Vessel C",
+    "(a) Vessel B",
+    "(c) Vessel A",
+    "(b) All the vessels A, B and C will be emptied simultaneously"
+   ],
+   "a": 0,
+   "e": "Kerosene has the lowest viscosity among the three liquids, allowing it to flow out faster and empty vessel C first."
+  },
+  {
+   "q": "Consider the following statements: If there were no phenomenon of capillarity 1️⃣ it would be difficult to use a kerosene lamp 2️⃣ one would not be able to use a straw to consume a soft drink 3️⃣ the blotting paper would fail to function 4️⃣ the big trees that we see around would not have grown on the Earth. Which of the statements given above are correct? [2012-1]",
+   "o": [
+    "(d) 1, 2, 3 and 4",
+    "(b) 1, 3 and 4 only",
+    "(c) 2 and 4 only",
+    "(a) 1, 2 and 3 only"
+   ],
+   "a": 1,
+   "e": "Kerosene lamps, blotting paper, and nutrient transport in tall trees all rely on capillarity. Using a straw, however, depends on atmospheric pressure, not capillarity."
+  },
+  {
+   "q": "Ball bearings are used in bicycles, cars, etc., because: [2013-1]",
+   "o": [
+    "(a) the actual area of contact between the wheel and axle is increased",
+    "(d) None of the above statements is correct",
+    "(c) the effective area of contact between the wheel and axle is reduced",
+    "(b) the effective area of contact between the wheel and axle is increased"
+   ],
+   "a": 2,
+   "e": "Ball bearings convert sliding friction into rolling friction by reducing the effective area of contact, thereby significantly reducing friction."
+  },
+  {
+   "q": "The clouds float in the atmosphere because of their low: [1995]",
+   "o": [
+    "(d) density",
+    "(c) pressure",
+    "(a) temperature",
+    "(b) velocity"
+   ],
+   "a": 0,
+   "e": "Clouds float because their overall density is less than the density of the surrounding air in the atmosphere."
+  },
+  {
+   "q": "Strips of two metals A and B are firmly jointed together as shown in the figure. On heating, A expands more than B does. If this jointed strip is heated, then it will appear as: [1999]",
+   "o": [
+    "(d)",
+    "(a)",
+    "(c)",
+    "(b)"
+   ],
+   "a": 3,
+   "e": "Since metal A expands more than B, the bimetallic strip will bend into an arc with A on the outer (longer) side, as shown in figure (b)."
+  },
+  {
+   "q": "Low temperatures (cryogenics) find application in: [1999]",
+   "o": [
+    "(c) space travel, surgery and telemetry",
+    "(a) space travel, surgery and magnetic levitation",
+    "(d) space travel, magnetic levitation and telemetry",
+    "(b) surgery, magnetic levitation and telemetry"
+   ],
+   "a": 1,
+   "e": "Cryogenics is used in liquid fuel for rockets (space travel), cryosurgery, and cooling superconducting magnets for MRI or magnetic levitation."
+  },
+  {
+   "q": "Assertion (A): A piece of copper and a piece of glass are heated to the same temperature. When touched, thereafter, the copper piece appears hotter than the glass piece. Reason (R): The density of copper is more than that of glass. [2001]",
+   "o": [
+    "(d) A is false but R is true",
+    "(c) A is true but R is false",
+    "(a) Both A and R are true and R is the correct explanation of A",
+    "(b) Both A and R are true but R is not a correct explanation of A"
+   ],
+   "a": 3,
+   "e": "Copper feels hotter because it is a much better conductor of heat than glass, transferring heat to the hand faster. While copper is indeed denser, density is not the reason for the difference in perceived temperature."
+  },
+  {
+   "q": "Assertion (A): The boiling point of water decreases as the altitude increases. Reason (R): The atmospheric pressure increases with altitude. [2001]",
+   "o": [
+    "(b) Both A and R are true but R is not a correct explanation of A",
+    "(c) A is true but R is false",
+    "(a) Both A and R are true and R is the correct explanation of 4",
+    "(d) A is false but R is true"
+   ],
+   "a": 1,
+   "e": "Assertion is true; boiling point drops as pressure drops. However, the reason is false because atmospheric pressure actually decreases with altitude."
+  },
+  {
+   "q": "When water is heated from $0^{\\circ}C$ to $10^{\\circ}C$. Its volume: [2001]",
+   "o": [
+    "(c) does not change",
+    "(d) first decreases and then increases",
+    "(b) decreases",
+    "(a) increases"
+   ],
+   "a": 1,
+   "e": "Due to anomalous expansion, water contracts (volume decreases) as it is heated from $0^{\\circ}C$ to $4^{\\circ}C$ and then expands (volume increases) above $4^{\\circ}C$."
+  },
+  {
+   "q": "A hollow sphere of radius R, a hollow cube of side R and a thin circular plate of radius R, made up of the same material, are all heated to $20^{\\circ}C$ above room temperature. When left to cool in the room, which of them will reach the room temperature first? [2002]",
+   "o": [
+    "(c) Sphere",
+    "(b) Cube",
+    "(a) Circular plate",
+    "(d) All of them will reach the room temperature at the same time"
+   ],
+   "a": 2,
+   "e": "Heat loss is proportional to surface area. The circular plate has the largest surface area-to-mass ratio among the given shapes and will cool fastest."
+  },
+  {
+   "q": "Consider the following statements: 1️⃣ Steam at $100^{\\circ}C$ and boiling water at $100^{\\circ}C$ contain same amount of heat. 2️⃣ Latent heat of fusion of ice is equal to the latent heat of vaporization of water. 3️⃣ In an air-conditioner, heat is extracted from the room air at the evaporator coils and is rejected out at the condenser coils. Which of these statements is/are correct? [2003]",
+   "o": [
+    "(d) Only 3",
+    "(c) Only 2",
+    "(b) 2 and 3",
+    "(a) 1 and 2"
+   ],
+   "a": 0,
+   "e": "Only statement 3 is correct. Steam contains more heat than boiling water due to latent heat of vaporization. Latent heat of fusion (334 kJ/kg) is not equal to vaporization (2260 kJ/kg)."
+  },
+  {
+   "q": "Cloudy nights are warmer compared to clear cloudless nights, because clouds: [2001]",
+   "o": [
+    "(b) reflect back the heat given off by earth",
+    "(a) prevent clod waves from the sky from descending on earth",
+    "(c) produce heat and radiate it towards earth",
+    "(d) absorb heat from the atmosphere and send it towards earth"
+   ],
+   "a": 0,
+   "e": "Clouds act as an insulator, reflecting and trapping the infrared radiation (heat) emitted by the Earth's surface, preventing it from escaping into space."
+  },
+  {
+   "q": "The surface of a lake is frozen in severe winter, but the water at its bottom is still liquid. What is the reason? [2011-1]",
+   "o": [
+    "(a) Ice is a bad conductor of heat.",
+    "(d) None of the statements (a), (b) and (c) given is correct.",
+    "(b) Since the surface of the lake is at the same temperature as the air, no heat is lost.",
+    "(c) The density of water is maximum at $4^{\\circ}C$."
+   ],
+   "a": 3,
+   "e": "Water is densest at $4^{\\circ}C$, so this warmer water sinks to the bottom. The ice on the surface then acts as an insulator, preventing the bottom water from freezing."
+  },
+  {
+   "q": "When the same note is played on a sitar and a flute, the sound produced can be distinguished from each other because of the difference in:",
+   "o": [
+    "(b) pitch and loudness",
+    "(d) loudness only",
+    "(a) pitch, loudness and quality",
+    "(c) quality only"
+   ],
+   "a": 3,
+   "e": "Sound \"quality\" or \"timbre\" is the characteristic that allows the ear to distinguish between two sounds that have the same pitch and loudness, such as notes from different musical instruments."
+  },
+  {
+   "q": "Assertion (A): A diamond sparkles more than a glass imitation cut to the same shape. Reason (R): The refractive index of diamond is less than that of glass.",
+   "o": [
+    "(a) Both A and R are true and R is the correct explanation of A",
+    "(c) A is true but R is false",
+    "(b) Both A and R are true and R is not a correct explanation of A",
+    "(d) A is false but R is true"
+   ],
+   "a": 1,
+   "e": "Diamond has a very high refractive index (2.417) compared to glass (1.5 to 1.6). This high refractive index results in a small critical angle, causing light to undergo multiple total internal reflections and sparkle brilliantly."
+  },
+  {
+   "q": "Optical fibre works on the principle of:",
+   "o": [
+    "(a) total internal reflection",
+    "(c) scattering",
+    "(d) interference",
+    "(b) refraction"
+   ],
+   "a": 0,
+   "e": "Optical fibres act as waveguides that transmit light along their axis through the process of total internal reflection, confining light within the core."
+  },
+  {
+   "q": "Suppose a rocketship is receding from the earth at a speed of 2/10th the velocity of light. A light in the rocketship appears blue to the passengers on the ship. What colour would it appear to an observer on the earth?",
+   "o": [
+    "(d) Yellow-orange",
+    "(a) Blue",
+    "(b) Orange",
+    "(c) Yellow"
+   ],
+   "a": 0,
+   "e": "Due to the Doppler effect, as the source recedes, the apparent wavelength increases. Blue light (450–475 nm) would shift to a longer wavelength (562.5–593.75 nm), which corresponds to yellow-orange."
+  },
+  {
+   "q": "An air bubble in water will act like a:",
+   "o": [
+    "(d) concave lens",
+    "(a) convex mirror",
+    "(b) convex lens",
+    "(c) concave mirror"
+   ],
+   "a": 0,
+   "e": "An air bubble in water acts as a diverging (concave) lens because the refractive index of air is less than the refractive index of the surrounding water."
+  },
+  {
+   "q": "When a mirror is rotated by an angle $\\theta$, the reflected ray will rotate by:",
+   "o": [
+    "(a) 0°",
+    "(c) $\\theta$",
+    "(b) $\\theta/2$",
+    "(d) 2$\\theta$"
+   ],
+   "a": 3,
+   "e": "For a fixed incident ray, the angle of the reflected ray is twice the angle through which the mirror has rotated."
+  },
+  {
+   "q": "Total internal reflection can take place when light travels from:",
+   "o": [
+    "(a) diamond to glass",
+    "(c) air to water",
+    "(d) air to glass",
+    "(b) water to glass"
+   ],
+   "a": 0,
+   "e": "Total internal reflection only occurs when light travels from an optically denser medium (higher refractive index) to an optically rarer medium (lower refractive index). Diamond has a higher refractive index than glass."
+  },
+  {
+   "q": "Match List I (Quantity) with List II (Units) and select the correct answer: 1️⃣ Mach: High speed 2️⃣ Angstrom: Wavelength 3️⃣ Pascal: Pressure 4️⃣ Joule: Energy",
+   "o": [
+    "(c) A-1, B-2, C-3, D-4",
+    "(d) A-2, B-1, C-4, D-3",
+    "(b) A-1, B-2, C-4, D-3",
+    "(a) A-2, B-1, C-3, D-4"
+   ],
+   "a": 0,
+   "e": "Mach represents speed relative to the speed of sound. Pascal is the SI unit for pressure ($N/m^2$). Angstrom measures wavelength , and Joule is the unit for energy."
+  },
+  {
+   "q": "Consider the following statements: 1️⃣ If a person looks at a coin which is in a bucket of water, the coin will appear to be closer than it really is. 2️⃣ If a person under water looks at a coin above the water surface, the coin will appear to be at a higher level than it really is.",
+   "o": [
+    "(b) 1 alone",
+    "(d) neither 1 nor 2",
+    "(c) 2 alone",
+    "(a) 1 and 2"
+   ],
+   "a": 3,
+   "e": "Both phenomena are due to refraction. In the first case, light travels from a denser to a rarer medium, making the object appear closer. In the second case, light travels from a rarer to a denser medium, making the object appear higher."
+  },
+  {
+   "q": "A noise level of 100 decibel would correspond to:",
+   "o": [
+    "(c) Sound from a noisy street",
+    "(a) Just audible sound",
+    "(d) Noise from a machine shop",
+    "(b) Ordinary conversation"
+   ],
+   "a": 2,
+   "e": "The decibel (dB) is used to quantify sound levels; 100 dB is a very high noise level typical of a machine shop."
+  },
+  {
+   "q": "Assertion (A): In a motion picture, usually 24 frames are projected every second. Reason (R): An image formed on the retina of eye persists for about 0.1 s after the removal of stimulus.",
+   "o": [
+    "(c) A is true but R is false",
+    "(a) Both A and R are true and R is the correct explanation of A",
+    "(b) Both A and R are true but R is not a correct explanation of A",
+    "(d) A is false but R is true"
+   ],
+   "a": 0,
+   "e": "While 24 frames are projected per second in films, the persistence of vision is actually about 1/16th of a second (0.06 s), not 0.1 s."
+  },
+  {
+   "q": "Assertion (A): Small glass beads fixed on traffic signals glow brightly when light falls upon them. Reason (R): Light is totally reflected when the angle of incidence exceeds a certain critical value.",
+   "o": [
+    "(d) A is false but R is true",
+    "(c) A is true but R is false",
+    "(b) Both A and R are true but R is not a correct explanation of A",
+    "(a) Both A and R are true and R is the correct explanation of A"
+   ],
+   "a": 3,
+   "e": "The glowing of traffic signal beads is caused by total internal reflection, which occurs when light strikes the boundary at an angle larger than the critical angle."
+  },
+  {
+   "q": "When a CD is seen in sunlight, rainbow like colours are seen. This can be explained on the basis of the phenomenon of:",
+   "o": [
+    "(c) diffraction and transmission",
+    "(a) reflection and diffraction",
+    "(b) reflection and transmission",
+    "(d) refraction, diffraction and transmission"
+   ],
+   "a": 3,
+   "e": "The rainbow effect on a CD is a result of light refracting through the plastic coating, diffracting off the pitted surface, and being reflected back to the observer."
+  },
+  {
+   "q": "Assertion (A): A stick is dipped in water in a slanting position. If observed sideways, the stick appears short and bent. Reason (R): A light coming from the stick undergoes scattering from water molecules.",
+   "o": [
+    "(b) Both A and R are true but R is not a correct explanation of A",
+    "(d) A is false but R is true",
+    "(c) A is true but R is false",
+    "(a) Both A and R are true and R is the correct explanation of A"
+   ],
+   "a": 2,
+   "e": "A stick appears bent in water due to refraction (bending of light as it changes media), not due to the scattering of light."
+  },
+  {
+   "q": "When light waves pass from air to glass, the variables affected are:",
+   "o": [
+    "(b) velocity and frequency",
+    "(d) wavelength and velocity",
+    "(a) wavelength, frequency and velocity",
+    "(c) wavelength and frequency"
+   ],
+   "a": 1,
+   "e": "When light changes media, its velocity and wavelength change, but its frequency remains constant."
+  },
+  {
+   "q": "Consider the following statements: 1️⃣ Light of longer wavelength are scattered much more than the light of shorter wavelength. 2️⃣ The speed of visible light in water is 0.95 times the speed in vacuum. 3️⃣ Radio waves are produced by rapidly oscillating electrical currents. 4️⃣ To detect overspeeding vehicles, police use the Doppler effect of reflected short radio waves.",
+   "o": [
+    "(a) 1 and 2",
+    "(b) 1 and 3",
+    "(d) 3 and 4",
+    "(c) 2 and 4"
+   ],
+   "a": 2,
+   "e": "Radio waves are indeed produced by oscillating currents , and police radar uses the Doppler effect to measure vehicle speed. Statement 1 is false because shorter wavelengths scatter more."
+  },
+  {
+   "q": "Due to which of these phenomena is a mirage formed? 1️⃣ Terrestrial heating 2️⃣ Reflection of light 3️⃣ Refraction of light 4️⃣ Diffraction of light",
+   "o": [
+    "(b) 2, 3 and 4",
+    "(c) 1 and 3",
+    "(d) 4 only",
+    "(a) 1 and 2"
+   ],
+   "a": 1,
+   "e": "Mirages are caused by the refraction of light through layers of air with different densities created by terrestrial heating near the ground."
+  },
+  {
+   "q": "Diffusion of light in the atmosphere takes place due to:",
+   "o": [
+    "(d) water vapours",
+    "(c) helium",
+    "(b) dust particles",
+    "(a) carbon dioxide"
+   ],
+   "a": 2,
+   "e": "Dust particles in the atmosphere are the primary agents responsible for the diffusion of light."
+  },
+  {
+   "q": "Which one of the following statements is not correct?",
+   "o": [
+    "(c) The velocity of sound in air decreases as the humidity increases",
+    "(b) The velocity of sound in air is independent of pressure",
+    "(d) The velocity of sound in air is not affected by the change in amplitude and frequency",
+    "(a) The velocity of sound in air increases with the increase of temperature"
+   ],
+   "a": 0,
+   "e": "Humidity actually increases the speed of sound in air by a small amount; it does not decrease it."
+  },
+  {
+   "q": "In which one among the following is the speed of sound maximum?",
+   "o": [
+    "(c) Water",
+    "(b) Air at 100°C",
+    "(d) Wood",
+    "(a) Air at 0°C"
+   ],
+   "a": 2,
+   "e": "Sound travels much faster in solids like wood ($3300–3600 m/s$) than in liquids like water ($1497 m/s$) or gases like air ($331–386 m/s$)."
+  },
+  {
+   "q": "Consider the following statements: 1️⃣ If magenta and yellow coloured circles intersect, the intersected area will have red colour. 2️⃣ If cyan and magenta coloured circles intersect, the intersected area will have blue colour.",
+   "o": [
+    "(c) Both 1 and 2",
+    "(b) 2 only",
+    "(a) 1 only",
+    "(d) Neither 1 nor 2"
+   ],
+   "a": 0,
+   "e": "Magenta + Yellow results in Red , while Cyan + Magenta results in Blue."
+  },
+  {
+   "q": "Consider the following statements: 1️⃣ A flute of smaller length produces waves of lower frequency. 2️⃣ Sound travels in rocks in the form of longitudinal elastic waves only.",
+   "o": [
+    "(b) 2 only",
+    "(d) Neither 1 nor 2",
+    "(c) Both 1 and 2",
+    "(a) 1 only"
+   ],
+   "a": 1,
+   "e": "A shorter flute produces waves of higher frequency. In solids like rocks, sound can travel as both longitudinal and transverse waves."
+  },
+  {
+   "q": "Assertion (A): A jet aircraft moving at Mach Number equal to 1 travels faster at an altitude of 15 km than near the sea level. Reason (R): The velocity of sound depends on the temperature of the surrounding medium.",
+   "o": [
+    "(a) Both A are R are true and R is the correct exp...",
+    "(d) A is false but R is true",
+    "(c) A is true but R is false",
+    "(b) Both A and R are true but R is not a correct e..."
+   ],
+   "a": 1,
+   "e": "The velocity of sound decreases with temperature (and thus with altitude). Since Mach 1 is the speed of sound, a plane at Mach 1 travels slower at high altitudes where the air is colder."
+  },
+  {
+   "q": "Assertion (A): Radio waves bend in a magnetic field. Reason (R): Radio waves are electromagnetic in nature.",
+   "o": [
+    "(d) A is false but R is true",
+    "(c) A is true but R is false",
+    "(b) Both A and R are true but R is not a correct e...",
+    "(a) Both A and R are true and R is the correct exp..."
+   ],
+   "a": 0,
+   "e": "Radio waves are electromagnetic radiation , but because they do not carry an electric charge, they are not bent by magnetic fields."
+  },
+  {
+   "q": "Which one of the following types of waves are used in a night vision apparatus?",
+   "o": [
+    "(c) Infra-red waves",
+    "(a) Radio waves",
+    "(d) None of the above",
+    "(b) Microwaves"
+   ],
+   "a": 0,
+   "e": "Night vision technology utilizes infrared waves to allow vision in low-light or dark environments."
+  },
+  {
+   "q": "In the figure shown ($OP_1 \\perp OP_2$), S is the direction of a beam of light falling on $OP_1$. The direction of the reflected beam from $OP_2$ will be:",
+   "o": [
+    "(c) Opposite and parallel to the direction S.",
+    "(d) At 60° to the direction S.",
+    "(a) Perpendicular to the direction S.",
+    "(b) At 45° to the direction S."
+   ],
+   "a": 0,
+   "e": "Light reflecting off two perpendicular mirrors will return in a path that is opposite and parallel to the original incident direction."
+  },
+  {
+   "q": "Which of the following are optical illusions? 1️⃣ Size of the sun at dusk. 2️⃣ Colour of the sun at dawn 3️⃣ Moon being visible at dawn 4️⃣ Twinkle of stars in the sky 5️⃣ Polestar being visible in the sky",
+   "o": [
+    "(d) 2, 3 and 5",
+    "(c) 1, 2 and 4",
+    "(b) 3, 4 and 5",
+    "(a) 1, 2 and 3"
+   ],
+   "a": 1,
+   "e": "The apparent size and colour of the sun at the horizon are caused by atmospheric refraction and scattering. The twinkling of stars is also an illusion caused by air turbulence."
+  },
+  {
+   "q": "Rainbow is produced when sunlight falls on drops of rain. Which of the following physical phenomena are responsible for this? 1️⃣ Dispersion 2️⃣ Refraction 3️⃣ Internal reflection",
+   "o": [
+    "(d) 1, 2 and 3",
+    "(c) 1 and 3 only",
+    "(b) 2 and 3 only",
+    "(a) 1 and 2 only"
+   ],
+   "a": 0,
+   "e": "The formation of a rainbow involves dispersion (splitting of light), refraction (bending of light), and internal reflection within the raindrops."
+  },
+  {
+   "q": "During a thunderstorm, the thunder in the skies is produced by the: 1️⃣ meeting of cumulonimbus clouds 2️⃣ lightning that separates the nimbus clouds 3️⃣ violent upward movement of air and water particles",
+   "o": [
+    "(b) 2 and 3",
+    "(c) 1 and 3",
+    "(a) 1 only",
+    "(d) None of the above produces the thunder"
+   ],
+   "a": 3,
+   "e": "Thunder is the sound produced by the rapid expansion of air that has been heated to extreme temperatures by lightning."
+  },
+  {
+   "q": "Assertion (A): Transformer is useful for stepping up or stepping down voltages. Reason (R): Transformer is a device used in D.C. circuits.",
+   "o": [
+    "(d) A is false but R is true",
+    "(b) Both A and R are true but R is not a correct explanation of A",
+    "(a) Both A and R are true and R is the correct explanation of A",
+    "(c) A is true but R is false"
+   ],
+   "a": 3,
+   "e": "Transformers can step AC voltage up or down based on the turn ratio of the coils. They cannot be used with DC because they rely on changing magnetic flux."
+  },
+  {
+   "q": "Domestic electrical wiring is basically a:",
+   "o": [
+    "(b) parallel connection",
+    "(d) series connection within each room and parallel connection elsewhere",
+    "(a) series connection",
+    "(c) combination of series and parallel connections"
+   ],
+   "a": 0,
+   "e": "Most home wiring is parallel so that each appliance receives the same voltage and can operate independently even if another circuit is broken."
+  },
+  {
+   "q": "Which one of the following is paramagnetic in nature?",
+   "o": [
+    "(c) Oxygen",
+    "(b) Hydrogen",
+    "(a) Iron",
+    "(d) Nitrogen"
+   ],
+   "a": 0,
+   "e": "Oxygen is paramagnetic, whereas iron is ferromagnetic, and hydrogen and nitrogen are diamagnetic."
+  },
+  {
+   "q": "A fuse is used in mains electric supply as a safety device. Which one of the following statements about the fuse is correct?",
+   "o": [
+    "(a) It is connected in parallel with the main switch",
+    "(c) It must have a low melting point",
+    "(d) It must have very high resistance",
+    "(b) It is made mainly from silver alloys"
+   ],
+   "a": 1,
+   "e": "A fuse wire must have a low melting point so that it melts and breaks the circuit if excessive current flows during a short circuit or overload."
+  },
+  {
+   "q": "Assertion (A): The temperature of a metal wire rises when an electric current is passed through it. Reason (R): Collision of metal atoms with each other releases heat energy.",
+   "o": [
+    "(d) A is false but R is true",
+    "(a) Both A and R are true and R is the correct explanation of A",
+    "(b) Both A and R are true but R is not a correct explanation of A",
+    "(c) A is true but R is false"
+   ],
+   "a": 3,
+   "e": "The rise in temperature is caused by drifting electrons colliding with positive ions (atoms) in the metal, transferring energy that manifests as heat."
+  },
+  {
+   "q": "An ordinary light bulb has a rather short life because the: 1️⃣ filament wire is not uniform. 2️⃣ bulb cannot be evacuated completely. 3️⃣ wires supporting the filament melt at high temperatures.",
+   "o": [
+    "(a) 1 and 3",
+    "(c) 1 and 2",
+    "(d) 1, 2 and 3",
+    "(b) 2 and 3"
+   ],
+   "a": 2,
+   "e": "These factors—including non-uniformity, gas expansion from incomplete evacuation, and melting of support wires—all contribute to the failure of ordinary light bulbs."
+  },
+  {
+   "q": "Consider the following statements regarding a motor car battery: 1️⃣ The voltage is usually 12 V. 2️⃣ Electrolyte used is hydrochloric acid. 3️⃣ Electrodes are lead and copper. 4️⃣ Capacity is expressed in ampere-hour.",
+   "o": [
+    "(c) 3 and 4",
+    "(d) 1 and 4",
+    "(a) 1 and 2",
+    "(b) 2 and 3"
+   ],
+   "a": 1,
+   "e": "Motor car batteries typically provide 12 V and have capacity measured in ampere-hours. The electrolyte is sulfuric acid, and the electrodes are lead and lead dioxide."
+  },
+  {
+   "q": "Fluorescent tubes are fitted with a choke. The choke coil:",
+   "o": [
+    "(a) steps up the line voltage",
+    "(d) chokes low frequency current",
+    "(c) reduces current in the circuit",
+    "(b) steps-down the line voltage"
+   ],
+   "a": 2,
+   "e": "The choke coil acts as an inductor that limits the flow of AC current due to its large impedance, reducing energy waste compared to a resistor."
+  },
+  {
+   "q": "Two wires have their lengths, diameters and resistivities all in the ratio of 1:2. If the resistance of the thinner wire is 10 ohm, the resistance of the thicker wire is:",
+   "o": [
+    "(d) 40 ohm",
+    "(a) 5 ohm",
+    "(c) 20 ohm",
+    "(b) 10 ohm"
+   ],
+   "a": 3,
+   "e": "Using the formula $R = \\rho(l/A)$, if all dimensions and resistivity double, the ratios cancel out, leaving the resistance unchanged at 10 ohms."
+  },
+  {
+   "q": "Assertion (A): In our houses, the current in A.C. electricity line changes direction 60 times per second. Reason (R): The frequency of alternating voltage supplied is 50 Hz.",
+   "o": [
+    "(d) A is false but R is true",
+    "(b) Both A and R are individually true but R is no...",
+    "(c) A is true but R is false",
+    "(a) Both A and R are individually true and R is th..."
+   ],
+   "a": 0,
+   "e": "In India, the AC supply frequency is 50 Hz. This means the direction changes 100 times per second ($50 \\times 2$), not 60."
+  },
+  {
+   "q": "What is the order of magnitude of electric resistance of the human body (dry)?",
+   "o": [
+    "(b) $10^4$ ohm",
+    "(a) $10^2$ ohm",
+    "(d) $10^8$ ohm",
+    "(c) $10^6$ ohm"
+   ],
+   "a": 0,
+   "e": "For dry skin, the resistance of the human body is typically around $10^4$ ohms."
+  },
+  {
+   "q": "Which one of the following is printed on a commonly used fluorescent tube light?",
+   "o": [
+    "(d) 9000 K",
+    "(a) 220 K",
+    "(b) 273 K",
+    "(c) 6500 K"
+   ],
+   "a": 3,
+   "e": "A value of 6500 K, representing the color temperature, is standard on commonly used fluorescent tubes."
+  },
+  {
+   "q": "Electrically charged particles from space... can severely harm living beings if they reach the surface of the Earth. What prevents them?",
+   "o": [
+    "(d) None of the above",
+    "(a) The Earth's magnetic field diverts them towards its poles",
+    "(c) Moisture in the upper layers of atmosphere prevents them",
+    "(b) Ozone layer around the Earth reflects them back to outer space"
+   ],
+   "a": 1,
+   "e": "The Earth's magnetic field acts as a shield by diverting dangerous charged particles from space toward the poles."
+  },
+  {
+   "q": "The known forces of nature can be divided into four classes... With reference to them, which statement is not correct?",
+   "o": [
+    "(d) Strong nuclear force holds protons and neutrons inside the nucleus",
+    "(b) Electromagnetism acts only on particles with an electric charge",
+    "(a) Gravity is the strongest of the four",
+    "(c) Weak nuclear force causes radioactivity"
+   ],
+   "a": 2,
+   "e": "Gravity is actually the weakest of the four fundamental forces."
+  },
+  {
+   "q": "The technique used to transmit audio signals in television broadcasts is:",
+   "o": [
+    "(d) Time Division Multiplexing",
+    "(c) Pulse Code Modulation",
+    "(b) Frequency Modulation",
+    "(a) Amplitude Modulation"
+   ],
+   "a": 2,
+   "e": "Frequency Modulation (FM) is the standard technique for audio transmission in both radio and television broadcasting."
+  },
+  {
+   "q": "At the present level of technology... solar energy can be conveniently used to: 1️⃣ Supply hot water to residential buildings. 2️⃣ Supply water for minor irrigation. 3️⃣ Provide street lighting. 4️⃣ Electrify a cluster of villages.",
+   "o": [
+    "(c) 1 and 3 are correct",
+    "(b) 2 and 4 are correct",
+    "(d) 1, 2 and 3 are correct",
+    "(a) 1, 2, 3 and 4 are correct"
+   ],
+   "a": 0,
+   "e": "Current practical applications in India primarily include residential solar water heaters and street lighting."
+  },
+  {
+   "q": "One astronomical unit is the average distance between:",
+   "o": [
+    "(d) Pluto and the Sun",
+    "(b) Earth and the Moon",
+    "(a) Earth and the Sun",
+    "(c) Jupiter and the Sun"
+   ],
+   "a": 2,
+   "e": "An astronomical unit (AU) is a unit of length approximately equal to the mean distance between the Earth and the Sun."
+  },
+  {
+   "q": "For reproducing sound, a CD (Compact Disc) audio player uses a:",
+   "o": [
+    "(a) quartz crystal",
+    "(c) laser beam",
+    "(d) barium titanate ceramic",
+    "(b) titanium needle"
+   ],
+   "a": 1,
+   "e": "CD players use a laser beam to scan digital data for the reproduction of recorded sound."
+  },
+  {
+   "q": "Which one of the following does a TV remote control unit use to operate a TV set?",
+   "o": [
+    "(a) Light waves",
+    "(d) Radio waves",
+    "(b) Sound waves",
+    "(c) Microwaves"
+   ],
+   "a": 1,
+   "e": "Radio waves (or infrared in some contexts, but radio waves are listed) are used for mobile communication and remote operations."
+  },
+  {
+   "q": "In a nuclear reactor, self-sustained chain reaction is possible because: 1️⃣ more neutrons are released in fission. 2️⃣ neutrons immediately take part in fission. 3️⃣ fast neutrons are slowed down by graphite. 4️⃣ every neutron initiates further fission.",
+   "o": [
+    "(b) 1 and 3",
+    "(c) 2 and 4",
+    "(a) 1, 2 and 3",
+    "(d) 2, 3 and 4"
+   ],
+   "a": 2,
+   "e": "Self-sustained reactions rely on multiple neutrons being released and the use of graphite to slow fast neutrons so they can successfully trigger more fission."
+  },
+  {
+   "q": "Consider the following statements: 1️⃣ A geo-stationary satellite is at an approximate height of 10,000 km. 2️⃣ FM transmission of music is of very good quality because noise variations can do little harm.",
+   "o": [
+    "(a) 1 only",
+    "(d) Neither 1 nor 2",
+    "(c) Both 1 and 2",
+    "(b) 2 only"
+   ],
+   "a": 3,
+   "e": "FM is high-fidelity and immune to amplitude noise. Geostationary satellites are actually at a height of approximately 35,800 km."
+  },
+  {
+   "q": "What does the term Dolby B or Dolby C printed on tape-recorders refer to:",
+   "o": [
+    "(d) both DC and AC power can be used",
+    "(c) noise Reduction Circuit",
+    "(a) frequency Modulated System",
+    "(b) amplitude Modulated System"
+   ],
+   "a": 1,
+   "e": "Dolby B and C are noise reduction circuits designed to improve audio quality by minimizing tape noise."
+  },
+  {
+   "q": "Which of the following is used by computed tomography (CT) for visualisation?",
+   "o": [
+    "(c) Magnetic resonance",
+    "(d) Radio isotopes",
+    "(a) X-ray",
+    "(b) South waves"
+   ],
+   "a": 2,
+   "e": "CT scans employ computer-processed X-rays to generate three-dimensional images of internal structures."
+  },
+  {
+   "q": "What is the importance of discovering the Higgs boson? 1️⃣ It explains why elementary particles have mass. 2️⃣ It enables transferring matter without traversing space. 3️⃣ It creates better fuels for nuclear fission.",
+   "o": [
+    "(b) 2 and 3 only",
+    "(c) 1 and 3 only",
+    "(d) 1, 2 and 3",
+    "(a) 1 only"
+   ],
+   "a": 3,
+   "e": "The Higgs boson is crucial because it explains how basic building blocks of matter acquire mass."
+  },
+  {
+   "q": "With reference to solar power production in India: 1️⃣ India is the third largest manufacturer of silicon wafers. 2️⃣ Solar power tariffs are determined by the Solar Energy Corporation of India.",
+   "o": [
+    "(c) Both 1 and 2",
+    "(d) Neither 1 nor 2",
+    "(b) 2 only",
+    "(a) 1 only"
+   ],
+   "a": 1,
+   "e": "India has no significant production of silicon wafers. Tariffs are determined under the Electricity Act, not by the SE Corporation."
+  },
+  {
+   "q": "Which of the following are predictions of Albert Einstein's General Theory of Relativity? 1️⃣ Light is affected by gravity. 2️⃣ The Universe is constantly expanding. 3️⃣ Matter warps its surrounding space-time.",
+   "o": [
+    "(d) 1, 2 and 3",
+    "(b) 3 only",
+    "(c) 1 and 3 only",
+    "(a) 1 and 2 only"
+   ],
+   "a": 0,
+   "e": "All three—gravity affecting light , the expanding universe , and matter warping space-time —are key discussed predictions of general relativity."
+  },
+  {
+   "q": "Cryogenic engines find applications in:",
+   "o": [
+    "(d) research in superconductivity",
+    "(b) frost-free refrigerators",
+    "(c) rocket technology",
+    "(a) sub-marine propulsion"
+   ],
+   "a": 2,
+   "e": "Cryogenic rocket engines, which use gases liquefied at very low temperatures, were essential for reaching the Moon."
+  },
+  {
+   "q": "A person in a spaceship notice that the: 1️⃣ sky is jet black. 2️⃣ stars do not twinkle. 3️⃣ temperature outside is higher than on Earth's surface.",
+   "o": [
+    "(b) 1 and 2 are correct",
+    "(d) 1, 2 and 3 are correct",
+    "(a) 3 alone is correct",
+    "(c) 1 and 3 are correct"
+   ],
+   "a": 1,
+   "e": "In space, there is no atmosphere to scatter light (making sky black) or refract it (making stars twinkle). Proximity to the sun makes the outside temperature higher than on Earth."
+  },
+  {
+   "q": "The tail of a comet is directed away from the sun because:",
+   "o": [
+    "(a) centrifugal force pushes it away",
+    "(b) it is attracted by other stars",
+    "(d) its orientation is fixed",
+    "(c) solar radiation exerts radial pressure"
+   ],
+   "a": 3,
+   "e": "Radiation emitted by the sun exerts radial pressure on the comet, pushing its tail away."
+  },
+  {
+   "q": "A 'black hole' does not allow any radiation to come out. This is due to its:",
+   "o": [
+    "(a) very small size",
+    "(b) very large size",
+    "(d) very low size",
+    "(c) very high density"
+   ],
+   "a": 3,
+   "e": "A black hole has infinite density because its mass is concentrated in a space of zero volume, creating such strong gravity that even light cannot escape."
+  },
+  {
+   "q": "Regarding INSAT-4A: 1️⃣ Launched in Dec 2005 from New Mexico. 2️⃣ Arianespace was the launch provider. 3️⃣ Tata-Sky is associated with DTH service from it.",
+   "o": [
+    "(a) 1, 2 and 3",
+    "(b) 1 and 2 only",
+    "(d) 1 and 3 only",
+    "(c) 2 and 3 only"
+   ],
+   "a": 3,
+   "e": "INSAT-4A was launched from French Guiana, not New Mexico."
+  },
+  {
+   "q": "Consider the following: 1️⃣ A jet engine uses surrounding air and is unsuitable for space. 2️⃣ A rocket carries its own oxygen supply.",
+   "o": [
+    "(a) 1 only",
+    "(b) 2 only",
+    "(c) Both 1 and 2"
+   ],
+   "a": 2,
+   "e": "Jet engines require atmospheric oxygen. Rockets carry their own liquid oxygen for combustion in space."
+  },
+  {
+   "q": "A satellite is in geostationary orbit when: 1️⃣ It is geosynchronous. 2️⃣ The orbit is circular. 3️⃣ It lies in the earth's equatorial plane. 4️⃣ It is at an altitude of 22,236 miles.",
+   "o": [
+    "(b) 1, 3 and 4 only",
+    "(d) 1, 2, 3 and 4",
+    "(c) 2 and 4 only",
+    "(a) 1, 2 and 3 only"
+   ],
+   "a": 1,
+   "e": "A geostationary orbit is a circular, equatorial, geosynchronous orbit at an altitude of approximately 22,236 miles."
+  },
+  {
+   "q": "An artificial satellite does not fall down because the attraction of Earth:",
+   "o": [
+    "(d) provides necessary speed",
+    "(c) provides necessary acceleration",
+    "(b) is neutralized by the moon",
+    "(a) does not exist at such distance"
+   ],
+   "a": 1,
+   "e": "The Earth's gravity provides the centripetal acceleration required for the satellite to maintain its orbit."
+  },
+  {
+   "q": "In which are Indian Remote Sensing (IRS) satellites used? 1️⃣ Crop productivity 2️⃣ Groundwater resources 3️⃣ Mineral exploration 4️⃣ Telecommunications 5️⃣ Traffic studies",
+   "o": [
+    "(b) 4 and 5 only",
+    "(a) 1, 2 and 3 only",
+    "(d) 1, 2, 3, 4 and 5",
+    "(c) 1 and 2 only"
+   ],
+   "a": 1,
+   "e": "IRS satellites are specialized for resource management, including agriculture, water, and minerals."
+  }
+ ]
+}

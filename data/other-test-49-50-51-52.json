@@ -1,0 +1,1108 @@
+{
+ "title": "Test 49 50 51 52",
+ "category": "Other",
+ "minutes": 75,
+ "negative": 0.25,
+ "questions": [
+  {
+   "q": "Quasi-fluid nature of lipid in the cell membrane facilitates which of the following?",
+   "o": [
+    "Active transport against gradient",
+    "Lateral movement of proteins",
+    "Selection of molecules present on either side",
+    "Formation of mRNA molecules"
+   ],
+   "a": 1,
+   "e": "According to the Fluid Mosaic Model (1972), the cell membrane is not rigid. The lipid bilayer has a quasi-fluid nature that enables proteins to move sideways within it. This lateral movement indicates that the membrane is dynamic and is measured as its \"fluidity\". Other functions facilitated by this fluidity include cell growth, endocytosis, secretion, and cell division."
+  },
+  {
+   "q": "Consider the following statements: 1️⃣ DNA barcoding is used to identify species based on a short genetic region acting as barcode. 2️⃣ DNA barcoding in eukaryotes uses whole genome sequence. Which one of the following is correct in respect of the above statements?",
+   "o": [
+    "Both Statement-l and Statement-ll are correct and Statement-ll is the correct explanation for Statement-l",
+    "Both Statement-l and Statement-ll are correct and Statement-ll is the correct explanation for Statement-l",
+    "Statement-l is incorrect but Statement-ll is correct",
+    "Statement-l is correct Statement-ll is incorrect"
+   ],
+   "a": 3,
+   "e": "Statement I is correct because DNA barcoding identifies species using a short, standardized genetic marker, such as the COI gene in animals or rbcL and matK in plants. Statement II is incorrect because the technique specifically uses short DNA sequences rather than the whole genome to make identification fast and accurate for eukaryotes. This method is effective even for small or degraded biological samples."
+  },
+  {
+   "q": "The process of Heat shock, with reference to Biotechnology, is used for:",
+   "o": [
+    "Amplifying DNA",
+    "Cutting DNA",
+    "Producing recombinant proteins",
+    "Introducing foreign DNA into host cells"
+   ],
+   "a": 3,
+   "e": "Heat shock is a transformation technique used to introduce foreign DNA into host cells. Since DNA is hydrophilic, it cannot naturally pass through cell membranes. To facilitate this, cells are made \"competent\" with divalent cations like calcium. They are incubated with recombinant DNA on ice, briefly placed at  (heat shock), and returned to ice. This sudden temperature change creates transient pores in the membrane for DNA uptake."
+  },
+  {
+   "q": "Which of the following is listed under \"Blue Biotechnology\"?",
+   "o": [
+    "Aquaculture",
+    "Use of Oil Zapper Bacteria",
+    "Diagnosis and PCR",
+    "Production of recombinant vaccines"
+   ],
+   "a": 0,
+   "e": "Blue Biotechnology refers to the use of marine and aquatic resources for industrial, medical, or agricultural purposes. Examples include aquaculture, marine biofuels, and discovering new drugs from sea sponges or corals. Red Biotechnology covers health-related applications like PCR and vaccines. Grey Biotechnology focuses on environmental protection and bioremediation, such as using Oil Zapper Bacteria to clean up pollution."
+  },
+  {
+   "q": "Which of the following statements describe the utility of GM crops? 1️⃣ Reduced reliance on chemical pesticides. 2️⃣ Help to reduce pre harvest and post harvest losses both. 3️⃣ Prevents early exhaustion of fertility of soil. 4️⃣ Enhanced nutritional value of food. Select the answer using the code given below:",
+   "o": [
+    "I, II and IV only",
+    "I, III and IV only",
+    "I and III only",
+    "I, II, III and IV"
+   ],
+   "a": 3,
+   "e": "All statements are correct. GM crops reduce reliance on pesticides by incorporating genes like Bt to become pest-resistant. They reduce pre-harvest losses through resilience to abiotic stresses (cold, drought) and post-harvest losses by improving shelf life. They prevent early exhaustion of soil fertility by increasing mineral usage efficiency. Additionally, \"biofortification\" enhances nutritional value, such as Vitamin A enriched Golden Rice."
+  },
+  {
+   "q": "Enzymes act as catalysts to ensure that cells can produce the essential proteins and chemical reactions necessary for life and reproduction. In this context, which of the following best describes the function of an Enzyme as a Catalyst ?",
+   "o": [
+    "They increase the activation energy required for a reaction.",
+    "They are not actively involved in the reaction but they help in the completion of a chemical reaction.",
+    "They are actively involved in the reaction and consumed by it.",
+    "They prevent the completion of a chemical reaction."
+   ],
+   "a": 1,
+   "e": "A catalyst increases the rate of a chemical reaction without undergoing permanent chemical change. NET reaction-wise, they are not \"involved\" because they are not consumed like reactants; they participate in intermediate steps and are regenerated. They help reactions reach equilibrium faster by providing an alternative pathway with lower activation energy."
+  },
+  {
+   "q": "With reference to Mycorrhiza, consider the following statements: 1️⃣ A mycorrhiza is a symbiotic relationship between a fungus and a root system. 2️⃣ The hyphae possess a relatively broad surface area, which allows them to collect water and mineral ions. 3️⃣ It has zero tolerance against adverse soil conditions, such as extremes of pH, high temperature. How many of the statements given above are correct?",
+   "o": [
+    "Only two",
+    "None",
+    "All three",
+    "Only one"
+   ],
+   "a": 0,
+   "e": "Statement I is correct as mycorrhiza is a symbiotic association between a fungus and plant roots. Statement II is correct because fungal hyphae have a large surface area that helps absorb water and nutrients like Phosphorus more efficiently than root hairs. Statement III is incorrect because mycorrhiza actually increases a plant's tolerance to adverse conditions like drought, high salinity, and extremes of pH or temperature."
+  },
+  {
+   "q": "Under the Environment Protection Act, 1986, which of the following statements regarding the approval process of GM crops in India are correct? 1️⃣ The Genetic Engineering Appraisal Committee (GEAC) conducts studies and recommends the approval of GM crops. 2️⃣ The Ministry of Agriculture grants final approval for GM crops in India. Select the correct answer using the code given below:",
+   "o": [
+    "Neither I nor II",
+    "Only I",
+    "Both I and II",
+    "Only II"
+   ],
+   "a": 1,
+   "e": "Statement I is correct: Under the EPA 1986, the GEAC is the apex body responsible for assessing biosafety data and recommending the approval or commercial release of GM crops in India. Statement II is incorrect: The final authority to grant permission for commercial release rests with the Ministry of Environment, Forest and Climate Change (MoEFCC), not the Ministry of Agriculture."
+  },
+  {
+   "q": "Consider the following statements regarding Transgenic Animals: 1️⃣ Statement I: Transgenic animals are created for purposes including the study of normal physiology and development. 2️⃣ Statement II: In the context of biological products, the transgenic cow \"Rosie\" produced human protein-enriched milk containing lactalbumin. Which of the following is correct in respect of the above statements ?",
+   "o": [
+    "Both Statement-l and Statement-ll are correct and Statement-ll is the correct explanation for Statement-l.",
+    "Both Statement-l and Statement-ll are correct and Statement-ll is the correct explanation for Statement-l.",
+    "Statement-l is incorrect but Statement-ll is correct",
+    "Statement-l is correct but Statement-ll is incorrect."
+   ],
+   "a": 0,
+   "e": "Both statements are correct. Statement I is correct because scientists use transgenic animals to understand gene regulation and effects on growth (e.g., Insulin-like Growth Factors). Statement II is correct as the transgenic cow Rosie (1997) produced milk containing 2.4 grams per liter of human alpha-lactalbumin. However, Rosie is an example of a biological product and does not explain the purpose of studying normal physiology."
+  },
+  {
+   "q": "Consider following statements regarding Nucleus: 1️⃣ It is a dense, membrane-bound structure inside each cell. 2️⃣ It is the main site of cellular and metabolic activities in both plant and animal cells. Select the incorrect answer using the code given below:",
+   "o": [
+    "Only I",
+    "Both I and II",
+    "Only II",
+    "Neither I nor II"
+   ],
+   "a": 2,
+   "e": "Statement I is correct: The nucleus is a dense, membrane-bound organelle discovered by Robert Brown that houses genetic material. Statement II is incorrect: While the nucleus is the command center, the cytoplasm is the main \"arena\" for cellular and metabolic activities in both plant and animal cells. Various chemical reactions occur within the cytoplasm to maintain the living state."
+  },
+  {
+   "q": "Which of the following disorders can be treated using gene therapy? 1️⃣ Haemophilia 2️⃣ Sickle cell anaemia 3️⃣ Cancer. Select the correct answer using the code below:",
+   "o": [
+    "I and II",
+    "II and III",
+    "I, II and III",
+    "I and III"
+   ],
+   "a": 2,
+   "e": "All listed disorders can be treated with gene therapy. For Haemophilia, functional clotting-factor genes are introduced into liver cells. For Sickle cell anaemia, CRISPR-based editing or gene addition is used in hematopoietic stem cells to correct the -globin gene mutation. In cancer, gene therapy genetically modifies immune cells (like CAR-T therapy) or tumor cells to induce cell death."
+  },
+  {
+   "q": "Consider the following applications in the field of biotechnology: 1️⃣ Use of vaccines and development of transgenic plants and animals for disease prevention 2️⃣ Use of techniques such as PCR, ELISA, DNA probes and MRI for disease diagnosis 3️⃣ Use of recombinant proteins, stem cells, human insulin and gene therapy for treatment of diseases. The above set of applications is most appropriately associated with which one of the following branches of biotechnology?",
+   "o": [
+    "Green Biotechnology",
+    "White Biotechnology",
+    "Red Biotechnology",
+    "Blue Biotechnology"
+   ],
+   "a": 2,
+   "e": "Red Biotechnology deals with human health, including disease prevention (vaccines), diagnosis (PCR, ELISA, MRI), and treatment (stem cells, gene therapy, insulin). Green Biotechnology focuses on agriculture (crop yield, pest resistance). White Biotechnology refers to industrial processes (biofuels, plastics). Blue Biotechnology involves marine and aquatic resources (pharmaceuticals from marine organisms)."
+  },
+  {
+   "q": "With reference to Down's syndrome, consider the following statements: 1️⃣ It is caused due to the presence of three copies of chromosome number 21. 2️⃣ The disorder can be corrected by targeted gene therapy in early childhood. Which of the statements given above are correct?",
+   "o": [
+    "II only",
+    "Both I and II",
+    "I only",
+    "Neither I nor II"
+   ],
+   "a": 2,
+   "e": "Statement I is correct: Down's syndrome, or Trisomy 21, is a genetic condition caused by an extra copy of chromosome 21. Statement II is incorrect: There is currently no gene therapy to \"fix\" Down's syndrome because it involves an entire extra chromosome rather than a single defective gene sequence that gene therapy typically targets."
+  },
+  {
+   "q": "Consider the following statements: 1️⃣ RNA interference (RNAi) takes place in eukaryotic organisms as a method of cellular defense. 2️⃣ RNAi method involves silencing of a specific mRNA molecule. Which of the statements given above is/are correct?",
+   "o": [
+    "Both I and II",
+    "II only",
+    "Neither I nor II",
+    "I only"
+   ],
+   "a": 0,
+   "e": "Both statements are correct. RNAi is a conserved mechanism in eukaryotes that acts as cellular defense against viral infections and transposable elements by preventing harmful gene expression. It involves sequence-specific silencing where small RNAs (siRNA or miRNA) guide the degradation or translational repression of target mRNA."
+  },
+  {
+   "q": "The genes Bar, Barnase and Barstar are used together in agricultural biotechnology for which of the following purposes?",
+   "o": [
+    "Producing herbicide-tolerant hybrid crops such as Dhara Mustard Hybrid-11 (DMH-11)",
+    "Improving drought tolerance through osmoprotectant synthesis",
+    "Developing insect-resistant transgenic crops such as Bollgard cotton",
+    "Enhancing nitrogen fixation in leguminous crops"
+   ],
+   "a": 0,
+   "e": "These three genes are used to produce herbicide-tolerant hybrid crops like DMH-11. Specifically, Barnase induces male sterility, Barstar restores fertility in the resulting hybrids, and the Bar gene provides tolerance to glufosinate herbicide. Insect resistance (like in Bollgard cotton) typically uses Bt (Cry) genes."
+  },
+  {
+   "q": "Which of the following are considered the essential features required to recognize a living cell? 1️⃣ A plasma membrane 2️⃣ Cytoplasm 3️⃣ Cell wall. Select the correct answer using the code given below:",
+   "o": [
+    "I, II, and III",
+    "I and III only",
+    "II and III only",
+    "I and II only"
+   ],
+   "a": 3,
+   "e": "Statements I and II are correct. The plasma membrane is a mandatory boundary for every living cell, regulating the passage of substances. Cytoplasm is the mandatory fluid matrix where essential metabolic chemical reactions occur. Statement III is incorrect because the cell wall is not universal; while found in plants and bacteria, it is entirely absent in animal cells."
+  },
+  {
+   "q": "Consider the following pairs: 1️⃣ Cell membrane — Encloses the cell 2️⃣ Cytoplasm — Fluid matrix where life processes and chemical reactions occur 3️⃣ Genetic material — It exists in the form of DNA or RNA. Match List I with List II regarding the fundamental components of a cell and select the correct answer using the codes given below:",
+   "o": [
+    "I-1, II-3, III-2",
+    "I-2, II-1, III-3",
+    "I-2, II-3, III-1",
+    "I-3, II-2, III-1"
+   ],
+   "a": 2,
+   "e": "The cell membrane (plasma membrane) is the physical boundary that encloses cellular contents. Cytoplasm is the vital fluid matrix filling the cell's interior where metabolic activities and chemical reactions happen. Genetic material (DNA or RNA) is a prerequisite for cell function and replication, storing biological instructions."
+  },
+  {
+   "q": "Consider the following statements regarding the historical milestones in cell biology: 1️⃣ Robert Brown was the first individual to observe and describe a live cell. 2️⃣ Anton van Leeuwenhoek is credited with the discovery of the nucleus within the cell. 3️⃣ The formulation of the Cell Theory was proposed by Schleiden and Schwann. Select the correct answer using the code given below:",
+   "o": [
+    "III only",
+    "I and III only",
+    "I and II only",
+    "I, II, and III"
+   ],
+   "a": 0,
+   "e": "Statement I is incorrect: Anton van Leeuwenhoek was the first to see and document a live cell. Statement II is incorrect: The discovery of the nucleus is attributed to Robert Brown. Statement III is correct: Schleiden and Schwann proposed the original Cell Theory, establishing that all organisms are made of cells. This was later refined by Rudolf Virchow."
+  },
+  {
+   "q": "Which of the following scientists proposed the Five Kingdom classification of living organisms?",
+   "o": [
+    "Ernst Haeckel",
+    "Aristotle",
+    "Carolus Linnaeus",
+    "R.H. Whittaker"
+   ],
+   "a": 3,
+   "e": "R.H. Whittaker proposed the Five Kingdom classification system, which includes Monera, Protista, Fungi, Plantae, and Animalia. This framework is based on cell type (Prokaryotic vs. Eukaryotic), cell organization (unicellular vs. multicellular), and mode of nutrition."
+  },
+  {
+   "q": "Which of the following is not an example of a Prokaryotic cell?",
+   "o": [
+    "Blue green algae",
+    "Fungi",
+    "Bacteria",
+    "Mycoplasma"
+   ],
+   "a": 1,
+   "e": "Fungi are eukaryotic organisms because they possess a well-defined, membrane-bound nucleus and complex organelles like mitochondria. Bacteria and Mycoplasma are prokaryotic, belonging to Kingdom Monera. Blue-green algae (Cyanobacteria) are also photosynthetic prokaryotes lacking a membrane-bound nucleus."
+  },
+  {
+   "q": "The National Guidelines for Gene Therapy Product (GTP) Development and Clinical Trials (2019) were issued by:",
+   "o": [
+    "Department of Biotechnology (DBT) and Indian Council of Medical Research (ICMR)",
+    "Ministry of Science and Technology and Ministry of Health and Family Welfare",
+    "Department of Biotechnology (DBT) and Central Drugs Standard Control Organisation (CDSCO)",
+    "Department of Science and Technology (DST) and Indian Council of Medical Research (ICMR)"
+   ],
+   "a": 0,
+   "e": "The Department of Biotechnology (DBT) and the Indian Council of Medical Research (ICMR) jointly issued these guidelines in 2019. They specify the scientific, ethical, and regulatory procedures required for conducting gene therapy product clinical trials in India."
+  },
+  {
+   "q": "Consider the following statements: 1️⃣ Restriction enzymes belong to a larger class of enzymes called nucleases. 2️⃣ Exonucleases remove nucleotides from the ends of the DNA whereas endonucleases make cuts at specific positions within the DNA. Which of the statements given above is/are correct?",
+   "o": [
+    "Both I and II",
+    "II only",
+    "I only",
+    "Neither I nor II"
+   ],
+   "a": 0,
+   "e": "Both statements are correct. Restriction enzymes cleave nucleic acids and thus belong to the broader class of nucleases. Specifically, exonucleases remove nucleotides from the terminal ends of DNA, while endonucleases make internal cuts at specific recognition sequences within the DNA strand."
+  },
+  {
+   "q": "Consider the following statement about Gene therapy: 1️⃣ It can add a new gene to perform the function of a non functional gene. 2️⃣ It can be done inside as well as outside the body. Which of the statements given above are correct?",
+   "o": [
+    "Il only",
+    "Both I and II",
+    "I only",
+    "Neither I nor II"
+   ],
+   "a": 1,
+   "e": "Both statements are correct. Gene therapy aims to treat disease by adding a functional copy of a gene to compensate for a missing or non-functional one. It can be delivered \"In vivo\" (inside the body via vectors) or \"Ex vivo\" (cells are modified in a lab and reintroduced into the patient)."
+  },
+  {
+   "q": "With reference to 'Bt Cotton', the only genetically modified crop approved for commercial cultivation in India, consider the following statements: 1️⃣ It is developed by inserting a gene from a soil fungus called Bacillus thuringiensis. 2️⃣ The inserted gene produces a protein that is toxic to certain insect pests like the bollworm. Which of the statements given above is/are correct?",
+   "o": [
+    "Neither I nor II",
+    "I only",
+    "II only",
+    "Both I and II"
+   ],
+   "a": 2,
+   "e": "Statement I is incorrect: Bacillus thuringiensis is a soil bacterium, not a fungus. Statement II is correct: The inserted Bt gene allows the cotton plant to produce a crystal (Cry) protein that is lethal to specific insect pests, such as bollworms, when they feed on the plant."
+  },
+  {
+   "q": "DNA Fingerprinting can be used in how many of the following given cases? 1️⃣ Criminal Investigation 2️⃣ Paternity testing 3️⃣ Immigration Cases 4️⃣ Disaster victim identification. How many of the above given cases are correct?",
+   "o": [
+    "Only one",
+    "Only two",
+    "All four",
+    "Only three"
+   ],
+   "a": 2,
+   "e": "DNA fingerprinting is used in all four cases. It matches crime scene samples with suspects , establishes genetic relationships for paternity testing , verifies biological claims in immigration cases , and identifies victims in mass disasters by matching DNA with relatives or reference samples."
+  },
+  {
+   "q": "Consider the following statements: 1️⃣ Mitochondria are often referred to as the \"powerhouse of the cell.\" 2️⃣ Mitochondria store genetic information that determines an organism's physical traits. Which of the statements given above is/are correct?",
+   "o": [
+    "Both I and II",
+    "Neither I nor II",
+    "II only",
+    "I only"
+   ],
+   "a": 3,
+   "e": "Statement I is correct: Mitochondria generate energy (ATP) through cellular respiration, earning them the name \"powerhouse of the cell\". Statement II is incorrect: While mitochondria have their own DNA (mtDNA), it mainly codes for their own functional proteins; the Nucleus stores the vast majority of genetic information that determines physical traits."
+  },
+  {
+   "q": "A scientist is studying two types of cells: 1️⃣ Cell Type A lacks a well-defined nucleus and organelles but has a cell wall. 2️⃣ Cell Type B contains a well-organized nucleus, mitochondria, and ribosomes but lacks a cell wall. Which of the following correctly identifies Cell Type A and Cell Type B?",
+   "o": [
+    "Cell Type A is a fungal cell, and Cell Type B is a bacterial cell.",
+    "Cell Type A is a bacterial cell, and Cell Type B is an animal cell.",
+    "Cell Type A is an archaeal cell, and Cell Type B is a plant cell.",
+    "Cell Type A is an animal cell, and Cell Type B is a plant cell."
+   ],
+   "a": 1,
+   "e": "Cell Type A is a prokaryote, like a bacterial cell, because it lacks a defined nucleus and membrane-bound organelles but has a peptidoglycan cell wall. Cell Type B is a eukaryotic cell without a cell wall, which is a key characteristic of animal cells."
+  },
+  {
+   "q": "Consider the following statements regarding the differences between prokaryotic and eukaryotic cells: 1️⃣ Prokaryotic cells lack membrane-bound organelles, whereas eukaryotic cells contain distinct organelles such as mitochondria and Golgi bodies. 2️⃣ DNA in prokaryotic cells is circular and lacks histone proteins, while in eukaryotic cells, DNA is linear and complexed with histones. 3️⃣ Eukaryotic cells exhibit compartmentalization of functions, whereas prokaryotic cells lack compartmentalization. Which of the statements given above is/are correct?",
+   "o": [
+    "I, II and III",
+    "I and III only",
+    "II only",
+    "I and II only"
+   ],
+   "a": 0,
+   "e": "All statements are correct. Prokaryotes lack membrane-bound organelles and compartmentalization, with biochemical processes occurring in the cytoplasm. Their DNA is circular and lacks histones. Eukaryotes have well-defined organelles (like mitochondria), linear DNA wrapped around histones, and exhibit compartmentalization for greater efficiency."
+  },
+  {
+   "q": "Regarding 'Lysosomes', consider the following statements: 1️⃣ They are membrane-bound vesicular structures formed by the process of packaging in the Golgi apparatus. 2️⃣ They contain hydrolytic enzymes like lipases, proteases, and carbohydrases which are active at an alkaline pH. 3️⃣ They are capable of digesting carbohydrates, proteins, lipids, and even nucleic acids. How many of the above statements are correct?",
+   "o": [
+    "None",
+    "All three",
+    "Only one",
+    "Only two"
+   ],
+   "a": 3,
+   "e": "Statement I is correct: Lysosomes originate from the Golgi apparatus after enzymes from the RER are packaged into vesicles. Statement II is incorrect: These hydrolytic enzymes are active at an acidic pH (~5), not an alkaline one. Statement III is correct: Their acid hydrolases can break down all major polymers, including proteins, lipids, and nucleic acids."
+  },
+  {
+   "q": "Consider the following statements regarding the differences between transcription and translation: 1️⃣ In Eukaryotes, transcription occurs in the nucleus, whereas translation occurs in the cytoplasm. 2️⃣ RNA polymerase is required for transcription, whereas ribosomes and tRNA are essential for translation. 3️⃣ Transcription results in mRNA synthesis, while translation results in protein synthesis. Which of the statements given above are correct?",
+   "o": [
+    "II and III only",
+    "I, II and III",
+    "I and III only",
+    "I and II only"
+   ],
+   "a": 1,
+   "e": "All statements are correct. In eukaryotes, transcription (DNA to mRNA) occurs in the nucleus using RNA polymerase. The mRNA then travels to the cytoplasm where translation occurs, requiring ribosomes and tRNA to synthesize a polypeptide chain (protein)."
+  },
+  {
+   "q": "Consider the following statements regarding the five-kingdom classification system: 1️⃣ Fungi are heterotrophic and obtain nutrients via extracellular digestion. 2️⃣ Protists include both unicellular eukaryotes and simple multicellular forms. 3️⃣ Plantae includes autotrophic organisms with cellulose-rich cell walls. 4️⃣ Viruses are included in the kingdom Monera as they lack cellular structures. Which of the statements given above are correct?",
+   "o": [
+    "I and II and III only",
+    "I and II only",
+    "All four",
+    "II, III, and IV only"
+   ],
+   "a": 0,
+   "e": "Statements I, II, and III are correct. Fungi are heterotrophic and absorb nutrients through extracellular digestion. Protista acts as a bridge between unicellular and multicellular eukaryotes. Plantae consists of autotrophic organisms with cellulose cell walls. Statement IV is incorrect: Viruses are acellular and not included in any of the five kingdoms."
+  },
+  {
+   "q": "Consider the following statements: 1️⃣ Statement I: The Golgi apparatus is the primary site of glycoprotein and glycolipid modification rather than initial synthesis. 2️⃣ Statement II: The Golgi apparatus receives proteins and lipids from the rough endoplasmic reticulum and modifies them for secretion. Which of the following is correct in respect of the above statements?",
+   "o": [
+    "Statement-l is correct but Statement-ll is incorrect.",
+    "Both Statement-l and Statement-ll are correct and Statement-ll is the correct explanation for Statement-l.",
+    "Statement-l is incorrect but Statement-ll is correct.",
+    "Both Statement-l and Statement-ll are correct and Statement-ll is the correct explanation for Statement-l."
+   ],
+   "a": 1,
+   "e": "Both statements are correct. The Golgi apparatus modifies, packages, and sorts proteins and lipids received from the RER. While some synthesis starts in the RER, the major glycosylation and refinements happen in the Golgi. Statement II explains Statement I because the receipt and processing of these molecules is why the Golgi is primarily a modification site."
+  },
+  {
+   "q": "Consider the following statements regarding the differences between rough and smooth Endoplasmic Reticulum: 1️⃣ Rough ER is involved in protein synthesis, while smooth ER is involved in lipid synthesis. 2️⃣ Rough ER has ribosomes on its surface, while smooth ER lacks ribosomes. 3️⃣ Both types of ER transport synthesized biomolecules to the Golgi apparatus. 4️⃣ Smooth ER is the site of ATP production, whereas rough ER is responsible for glycoprotein formation. Which of the statements given above are correct?",
+   "o": [
+    "I and II only",
+    "I, II and III only",
+    "II, III, and IV only",
+    "All four"
+   ],
+   "a": 1,
+   "e": "Statements I, II, and III are correct. Rough ER is studded with ribosomes and synthesizes proteins, while smooth ER lacks them and synthesizes lipids. Both package products into vesicles for transport to the Golgi. Statement IV is incorrect: Mitochondria, not smooth ER, are the site of ATP production."
+  },
+  {
+   "q": "Which of the following statements correctly describe the functions of ribosomes? 1️⃣ Ribosomes are the sites of protein synthesis. 2️⃣ In eukaryotic cells, ribosomes exist in two types, free and bound ribosomes. 3️⃣ Ribosomes are membrane-bound organelles. Select the correct answer using the code given below:",
+   "o": [
+    "II and III only",
+    "I and III only",
+    "I and II only",
+    "I, II and III"
+   ],
+   "a": 2,
+   "e": "Statements I and II are correct. Ribosomes translate mRNA into polypeptide chains. In eukaryotes, they are either free in the cytosol or bound to the ER/nuclear envelope. Statement III is incorrect: Ribosomes are macromolecular complexes that lack a membrane, allowing them to exist in both prokaryotic and eukaryotic cells."
+  },
+  {
+   "q": "With reference to the Central Dogma of Molecular Biology, which of the following correctly represents the flow of genetic information?",
+   "o": [
+    "DNA -> RNA -> Protein",
+    "RNA -> DNA -> Protein",
+    "DNA -> Protein -> RNA",
+    "Protein -> RNA -> DNA"
+   ],
+   "a": 0,
+   "e": "The Central Dogma outlines the flow of genetic information from DNA (storage) to RNA via transcription, and then from RNA (specifically mRNA) to protein via translation. This process ensures the assembly of amino acids into polypeptide chains based on the genetic code."
+  },
+  {
+   "q": "With reference to cell division, consider the following statements: 1️⃣ The duration of the cell cycle is the same in all cell types within an organism. 2️⃣ Some cells, like heart cells, do not divide after differentiation. Which of the statements given above is/are correct?",
+   "o": [
+    "Neither I nor II",
+    "I only",
+    "Both I and II",
+    "II only"
+   ],
+   "a": 3,
+   "e": "Statement I is incorrect: Cell cycle duration varies; rapidly dividing embryonic cells finish quickly, while liver cells take longer, and some enter a resting  phase. Statement II is correct: Mature cells like heart muscle cells and neurons exit the cycle and enter a permanent  phase, relying on repair rather than division."
+  },
+  {
+   "q": "Which of the following correctly describes the role of histones in eukaryotic cells?",
+   "o": [
+    "They act as enzymes for DNA repair",
+    "They directly regulate the transcription of genes",
+    "They help in DNA packaging into chromatin",
+    "They provide energy for DNA replication"
+   ],
+   "a": 2,
+   "e": "Histones are positively charged proteins that DNA (negatively charged) wraps around to form nucleosomes. These repeat to form chromatin fibers, allowing long DNA molecules (2.2 meters) to fit inside a microscopic nucleus. While they influence gene expression by modifying structure, they do not directly regulate transcription."
+  },
+  {
+   "q": "In RH Whittaker's five-kingdom system of classification, which of the following is the main basis for classification? 1️⃣ Cell structure 2️⃣ Mode of nutrition 3️⃣ Body organization 4️⃣ Phylogenetic relationships. Select the correct answer using the code given below:",
+   "o": [
+    "I and II only",
+    "II and III only",
+    "All four",
+    "I, II, and III only"
+   ],
+   "a": 2,
+   "e": "Whittaker's system used all four criteria. Cell structure separated prokaryotes from eukaryotes. Mode of nutrition distinguished between autotrophs and heterotrophs. Body organization separated unicellular from multicellular forms. Phylogenetic relationships were incorporated to reflect evolutionary history."
+  },
+  {
+   "q": "Consider the following differences between DNA-dependent RNA polymerase and RNA-dependent RNA polymerase: 1️⃣ RNA-dependent RNA polymerase is responsible for mRNA synthesis in eukaryotic cells, whereas DNA-dependent RNA polymerase plays no role in transcription 2️⃣ DNA-dependent RNA polymerase is present in all living organisms, whereas RNA-dependent RNA polymerase is found primarily in viruses. 3️⃣ DNA-dependent RNA polymerase synthesizes RNA using a DNA template, whereas RNA-dependent RNA polymerase synthesizes RNA using an RNA template. Which of the statements given above are correct?",
+   "o": [
+    "II and III only",
+    "I and II only",
+    "I, II and III",
+    "I and III only"
+   ],
+   "a": 0,
+   "e": "Statement I is incorrect: Eukaryotic transcription uses DNA-dependent RNA polymerase to make mRNA. Statement II is correct: DNA-dependent RNA polymerase is essential for all cellular life, while RNA-dependent RNA polymerase is found in RNA viruses (like SARS-CoV-2) to replicate their genomes without a DNA intermediate. Statement III is correct: These enzymes synthesize RNA from DNA and RNA templates, respectively."
+  },
+  {
+   "q": "Regarding 'Centrosomes and Centrioles', consider the following statements: 1️⃣ The centrosome is an organelle usually containing two cylindrical structures called centrioles. 2️⃣ Both the centrioles in a centrosome lie parallel to each other and are surrounded by amorphous pericentriolar materials. 3️⃣ Centrioles form the basal body of cilia or flagella and spindle fibres that give rise to the spindle apparatus during cell division in animal cells. How many of the above statements are correct?",
+   "o": [
+    "All three",
+    "None",
+    "Only one",
+    "Only two"
+   ],
+   "a": 3,
+   "e": "Statement I is correct: Centrosomes in animal cells contain two cylindrical centrioles. Statement II is incorrect: The centrioles lie perpendicular to each other in a \"T\" or \"L\" shape, not parallel. Statement III is correct: They form the basal bodies for cilia/flagella and organize spindle fibers to pull chromosomes apart during division."
+  },
+  {
+   "q": "Consider the following pairs: 1️⃣ mRNA — Carries amino acids to ribosomes 2️⃣ tRNA — Forms ribosomal subunits 3️⃣ rRNA — Serves as a template for protein synthesis. How many of the pairs given above are correct?",
+   "o": [
+    "All three",
+    "Only two",
+    "Only one",
+    "None"
+   ],
+   "a": 3,
+   "e": "All pairs are incorrect. mRNA serves as the template for protein synthesis . tRNA (transfer RNA) carries amino acids to the ribosome . rRNA (ribosomal RNA) forms the structural component and subunits of the ribosome."
+  },
+  {
+   "q": "Consider the following statements about 'Cilia and Flagella': 1️⃣ They are hair-like outgrowths of the cell membrane, with flagella being comparatively longer than cilia. 2️⃣ Both emerge from centriole-like structures called basal bodies. Which of the statements given above is/are correct?",
+   "o": [
+    "Both I and II",
+    "Neither I nor II",
+    "I only",
+    "II only"
+   ],
+   "a": 0,
+   "e": "Both statements are correct. Cilia (0.25 ) and flagella (100-200 ) are membrane outgrowths. They both share an axoneme structure and emerge from a basal body, which is a centriole-like organelle beneath the plasma membrane."
+  },
+  {
+   "q": "Consider the following statements regarding active and passive transport across cell membranes: 1️⃣ Active transport requires ATP, whereas passive transport occurs along the concentration gradient without energy input. 2️⃣ Facilitated diffusion is a type of active transport, whereas simple diffusion is passive. 3️⃣ Passive transport is exclusive to nonpolar molecules, whereas active transport moves both polar and nonpolar molecules. Which of the statements given above is/are correct?",
+   "o": [
+    "I, II and III",
+    "I only",
+    "II and III only",
+    "I and III only"
+   ],
+   "a": 1,
+   "e": "Statement I is correct: Active transport moves molecules against a gradient using ATP, while passive transport follows the gradient without energy. Statement II is incorrect: Facilitated diffusion is passive transport that uses proteins. Statement III is incorrect: Passive transport can involve both polar and nonpolar molecules."
+  },
+  {
+   "q": "Consider the following statements regarding the fundamental unit of life: 1️⃣ A cell is recognized by the presence of a plasma membrane, a cytoplasm, and genetic material. 2️⃣ The cytoplasm is the main arena of cellular activities in both plant and animal cells. 3️⃣ Every living organism is composed of cells that arise from non-living organic matter. Which of the statements given above are correct?",
+   "o": [
+    "I and II only",
+    "I, II and III",
+    "I and III only",
+    "II and III only"
+   ],
+   "a": 0,
+   "e": "Statements I and II are correct. A cell requires a plasma membrane, cytoplasm, and genetic material (DNA/RNA). The cytoplasm is the site for most metabolic reactions. Statement III is incorrect: Modern cell theory, following Rudolf Virchow's \"Omnis cellula e cellula,\" states that every cell originates only from a pre-existing cell."
+  },
+  {
+   "q": "With reference to the Cell Membrane, consider the following statements: 1️⃣ It is primarily composed of lipids and proteins arranged in a fluid-mosaic model. 2️⃣ The lipid component consists of a bilayer where the polar heads face the inner side and hydrophobic tails face the outside. 3️⃣ Its \"quasi-fluid\" nature allows for the lateral movement of proteins, which is measured as its fluidity. Which of the statements given above are incorrect?",
+   "o": [
+    "I and III only",
+    "None",
+    "I and II only",
+    "II only"
+   ],
+   "a": 3,
+   "e": "Statement II is incorrect because polar heads (hydrophilic) face outwards towards the aqueous environment, while hydrophobic tails face inwards to be protected. Statements I and III are correct: the membrane is a Fluid Mosaic of lipids and proteins where its quasi-fluidity allows lateral protein movement."
+  },
+  {
+   "q": "Which of the following statements is/are correct for Cell Wall? 1️⃣ It is a non-living, rigid structure found in plants, fungi, and some protists. 2️⃣ The primary role of the cell wall is to act as a selectively permeable barrier for mineral transport. Select the correct answer using the code given below:",
+   "o": [
+    "I only",
+    "Both I and II",
+    "Neither I nor II",
+    "II only"
+   ],
+   "a": 0,
+   "e": "Statement I is correct: the cell wall is a rigid, non-living outer layer in plants and fungi that provides mechanical support. Statement II is incorrect: the cell wall is generally permeable; selective permeability is the characteristic function of the plasma membrane."
+  },
+  {
+   "q": "With reference to the \"Exceptions to Cell Theory,\" consider the following: 1️⃣ Viruses are considered an exception because they lack a cellular structure and are inert outside a host. 2️⃣ All unicellular organisms are exceptions because they can perform all life functions within a single cell. Which of the statements given above is/are correct?",
+   "o": [
+    "Neither I nor II",
+    "I only",
+    "Both I and II",
+    "II only"
+   ],
+   "a": 1,
+   "e": "Statement I is correct: Viruses are acellular and inert outside a host, lacking membranes or organelles, thus falling outside the classical cell definition. Statement II is incorrect: Unicellular organisms like Amoeba support cell theory because they demonstrate that a single cell is a complete functional unit of life."
+  },
+  {
+   "q": "Compare Plant Cells and Animal Cells based on the following pairs: 1️⃣ Centrioles: Present in animal cells; absent in almost all plant cells. 2️⃣ Vacuoles: Large central vacuole in plants; small or absent in animals. 3️⃣ Plastids: Present in both cells for energy storage. How many of the above pairs are correctly matched?",
+   "o": [
+    "Only one",
+    "All three",
+    "Only two",
+    "None"
+   ],
+   "a": 2,
+   "e": "Pairs I and II are correct. Centrioles are present in animal cells but absent in higher plants. Plant cells have a large central vacuole (up to 90% volume), while animal cells have small or no vacuoles. Pair III is incorrect because plastids are characteristic of plant cells and are not found in animal cells."
+  },
+  {
+   "q": "With reference to the characteristics of Prokaryotic organisms, consider the following: 1️⃣ Many bacteria contain small, circular DNA molecules called plasmids in addition to their genomic DNA. 2️⃣ Prokaryotic cells generally divide much faster than eukaryotic cells. 3️⃣ The cell envelope of a prokaryote is a simple single-layered structure that provides only mechanical support. Which of the statements given above are correct?",
+   "o": [
+    "II and III only",
+    "I and II only",
+    "I, II and III",
+    "I and III only"
+   ],
+   "a": 1,
+   "e": "Statements I and II are correct. Bacteria often have extra-chromosomal circular plasmids that provide advantages like antibiotic resistance. Prokaryotes divide rapidly via binary fission (e.g., E. coli every 20 minutes). Statement III is incorrect: the cell envelope is a complex multi-layered system including glycocalyx, cell wall, and plasma membrane."
+  },
+  {
+   "q": "Consider the following statements: 1️⃣ Statement I: Chloroplasts are responsible for trapping light energy and converting it into chemical energy. 2️⃣ Statement II: Chloroplasts contain contain chlorophyll, a green pigment that absorbs sunlight and uses that energy to drive photosynthesis Which one of the following is correct in respect of the above statements?",
+   "o": [
+    "Both Statement-l and Statement-ll are correct and Statement-ll is the correct explanation for Statement-l.",
+    "Both Statement-l and Statement-ll are correct and Statement-ll is the correct explanation for Statement-l.",
+    "Statement- is incorrect but Statement-ll is correct.",
+    "Statement-l is correct but Statement-ll is incorrect."
+   ],
+   "a": 0,
+   "e": "Both statements are correct. Chloroplasts convert solar energy into chemical energy stored in glucose. This is achieved because they contain thylakoids with embedded chlorophyll, which specifically absorbs blue and red wavelengths to drive photosynthesis."
+  },
+  {
+   "q": "Consider the following statements regarding Mitosis and Meiosis: 1️⃣ Mitosis increases genetic variation among offspring, whereas Meiosis ensures genetic continuity. 2️⃣ In humans, Mitosis occurs in somatic cells, whereas Meiosis is restricted to gamete formation. Which of the statements given above is/are correct?",
+   "o": [
+    "I only",
+    "Neither I nor II",
+    "Both I and II",
+    "II only"
+   ],
+   "a": 3,
+   "e": "Statement I is incorrect: Mitosis produces identical cells ensuring continuity, while Meiosis introduces variation through crossing over. Statement II is correct: Mitosis occurs in somatic cells for repair, while Meiosis occurs in germ cells to produce haploid gametes (sperm and egg) for reproduction."
+  },
+  {
+   "q": "Consider the following statements regarding the genetic composition of offspring: 1️⃣ Statement I: Fraternal twins are also called dizygotic twins. 2️⃣ Statement II: Fraternal twins arise from a single fertilized egg that splits into two embryos. Which of the following is correct in respect of the above statements?",
+   "o": [
+    "Both Statement-l and Statement-ll are correct and Statement-ll is the correct explanation for Statement-l.",
+    "Statement-l is incorrect but Statement-ll is correct.",
+    "Statement-l is correct but Statement-ll is incorrect.",
+    "Both Statement-l and Statement-ll are correct and Statement-ll is the correct explanation for Statement-l."
+   ],
+   "a": 2,
+   "e": "Statement I is correct: fraternal twins are dizygotic because they come from two separate eggs fertilized by two different sperm. Statement II is incorrect because it describes identical (monozygotic) twins; fraternal twins do not arise from a single splitting zygote."
+  },
+  {
+   "q": "Arrange the following events in the correct sequence of human reproduction: 1️⃣ Gamete formation 2️⃣ Fertilization 3️⃣ Zygote formation 4️⃣ Implantation. Select the correct order using the code given below:",
+   "o": [
+    "I-III-II-IV",
+    "III-I-II-IV",
+    "I-II-III-IV",
+    "I-II-IV-III"
+   ],
+   "a": 2,
+   "e": "Human reproduction follows this logical biological order: gametes form first (Gametogenesis), then they fuse (Fertilization). This results in a single cell (Zygote formation) which eventually embeds in the uterine wall (Implantation)."
+  },
+  {
+   "q": "Consider the following statements about the types of DNA: 1️⃣ A-DNA is a right-handed double helix composed of deoxyribonucleotides. 2️⃣ B-DNA has a right-handed double helix structure and is narrower than A-DNA. Which of the statements given above are correct?",
+   "o": [
+    "I only",
+    "II only",
+    "Neither I nor II",
+    "Both I and II"
+   ],
+   "a": 3,
+   "e": "Both statements are correct. A-DNA and B-DNA are both right-handed double helices. B-DNA is the most common form and is narrower than A-DNA, which is structurally more compact and broader in diameter."
+  },
+  {
+   "q": "Which of the following statements regarding mitochondria is/are correct? 1️⃣ Mitochondria contain their own DNA, which is inherited paternally. 2️⃣ Mitochondrial DNA follows the exact same genetic code as nuclear DNA. Select the correct answer using the code given below:",
+   "o": [
+    "Both I and II",
+    "Neither I nor II",
+    "II only",
+    "I only"
+   ],
+   "a": 1,
+   "e": "Both statements are incorrect. Mitochondrial DNA is inherited maternally because the cytoplasm comes from the egg. Also, mtDNA has minor genetic code differences; for example, the UGA codon codes for tryptophan in mitochondria instead of signaling a \"stop\"."
+  },
+  {
+   "q": "Consider the following pairs of cellular components and their functions in host-pathogen interactions: 1️⃣ Mitochondria — Replication of viral RNA 2️⃣ Ribosome — Protein Synthesis 3️⃣ Lysosome — Intracellular digestion. Which of the pairs given above are correctly matched?",
+   "o": [
+    "I, II, and III",
+    "I and II only",
+    "II and III only",
+    "I and III only"
+   ],
+   "a": 2,
+   "e": "Pair I is incorrect: viral RNA replicates in the nucleus or cytoplasm; mitochondria provide energy (ATP) but are not replication machinery. Pair II is correct: viruses must hijack host ribosomes for protein synthesis. Pair III is correct: lysosomes use enzymes to digest and destroy pathogens engulfed by immune cells."
+  },
+  {
+   "q": "With reference to Mitochondrial Replacement Therapy (MRT), consider the following statements: 1️⃣ It is a form of genetic modification aimed at replacing defective nuclear DNA in an embryo. 2️⃣ MRT allows a child to inherit mitochondrial DNA from a third party, apart from the biological mother and father. 3️⃣ MRT has been legally approved in India recently. Which of the statements given above is/are correct?",
+   "o": [
+    "II only",
+    "I only",
+    "I and III only",
+    "II and III only"
+   ],
+   "a": 0,
+   "e": "Statement I is incorrect: MRT replaces defective mitochondrial DNA, not nuclear DNA. Statement II is correct: the child inherits DNA from three people—nuclear DNA from two parents and mtDNA from a third donor. Statement III is incorrect: MRT is not legally approved in India as heritable genetic changes are generally prohibited."
+  },
+  {
+   "q": "Consider the following statements regarding fertilization and genetic inheritance: 1️⃣ During fertilization, sperm contributes only nuclear DNA, while the egg provides both nuclear and mitochondrial DNA. 2️⃣ Genetic recombination occurs after fertilization to ensure unique genetic traits in offspring. Which of the statements given above are correct?",
+   "o": [
+    "Neither I nor II",
+    "Both I and II",
+    "II only",
+    "I only"
+   ],
+   "a": 3,
+   "e": "Statement I is correct: sperm essentially provides only nuclear DNA, while the larger egg cell provides nuclear DNA, cytoplasm, and all mitochondria. Statement II is incorrect: recombination occurs before fertilization during meiosis (crossing over in prophase I), not after."
+  },
+  {
+   "q": "In an experiment, a group of human cells is observed under a microscope. The following characteristics are noted: 1️⃣ The cells have 23 chromosomes each instead of the usual. 2️⃣ The cells are involved in a process that ensures genetic variability. 3️⃣ The process involves two successive cell divisions. Based on these observations, which of the following conclusions can be drawn?",
+   "o": [
+    "The cells are undergoing Meiosis and are producing haploid gametes.",
+    "The cells are undergoing binary fission, which occurs only in prokaryotic cells.",
+    "The cells are undergoing uncontrolled division, characteristic of cancer cells.",
+    "The cells are undergoing Mitosis and are producing diploid daughter cells."
+   ],
+   "a": 0,
+   "e": "These traits define meiosis. The 23 chromosomes indicate haploid gametes (sperm/egg), which are half the usual diploid 46. Meiosis specifically involves two successive divisions and ensures variability through crossing over and independent assortment."
+  },
+  {
+   "q": "Consider the following pairs regarding reproductive technology: 1️⃣ IVF — Fertilization of the egg outside the body 2️⃣ CRISPR — Editing nuclear DNA to prevent genetic diseases 3️⃣ Pronuclear Transfer — Preventing the transmission of mitochondrial disorders. How many of the pairs given above are correct?",
+   "o": [
+    "None",
+    "Only two",
+    "All three",
+    "Only one"
+   ],
+   "a": 2,
+   "e": "All three are correct. IVF involves combining egg and sperm in a lab dish. CRISPR acts as \"molecular scissors\" for precise gene editing of nuclear DNA. Pronuclear Transfer is an MRT technique where the mother's nuclear DNA is moved to a donor egg to prevent mitochondrial diseases."
+  },
+  {
+   "q": "Consider the following statements regarding Sickle Cell Anaemia: 1️⃣ It is caused by a point mutation in the gene. 2️⃣ The mutation results in the substitution of Glutamic acid by Valine at the sixth position of the protein chain. 3️⃣ It follows an autosomal recessive inheritance pattern. Which of the statements given above are correct?",
+   "o": [
+    "I and II only",
+    "I and III only",
+    "II and III only",
+    "I, II, and III"
+   ],
+   "a": 3,
+   "e": "All statements are correct. SCD results from a point mutation where Adenine is replaced by Thymine. This substitutes Glutamic acid (hydrophilic) with Valine (hydrophobic) at the sixth position of the -globin chain. It is autosomal recessive, affecting both sexes equally."
+  },
+  {
+   "q": "Which of the following mechanisms explain why X chromosome inactivation failure contributes to autoimmune diseases? 1️⃣ Overexpression of immune-related genes leads to excessive immune activation. 2️⃣ Unregulated X-linked genes disrupt T-cell function and immune tolerance. Select the correct answer using the codes below:",
+   "o": [
+    "II only",
+    "Neither I nor II",
+    "Both I and II",
+    "I only"
+   ],
+   "a": 2,
+   "e": "Both are correct. X-Chromosome Inactivation (XCI) failure allows immune genes to be transcribed from both X chromosomes, causing overexpression of proteins like TLR7 and leading to a hyper-responsive immune system. This dysregulation can also impair T-cell checkpoints, causing autoreactive cells to attack body tissues."
+  },
+  {
+   "q": "Which of the following statements regarding telomerase are correct? 1️⃣ Telomerase prevents chromosome shortening, thus playing a key role in cellular immortality. 2️⃣ It is active in most somatic cells, allowing indefinite cell division. 3️⃣ Cancer cells exploit telomerase activation to sustain uncontrolled proliferation. Select the correct answer using the codes below:",
+   "o": [
+    "I, II, and III",
+    "I and II only",
+    "II and III only",
+    "I and III only"
+   ],
+   "a": 3,
+   "e": "Statements I and III are correct. Telomerase adds DNA to telomeres, preventing chromosomes from reaching a length that triggers cell death. Most human cancers (85-90%) reactivate telomerase for endless division. Statement II is incorrect: telomerase is inactive in most adult somatic cells, causing them to age."
+  },
+  {
+   "q": "Consider the following statements about stem cells: 1️⃣ Embryonic stem cells can differentiate into any type of cell in the body. 2️⃣ Adult stem cells are found only in the bone marrow. 3️⃣ Induced pluripotent stem cells (iPSCs) are artificially reprogrammed cells that behave like embryonic stem cells. 4️⃣ Stem cells are capable of self-renewal and differentiation. How many of the above statements are correct?",
+   "o": [
+    "Only three",
+    "All four",
+    "Only two",
+    "Only one"
+   ],
+   "a": 0,
+   "e": "Statements I, III, and IV are correct. ESCs are pluripotent, meaning they can form any body cell . iPSCs are adult cells reprogrammed to behave like ESCs. All stem cells possess self-renewal and differentiation. Statement II is incorrect: adult stem cells exist in many tissues, including brain, fat, and skin, not just bone marrow."
+  },
+  {
+   "q": "Which of the following are characteristic features of mitochondria? 1️⃣ They are present in all cell types, including red blood cells. 2️⃣ They have a double membrane, with the inner membrane forming cristae. Select the correct answer using the code given below:",
+   "o": [
+    "I only",
+    "Neither I nor II",
+    "Both I and II",
+    "II only"
+   ],
+   "a": 3,
+   "e": "Statement I is incorrect: mature mammalian RBCs lack mitochondria to maximize space for hemoglobin. Statement II is correct: mitochondria have a double membrane, where the inner membrane folds into finger-like cristae to increase surface area for producing ATP."
+  },
+  {
+   "q": "With reference to the structure and characteristics of human chromosomes, consider the following statements: 1️⃣ Euchromatin is the less condensed part of a chromosome that contains actively expressing genes. 2️⃣ Heterochromatin regions are gene-poor and typically stain darker under a microscope. 3️⃣ According to the Human Genome Project, the Y chromosome contains the highest number of genes in the human genome. Which of the statements given above are correct?",
+   "o": [
+    "I and III only",
+    "II and III only",
+    "I, II and III",
+    "I and II only"
+   ],
+   "a": 3,
+   "e": "Statements I and II are correct. Loosely packed euchromatin is gene-rich and allows access for active expression. Densely packed heterochromatin is gene-poor and stains dark. Statement III is incorrect: Chromosome 1 has the most genes (~2,968), while the Y chromosome has the fewest (~231)."
+  },
+  {
+   "q": "Consider the following description: 1️⃣ It is a single-membrane bound organelle found in eukaryotic cells. 2️⃣ It plays an important role in detoxification of harmful substances and in the -oxidation of very long-chain fatty acids. 3️⃣ It does not possess its own genetic material. The organelle described above is which of the following?",
+   "o": [
+    "Endoplasmic reticulum",
+    "Mitochondrion",
+    "Peroxisome",
+    "Lysosome"
+   ],
+   "a": 2,
+   "e": "Peroxisomes are single-membrane organelles that lack their own DNA. They are the primary site for the -oxidation of very long-chain fatty acids, a function mitochondria do not perform. Mitochondria are double-membrane bound and have their own mtDNA."
+  },
+  {
+   "q": "Which of the following features correctly describe vacuoles? 1️⃣ Animal cells lack vacuoles. 2️⃣ Contractile vacuoles in protists play a role in osmoregulation. 3️⃣ Vacuoles in plant cells help maintain cell turgor pressure. 4️⃣ Some fungal vacuoles are involved in intracellular digestion. Select the correct answer using the code given below:",
+   "o": [
+    "I, II, and IV only",
+    "I and II only",
+    "I, II, III, and IV",
+    "II, III and IV only"
+   ],
+   "a": 3,
+   "e": "Statement I is incorrect: animal cells have small, temporary vacuoles for waste/endocytosis. Statement II is correct: protists use contractile vacuoles to pump out excess water (osmoregulation). Statement III is correct: plant central vacuoles create turgor pressure to maintain rigidity. Fungal vacuoles perform lysosome-like digestion."
+  },
+  {
+   "q": "Consider the following statements: 1️⃣ Statement I: Maternal Spindle Transfer involves the transfer of the mother's nuclear genetic material into a donor egg containing healthy mitochondria. 2️⃣ Statement II: In Maternal Spindle Transfer, fertilisation takes place before the transfer of the maternal spindle. Which of the following is correct in respect of the above statements?",
+   "o": [
+    "Statement-l is correct but Statement-ll is incorrect.",
+    "Both Statement-l and Statement-ll are correct and Statement-ll is the correct explanation for Statement-l.",
+    "Statement-l is incorrect but Statement-ll is correct.",
+    "Both Statement-l and Statement-ll are correct and Statement-ll is the correct explanation for Statement-l."
+   ],
+   "a": 0,
+   "e": "Statement I is correct: MST transfers the mother's spindle (nuclear DNA) to a donor egg. Statement II is incorrect: MST occurs at the unfertilized egg stage; if fertilization happens before transfer, the technique is called Pronuclear Transfer (PNT)."
+  },
+  {
+   "q": "Consider the following statements: 1️⃣ Statement I: Mitochondrial replacement therapy (MRT) cannot prevent mitochondrial dysfunction caused by nuclear DNA mutations. 2️⃣ Statement II: MRT targets only the maternal transmission of pathogenic mitochondrial DNA mutations. Which of the following is correct in respect of the above statements?",
+   "o": [
+    "Statement-l is incorrect but Statement-ll is correct.",
+    "Both Statement- and Statement-ll are correct and Statement-ll is the correct explanation for Statement-l.",
+    "Statement-l is correct but Statement-ll is incorrect.",
+    "Both Statement-l and Statement-ll are correct and Statement-ll is not the correct explanation for Statement-l."
+   ],
+   "a": 1,
+   "e": "Both statements are correct. MRT replaces physical mitochondria and their mtDNA while retaining the mother's nucleus. Since it targets only mtDNA, it cannot prevent issues arising from nuclear DNA mutations. Thus, Statement II correctly explains why Statement I is true."
+  },
+  {
+   "q": "Consider the following statements: 1️⃣ Statement I: DNA contains thymine and RNA contains uracil. 2️⃣ Statement II: RNA is more stable than DNA. Which of the following is correct in respect of the above statements?",
+   "o": [
+    "Statement-l is incorrect but Statement-ll is correct.",
+    "Both Statement-l and Statement-ll are correct and Statement-ll is the correct explanation for Statement-l.",
+    "Both Statement-l and Statement-ll are correct and Statement-ll is the correct explanation for Statement-l.",
+    "Statement-l is correct but Statement-ll is incorrect."
+   ],
+   "a": 3,
+   "e": "Statement I is correct: DNA uses thymine, whereas RNA replaces it with uracil. Statement II is incorrect: DNA is significantly more stable because it lacks the reactive 2'-OH group found in RNA's ribose sugar and is double-stranded."
+  },
+  {
+   "q": "Consider the following statements: 1️⃣ Statement I: The human zygote has nuclei containing chromosomes from both parents. 2️⃣ Statement II: The human zygote has organelles predominantly from the mother. Which of the following is correct in respect of the above statements?",
+   "o": [
+    "Both Statement-l and Statement-ll are correct and Statement-ll is the correct explanation for Statement-l.",
+    "Statement-l is incorrect but Statement-ll is correct.",
+    "Statement-l is correct but Statement-ll is incorrect.",
+    "Both Statement- and Statement-ll are correct and Statement-ll is not the correct explanation for Statement-1."
+   ],
+   "a": 3,
+   "e": "Both are correct facts. The zygote has nuclear material from both parents. Organelles come almost exclusively from the mother because the large ovum provides the cytoplasm, while sperm mitochondria are destroyed. However, organelle inheritance doesn't explain nuclear chromosome inheritance."
+  },
+  {
+   "q": "Consider the following statements: 1️⃣ Chromatin is the highly condensed, rod-shaped structure of DNA that becomes visible only during cell division. 2️⃣ Chromosomes represent the loosely arranged, thread-like form of DNA present in the nucleus during the interphase of the cell cycle. Which of the statements given above is/are correct?",
+   "o": [
+    "b) II only",
+    "Neither I nor II",
+    "Both I and II",
+    "I only"
+   ],
+   "a": 1,
+   "e": "Both definitions are swapped. Chromatin is the loosely arranged, thread-like DNA present during interphase. Chromosomes are the highly condensed, rod-shaped structures visible only during cell division when chromatin coils tightly."
+  },
+  {
+   "q": "Consider the following pairs related to parts of female reproductive system and their respective roles: 1️⃣ Cervix — Site of fertilization and transport of ovum 2️⃣ Fallopian Tubes — Regulates passage between uterus and vagina and dilates during childbirth 3️⃣ Ovaries — Production of ova and secretion of female sex hormones. How many of the pairs given above are correctly matched?",
+   "o": [
+    "None",
+    "Only one",
+    "All three",
+    "Only two"
+   ],
+   "a": 1,
+   "e": "Only Pair III is correct: ovaries produce ova and secrete hormones like estrogen. Pair I and II are incorrect because their roles are swapped; the cervix regulates the passage to the vagina and dilates during birth , while fallopian tubes are the site of fertilization and ovum transport."
+  },
+  {
+   "q": "IVF can be indicated in how many of the following cases? 1️⃣ A woman has bilateral fallopian tube blockage. 2️⃣ A couple faces infertility due to low sperm count and abnormal sperm motility. 3️⃣ A woman has uterine fibroids. Select the correct answer using the code given below:",
+   "o": [
+    "None",
+    "Only one",
+    "Only two",
+    "All three"
+   ],
+   "a": 3,
+   "e": "IVF is indicated in all three. It bypasses blocked fallopian tubes by fertilizing outside the body. It helps with low sperm count using ICSI (direct sperm injection). It also improves conception chances for women with infertility caused by uterine fibroids."
+  },
+  {
+   "q": "Which of the following are unique characteristics of the genetic code? 1️⃣ It is non-overlapping. 2️⃣ It is nearly universal across all living organisms. Select the correct answer using the code given below:",
+   "o": [
+    "Neither I nor II",
+    "II only",
+    "Both I and II",
+    "I only"
+   ],
+   "a": 2,
+   "e": "Both are correct. The code is non-overlapping, meaning each mRNA nucleotide is part of only one codon. It is nearly universal as almost all organisms use the same codons for the same amino acids, though minor exceptions exist in mitochondria."
+  },
+  {
+   "q": "A viral infection is found to cause the following effects in human host cells: 1️⃣ It infects T-cells of humans. 2️⃣ It harms your immune system by destroying the white blood cells. 3️⃣ It may also spread by sharing drug needles of an infected person. Which of the following viruses is most likely responsible for these effects?",
+   "o": [
+    "Influenza A virus",
+    "Dengue virus",
+    "Human Immunodeficiency Virus (HIV)",
+    "None of the above"
+   ],
+   "a": 2,
+   "e": "HIV specifically infects CD4+ T lymphocytes and destroys white blood cells, leading to AIDS. It is commonly spread through unprotected sex, infected blood contact, or shared drug needles."
+  },
+  {
+   "q": "Consider the following statements regarding genes and genomes: 1️⃣ A gene is a functional unit of inheritance. 2️⃣ Entire protein coding is done by genome. Which of the statements given above are correct?",
+   "o": [
+    "Both I and II",
+    "I only",
+    "Neither I nor II",
+    "II only"
+   ],
+   "a": 0,
+   "e": "Statement I is correct: genes are the subparts of DNA that serve as functional units of inheritance. Statement II is correct: the genome is the full complement of DNA, but less than 2% of it actually codes for proteins."
+  },
+  {
+   "q": "Consider the following: 1️⃣ Introns 2️⃣ Exons. 3️⃣ Cistron. These genetic arrangements are related to which of the following molecular processes?",
+   "o": [
+    "Transcription",
+    "Translation",
+    "Reverse Transcription",
+    "Replication"
+   ],
+   "a": 0,
+   "e": "Transcription involves copying a cistron (gene segment) into a primary transcript that includes both introns (non-coding) and exons (coding). Only after transcription are introns removed during splicing."
+  },
+  {
+   "q": "In the context of biotechnology, the discovery of Lin-4 and Lin-14 provided insights into:",
+   "o": [
+    "The universal presence of microRNA exclusively in humans.",
+    "The process by which RNA directly modifies DNA sequences.",
+    "The coding potential of all RNA sequences in an organism.",
+    "The role of microRNA in post-transcriptional gene regulation."
+   ],
+   "a": 3,
+   "e": "Lin-4 and Lin-14 were the first microRNAs (miRNAs) identified. These small non-coding RNAs regulate gene expression after transcription by binding to mRNA, which inhibits translation or causes degradation."
+  },
+  {
+   "q": "Consider the following statements regarding plasmids: 1️⃣ They are small, circular, extra-chromosomal DNA molecules found in many bacteria. 2️⃣ In Recombinant DNA Technology (RDT), they serve as cloning vectors used to deliver and integrate alien pieces of DNA into a host organism. Which of the statements given above is/are correct?",
+   "o": [
+    "Neither I nor II",
+    "II only",
+    "Both I and II",
+    "I only"
+   ],
+   "a": 2,
+   "e": "Both are correct. Plasmids are double-stranded DNA rings found naturally in bacteria that replicate independently of chromosomal DNA. In RDT, scientists cut these rings to insert genes of interest, using them as delivery vehicles (vectors) for host cells."
+  },
+  {
+   "q": "Consider the following statements about Genetic Engineering from Bioprocess Engineering: 1️⃣ Genetic engineering involves changing the phenotype of the host organism. 2️⃣ Bioprocess engineering involves the maintenance of a sterile, microbial contamination-free ambience in chemical engineering processes. Which of the statements given above is/are incorrect?",
+   "o": [
+    "Neither I nor II",
+    "Both I and II",
+    "II only",
+    "I only"
+   ],
+   "a": 0,
+   "e": "Both statements are correct. Genetic engineering alters the chemistry of genetic material to change an organism's phenotype. Bioprocess engineering maintains a sterile environment to grow large quantities of specific microbes for products like antibiotics."
+  },
+  {
+   "q": "Consider the following statements regarding the cell membrane and the cell wall: 1️⃣ The cell membrane is present in all living cells, whereas the cell wall is found only in plants, fungi, bacteria, and some protists. 2️⃣ The cell membrane is fully permeable. 3️⃣ The cell membrane is composed of lipids and proteins whereas the cell wall is primarily composed of carbohydrates like cellulose or peptidoglycan. 4️⃣ The cell walls primarily provide structural support, whereas cell membranes regulate movement of the proteins. Which of the statements given above are correct?",
+   "o": [
+    "I and II only",
+    "All four",
+    "I, III, and IV only",
+    "II, III, and IV only"
+   ],
+   "a": 2,
+   "e": "Statements I, III, and IV are correct. The cell membrane is universal and composed of lipids/proteins, while the cell wall is found in plants/fungi and made of carbohydrates. Cell walls provide support; membranes regulate transport. Statement II is incorrect: membranes are selectively permeable."
+  },
+  {
+   "q": "Consider the following: 1️⃣ Identification of DNA. 2️⃣ Introduction of the identified DNA into the host. 3️⃣ Maintenance of introduced DNA in the host. Which of the following processes is best described by the steps given above?",
+   "o": [
+    "DNA Fingerprinting",
+    "Polymerase Chain Reaction",
+    "Creation of a Genetically Modified Organism",
+    "Gel Electrophoresis"
+   ],
+   "a": 2,
+   "e": "GMO creation requires isolating a gene (Identification), using a vector to move it (Introduction), and ensuring the host replicates and passes it to offspring (Maintenance/Transfer)."
+  },
+  {
+   "q": "Consider the following statements: 1️⃣ Statement I: The presence of introns in eukaryotic genes is reminiscent of antiquity. 2️⃣ Statement II: In the process of splicing, introns are added while exons are removed in a defined order. Which one of the following is correct in respect of the above statements?",
+   "o": [
+    "Both Statement-l and Statement-ll are correct and Statement-ll is not the correct explanation for Statement-1",
+    "Statement-l is correct Statement-ll is incorrect",
+    "Statement-l is incorrect but Statement-ll is correct",
+    "Both Statement- and Statement-ll are correct and Statement-ll is the correct explanation for Statement-l"
+   ],
+   "a": 1,
+   "e": "Statement I is correct: introns suggest an ancient \"RNA world\". Statement II is incorrect: splicing removes introns and joins exons together to form mature mRNA; it does not add introns."
+  },
+  {
+   "q": "Consider the following statements regarding the gene expression: 1️⃣ Transcription factors do not control gene expression. 2️⃣ In Eukaryotes, gene expression can be regulated at both transcriptional and translational level. Which of the statements given above are correct?",
+   "o": [
+    "I only",
+    "Both I and III",
+    "None of the above",
+    "II only"
+   ],
+   "a": 3,
+   "e": "Statement I is incorrect: transcription factors control gene expression by turning genes on or off. Statement II is correct: eukaryotic regulation occurs at multiple stages, including transcription, splicing, and translation."
+  },
+  {
+   "q": "With reference to biotechnology, consider the following genetic elements or organisms: 1️⃣ Plasmids 2️⃣ Bacteriophages 3️⃣ Agrobacterium 4️⃣ Adenovirus. Which of the above can be used as vectors?",
+   "o": [
+    "I, II, III, and IV",
+    "I and II only",
+    "I, III, and IV only",
+    "I, II, and III only"
+   ],
+   "a": 0,
+   "e": "All can be vectors. Plasmids and Bacteriophages are used for bacteria. Agrobacterium is a \"natural genetic engineer\" for plants. Adenoviruses serve as vectors for delivering genes into human cells."
+  },
+  {
+   "q": "With reference to cell division in humans, consider the following statements: 1️⃣ Mitosis is an equational division where one diploid parent cell produces two diploid daughter cells. 2️⃣ Heart cells in humans are an example of cells that do not divide at all. 3️⃣ In animals, mitosis is observed in both haploid and diploid cells. Which of the statements given above is/are correct?",
+   "o": [
+    "I, II, and III",
+    "II and III only",
+    "I only",
+    "I and II only"
+   ],
+   "a": 3,
+   "e": "Statements I and II are correct. Mitosis preserves chromosome numbers (diploid to diploid). Specialized cells like heart and nerve cells exit the cycle and enter a quiescent stage where they don't divide for growth. Statement III is incorrect: animal mitosis is generally restricted to diploid somatic cells."
+  },
+  {
+   "q": "Consider the following statements regarding the restriction enzyme Hind II: 1️⃣ It was the first restriction endonuclease. 2️⃣ It recognizes a specific sequence of six base pairs to cut the DNA. Which of the statements given above is/are correct?",
+   "o": [
+    "Both I and II",
+    "None of the above",
+    "I only",
+    "II only"
+   ],
+   "a": 0,
+   "e": "Both are correct. Hind II was the first restriction endonuclease isolated (from Haemophilus influenzae). It identifies a specific six base pair \"recognition sequence\" to cut DNA."
+  },
+  {
+   "q": "Arrange the following steps of Recombinant DNA Technology (RDT) in the correct chronological order: 1️⃣ Ligation of the DNA fragment into a vector 2️⃣ Isolation of Genetic Material (DNA) 3️⃣ Downstream Processing 4️⃣ Amplification of Gene of Interest using Polymerase Chain Reaction 5️⃣ Cutting of DNA at specific locations. Select the correct answer using the code given below:",
+   "o": [
+    "II-V-I-IV-III",
+    "V-II-IV-I-III",
+    "II-V-IV-I-III",
+    "II-IV-V-I-III"
+   ],
+   "a": 2,
+   "e": "RDT sequence: First, isolate the DNA. Second, cut it with enzymes. Third, use PCR to amplify the gene. Fourth, join the gene with a vector (Ligation). Finally, separate and purify the product (Downstream Processing)."
+  },
+  {
+   "q": "With reference to the DMH-11 mustard variety developed in India, which of the following are correct? 1️⃣ It is herbicide tolerant variety of mustard created using a three-gene system 2️⃣ One of the genes used in this system were sourced from a soil bacterium 3️⃣ It is developed by the Centre for Genetic Manipulation of Crop Plants of Delhi University. Select the correct answer using the codes below:",
+   "o": [
+    "II and III only",
+    "I, II and III",
+    "I and II only",
+    "I and III only"
+   ],
+   "a": 1,
+   "e": "All are correct. DMH-11 is a GM herbicide-tolerant hybrid using the barnase-barstar-bar system. The Bar gene comes from the soil bacterium Streptomyces hygroscopicus. It was developed indigenously by the CGMCP at Delhi University."
+  },
+  {
+   "q": "Regarding the determination and reading of the genetic code, which of the following are true? 1️⃣ Codons are read in mRNA in a contiguous fashion without any internal punctuations 2️⃣ The order and sequence of amino acids in a polypeptide are defined by the sequence of bases in the mRNA. Select the correct answer using the code given below:",
+   "o": [
+    "Neither I nor II",
+    "Both I and II",
+    "II only",
+    "I only"
+   ],
+   "a": 1,
+   "e": "Both are correct. Translation involves reading mRNA sets of three (codons) starting from a \"start\" point without gaps. The exact sequence of mRNA bases (transcribed from DNA) directly dictates the primary amino-acid sequence of the protein."
+  },
+  {
+   "q": "The genetic code is described as being \"degenerate.\" Which of the following statements best explains this specific characteristic?",
+   "o": [
+    "Codons are read in a non-contiguous fashion with internal punctuations.",
+    "A single codon can code for multiple different amino acids.",
+    "The genetic code is different for bacteria and humans.",
+    "Some amino acids are defined or coded by more than one codon."
+   ],
+   "a": 3,
+   "e": "\"Degenerate\" means most amino acids are encoded by multiple codons (e.g., Leucine has six). This redundancy helps buffer against point mutations. In contrast, \"unambiguous\" means one codon codes for only one specific amino acid."
+  },
+  {
+   "q": "With reference to the traditional hybridization procedures used in plant and animal breeding, which of the following statements are correct? 1️⃣ It is a technique where two organisms with beneficial characters are bred to produce progeny with better characteristics. 2️⃣ It allows for the precise isolation and introduction of only one specific desirable gene into a host organism. Which of the statements given above is/ are correct?",
+   "o": [
+    "Neither I nor II",
+    "II only",
+    "Both I and II",
+    "I only"
+   ],
+   "a": 3,
+   "e": "Statement I is correct: traditional hybridization cross-breeds organisms to combine beneficial traits like yield. Statement II is incorrect: it transfers large sets of genes together, including undesirable ones; precise single-gene transfer is a feature of genetic engineering."
+  },
+  {
+   "q": "With reference to the Recombinant proteins, consider the following statements: 1️⃣ They are proteins artificially produced using genetic engineering techniques. 2️⃣ They are encoded by recombinant Deoxyribonucleic Acid (rDNA). 3️⃣ These proteins are used to improve various aspects of the agricultural industry. How many of the statements given above are incorrect?",
+   "o": [
+    "All three",
+    "Only one",
+    "None",
+    "Only two"
+   ],
+   "a": 2,
+   "e": "All statements are correct. Recombinant proteins like insulin are produced by inserting genes into host cells. They are encoded by rDNA. In agriculture, they serve as bio-pesticides (Bt toxin) and improve crop resilience."
+  },
+  {
+   "q": "Consider the following statements regarding Sickle Cell Disease (SCD): 1️⃣ It is a serious inherited blood disorder caused by a mutation in a specific gene 2️⃣ In this disease red blood cells develop a stiff and crescent or \"C\" shape. 3️⃣ Iron fortified rice is highly recommended for patients suffering from Sickle Cell Disease. How many of the statements given above are incorrect?",
+   "o": [
+    "Only one",
+    "none",
+    "Only two",
+    "All three"
+   ],
+   "a": 0,
+   "e": "Statement III is incorrect: iron supplementation is not routine because repeated transfusions can lead to dangerous iron overload. Statements I and II are correct: SCD is caused by a HBB gene mutation that produces abnormal HbS, making RBCs stiff and crescent-shaped."
+  },
+  {
+   "q": "With reference to Transcription, consider the following statements: 1️⃣ It is the process by which a segment of DNA is copied into RNA by the enzyme RNA polymerase. 2️⃣ Transcription results in the formation of messenger RNA (mRNA) which carries genetic code to the ribosomes. Which of the statements given above is/ are correct?",
+   "o": [
+    "II only",
+    "Both I and II",
+    "Neither I nor II",
+    "I only"
+   ],
+   "a": 1,
+   "e": "Both are correct. Transcription uses RNA polymerase to copy DNA into a complementary RNA strand. The resulting mRNA acts as an intermediary, carrying the genetic instructions from the nucleus to the ribosomes for protein synthesis."
+  },
+  {
+   "q": "Regarding the process of Translation, which of the following statements is/are correct? 1️⃣ Translation is the process where ribosomes synthesize proteins using the mRNA transcript. 2️⃣ messenger RNA (mRNA) acts as an adapter molecule that matches specific amino acids to the codons on the transfer RNA (tRNA). Which of the statements given above is/ are correct?",
+   "o": [
+    "Both I and II",
+    "II only",
+    "I only",
+    "Neither I nor II"
+   ],
+   "a": 2,
+   "e": "Statement I is correct: ribosomes read mRNA in the cytoplasm to build protein chains. Statement II is incorrect: tRNA (not mRNA) is the \"adapter\" molecule that matches anticodons to mRNA codons while carrying the corresponding amino acid."
+  },
+  {
+   "q": "Consider the following statements: 1️⃣ Statement I: All prokaryotic organisms have the ability to store hereditary information. 2️⃣ Statement II: All Prokaryotes have a well defined nuclear membrane. Which one of the following is correct in respect of the above statements?",
+   "o": [
+    "Both Statement-l and Statement-ll are correct and Statement-ll is the correct explanation for Statement-l",
+    "Statement-l is correct but Statement-ll is incorrect",
+    "Statement-l is incorrect but Statement-ll is correct",
+    "Both Statement-l and Statement-ll are correct and Statement-ll is the correct explanation for Statement-l"
+   ],
+   "a": 1,
+   "e": "Statement I is correct: prokaryotes store instructions in DNA which is transmitted during division. Statement II is incorrect: prokaryotic genetic material is \"naked\" and lacks a nuclear membrane, a feature found only in eukaryotic cells."
+  },
+  {
+   "q": "Consider the following statements regarding the differences between DNA and RNA: 1️⃣ DNA contains deoxyribose sugar, whereas RNA contains ribose sugar. 2️⃣ RNA is more stable than DNA due to the presence of the hydroxyl (-OH) group in its sugar molecule. 3️⃣ DNA primarily exists as a double-stranded helical structure, while RNA is usually single-stranded. 4️⃣ Thymine is present in DNA, whereas uracil replaces thymine in RNA. Which of the statements given above are correct?",
+   "o": [
+    "I and IV only",
+    "I, III, and IV only",
+    "I and III only",
+    "All four"
+   ],
+   "a": 1,
+   "e": "Statements I, III, and IV are correct. DNA uses deoxyribose sugar and thymine in a double-helix. RNA uses ribose sugar and uracil and is single-stranded. Statement II is incorrect: the -OH group actually makes RNA less stable and more prone to hydrolysis than DNA."
+  }
+ ]
+}

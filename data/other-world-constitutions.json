@@ -1,0 +1,1533 @@
+{
+ "title": "world constitutions",
+ "category": "Other",
+ "minutes": 105,
+ "negative": 0.25,
+ "questions": [
+  {
+   "q": "When was the American Constitution formed following the American Revolution?",
+   "o": [
+    "1787",
+    "1783 1789 1775"
+   ],
+   "a": 0,
+   "e": "The American Constitution was formed in 1787 following the American Revolution, which took place between 1775 and 1783. It was adopted at the Philadelphia Convention and officially came into force in 1789."
+  },
+  {
+   "q": "How many Articles and Amendments are contained in the original document of the American Constitution?",
+   "o": [
+    "7 Articles and 27 Amendments",
+    "5 Articles and 20 Amendments",
+    "10 Articles and 25 Amendments",
+    "12 Articles and 15 Amendments"
+   ],
+   "a": 0,
+   "e": "The American Constitution is contained in a document of approximately 12 pages. it consists of a Preamble, 7 Articles, and 27 Amendments."
+  },
+  {
+   "q": "Which of the following is required to propose an amendment to the US Constitution through the Congress?",
+   "o": [
+    "Two-third votes of both Houses of the Congress",
+    "Three-fourths vote of the Senate only",
+    "Unanimous vote of the House of Representatives",
+    "Simple majority of both Houses"
+   ],
+   "a": 0,
+   "e": "An amendment to the American Constitution can be proposed by two-third votes of both Houses of the Congress. It must then be ratified by the legislatures of three-fourths of the states (38 out of 50) within a seven-year time span."
+  },
+  {
+   "q": "What is the total number of states currently in the American federal republic?",
+   "o": [
+    "52",
+    "50",
+    "13",
+    "48"
+   ],
+   "a": 1,
+   "e": "The USA is a federal republic currently comprising 50 states and the District of Columbia. It originally started with 13 states."
+  },
+  {
+   "q": "In the American Presidential system, which body is known as the 'Kitchen' Cabinet?",
+   "o": [
+    "A smaller advisory body of non-elected departmental secretaries",
+    "The House of Representatives",
+    "The Electoral College",
+    "The Senate Committee on Food and Agriculture"
+   ],
+   "a": 0,
+   "e": "The President governs with the help of a Cabinet or a smaller body called the 'Kitchen' Cabinet. This is strictly an advisory body consisting of non-elected departmental secretaries who are responsible only to the President."
+  },
+  {
+   "q": "Which Article of the US Constitution vests all legislative powers in the Congress?",
+   "o": [
+    "Article IV",
+    "Article I",
+    "Article II Article III"
+   ],
+   "a": 1,
+   "e": "Article I of the American Constitution states that all legislative powers granted shall be vested in the Congress. Article II vests executive powers in the President, and Article III vests judicial powers in the Supreme Court."
+  },
+  {
+   "q": "Under the system of checks and balances, how are judges appointed to the US Supreme Court?",
+   "o": [
+    "The House of Representatives nominates them",
+    "The Congress elects them directly",
+    "The President appoints them with the consent of the Senate",
+    "The Chief Justice appoints them"
+   ],
+   "a": 2,
+   "e": "In the US system of checks and balances, the President appoints judges, but this must be done with the consent of the Senate."
+  },
+  {
+   "q": "When was the Bill of Rights added to the original American Constitution?",
+   "o": [
+    "1791",
+    "1787 1789",
+    "1800"
+   ],
+   "a": 0,
+   "e": "The Bill of Rights was added to the original American Constitution in 1791 through the first ten amendments. It guarantees rights such as life, liberty, and property under the due process of law."
+  },
+  {
+   "q": "What is the total strength of the American Electoral College?",
+   "o": [
+    "435 100 270",
+    "538"
+   ],
+   "a": 1,
+   "e": "The total strength of the electoral college is 538. This includes 435 members from the House of Representatives, 100 from the Senate, and 3 members from the District of Columbia."
+  },
+  {
+   "q": "What is the maximum number of years a person can serve as the President of the USA?",
+   "o": [
+    "Life term",
+    "4 years",
+    "8 years",
+    "10 years"
+   ],
+   "a": 3,
+   "e": "The 22nd Amendment Act of 1951 fixed the maximum total term for any President at ten years. Generally, a person is barred from being elected as President more than twice for four-year terms."
+  },
+  {
+   "q": "Which veto allows the US President to kill a bill if Congress ends its session before ten days?",
+   "o": [
+    "Pocket Veto",
+    "Qualified Veto",
+    "Absolute Veto",
+    "Suspensive Veto"
+   ],
+   "a": 0,
+   "e": "If the US President reserves a bill and the Congress ends its session before ten days, the bill automatically dies. This is known as a 'Pocket Veto'."
+  },
+  {
+   "q": "Consider the following regarding the British Constitution — 1️⃣ It is unwritten 2️⃣ It is the oldest democratic system 3️⃣ It is an enacted Constitution",
+   "o": [
+    "All 1, 2, and 3",
+    "Only 1 and 2",
+    "Only 1 and 3",
+    "Only 2 and 3"
+   ],
+   "a": 1,
+   "e": "The British Constitution is unwritten and represents the oldest democratic system. Unlike enacted constitutions, it is an \"evolved\" one, being a product of history and wisdom rather than a single act."
+  },
+  {
+   "q": "Which historical document is NOT considered a 'Great Charter' of the British Constitution?",
+   "o": [
+    "Magna Carta (1215) The Petition of Rights (1628) The Bill of Rights (1689)",
+    "The Declaration of Independence"
+   ],
+   "a": 1,
+   "e": "Historical documents known as Great Charters include the Magna Carta (1215), the Petition of Rights (1628), and the Bill of Rights (1689). The Declaration of Independence is associated with the American Revolution."
+  },
+  {
+   "q": "In the UK, who is the 'nominal' executive and who is the 'real' executive?",
+   "o": [
+    "The Monarch is nominal; the Cabinet is real",
+    "The Parliament is nominal; the Electorate is real",
+    "The Prime Minister is nominal; the King is real",
+    "The House of Lords is nominal; House of Commons is real"
+   ],
+   "a": 0,
+   "e": "In the British Parliamentary system, the King or Queen is the nominal executive (Head of State), while the Cabinet is the real executive (Head of Government)."
+  },
+  {
+   "q": "Who said, 'The British Parliament can do everything except make a woman a man and a man a woman'?",
+   "o": [
+    "A.V. Dicey Lord Bryce Harold Laski",
+    "De Lolme"
+   ],
+   "a": 1,
+   "e": "De Lolme made this famous statement to illustrate the absolute sovereignty of the British Parliament, which can make, amend, or repeal any law."
+  },
+  {
+   "q": "Which of the following is an implication of the 'Rule of Law' according to A.V. Dicey?",
+   "o": [
+    "Different laws for officials and non-officials",
+    "Constitution is the source of individual rights",
+    "Absence of arbitrary power",
+    "Supremacy of the Executive"
+   ],
+   "a": 2,
+   "e": "Dicey's Rule of Law implies: 1) Absence of arbitrary power (no punishment except for breach of law), 2) Equality before the law, and 3) Primacy of individual rights as defined by courts."
+  },
+  {
+   "q": "Which House of the British Parliament is the oldest second chamber in the world?",
+   "o": [
+    "National Assembly",
+    "Senate",
+    "House of Lords",
+    "House of Commons"
+   ],
+   "a": 2,
+   "e": "The House of Lords is the upper House of the British Parliament and is the oldest second chamber in the world. It represents the aristocratic element of the political system."
+  },
+  {
+   "q": "What is the 'Shadow Cabinet' in the British system?",
+   "o": [
+    "The retired former ministers of the government",
+    "A committee that oversees the intelligence services",
+    "An institution formed by the opposition party to balance the ruling cabinet",
+    "A secret group of advisors to the King"
+   ],
+   "a": 2,
+   "e": "The Shadow Cabinet is a unique British institution formed by the opposition to critically watch the government and prepare its members for future ministerial office."
+  },
+  {
+   "q": "When did the present French Constitution of the Fifth Republic come into force?",
+   "o": [
+    "1958",
+    "1945",
+    "1789 1962"
+   ],
+   "a": 0,
+   "e": "The present French Constitution establishing the Fifth Republic came into force in 1958, prepared under the instructions of General de Gaulle."
+  },
+  {
+   "q": "What are the three elements of the motto of the French Fifth Republic?",
+   "o": [
+    "Peace, Democracy and Progress",
+    "Sovereignty, Unity and Justice",
+    "Liberty, Equality and Fraternity",
+    "Secularism, Socialism and Democracy"
+   ],
+   "a": 2,
+   "e": "The French Constitution of 1958 declares 'Liberty, Equality and Fraternity' as the official motto of the Fifth Republic."
+  },
+  {
+   "q": "Which feature makes the French government 'Quasi-Presidential and Quasi-Parliamentary'?",
+   "o": [
+    "A powerful directly elected President and a Cabinet responsible to Parliament",
+    "Directly elected Judges and an unwritten Constitution",
+    "A single House of Parliament and a Supreme Ruler",
+    "A King as Head of State and a President as Head of Government"
+   ],
+   "a": 0,
+   "e": "The French system combines elements of both: a powerful President directly elected by the people and a nominated Council of Ministers responsible to the Parliament."
+  },
+  {
+   "q": "How long is the term of the French President as per the amendment in 2000?",
+   "o": [
+    "Four years",
+    "Six years",
+    "Five years",
+    "Seven years"
+   ],
+   "a": 2,
+   "e": "Originally, the tenure of the French President was seven years. This was amended in the year 2000 to a term of five years."
+  },
+  {
+   "q": "Who temporarily performs the functions of the French President if the office falls vacant?",
+   "o": [
+    "Speaker of the National Assembly",
+    "President of the Senate",
+    "Chief Justice of the High Court",
+    "Prime Minister"
+   ],
+   "a": 1,
+   "e": "If the French presidency falls vacant, the functions are performed temporarily by the President of the Senate."
+  },
+  {
+   "q": "What is the maximum number of times the French President can dissolve the National Assembly in twelve months?",
+   "o": [
+    "Three times",
+    "Once",
+    "Twice",
+    "Unlimited"
+   ],
+   "a": 1,
+   "e": "The French President can dissolve the National Assembly after consulting the Prime Minister, but he cannot do so more than once in a twelve-month period."
+  },
+  {
+   "q": "The present Constitution of Japan (1947) is also known by which name?",
+   "o": [
+    "Shogunate Constitution",
+    "MacArthur Constitution",
+    "Imperial Constitution",
+    "Meiji Constitution"
+   ],
+   "a": 1,
+   "e": "The 1947 Constitution of Japan is known as the MacArthur Constitution (after U.S. General Douglas MacArthur) and the Showa Constitution."
+  },
+  {
+   "q": "Which unique provision is found in Chapter II, Article 9 of the Japanese Constitution?",
+   "o": [
+    "The Emperor as God",
+    "Rights and Duties of the People",
+    "Renunciation of War",
+    "The Supreme Law"
+   ],
+   "a": 2,
+   "e": "Article 9 of the Japanese Constitution renounces war as a sovereign right of the nation and prohibits Japan from maintaining land, sea, and air forces."
+  },
+  {
+   "q": "In Japan, who appoints the Prime Minister after they are designated by the Diet?",
+   "o": [
+    "The Speaker of the House",
+    "The Supreme Court",
+    "The Emperor",
+    "The House of Councillors"
+   ],
+   "a": 2,
+   "e": "The Prime Minister of Japan is designated by a resolution of the Diet, and then formally appointed by the Emperor."
+  },
+  {
+   "q": "How many members of the Japanese Cabinet must be chosen from among the members of the Diet?",
+   "o": [
+    "A majority",
+    "All members",
+    "At least one-third",
+    "None"
+   ],
+   "a": 0,
+   "e": "Unlike the British system where all ministers must be members of Parliament, the Japanese Constitution requires only a majority of the Ministers of State to be chosen from the Diet."
+  },
+  {
+   "q": "Which country's Constitution provided for a 'Presidium' as a 39-member collective presidency?",
+   "o": [
+    "Japan",
+    "China",
+    "USSR (Soviet Union)",
+    "France"
+   ],
+   "a": 2,
+   "e": "The Soviet Constitution of 1977 provided for the Presidium, a 39-member body that functioned as a 'collective presidency' or 'plural executive' of the USSR."
+  },
+  {
+   "q": "When did Russia adopt its new Constitution following the dissolution of the USSR?",
+   "o": [
+    "20 December 1993",
+    "1991",
+    "1917 1989"
+   ],
+   "a": 0,
+   "e": "Following the collapse of the USSR, Russia adopted its current Constitution on 20 December 1993, establishing a sovereign, multi-ethnic republican state."
+  },
+  {
+   "q": "What is the defining feature of socialism with Chinese characteristics as per Article 1 of the Chinese Constitution?",
+   "o": [
+    "Leadership by the Communist Party of China (CPC)",
+    "A multi-party system with equal power",
+    "Market-led Capitalism",
+    "Monarchy"
+   ],
+   "a": 0,
+   "e": "Article 1 of the Chinese Constitution declares that leadership by the CPC is the defining feature of socialism with Chinese characteristics."
+  },
+  {
+   "q": "How many times has the Japanese Constitution been amended since 1947?",
+   "o": [
+    "27 times",
+    "Zero",
+    "5 times",
+    "10 times"
+   ],
+   "a": 1,
+   "e": "The Japanese Constitution is highly rigid and has not been amended even once since it became operative in 1947."
+  },
+  {
+   "q": "In Switzerland, how many 'full' and 'half' cantons exist?",
+   "o": [
+    "13 full and 13 half",
+    "26 full and 0 half",
+    "20 full and 6 half",
+    "50 full and 2 half"
+   ],
+   "a": 2,
+   "e": "The Swiss federation consists of 26 units called cantons: 20 are full cantons and 6 are half cantons."
+  },
+  {
+   "q": "What is the term of office for the President of the Swiss Federal Council?",
+   "o": [
+    "One year",
+    "Four years",
+    "Two years",
+    "Five years"
+   ],
+   "a": 0,
+   "e": "While the seven members of the Swiss Federal Council serve for four years, the President and Vice-President are elected from among them for a term of only one year."
+  },
+  {
+   "q": "Which of the following are direct democratic devices used in Switzerland?",
+   "o": [
+    "Referendum and Initiative",
+    "Recall and Plebiscite",
+    "Impeachment and Veto",
+    "Ordinance and Decree"
+   ],
+   "a": 0,
+   "e": "The Swiss Constitution specifies two primary direct democratic devices: the referendum (mandatory or optional) and the popular initiative."
+  },
+  {
+   "q": "What is unique about citizenship in Switzerland?",
+   "o": [
+    "It is granted only by the President",
+    "It is single citizenship only",
+    "It is triple citizenship (Commune, Canton, and Federation)",
+    "It is only for property owners"
+   ],
+   "a": 2,
+   "e": "Swiss citizenship is three-fold: a person must be a citizen of a commune, the canton it belongs to, and finally the federation."
+  },
+  {
+   "q": "Which country's Constitution is often described as the 'mother of Constitutions'?",
+   "o": [
+    "British Constitution",
+    "American Constitution",
+    "French Constitution",
+    "Swiss Constitution"
+   ],
+   "a": 0,
+   "e": "The British Constitution is called the 'mother of Constitutions' because the principles of representative government were first developed there."
+  },
+  {
+   "q": "In the USA, what happens if no Presidential candidate secures a majority in the electoral college?",
+   "o": [
+    "The Senate elects the President",
+    "The Supreme Court decides",
+    "A new national election is held",
+    "The House of Representatives elects the President"
+   ],
+   "a": 3,
+   "e": "If no candidate wins the requisite majority (270 votes), the House of Representatives elects the President from the top three candidates."
+  },
+  {
+   "q": "Which country is the first and oldest federal state in the modern world?",
+   "o": [
+    "Great Britain Switzerland",
+    "USSR",
+    "USA"
+   ],
+   "a": 2,
+   "e": "The USA is recognized as the first and oldest federal state in the modern world."
+  },
+  {
+   "q": "How many members does the Chinese National People's Congress (NPC) approximately have?",
+   "o": [
+    "577 435 100",
+    "3,000"
+   ],
+   "a": 1,
+   "e": "The NPC is a unicameral legislature. Its membership varies but is approximately 3,000 deputies elected for a 5-year term."
+  },
+  {
+   "q": "Which American Constitutional principle embodies the 'hierarchy of laws' where the Constitution is the supreme law?",
+   "o": [
+    "Direct Democracy",
+    "Separation of Powers",
+    "Supremacy of Constitution",
+    "Bicameralism"
+   ],
+   "a": 2,
+   "e": "The American Constitution embodies the principle of 'hierarchy of laws'. The written Constitution is regarded as the highest or supreme law of the land, and all statutes must conform to it."
+  },
+  {
+   "q": "Under the US Constitution, the power of 'Judicial Review' allows the Supreme Court to act as the:",
+   "o": [
+    "Custodian of the Constitution",
+    "Electoral Commissioner",
+    "Leader of the Congress",
+    "Head of the Government"
+   ],
+   "a": 0,
+   "e": "The Supreme Court acts as the custodian of the Constitution through its power of judicial review. It can declare congressional laws and Presidential orders as ultra vires, null and void if they violate the Constitution."
+  },
+  {
+   "q": "What is the term of a member of the American Senate?",
+   "o": [
+    "Six years",
+    "Four years",
+    "Two years",
+    "Five years"
+   ],
+   "a": 0,
+   "e": "The Senate consists of 100 members, two being elected from each state to serve for a fixed six-year term."
+  },
+  {
+   "q": "Which chamber is described as the 'most powerful second chamber in the world'?",
+   "o": [
+    "American Senate",
+    "British House of Lords",
+    "French Senate",
+    "Japanese House of Councillors"
+   ],
+   "a": 0,
+   "e": "The American Senate is considered the more powerful chamber of the Congress and is regarded as the most powerful second chamber (upper House) in the world."
+  },
+  {
+   "q": "What is the term of a member of the American House of Representatives?",
+   "o": [
+    "Two years",
+    "Four years",
+    "Five years",
+    "Six years"
+   ],
+   "a": 0,
+   "e": "The House of Representatives consists of 435 members elected from single-member constituencies to serve for a fixed two-year term."
+  },
+  {
+   "q": "To win the American Presidency, a candidate needs a minimum of how many electoral votes?",
+   "o": [
+    "100",
+    "538",
+    "269",
+    "270"
+   ],
+   "a": 3,
+   "e": "A candidate needs 270 votes to win, which is 269 (half of the total 538 votes) plus one."
+  },
+  {
+   "q": "Which American President was the first to face impeachment proceedings twice?",
+   "o": [
+    "Bill Clinton",
+    "Andrew Johnson",
+    "Donald Trump",
+    "Richard Nixon"
+   ],
+   "a": 2,
+   "e": "Donald Trump faced impeachment attempts twice, first in 2019 and a second time in 2021."
+  },
+  {
+   "q": "Who described the American President as \"the greatest ruler of the world\"?",
+   "o": [
+    "Munro",
+    "Harold Laski",
+    "Ogg",
+    "Lord Bryce"
+   ],
+   "a": 2,
+   "e": "Ogg regards the American President as \"the greatest ruler of the world\" , while Lord Bryce called it \"the greatest office in the world\"."
+  },
+  {
+   "q": "Which veto allows the US President to return a bill to Congress, which then requires a two-thirds majority to pass?",
+   "o": [
+    "Absolute Veto",
+    "Suspensive Veto",
+    "Pocket Veto",
+    "Qualified Veto"
+   ],
+   "a": 3,
+   "e": "If the President rejects a bill and returns it to Congress, and it is re-passed by a two-thirds majority, it becomes law. This is known as a 'Qualified Veto'."
+  },
+  {
+   "q": "The United Kingdom of Great Britain and Northern Ireland was formed in which year?",
+   "o": [
+    "1801",
+    "1535",
+    "1707",
+    "1921"
+   ],
+   "a": 3,
+   "e": "England and Wales united in 1535, Scotland joined in 1707 to form Great Britain, and the United Kingdom of Great Britain and Northern Ireland was formed in 1921."
+  },
+  {
+   "q": "Who described the British Constitution as 'a blend of formal law, precedent and tradition'?",
+   "o": [
+    "A.V. Dicey",
+    "J.S. Mill",
+    "Bagehot",
+    "L.S. Amery"
+   ],
+   "a": 3,
+   "e": "In his book *Thoughts on the Constitution*, L.S. Amery states that the British Constitution is 'a blend of formal law, precedent and tradition'."
+  },
+  {
+   "q": "Which of the following British constitutional elements are unwritten principles of political practices?",
+   "o": [
+    "Statutes",
+    "Conventions",
+    "Great Charters",
+    "Common Law"
+   ],
+   "a": 1,
+   "e": "Conventions are unwritten principles of political practices and customary behaviour developed over time. J.S. Mill described them as 'Unwritten maxims of the Constitution'."
+  },
+  {
+   "q": "Which British statute regulates the principles of 'Habeas Corpus'?",
+   "o": [
+    "Statute of Westminster, 1931",
+    "Ministers of the Crown Act, 1937",
+    "Habeas Corpus Act, 1679",
+    "People's Representation Act, 1948"
+   ],
+   "a": 2,
+   "e": "The Habeas Corpus Act, 1679 is an important statute that defines and regulates political institutions and rights in Britain."
+  },
+  {
+   "q": "Who defined Common Law as a 'vast body of legal precept and usage' acquired over centuries?",
+   "o": [
+    "Blackstone",
+    "Bagehot",
+    "Dr. Ogg",
+    "A.V. Dicey"
+   ],
+   "a": 2,
+   "e": "Dr. Ogg defines common law as the body of legal usage which through centuries has acquired a binding and almost immutable character."
+  },
+  {
+   "q": "In a Unitary Constitution like Britain's, from where do local governments derive their authority?",
+   "o": [
+    "The Central Government",
+    "The Constitution",
+    "Direct Election by people",
+    "The Monarchy"
+   ],
+   "a": 0,
+   "e": "In a unitary state, local governments are created for administrative convenience and derive their authority from the Central Government, which can also abolish them."
+  },
+  {
+   "q": "In Britain, the Ministers are individually and collectively responsible to which House?",
+   "o": [
+    "The Privy Council",
+    "The Monarchy",
+    "House of Lords",
+    "House of Commons"
+   ],
+   "a": 3,
+   "e": "British Ministers are individually and collectively responsible to the House of Commons and remain in office as long as they enjoy its majority support."
+  },
+  {
+   "q": "Which principle implies there is no system of judicial review in Great Britain?",
+   "o": [
+    "Constitutional Monarchy",
+    "Rule of Law",
+    "Bicameralism",
+    "Sovereignty of Parliament"
+   ],
+   "a": 3,
+   "e": "Sovereignty of Parliament implies that parliamentary laws cannot be declared invalid by the judiciary, meaning there is no system of judicial review in the UK."
+  },
+  {
+   "q": "According to A.V. Dicey, 'Equality before the law' means:",
+   "o": [
+    "Exemption of the rich from certain laws",
+    "Equal subjection of all citizens to ordinary law courts",
+    "Special courts for government officials",
+    "Different laws for different social classes"
+   ],
+   "a": 1,
+   "e": "Dicey's principle of equality before the law means the equal subjection of all citizens—rich or poor, official or non-official—to the ordinary law administered by ordinary courts."
+  },
+  {
+   "q": "The popular statement 'the King is dead; long live the King' refers to:",
+   "o": [
+    "The actual physical immortality of the monarch",
+    "The election of a new King",
+    "The end of the monarchy",
+    "The immortality of the Crown as an institution"
+   ],
+   "a": 3,
+   "e": "This statement means that while the person (King) is mortal, the institution of kingship (the Crown) is immortal and survives the individual."
+  },
+  {
+   "q": "How many members does the British House of Lords currently have?",
+   "o": [
+    "677",
+    "100",
+    "659",
+    "435"
+   ],
+   "a": 0,
+   "e": "At present, the House of Lords has 677 appointed members who fall into four distinct groups; it is mostly a hereditary body."
+  },
+  {
+   "q": "Which of the following officials is NOT a member of the British Cabinet?",
+   "o": [
+    "Secretary of State for Home",
+    "Lord Chancellor",
+    "Chancellor of the Exchequer",
+    "Attorney-General"
+   ],
+   "a": 3,
+   "e": "The Attorney-General, Solicitor-General, Lord Advocate, and Paymaster-General are not members of the British Cabinet."
+  },
+  {
+   "q": "The relationship between the British Prime Minister and the Cabinet was historically described as:",
+   "o": [
+    "King and Subjects",
+    "Master and Servant",
+    "Supervisor and Staff",
+    "Primus inter pares"
+   ],
+   "a": 3,
+   "e": "Historically, experts described the Prime Minister as 'Primus inter pares' (first among equals) in relation to the Cabinet."
+  },
+  {
+   "q": "Who described the leader of the opposition in Britain as the 'alternative' Prime Minister?",
+   "o": [
+    "Ivor Jennings",
+    "Crossman",
+    "Mackintosh",
+    "Harold Laski"
+   ],
+   "a": 0,
+   "e": "Ivor Jennings described the leader of the opposition as the 'alternative' Prime Minister because they run a 'Parallel' government with a shadow cabinet."
+  },
+  {
+   "q": "Since the French Revolution, France has changed its Constitution on average after every:",
+   "o": [
+    "20 years",
+    "12 years",
+    "5 years",
+    "50 years"
+   ],
+   "a": 1,
+   "e": "Since the revolution of 1789, France has changed its Constitution on an average after every 12 years."
+  },
+  {
+   "q": "Which chapter of the French Constitution covers 'The President of the Republic'?",
+   "o": [
+    "Chapter IV",
+    "Chapter III",
+    "Chapter I",
+    "Chapter II"
+   ],
+   "a": 3,
+   "e": "Chapter II (Articles 5 to 19) of the French Constitution deals with the President of the Republic."
+  },
+  {
+   "q": "How can the French Constitution be amended by the Parliament?",
+   "o": [
+    "Simple majority",
+    "Three-fourths majority",
+    "60 per cent majority vote in both houses",
+    "Two-thirds majority"
+   ],
+   "a": 2,
+   "e": "The French Constitution is rigid and can be amended by the Parliament with a 60 per cent majority vote in both houses."
+  },
+  {
+   "q": "What is the term of the French National Assembly members?",
+   "o": [
+    "Six years",
+    "Four years",
+    "Two years",
+    "Five years"
+   ],
+   "a": 3,
+   "e": "The National Assembly has 577 members who are directly elected for a five-year term."
+  },
+  {
+   "q": "The French 'Constitutional Council' consists of how many members?",
+   "o": [
+    "15 members",
+    "9 members",
+    "7 members",
+    "21 members"
+   ],
+   "a": 1,
+   "e": "The Constitutional Council consists of nine members who are appointed for a term of nine years."
+  },
+  {
+   "q": "In the French Presidential election, what happens if no candidate obtains an absolute majority in the first ballot?",
+   "o": [
+    "A second ballot is held between the top two candidates",
+    "The current President stays in power",
+    "The Parliament elects the President",
+    "A national strike is called"
+   ],
+   "a": 0,
+   "e": "If no candidate gets an absolute majority in the first ballot, a second ballot is held where only the top two candidates from the first ballot may stand."
+  },
+  {
+   "q": "Who presides over the meetings of the French Council of Ministers?",
+   "o": [
+    "The Prime Minister",
+    "The Chief Justice",
+    "The President",
+    "The Speaker"
+   ],
+   "a": 2,
+   "e": "The French President presides over the meetings of the Council of Ministers, which allows him to influence and control government policies."
+  },
+  {
+   "q": "The French President must promulgate a law within how many days of its final adoption?",
+   "o": [
+    "60 days",
+    "15 days",
+    "30 days",
+    "10 days"
+   ],
+   "a": 1,
+   "e": "The President promulgates laws within fifteen days following their final adoption by Parliament."
+  },
+  {
+   "q": "What is the title of the reign of Emperor Hirohito, which means 'Radiant Peace'?",
+   "o": [
+    "Brezhnev",
+    "MacArthur",
+    "Showa",
+    "Meiji Restoration"
+   ],
+   "a": 2,
+   "e": "Showa is the title of the reign of Emperor Hirohito and means 'Radiant Peace'."
+  },
+  {
+   "q": "How many Articles are in the Japanese Constitution?",
+   "o": [
+    "174 Articles",
+    "196 Articles",
+    "103 Articles",
+    "138 Articles"
+   ],
+   "a": 2,
+   "e": "The Japanese Constitution contains a Preamble and 103 Articles divided into 11 chapters."
+  },
+  {
+   "q": "Which body initiates a constitutional amendment in Japan?",
+   "o": [
+    "The Supreme Court",
+    "The People",
+    "The Emperor",
+    "The Diet"
+   ],
+   "a": 3,
+   "e": "Amendments must be initiated by the Diet and passed by a two-thirds majority of its membership."
+  },
+  {
+   "q": "In Japan, what is the term of office for the House of Councillors?",
+   "o": [
+    "Six years",
+    "Two years",
+    "Four years",
+    "Five years"
+   ],
+   "a": 0,
+   "e": "The House of Councillors consists of 252 members elected for a term of six years."
+  },
+  {
+   "q": "The USSR (Soviet Union) was formed following which revolution in 1917?",
+   "o": [
+    "French Revolution",
+    "Meiji Restoration",
+    "Bolshevik Revolution",
+    "American Revolution"
+   ],
+   "a": 2,
+   "e": "The USSR was formed in 1917 following the Russian Revolution, also known as the Bolshevik Revolution, led by V.I. Lenin."
+  },
+  {
+   "q": "Which Soviet Constitution was known as the 'Brezhnev Constitution'?",
+   "o": [
+    "1977 Constitution",
+    "1918 Constitution",
+    "1936 Constitution",
+    "1924 Constitution"
+   ],
+   "a": 0,
+   "e": "The 1977 Soviet Constitution is referred to as the Brezhnev Constitution."
+  },
+  {
+   "q": "How many Union Republics made up the Soviet Federation?",
+   "o": [
+    "15",
+    "21",
+    "50",
+    "12"
+   ],
+   "a": 0,
+   "e": "The Soviet Constitution provided for a federal state consisting of 15 units called Union Republics."
+  },
+  {
+   "q": "What was the monopoly party of the former USSR?",
+   "o": [
+    "Democratic Party",
+    "Communist Party of the Soviet Union (CPSU)",
+    "Labour Party",
+    "CPC"
+   ],
+   "a": 1,
+   "e": "The most important feature of the Soviet system was the monopoly of political power enjoyed by the CPSU."
+  },
+  {
+   "q": "Under the principle of 'Democratic Centralism' in the USSR:",
+   "o": [
+    "All bodies are independent",
+    "Lower bodies must observe the decisions of higher ones",
+    "There is no central leadership",
+    "Higher bodies are accountable to lower ones"
+   ],
+   "a": 1,
+   "e": "Democratic centralism means the electiveness of bodies and the obligation of lower bodies to observe the decisions of higher ones."
+  },
+  {
+   "q": "Which of the following was a 'Fundamental Duty' in the Soviet Constitution?",
+   "o": [
+    "To work",
+    "To safeguard the interests of the Soviet state",
+    "To have leisure time",
+    "To receive an education"
+   ],
+   "a": 1,
+   "e": "Safeguarding the interests of the Soviet state was listed as a fundamental duty."
+  },
+  {
+   "q": "How many members are in the Russian 'State Duma' (lower House)?",
+   "o": [
+    "178",
+    "435",
+    "577",
+    "450"
+   ],
+   "a": 3,
+   "e": "The State Duma consists of 450 members who are directly elected for a period of four years."
+  },
+  {
+   "q": "Who is the Commander-in-Chief of the armed forces in the Russian Federation?",
+   "o": [
+    "The Minister of Defence",
+    "The President",
+    "The Chairman of the Duma",
+    "The Prime Minister"
+   ],
+   "a": 1,
+   "e": "The President of the Russian Federation is the head of the executive and the Commander-in-Chief of the armed forces."
+  },
+  {
+   "q": "The present Chinese Constitution was adopted in which year?",
+   "o": [
+    "1954",
+    "1982",
+    "1978",
+    "1949"
+   ],
+   "a": 1,
+   "e": "The fourth and present Chinese constitution was adopted by the NPC on December 4, 1982."
+  },
+  {
+   "q": "In China, who is the highest state administrative organ?",
+   "o": [
+    "Communist Party",
+    "State Council",
+    "President",
+    "National People's Congress (NPC)"
+   ],
+   "a": 1,
+   "e": "The State Council of China (Central People's Government) is the highest state administrative organ."
+  },
+  {
+   "q": "What is the minimum age to be eligible for election as the President of China?",
+   "o": [
+    "45",
+    "50",
+    "35",
+    "30"
+   ],
+   "a": 0,
+   "e": "Any citizen of China who has reached the age of 45 is eligible for election as the President."
+  },
+  {
+   "q": "In the Chinese Constitution, which organ is described as the permanent organ of the NPC?",
+   "o": [
+    "Standing Committee",
+    "Supreme Court",
+    "State Council",
+    "Central Military Commission"
+   ],
+   "a": 0,
+   "e": "The permanent organ of the NPC is the Standing Committee, consisting of approximately 200 members."
+  },
+  {
+   "q": "Which Swiss Constitution is currently in force?",
+   "o": [
+    "1848 Constitution",
+    "1999 Constitution",
+    "2020 Constitution",
+    "1874 Constitution"
+   ],
+   "a": 1,
+   "e": "Switzerland is currently under its third constitution, which was adopted in 1999 and came into force on January 1, 2000."
+  },
+  {
+   "q": "A total revision of the Swiss Constitution can be proposed by:",
+   "o": [
+    "The people or either chamber of the Federal Assembly",
+    "Only the Supreme Court",
+    "Only the President",
+    "Only the Cantons"
+   ],
+   "a": 0,
+   "e": "A total revision may be proposed by the people or either of the two chambers of the Federal Assembly."
+  },
+  {
+   "q": "How many members are in the Swiss Federal Council?",
+   "o": [
+    "7",
+    "9",
+    "39",
+    "15"
+   ],
+   "a": 0,
+   "e": "The Swiss Federal Council (executive) has seven members elected by the Federal Assembly."
+  },
+  {
+   "q": "What is the term of office for the Swiss National Council?",
+   "o": [
+    "Two years",
+    "Four years",
+    "One year",
+    "Six years"
+   ],
+   "a": 1,
+   "e": "The National Council is composed of 200 representatives elected for a term of four years."
+  },
+  {
+   "q": "In Switzerland, an 'Optional Referendum' is triggered if how many voters request it?",
+   "o": [
+    "25,000",
+    "10,000",
+    "100,000",
+    "50,000"
+   ],
+   "a": 3,
+   "e": "An optional referendum occurs if 50,000 voters or eight cantons request it."
+  },
+  {
+   "q": "Which country has a 'Council Model of Government' with a plural executive?",
+   "o": [
+    "France",
+    "Switzerland",
+    "USA",
+    "UK"
+   ],
+   "a": 1,
+   "e": "Switzerland provides for a unique system of executive called the Federal Council, which is a plural or collegial executive."
+  },
+  {
+   "q": "Who is the head of the Chinese State Council?",
+   "o": [
+    "The Chairman of the CPC",
+    "The President",
+    "The Premier",
+    "The Chief Justice"
+   ],
+   "a": 2,
+   "e": "The State Council of China is headed by a Premier."
+  },
+  {
+   "q": "In the American system, what is the 'Kitchen Cabinet'?",
+   "o": [
+    "The opposition's shadow cabinet",
+    "The staff that manages the White House kitchen",
+    "An advisory body of non-elected departmental secretaries",
+    "A committee on nutrition"
+   ],
+   "a": 2,
+   "e": "The Kitchen Cabinet is an advisory body to the US President consisting of non-elected departmental secretaries."
+  },
+  {
+   "q": "The 'Meiji Constitution' of Japan was based on:",
+   "o": [
+    "Socialism and communism",
+    "Liberalism",
+    "Democracy and peace",
+    "Autocracy and monarchy"
+   ],
+   "a": 3,
+   "e": "The Meiji Constitution (1889-1947) was based on ideals of autocracy, authoritarianism, and monarchy."
+  },
+  {
+   "q": "Which country's Constitution prohibits the right of belligerency of the state?",
+   "o": [
+    "USA",
+    "Japan",
+    "France",
+    "Russia"
+   ],
+   "a": 1,
+   "e": "The Japanese Constitution renounces war and does not recognize the right of belligerency of the state."
+  },
+  {
+   "q": "In the USSR, the 'Soviet of the Union' was the:",
+   "o": [
+    "Judicial Body",
+    "Upper House",
+    "Executive Body",
+    "Lower House"
+   ],
+   "a": 3,
+   "e": "The Supreme Soviet consisted of the Soviet of the Union (lower House) and the Soviet of the Nationalities (upper House)."
+  },
+  {
+   "q": "How many members are in the Russian Federation Council (upper House)?",
+   "o": [
+    "100",
+    "450",
+    "178",
+    "538"
+   ],
+   "a": 2,
+   "e": "The Federation Council consists of 178 members, two from each territorial unit of the Russian Federation."
+  },
+  {
+   "q": "Which country provides for 'Triple Citizenship'?",
+   "o": [
+    "UK",
+    "USA",
+    "Switzerland",
+    "China"
+   ],
+   "a": 2,
+   "e": "Under the Swiss constitution, citizenship is three-fold: the commune, the canton, and the federation."
+  },
+  {
+   "q": "What is the total number of Articles and Chapters in the 1982 Chinese Constitution?",
+   "o": [
+    "92 Articles and 15 Chapters",
+    "103 Articles and 11 Chapters",
+    "138 Articles and 4 Chapters",
+    "174 Articles and 20 Chapters"
+   ],
+   "a": 2,
+   "e": "Originally, the 1982 Chinese Constitution consisted of a Preamble and 138 Articles divided into four chapters."
+  },
+  {
+   "q": "Which body has the power to propose amendments to the Constitution in China?",
+   "o": [
+    "The Central Military Commission",
+    "Standing Committee of the NPC or one-fifth of total deputies",
+    "The State Council",
+    "The President of China"
+   ],
+   "a": 1,
+   "e": "Amendments to the Chinese Constitution must be proposed either by the Standing Committee of the NPC or by one-third (or more) of the total deputies of the NPC."
+  },
+  {
+   "q": "In the Chinese political system, the State Council is responsible to which organ?",
+   "o": [
+    "The President of China",
+    "National People's Congress (NPC)",
+    "The Supreme People's Court",
+    "The Communist Party of China"
+   ],
+   "a": 1,
+   "e": "The State Council, which is the executive organ of the highest state power, is responsible to the NPC and reports to it on its work."
+  },
+  {
+   "q": "How is the President of the People's Republic of China elected?",
+   "o": [
+    "By direct universal suffrage",
+    "By the National People's Congress (NPC)",
+    "By the Communist Party Central Committee",
+    "By an Electoral College"
+   ],
+   "a": 1,
+   "e": "The President of China is elected by the NPC for a term of 5 years."
+  },
+  {
+   "q": "Which principle ensures that all state institutions in China are created by and responsible to the people's congresses?",
+   "o": [
+    "Democratic Centralism",
+    "Check and Balances",
+    "Separation of Powers",
+    "Judicial Review"
+   ],
+   "a": 0,
+   "e": "Under the principle of democratic centralism, all administrative, supervisory, adjudicatory, and procuratorial organs are created by the people's congresses and are subject to their oversight."
+  },
+  {
+   "q": "What limitation is placed on the exercise of fundamental rights by citizens in China?",
+   "o": [
+    "They must not undermine the interests of the state or society",
+    "They only apply to urban residents",
+    "They are absolute and cannot be restricted",
+    "They can only be exercised by Communist Party members"
+   ],
+   "a": 0,
+   "e": "While the Constitution provides many rights, it specifies that their enjoyment should not undermine the interests of the state, society, collectives, or the rights of other citizens."
+  },
+  {
+   "q": "Which of the following is a fundamental duty of Chinese citizens?",
+   "o": [
+    "To practice family planning",
+    "To criticize the government daily",
+    "To join a religious organization",
+    "To own private property"
+   ],
+   "a": 0,
+   "e": "In addition to duties like defending the motherland, Chinese citizens are constitutionally required to work, receive education, and practice family planning."
+  },
+  {
+   "q": "What was the significance of the 1848 Swiss Constitution?",
+   "o": [
+    "It established the federal state in Switzerland",
+    "It was the first socialist constitution",
+    "It introduced the triple citizenship",
+    "It abolished the cantons"
+   ],
+   "a": 0,
+   "e": "Switzerland has adopted three constitutions (1848, 1874, 1999), with the 1848 version specifically establishing the federal state."
+  },
+  {
+   "q": "How is a total revision of the Swiss Constitution finalized?",
+   "o": [
+    "By the Federal Supreme Court",
+    "It must be approved by both the people and the cantons",
+    "By a decree from the Federal Council",
+    "By a simple majority in the Federal Assembly"
+   ],
+   "a": 1,
+   "e": "A totally revised or partially revised Swiss constitution comes into force only after it is approved by both the people and the cantons."
+  },
+  {
+   "q": "What distinguishes a 'half' canton from a 'full' canton in Switzerland?",
+   "o": [
+    "A half canton has no legislature",
+    "A half canton is governed directly by the federation",
+    "A half canton cannot vote on constitutional revisions",
+    "A half canton has only one representative in the upper house"
+   ],
+   "a": 3,
+   "e": "Half cantons differ in that they have only one representative in the Council of States (compared to two for full cantons) and have only a half vote on constitutional revisions."
+  },
+  {
+   "q": "How are the seven members of the Swiss Federal Council elected?",
+   "o": [
+    "By the Federal Assembly",
+    "By the Cantonal legislatures",
+    "By direct election by the people",
+    "By the outgoing President"
+   ],
+   "a": 0,
+   "e": "The seven members of the Federal Council are elected by the Federal Assembly following each general election to the National Council."
+  },
+  {
+   "q": "What is the position of the President of the Swiss Confederation?",
+   "o": [
+    "Primus inter pares (first among equals)",
+    "Chief Executive with veto power",
+    "Head of the Judiciary",
+    "Commander-in-Chief with absolute authority"
+   ],
+   "a": 0,
+   "e": "The Swiss President does not possess special powers and is only a primus inter pares, acting as a nominal head for ceremonial duties."
+  },
+  {
+   "q": "Which statement is true regarding the removal of the Swiss Federal Council?",
+   "o": [
+    "They cannot be removed by a motion of no-confidence",
+    "They are removed by the President at will",
+    "They are removed by the Cantons",
+    "They are removed if the people sign a petition"
+   ],
+   "a": 0,
+   "e": "Unlike the British Cabinet, the Swiss Federal Council cannot be removed by the legislature through a motion of no-confidence."
+  },
+  {
+   "q": "How many representatives does each full canton have in the Swiss Council of States?",
+   "o": [
+    "One",
+    "Four",
+    "Based on population",
+    "Two"
+   ],
+   "a": 3,
+   "e": "The Council of States is composed of 46 representatives; full cantons elect two each, while half cantons elect one each."
+  },
+  {
+   "q": "What is the term of office for the Swiss National Council?",
+   "o": [
+    "Five years",
+    "Two years",
+    "Six years",
+    "Four years"
+   ],
+   "a": 3,
+   "e": "The 200 members of the National Council are elected directly by the people for a term of four years."
+  },
+  {
+   "q": "Under what condition is a 'Mandatory Referendum' required in Switzerland?",
+   "o": [
+    "Only if 100,000 voters request it",
+    "For any amendment to the Constitution",
+    "For every federal act passed by the assembly",
+    "If the President dies in office"
+   ],
+   "a": 1,
+   "e": "Mandatory referendums must be put to the vote for all amendments to the constitution and for accession to collective security organizations."
+  },
+  {
+   "q": "How many Swiss voters are required to propose a popular initiative for a partial revision of the Constitution?",
+   "o": [
+    "50,000",
+    "200,000",
+    "75,000",
+    "100,000"
+   ],
+   "a": 3,
+   "e": "Any 100,000 voters may request a partial or total revision of the Swiss constitution through the device of initiative."
+  },
+  {
+   "q": "Which country's constitution includes 'Social Goals' such as ensuring access to social security and housing?",
+   "o": [
+    "USA",
+    "Switzerland",
+    "France",
+    "Japan"
+   ],
+   "a": 1,
+   "e": "The Swiss constitution contains a list of social goals that the federal and cantonal governments shall endeavour to achieve, such as access to health care and suitable accommodation."
+  },
+  {
+   "q": "What is the legal status of 'Social Goals' in the Swiss Constitution?",
+   "o": [
+    "They are only applicable during emergencies",
+    "No direct right to state benefits is established based on them",
+    "They are legally enforceable in court by any citizen",
+    "They override fundamental rights"
+   ],
+   "a": 1,
+   "e": "Although the government must strive to achieve these goals, the constitution states that no direct right to state benefits may be established on their basis."
+  },
+  {
+   "q": "In Switzerland, which level of citizenship is often regarded as the most valuable?",
+   "o": [
+    "Cantonal citizenship",
+    "Federal citizenship",
+    "International citizenship",
+    "Communal citizenship"
+   ],
+   "a": 3,
+   "e": "In the Swiss system of triple citizenship, the communal (municipality) citizenship is regarded as more valuable than cantonal or federal citizenship."
+  },
+  {
+   "q": "Which article of the Japanese Constitution renounces the threat or use of force to settle international disputes?",
+   "o": [
+    "Article 1",
+    "Article 9",
+    "Article 103",
+    "Article 21"
+   ],
+   "a": 1,
+   "e": "Article 9 of the Japanese Constitution renounces war as a sovereign right and the use of force as a means of settling international disputes."
+  },
+  {
+   "q": "Who was the leader of the Russian Revolution that led to the formation of the USSR in 1917?",
+   "o": [
+    "V.I. Lenin",
+    "Joseph Stalin",
+    "Leonid Brezhnev",
+    "Mikhail Gorbachev"
+   ],
+   "a": 0,
+   "e": "The USSR was formed following the Bolshevik Revolution led by the charismatic V.I. Lenin in 1917."
+  },
+  {
+   "q": "The 'Stalin Constitution' of the USSR was adopted in which year?",
+   "o": [
+    "1977",
+    "1924",
+    "1936",
+    "1918"
+   ],
+   "a": 2,
+   "e": "The USSR adopted four constitutions during its existence: in 1918, 1924, 1936 (Stalin), and 1977 (Brezhnev)."
+  },
+  {
+   "q": "Which body in the former USSR combined executive, legislative, and judicial functions?",
+   "o": [
+    "The Communist Party",
+    "The Council of Ministers",
+    "The Presidium",
+    "The Supreme Soviet"
+   ],
+   "a": 2,
+   "e": "The Presidium of the Supreme Soviet was a 39-member body that combined multifarious functions and was described as a '20th Century Innovation'."
+  },
+  {
+   "q": "What was the role of the 'Soviet of Nationalities' in the USSR?",
+   "o": [
+    "To act as the supreme court",
+    "To represent the nation as a whole",
+    "To represent the units of the Soviet Federation",
+    "To manage the military"
+   ],
+   "a": 2,
+   "e": "The Supreme Soviet was bicameral; the lower house (Soviet of the Union) represented the nation, while the upper house (Soviet of the Nationalities) represented the federal units."
+  },
+  {
+   "q": "In the Russian Federation, which house is the 'lower house' of the Federal Assembly?",
+   "o": [
+    "House of Representatives",
+    "Federation Council",
+    "National Assembly",
+    "State Duma"
+   ],
+   "a": 3,
+   "e": "The bicameral legislature of Russia, the Federal Assembly, consists of the Federation Council (upper) and the State Duma (lower)."
+  },
+  {
+   "q": "What is the term for the Russian State Duma?",
+   "o": [
+    "Five years",
+    "Six years",
+    "Four years",
+    "Two years"
+   ],
+   "a": 2,
+   "e": "The State Duma consists of 450 members who are directly elected for a period of four years."
+  },
+  {
+   "q": "Who has the authority to appoint the Prime Minister (Chairman of the Government) in Russia?",
+   "o": [
+    "The Federation Council",
+    "The People",
+    "The State Duma",
+    "The President"
+   ],
+   "a": 3,
+   "e": "The Russian President is authorized to appoint the Chairman of the Government (Prime Minister)."
+  },
+  {
+   "q": "How is the President of the Russian Federation removed from office?",
+   "o": [
+    "Dismissal by the Constitutional Court",
+    "Impeachment by the Federal Assembly",
+    "Recall by the people",
+    "Vote of no-confidence by the Duma"
+   ],
+   "a": 1,
+   "e": "The Russian legislature can remove the President through impeachment on charges of high treason or grave crime, approved by a two-thirds majority in both houses."
+  },
+  {
+   "q": "Which country's constitution describes itself as \"indivisible, secular, democratic and social\"?",
+   "o": [
+    "France",
+    "USA",
+    "UK",
+    "China"
+   ],
+   "a": 0,
+   "e": "The French Constitution states that \"France is an indivisible, secular, democratic and social republic\"."
+  },
+  {
+   "q": "In the UK, which body has the power to dissolve the House of Commons?",
+   "o": [
+    "The Speaker of the House",
+    "The King/Queen on the advice of the Prime Minister",
+    "The Prime Minister alone",
+    "The House of Lords"
+   ],
+   "a": 1,
+   "e": "According to British convention, the Monarch dissolves the lower House (House of Commons) on the advice of the Prime Minister."
+  },
+  {
+   "q": "Which of the following is a 'Legal Commentary' on the British Constitution?",
+   "o": [
+    "The Bill of Rights",
+    "Dicey's 'Law of the Constitution'",
+    "The Habeas Corpus Act",
+    "The Magna Carta"
+   ],
+   "a": 1,
+   "e": "Legal commentaries like A.V. Dicey's 'Law of the Constitution' and Bagehot's 'English Constitution' are key sources for understanding the British system."
+  },
+  {
+   "q": "What is the current number of seats in the British House of Commons?",
+   "o": [
+    "577",
+    "659",
+    "435",
+    "677"
+   ],
+   "a": 1,
+   "e": "At present, there are 659 seats in the House of Commons distributed among England, Wales, Scotland, and Northern Ireland."
+  },
+  {
+   "q": "Who occupies the 'ceremonial' position as Head of State in the USA?",
+   "o": [
+    "The President",
+    "The Chief Justice",
+    "The Vice-President",
+    "The Speaker"
+   ],
+   "a": 0,
+   "e": "In the American presidential system, the President is both Head of State (occupying a ceremonial position) and Head of Government."
+  },
+  {
+   "q": "Which US amendment fixed the maximum presidential term?",
+   "o": [
+    "10th Amendment",
+    "27th Amendment",
+    "1st Amendment",
+    "22nd Amendment"
+   ],
+   "a": 3,
+   "e": "The 22nd Amendment Act of 1951 fixed the maximum total term for any President at ten years (effectively two elected terms)."
+  },
+  {
+   "q": "Which country features a 'Constitutional Council' that ensures laws conform to the Constitution?",
+   "o": [
+    "France",
+    "UK",
+    "Japan",
+    "USA"
+   ],
+   "a": 0,
+   "e": "France has a Constitutional Council of nine members that acts as a judicial watchdog for executive decrees and parliamentary laws."
+  },
+  {
+   "q": "How many members are in the French National Assembly?",
+   "o": [
+    "435",
+    "348",
+    "577",
+    "659"
+   ],
+   "a": 2,
+   "e": "The French National Assembly, which is the lower house, has 577 members directly elected for five years."
+  },
+  {
+   "q": "The 'Diet' is the name of the parliament in which country?",
+   "o": [
+    "China",
+    "Japan",
+    "Switzerland",
+    "Russia"
+   ],
+   "a": 1,
+   "e": "The Japanese Federal Legislature is called the Diet."
+  },
+  {
+   "q": "Which principle in the USSR allowed for the 'electiveness of all bodies' and 'accountability to the people'?",
+   "o": [
+    "Federalism",
+    "Democratic Centralism",
+    "One-party Dictatorship",
+    "Socialist Ownership"
+   ],
+   "a": 1,
+   "e": "Democratic centralism in the USSR combined central leadership with the electiveness and accountability of all state bodies."
+  },
+  {
+   "q": "In Switzerland, a 'Formulative Initiative' refers to:",
+   "o": [
+    "A specific draft of proposed constitutional provisions",
+    "An initiative to remove the President",
+    "A general proposal for revision",
+    "A request for a new law"
+   ],
+   "a": 0,
+   "e": "A popular initiative for partial revision in Switzerland can take the form of a general proposal or a specific draft (formulative initiative)."
+  }
+ ]
+}

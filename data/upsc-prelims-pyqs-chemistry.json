@@ -1,0 +1,1108 @@
+{
+ "title": "Chemistry",
+ "category": "UPSC Prelims PYQs",
+ "minutes": 50,
+ "negative": 0.25,
+ "questions": [
+  {
+   "q": "Which one of the following can be used to confirm whether drinking water contains a gamma emitting isotope or not? [1995]",
+   "o": [
+    "Spectrophotometer",
+    "Lead plate",
+    "Microscope",
+    "Scintillation counter"
+   ],
+   "a": 3,
+   "e": "A scintillation counter (scintillometer) is an instrument used to measure gamma radiation by utilizing the flash of light emitted when atoms of a phosphor are energized. It is also used in airborne and ground radiometric surveys to detect isotopes in substances like water."
+  },
+  {
+   "q": "Which one of the following pairs of materials serves as electrodes in chargeable batteries commonly used in devices such as torchlights, electric shavers etc. [1995]",
+   "o": [
+    "Nickel and cadmium",
+    "Lead peroxide and lead",
+    "Zinc and carbon",
+    "Iron and cadmium"
+   ],
+   "a": 0,
+   "e": "Nickel and cadmium are used as electrodes in rechargeable batteries for devices like electric shavers. Nickel hydroxide acts as the positive electrode, while cadmium hydroxide acts as the negative electrode."
+  },
+  {
+   "q": "'Yellow cake', an item of smuggling across border is [1995]",
+   "o": [
+    "unrefined gold",
+    "uranium oxide",
+    "a crude form of heroin",
+    "a crude form of cocaine"
+   ],
+   "a": 1,
+   "e": "'Yellow cake' refers to various compounds of uranium, most commonly uranium oxides. It is a concentrated form of uranium ore obtained during the processing stage."
+  },
+  {
+   "q": "The difference between a nuclear reactor and an atomic bomb is that [1995]",
+   "o": [
+    "no-chain reaction takes place in atomic bomb while it takes place in nuclear reactor",
+    "no chain reaction takes place in nuclear reactor while in the atomic bomb there is a chain reaction",
+    "the chain reaction in nuclear reactor is not controlled",
+    "the chain reaction in nuclear reactor is controlled"
+   ],
+   "a": 3,
+   "e": "Both nuclear reactors and atomic bombs utilize nuclear fission chain reactions. However, in a nuclear reactor, the reaction is controlled using neutron-absorbing materials like cadmium or boron, whereas an atomic bomb has no such control, leading to an uncontrolled explosion."
+  },
+  {
+   "q": "The alpha particle carries two positive charge. Its mass is very nearly equal to that of [1996]",
+   "o": [
+    "an atom of helium",
+    "two protons",
+    "two positrons as each positron carries a single positive charge",
+    "sum of masses of two positrons and two neutrons"
+   ],
+   "a": 0,
+   "e": "An alpha particle consists of two protons and two neutrons, giving it a mass number of 4. This mass is equal to the molecular weight of a helium atom."
+  },
+  {
+   "q": "Match the names of outstanding Indian scientists given in List I with area of their specialized work given in List II: 1️⃣ Dr. Raja Ramanna - Nuclear physics 2️⃣ Dr. M.S. Swaminathan - Agricultural science 3️⃣ Prof. U.R Rao - Space research 4️⃣ Prof. Meghnad Saha - Thermodynamics & astrophysics [1998]",
+   "o": [
+    "A-2; B-5; C-4; D-3",
+    "A-2; B-1; C-4; D-3",
+    "A-3; B-5; C-2; D-1",
+    "A-3; B-1; C-4; D-2"
+   ],
+   "a": 0,
+   "e": "Dr. Raja Ramanna was a prominent nuclear physicist; Dr. M.S. Swaminathan is the father of the Green Revolution in agriculture; Prof. U.R. Rao led India's space research; and Prof. Meghnad Saha is famous for the Saha equation in astrophysics."
+  },
+  {
+   "q": "Which one of the following elements is essential for the construction of nuclear reactors? [1998]",
+   "o": [
+    "Zirconium",
+    "Cobalt",
+    "Tungsten",
+    "Nickel"
+   ],
+   "a": 0,
+   "e": "Zirconium is primarily used in the nuclear industry to form the outer layer (cladding) of fuel rods. It is ideal because of its low neutron capture cross-section and high corrosion resistance."
+  },
+  {
+   "q": "Barium in a suitable form is administered to patients before an X-ray examination of the stomach, because [1999]",
+   "o": [
+    "barium is a good absorber of y-rays and this helps the stomach to appear clearly in contrast with the other regions in the picture.",
+    "barium salts are white in colour and this helps the stomach to appear clearly in contrast with other regions in the pictures.",
+    "barium allows X-rays to pass through the stomach on account of its transparency to X-rays.",
+    "barium is a good absorber of X-rays and this helps the stomach to appear clearly in contrast with the other regions in the picture."
+   ],
+   "a": 3,
+   "e": "Barium sulphate is used because X-rays do not pass through it. This creates a clear outline of the gastrointestinal tract (stomach and intestines) on X-ray films, which otherwise would not show up well."
+  },
+  {
+   "q": "Cobalt-60 is commonly used in radiation therapy because it emits [1999]",
+   "o": [
+    "gamma rays",
+    "alpha rays",
+    "X-rays",
+    "beta rays"
+   ],
+   "a": 0,
+   "e": "Cobalt-60 is a high-activity source of gamma rays. It is widely used in radiation therapy for the treatment of cancer."
+  },
+  {
+   "q": "Assertion (A): Large cold storage plants use ammonia as refrigerant while domestic refrigerators use chlorofluorocarbons. Reason (R): Ammonia can be liquefied at ambient temperature and low pressure. [2000]",
+   "o": [
+    "A is true but R is false",
+    "A is false but R is true",
+    "Both A and Rare true but R is not a correct explanation of A",
+    "Both A and R are true and R is the correct explanation of A"
+   ],
+   "a": 3,
+   "e": "Ammonia is a highly efficient refrigerant for large-scale industrial use due to its high refrigerating capacity. Domestic units use CFCs (or modern alternatives) because they are safer (non-toxic/non-flammable) for home environments."
+  },
+  {
+   "q": "Most of the explosions in mines occur due to the mixing of [2000]",
+   "o": [
+    "methane with air",
+    "oxygen with acetylene",
+    "hydrogen with oxygen",
+    "carbon dioxide with ethane"
+   ],
+   "a": 0,
+   "e": "The primary cause of explosions in mines is the mixing of methane gas (exerted from the mine) with the surrounding air."
+  },
+  {
+   "q": "In an atom, the order of filling up of the orbitals is governed by [2001]",
+   "o": [
+    "Pauli's exclusion principle",
+    "Heisenberg's uncertainty principle",
+    "Hund's rule",
+    "Aufbau's principle"
+   ],
+   "a": 3,
+   "e": "The Aufbau principle states that orbitals are filled in order of their increasing energies, starting with the lowest energy level."
+  },
+  {
+   "q": "A radioactive substance has a half-life of four months. Three-fourth of the substance would decay in [2001]",
+   "o": [
+    "4 months",
+    "12 months",
+    "8 months",
+    "3 months"
+   ],
+   "a": 2,
+   "e": "If the half-life is 4 months, after 4 months half (1/2) remains. After another 4 months (8 total), half of that remains (1/4). If 1/4 is left, then 3/4 has decayed."
+  },
+  {
+   "q": "Which one of the following is NOT radioactive? [2001]",
+   "o": [
+    "Tritium",
+    "Astatine",
+    "Francium",
+    "Zirconium"
+   ],
+   "a": 3,
+   "e": "Zirconium is a non-radioactive element, whereas Astatine, Francium, and Tritium are all radioactive. Natural Zirconium consists mostly of stable isotopes."
+  },
+  {
+   "q": "Match List I (Characteristic) with List II (Particle): 1️⃣ Zero mass - Neutrino 2️⃣ Fractional charge - Quark 3️⃣ Fractional spin - Positron 4️⃣ Integral spin - Photon [2001]",
+   "o": [
+    "A-2; B-3; C-1; D-4",
+    "A-3; B-2; C-4; D-1",
+    "A-3; B-2; C-1; D-4",
+    "A-2; B-3; C-4; D-1"
+   ],
+   "a": 0,
+   "e": "Neutrinos are assumed to be massless in the standard model; Quarks have fractional charges (+2/3 or -1/3); Positrons have a spin of 1/2; Photons have integral spin (1)."
+  },
+  {
+   "q": "With reference to ionic compounds, consider the following statements: 1️⃣ Ionic compounds are insoluble in alcohol. 2️⃣ Ionic compounds in the solid state are good conductor of electricity. Which of these statements is/are correct? [2003]",
+   "o": [
+    "Both 1 and 2",
+    "Neither 1 nor 2",
+    "Only 1",
+    "Only 2"
+   ],
+   "a": 1,
+   "e": "Ionic compounds are generally soluble in polar solvents like water and some alcohols. In the solid state, they are poor conductors because ions are fixed in a lattice; they only conduct when molten or dissolved."
+  },
+  {
+   "q": "Regarding the atom of a chemical element, the magnetic quantum number refers to [2003]",
+   "o": [
+    "orientation",
+    "spin",
+    "shape",
+    "size"
+   ],
+   "a": 0,
+   "e": "The magnetic quantum number represents the number of orbitals in a sub-shell and determines the spatial orientation of those orbitals."
+  },
+  {
+   "q": "Which one of the following statements is correct? [2003]",
+   "o": [
+    "Liquid sodium is employed as a coolant in nuclear reactors.",
+    "Bordeaux mixture consists of sodium sulphate and lime.",
+    "Zinc amalgams are used as a dental filling.",
+    "Calcium carbonate is an ingredient of tooth paste."
+   ],
+   "a": 0,
+   "e": "Liquid sodium is used as a coolant in fast reactors because it does not moderate neutrons as much as water and has a high boiling point."
+  },
+  {
+   "q": "Which one of the following types of glass can cut off ultraviolet rays? [2007]",
+   "o": [
+    "Crookes glass",
+    "Jena glass",
+    "Pyrex glass",
+    "Soda glass"
+   ],
+   "a": 0,
+   "e": "Crookes glass contains cerium and rare earth elements, giving it the specific property of absorbing ultraviolet radiation, making it ideal for sunglasses."
+  },
+  {
+   "q": "In a dry cell (battery), which of the following are used as electrolytes? [2009]",
+   "o": [
+    "Sodium chloride and Calcium chloride",
+    "Ammonium chloride and Calcium chloride",
+    "Magnesium chloride and Zinc chloride",
+    "Ammonium chloride and Zinc chloride"
+   ],
+   "a": 3,
+   "e": "In a dry cell, the electrolyte is typically a paste of ammonium chloride. Modern high-power versions may use zinc chloride."
+  },
+  {
+   "q": "Hydrogen fuel cell vehicles produce one of the following as \"exhaust\" [2010]",
+   "o": [
+    "$CH_{4}$",
+    "$H_{2}O_{2}$",
+    "$H_{2}O$",
+    "$NH_{3}$"
+   ],
+   "a": 2,
+   "e": "Hydrogen fuel cells combine hydrogen fuel with oxygen from the air to generate electricity, with the only exhaust byproduct being water ($H_2O$)."
+  },
+  {
+   "q": "The function of heavy water in a nuclear reactor is to: [2011-1]",
+   "o": [
+    "slow down the speed of neutrons",
+    "cool down the reactor",
+    "increase the speed of neutrons",
+    "stop the nuclear reaction"
+   ],
+   "a": 0,
+   "e": "Heavy water ($D_2O$) is used as a moderator in nuclear reactors to slow down fast-moving neutrons to thermal speeds to sustain the chain reaction."
+  },
+  {
+   "q": "Which one of the following is a mixed fertilizer? [1995]",
+   "o": [
+    "Ammonium sulphate",
+    "CAN",
+    "NPK",
+    "Urea"
+   ],
+   "a": 2,
+   "e": "NPK fertilizers are mixed fertilizers that provide the three primary essential nutrients: Nitrogen (N), Phosphorus (P), and Potassium (K)."
+  },
+  {
+   "q": "The chemical used as a 'fixer' in photography is [1995]",
+   "o": [
+    "Borax",
+    "Sodium sulphate",
+    "Ammonium persulphate",
+    "Sodium thiosulphate"
+   ],
+   "a": 3,
+   "e": "Sodium thiosulphate (Hypo) is used as a fixer in photography to dissolve unexposed silver bromide from the film."
+  },
+  {
+   "q": "Which one of the following elements is alloyed with iron to produce steel which can resist high temperatures and also have high hardness and abrasion resistance? [1996]",
+   "o": [
+    "Aluminium",
+    "Chromium",
+    "Tungsten",
+    "Nickel"
+   ],
+   "a": 1,
+   "e": "Chromium is added to iron to increase hardness, load-bearing capacity, and resistance to high temperatures and abrasion."
+  },
+  {
+   "q": "Which one of the following is not an essential micronutrient for plants? [1996]",
+   "o": [
+    "Copper",
+    "Sodium",
+    "Zinc",
+    "Boron"
+   ],
+   "a": 1,
+   "e": "While boron, zinc, and copper are essential micronutrients, sodium is considered a beneficial but non-essential mineral for most plants."
+  },
+  {
+   "q": "The most reactive among the halogens is [1997]",
+   "o": [
+    "Fluorine",
+    "Bromine",
+    "Chlorine",
+    "Iodine"
+   ],
+   "a": 0,
+   "e": "Fluorine is the most reactive halogen due to its low dissociation enthalpy and high electron affinity. Reactivity decreases down the group."
+  },
+  {
+   "q": "Match List-I with List-II: 1️⃣ Blue vitriol - Copper sulphate 2️⃣ Epsom salt - Magnesium sulphate 3️⃣ Baking soda - Sodium bicarbonate 4️⃣ Caustic soda - Sodium hydroxide [1998]",
+   "o": [
+    "A-4; B-3; C-1; D-2",
+    "A-3; B-4; C-2; D-1",
+    "A-4; B-3; C-2; D-1",
+    "A-3; B-4; C-1; D-2"
+   ],
+   "a": 0,
+   "e": "Blue vitriol is copper sulphate; Epsom salt is magnesium sulphate heptahydrate; Baking soda is sodium bicarbonate; and Caustic soda is sodium hydroxide."
+  },
+  {
+   "q": "Match List-I with List-II: 1️⃣ Potassium bromide - Photography 2️⃣ Potassium nitrate - Gun powder 3️⃣ Potassium sulphate - Fertiliser 4️⃣ Monopotassium tartarate - Bakery [1998]",
+   "o": [
+    "A-4; B-2; C-3; D-1",
+    "A-4; B-2; C-1; D-3",
+    "A-2; B-4; C-1; D-3",
+    "A-2; B-3; C-1; D-4"
+   ],
+   "a": 2,
+   "e": "Potassium bromide is used in photography; Potassium nitrate is a component of gun powder; Potassium sulphate is a fertilizer; and Monopotassium tartrate is used in baking."
+  },
+  {
+   "q": "Consider the following statements: 1️⃣ Coke acts as a reducing agent in a blast furnace. 2️⃣ Coke removes silica associated with the iron ore. 3️⃣ Coke functions as fuel to supply heat. 4️⃣ Coke acts as an oxidizing agent. Of these statements: [1998]",
+   "o": [
+    "2 and 4 are correct",
+    "1 and 2 are correct",
+    "1 and 3 are correct",
+    "3 and 4 are correct"
+   ],
+   "a": 2,
+   "e": "In a blast furnace, coke serves as a fuel to provide heat and as a reducing agent to convert iron oxides into metallic iron."
+  },
+  {
+   "q": "Which one of the following metals does not form amalgam? [1998]",
+   "o": [
+    "Magnesium",
+    "Zinc",
+    "Iron",
+    "Copper"
+   ],
+   "a": 2,
+   "e": "An amalgam is an alloy of mercury with another metal. Iron is exceptional and does not form an amalgam with mercury, which is why mercury is stored in iron containers."
+  },
+  {
+   "q": "Assertion (A): Sodium metal is stored under kerosene. Reason (R): Metallic sodium melts when exposed to air. [1998]",
+   "o": [
+    "A is true but R is false",
+    "Both A and R are true and R is the correct explanation of A",
+    "Both Aand Rare true but R is not the correct explanation of A",
+    "A is false but R is true"
+   ],
+   "a": 0,
+   "e": "Sodium is stored in kerosene because it is extremely reactive and burns vigorously when exposed to air/moisture. It does not simply \"melt\" in air; it reacts chemically."
+  },
+  {
+   "q": "Assertion (A): To dilute sulphuric acid, acid is added to water and not water to acid. Reason (R): Specific heat of water is quite large. [1999]",
+   "o": [
+    "Both Aand R are true and R is the correct explanation of A",
+    "A is false but R is true",
+    "Both Aand Rare true but R is not the correct explanation of A",
+    "A is true but R is false"
+   ],
+   "a": 0,
+   "e": "Adding water to concentrated acid causes a violent, exothermic reaction. Adding acid to water allows the high specific heat of water to absorb the heat generated safely."
+  },
+  {
+   "q": "Match List-I (Naturally occurring substances) with List-II (Elements): 1️⃣ Diamond - Carbon 2️⃣ Marble - Calcium 3️⃣ Sand - Silicon 4️⃣ Ruby - Aluminium [1999]",
+   "o": [
+    "A-4; B-1; C-2; D-3",
+    "A-2; B-1; C-3; D-4",
+    "A-4; B-2; C-1; D-3",
+    "A-3; B-1; C-2; D-4"
+   ],
+   "a": 0,
+   "e": "Diamond is a form of carbon; Marble is composed of calcium carbonate; Sand is silicon dioxide; and Ruby is an aluminium oxide mineral (corundum)."
+  },
+  {
+   "q": "Match List I with List II: 1️⃣ German silver - Nickel 2️⃣ Solder - Tin 3️⃣ Bleaching powder - Chlorine 4️⃣ Hypo - Sodium [2000]",
+   "o": [
+    "A-1; B-2; C-3; D-4",
+    "A-2; B-1; C-4; D-3",
+    "A-2; B-1; C-3; D-4",
+    "A-1; B-2; C-4; D-3"
+   ],
+   "a": 2,
+   "e": "German silver is an alloy containing nickel; Solder contains tin and lead; Bleaching powder is valued for its available chlorine; Hypo is sodium thiosulphate."
+  },
+  {
+   "q": "Which one of the following materials is very hard and very ductile? [2000]",
+   "o": [
+    "Nichrome",
+    "Carborundum",
+    "Cast iron",
+    "Tungsten"
+   ],
+   "a": 0,
+   "e": "Nichrome, an alloy of nickel and chromium (with some iron), is characterized by its hardness and ductility, making it useful as resistance wire."
+  },
+  {
+   "q": "Aluminium surfaces are often 'anodized'. This means the deposition of a layer of [2000]",
+   "o": [
+    "nickel oxide",
+    "chromium oxide",
+    "zinc oxide",
+    "aluminium oxide"
+   ],
+   "a": 3,
+   "e": "Anodizing is an electrolytic process that increases the thickness of the natural aluminium oxide layer on the surface to improve corrosion resistance."
+  },
+  {
+   "q": "Consider the following statements: Hard water is not suitable for 1️⃣ washing clothes with soap 2️⃣ use in boilers 3️⃣ irrigating crops 4️⃣ drinking. Which of these statements are correct? [2001]",
+   "o": [
+    "2 and 3",
+    "1, 2, 3 and 4",
+    "1 and 3",
+    "1, 2 and 4"
+   ],
+   "a": 1,
+   "e": "Hard water wastes soap, forms scales in boilers, increases soil alkalinity during irrigation, and can cause ionic imbalances in the body if used for drinking."
+  },
+  {
+   "q": "An aqueous solution of copper sulphate is acidic in nature because the salt undergoes [2001]",
+   "o": [
+    "photolysis",
+    "electrolysis",
+    "dialysis",
+    "hydrolysis"
+   ],
+   "a": 3,
+   "e": "Copper sulphate undergoes hydrolysis in water to produce a strong acid (sulphuric acid) and a weak base, resulting in an acidic solution."
+  },
+  {
+   "q": "Consider the following statements with reference to the periodic table of chemical elements: 1️⃣ Ionisation potential gradually decreases along a period. 2️⃣ In a group of elements, electron affinity decreases as atomic weight increases. 3️⃣ In a given period, electronegativity decreases as the atomic number increases. Which of these statement(s) is/are correct? [2001]",
+   "o": [
+    "2 only",
+    "1 and 2",
+    "1 only",
+    "2 and 3"
+   ],
+   "a": 0,
+   "e": "Ionization potential and electronegativity increase across a period. Electron affinity generally decreases down a group (as atomic weight increases) due to increasing atomic radius."
+  },
+  {
+   "q": "Match List-I (Oxidation number) with List II (The element): 1️⃣ Mn in $MnO_2$ - 4 2️⃣ S in $H_2S_2O_7$ - 6 3️⃣ Ca in CaO - 2 4️⃣ Al in $NaAlH_4$ - 3 [2002]",
+   "o": [
+    "A-3; B-4; C-2; D-1",
+    "A-4; B-3; C-2; D-1",
+    "A-3; B-4; C-1; D-2",
+    "A-4; B-3; C-1; D-2"
+   ],
+   "a": 2,
+   "e": "The oxidation state of Mn in $MnO_2$ is +4; S in $H_2S_2O_7$ is +6; Ca in CaO is +2; and Al in $NaAlH_4$ is +3."
+  },
+  {
+   "q": "Assertion (A): Synthetic detergents can lather well in hard water. Reason (R): Synthetic detergents form soluble calcium and magnesium salts with hard water. [2002]",
+   "o": [
+    "Both A and R are true and R is the correct explanation of A",
+    "A is false but R is true",
+    "Both Aand Rare true but R is not the correct explanation of A",
+    "A is true but R is false"
+   ],
+   "a": 0,
+   "e": "Unlike soap, synthetic detergents form soluble salts with the calcium and magnesium ions in hard water, allowing them to lather effectively."
+  },
+  {
+   "q": "Which one of the following statements is NOT correct? [2003]",
+   "o": [
+    "Barium and strontium are found free in nature.",
+    "All alkaline earth metals form hydrated salts.",
+    "The presence of NaCl increases the rate of setting of plaster of Paris.",
+    "Gypsum is added to the cement to slow down its rate of setting."
+   ],
+   "a": 0,
+   "e": "Barium and strontium are alkaline earth metals that are very reactive and thus do not occur free in nature; they are found as compounds like sulfates or carbonates."
+  },
+  {
+   "q": "Assertion (A): In the periodic table of chemical elements, electron affinity is always found to increase from top to bottom in a group. Reason (R): In a group, the atomic radii generally increase from top to bottom. [2003]",
+   "o": [
+    "A is true but R is false",
+    "Both A and R are individually true but R is not the correct explanation of A",
+    "A is false but R is true",
+    "Both A and R are individually true and R is the correct explanation of A"
+   ],
+   "a": 2,
+   "e": "Electron affinity generally decreases down a group because the added electron is further from the nucleus. Atomic radii do increase down a group."
+  },
+  {
+   "q": "Assertion (A): Coal-based thermal power stations contribute to acid-rain. Reason (R): Oxides of carbon are emitted when coal burns. [2003]",
+   "o": [
+    "A is true but R is false",
+    "Both A and R are individually true and R is the correct explanation of A",
+    "A is false but R is true",
+    "Both A and R are individually true but R is not the correct explanation of A"
+   ],
+   "a": 3,
+   "e": "Thermal plants contribute to acid rain through $SO_2$ and $NO_2$ emissions. While carbon oxides are emitted, they are not the primary cause of acid rain."
+  },
+  {
+   "q": "Consider the following statements: 1️⃣ Baking soda is used in fire extinguishers. 2️⃣ Quick lime is used in the manufacture of glass. 3️⃣ Gypsum is used in the manufacture of plaster of Paris. Which of the statements given above is/are correct? [2004]",
+   "o": [
+    "2 and 3",
+    "1 and 2",
+    "1 only",
+    "1, 2 and 3"
+   ],
+   "a": 3,
+   "e": "Baking soda releases $CO_2$ to smother fires; Quick lime (CaO) is a glass ingredient; and Gypsum is heated to produce Plaster of Paris."
+  },
+  {
+   "q": "Salts of which of the following elements provide colours to fireworks? [2004]",
+   "o": [
+    "Strontium and barium",
+    "Zinc and sulphur",
+    "Chromium and nickel",
+    "Potassium and mercury"
+   ],
+   "a": 0,
+   "e": "Strontium salts provide red color to fireworks, while barium salts are used to produce green colors."
+  },
+  {
+   "q": "Which are the materials generally employed as solder in soldering operations in electronics? [2006]",
+   "o": [
+    "Aluminium and iron",
+    "Iron and tin",
+    "Aluminium and lead",
+    "Lead and tin"
+   ],
+   "a": 3,
+   "e": "Solder used in electronics is a fusible alloy typically consisting of lead and tin."
+  },
+  {
+   "q": "Which one of the following non-metals is not a poor conductor of electricity? [2007]",
+   "o": [
+    "Sulphur",
+    "Phosphorus",
+    "Selenium",
+    "Bromine"
+   ],
+   "a": 2,
+   "e": "While many non-metals are insulators, Selenium has significantly higher electrical conductivity compared to sulphur, bromine, or phosphorus."
+  },
+  {
+   "q": "Which one among the following is called philosopher's wool? [2007]",
+   "o": [
+    "Zinc bromide",
+    "Zinc nitrate",
+    "Zinc chloride",
+    "Zinc oxide"
+   ],
+   "a": 3,
+   "e": "Zinc oxide is a white powder traditionally known as philosopher's wool, used in pigments and ointments."
+  },
+  {
+   "q": "Which one of the following does not contain silver? [2007]",
+   "o": [
+    "German silver",
+    "Lunar caustic",
+    "Ruby silver",
+    "Horn silver"
+   ],
+   "a": 0,
+   "e": "German silver is an alloy of copper, nickel, and zinc; it contains no actual silver despite its name."
+  },
+  {
+   "q": "What are Rubies and Sapphires chemically known as? [2008]",
+   "o": [
+    "Lead tetroxide",
+    "Boron nitride",
+    "Silicon dioxide",
+    "Aluminium oxide"
+   ],
+   "a": 3,
+   "e": "Both rubies and sapphires are composed of corundum, which is chemically aluminium oxide ($Al_2O_3$)."
+  },
+  {
+   "q": "Which one of the following is also called Stranger Gas? [2008]",
+   "o": [
+    "Neon",
+    "Xenon",
+    "Nitrous oxide",
+    "Argon"
+   ],
+   "a": 1,
+   "e": "Xenon is called the 'stranger gas' (from the Greek 'xenos') because it is very unreactive and rare."
+  },
+  {
+   "q": "Which one of the following pairs of metals constitutes the lightest metal and the heaviest metal, respectively? [2008]",
+   "o": [
+    "Aluminium and mercury",
+    "Lithium and mercury",
+    "Lithium and osmium",
+    "Aluminium and osmium"
+   ],
+   "a": 2,
+   "e": "Lithium is the lightest metal (lowest density), while Osmium is the heaviest (greatest density) of all known elements."
+  },
+  {
+   "q": "Lead, ingested or inhaled, is a health hazard. After the addition of lead to petrol has been banned, what still are the sources of lead poisoning? 1️⃣ Smelting units 2️⃣ Pens 3️⃣ Paints 4️⃣ Hair oils and cosmetics [2012-1]",
+   "o": [
+    "1 and 3 only",
+    "1, 2 and 3 only",
+    "1, 2, 3 and 4",
+    "2 and 4 only"
+   ],
+   "a": 0,
+   "e": "Primary remaining sources of lead poisoning include industrial smelting units and lead-based paints."
+  },
+  {
+   "q": "Photochemical smog is a resultant of the reaction among [2013-1]",
+   "o": [
+    "$NO_2$, $O_3$ and peroxyacetyl nitrate in the presence of sunlight",
+    "CO, $O_2$ and peroxyacetyl nitrate in the presence of sunlight",
+    "CO, $CO_2$ and $NO_2$ at low temperature",
+    "high concentration of $NO_2$, $O_3$ and CO in the evening"
+   ],
+   "a": 0,
+   "e": "Photochemical smog forms when nitrogen oxides and volatile organic compounds react in sunlight to produce secondary pollutants like ozone and PAN."
+  },
+  {
+   "q": "Which of the following is/are the example/ examples of chemical change? 1️⃣ Crystallization of sodium chloride 2️⃣ Melting of ice 3️⃣ Souring of milk [2014-1]",
+   "o": [
+    "3 only",
+    "None",
+    "1, 2 and 3",
+    "1 and 2 only"
+   ],
+   "a": 0,
+   "e": "Crystallization and melting are physical, reversible changes. Souring of milk is a chemical change because it is irreversible and forms new substances."
+  },
+  {
+   "q": "Steel slag can be the material for which of the following? 1️⃣ Construction of base road 2️⃣ Improvement of agricultural soil 3️⃣ Production of cement [2020-1]",
+   "o": [
+    "1, 2 and 3",
+    "1 and 2 only",
+    "2 and 3 only",
+    "1 and 3 only"
+   ],
+   "a": 0,
+   "e": "Steel slag is used in road bases, as a soil conditioner (fertilizer) for agriculture, and in the production of portland slag cement."
+  },
+  {
+   "q": "Which one of the following polymers is widely used for making bullet proof material? [1995]",
+   "o": [
+    "Polyamides",
+    "Polyethylene",
+    "Polycarbonates",
+    "Polyvinyl chloride"
+   ],
+   "a": 2,
+   "e": "Polycarbonates are used for bullet-proof glass and jackets because they can effectively absorb a bullet's kinetic energy."
+  },
+  {
+   "q": "The offending substance in the liquor tragedies leading to blindness etc. is [1996]",
+   "o": [
+    "amyl alcohol",
+    "methyl alcohol",
+    "benzyl alcohol",
+    "ethyl alcohol"
+   ],
+   "a": 1,
+   "e": "Methyl alcohol (methanol) is highly toxic; ingestion can lead to blindness or death by affecting the central nervous system."
+  },
+  {
+   "q": "The characteristic odour of garlic is due to [1997]",
+   "o": [
+    "a fluorine compound",
+    "acetic acid",
+    "a chloro compound",
+    "a sulphur compound"
+   ],
+   "a": 3,
+   "e": "The smell of garlic comes from allicin, an oily liquid containing a specific sulphur-based group."
+  },
+  {
+   "q": "Which one of the following is an active component of oil of clove? [1997]",
+   "o": [
+    "Methanol",
+    "Eugenol",
+    "Menthol",
+    "Benzaldehyde"
+   ],
+   "a": 1,
+   "e": "Eugenol is the main active ingredient in clove oil, serving as a natural analgesic and antiseptic in dentistry."
+  },
+  {
+   "q": "Which one of the following was used as a chemical weapon in the first world war? [1997]",
+   "o": [
+    "Carbon monoxide",
+    "Mustard gas",
+    "Hydrogen cyanide",
+    "Water gas"
+   ],
+   "a": 1,
+   "e": "Mustard gas was introduced by Germany in 1917 as a chemical weapon, causing severe blistering and internal bleeding."
+  },
+  {
+   "q": "Which one of the following has the highest fuel value? [1997]",
+   "o": [
+    "Natural gas",
+    "Charcoal",
+    "Hydrogen",
+    "Gasoline"
+   ],
+   "a": 2,
+   "e": "Hydrogen has the highest calorific value ($141,790\\ kJ/kg$), giving it the highest fuel value among common options."
+  },
+  {
+   "q": "Which one of the following is used as an anti-freeze for the automobile engines? [1997]",
+   "o": [
+    "Propyl alcohol",
+    "Ethanol",
+    "Ethylene glycol",
+    "Methanol"
+   ],
+   "a": 2,
+   "e": "Ethylene glycol is marketed as \"permanent anti-freeze\" and prevents engine coolant from freezing in cold climates."
+  },
+  {
+   "q": "Assertion (A): Phenyl is used as a household germicide. Reason (R): Phenyl is phenol derivative and phenol is an effective germicide. [1998]",
+   "o": [
+    "A is true but R is false",
+    "Both Aand Rare true but R is not the correct explanation of A",
+    "A is false but R is true",
+    "Both A and R are true and R is the correct explanation of A"
+   ],
+   "a": 3,
+   "e": "Phenyl is a derivative of phenol, which has potent antimicrobial and germicidal properties."
+  },
+  {
+   "q": "Consider the following statements about acetylene: 1️⃣ It is used in welding industry. 2️⃣ It is a raw material for preparing plastics. 3️⃣ It is easily obtained by mixing silicon carbide and water. Of these statements: [1998]",
+   "o": [
+    "2 and 3 are correct",
+    "1, 2 and 3 are correct",
+    "1 and 3 are correct",
+    "1 and 2 are correct"
+   ],
+   "a": 3,
+   "e": "Acetylene is used in oxyacetylene welding and as a precursor for polymers like polyacetylene. It is not made from silicon carbide (usually calcium carbide)."
+  },
+  {
+   "q": "Assertion (A): Formic acid is a stronger acid than acetic acid. Reason (R): Formic acid is an organic acid. [1998]",
+   "o": [
+    "A is true but R is false",
+    "A is false but R is true",
+    "Both Aand R are true and R is the correct explanation of A",
+    "Both A and R are true but R is not a correct explanation of A"
+   ],
+   "a": 3,
+   "e": "Formic acid is indeed stronger than acetic acid due to its composition. While both are organic acids, that fact doesn't explain the difference in their acidity."
+  },
+  {
+   "q": "Match List-I (Industrial process) with List-II (Industry): 1️⃣ Cracking - Petroleum 2️⃣ Smelting - Copper 3️⃣ Hydrogenation - Edible fats 4️⃣ Vulcanization - Rubber [2000]",
+   "o": [
+    "A-2; B-3; C-1; D-4",
+    "A-3; B-2; C-1; D-4",
+    "A-3; B-2; C-4; D-1",
+    "A-2; B-3; C-4; D-1"
+   ],
+   "a": 0,
+   "e": "Cracking breaks down heavy petroleum; Smelting extracts copper from ore; Hydrogenation hardens vegetable oils; and Vulcanization strengthens rubber with sulphur."
+  },
+  {
+   "q": "Which one of the following is the correct sequence in increasing order of molecular weights of the hydrocarbons? [2001]",
+   "o": [
+    "Butane, propane, ethane and methane",
+    "Butane, ethane, propane and methane",
+    "Propane, butane, ethane and methane",
+    "Methane, ethane, propane and butane"
+   ],
+   "a": 3,
+   "e": "Molecular weight increases as the carbon chain length increases: Methane (C1), Ethane (C2), Propane (C3), and Butane (C4)."
+  },
+  {
+   "q": "The purpose of adding sodium sulphate and sodium silicate to the detergent in a washing powder is 1️⃣ to keep the washing powder dry. 2️⃣ to maintain the alkalinity of the powder. Which of these statements is/are correct? [2003]",
+   "o": [
+    "Only 1",
+    "Only 2",
+    "Neither 1 nor 2",
+    "Both 1 and 2"
+   ],
+   "a": 3,
+   "e": "Silicates provide alkalinity and aid soil suspension while helping processing; sodium sulphate acts as a filler."
+  },
+  {
+   "q": "Match List-I (Fuel gases) with List-II (Major constituents): 1️⃣ CNG - Methane, Ethane 2️⃣ Coal gas - Hydrogen, Methane, Carbon monoxide 3️⃣ LPG - Butane, Propane 4️⃣ Water gas - Carbon monoxide, Hydrogen [2004]",
+   "o": [
+    "A-2; B-4; C-3; D-1",
+    "A-3; B-4; C-2; D-1",
+    "A-3; B-1; C-2; D-4",
+    "A-2; B-1; C-3; D-4"
+   ],
+   "a": 1,
+   "e": "CNG is mostly methane; Coal gas contains $H_2$, $CH_4$, and $CO$; LPG is propane and butane; Water gas is $CO$ and $H_2$."
+  },
+  {
+   "q": "Consider the following statements: 1️⃣ Liquefied natural gas (LNG) is liquefied under extremely cold temperatures and high pressure to facilitate storage. 2️⃣ First LNG terminal in India was built in Hassan. 3️⃣ Natural gas liquids (NGL) include ethane, propane, butane and natural gasoline. Which of the statements given above is/are correct? [2005]",
+   "o": [
+    "1 and 3",
+    "2 and 3",
+    "1 only",
+    "1, 2, and 3"
+   ],
+   "a": 0,
+   "e": "LNG is liquefied by cooling to $-162^{\\circ}C$. NGL recovery produces propane and butane. The first terminal was at Dahej, not Hassan."
+  },
+  {
+   "q": "Assertion (A): The main constituent of the liquefied petroleum gas is methane. Reason (R): Methane can be used directly for burning in homes and factories where it can be supplied through pipelines. [2005]",
+   "o": [
+    "A is false but R is true",
+    "Both A and R are true and R is the correct explanation of A",
+    "A is true but R is false",
+    "Both A and R are true but R is not the correct explanation of A"
+   ],
+   "a": 0,
+   "e": "LPG consists primarily of propane and butane, not methane. Methane is the main component of natural gas, which is piped to homes."
+  },
+  {
+   "q": "Which of the following is/are used as dry cleaning chemical? 1️⃣ Benzene 2️⃣ Carbon tetrachloride 3️⃣ Sodium carbonate 4️⃣ Trichloroethylene [2006]",
+   "o": [
+    "2 only",
+    "1, 2 and 4 only",
+    "1 only",
+    "1, 2, 3 and 4"
+   ],
+   "a": 1,
+   "e": "Dry cleaning uses solvents like trichloroethylene, benzene, and carbon tetrachloride. Sodium carbonate is not a solvent."
+  },
+  {
+   "q": "Which one of the following is another name of RDX? [2007]",
+   "o": [
+    "Dextran",
+    "Cyanohydrin",
+    "Cyclohexane",
+    "Cyclonite"
+   ],
+   "a": 3,
+   "e": "RDX is an explosive also known as cyclonite; its full chemical name is cyclotrimethylene trinitramine."
+  },
+  {
+   "q": "What is Bisphenol A (BPA)? [2008]",
+   "o": [
+    "A special type of alloy steel",
+    "A medical test for detecting cancer",
+    "A test for testing the use of drugs by athletes",
+    "A chemical used for the development of food packaging materials"
+   ],
+   "a": 3,
+   "e": "BPA is an organic compound used primarily in the production of polycarbonate plastics and epoxy resins for food packaging."
+  },
+  {
+   "q": "Mixture of which one of the following pairs of gases is the cause of occurrence of most of the explosions in mines? [2008]",
+   "o": [
+    "Methane and air",
+    "Hydrogen and Oxygen",
+    "Oxygen and acetylene",
+    "Carbon dioxide and methane"
+   ],
+   "a": 0,
+   "e": "Methane gas released in mines forms an explosive mixture when it comes into contact with air."
+  },
+  {
+   "q": "Which one of the following is used as an explosive? [2009]",
+   "o": [
+    "Nitroglycerine",
+    "Phosphorus trichloride",
+    "Graphite",
+    "Mercuric oxide"
+   ],
+   "a": 0,
+   "e": "Nitroglycerine is a heavy, oily explosive liquid used to make dynamite."
+  },
+  {
+   "q": "Consider the following statements: Chlorofluorocarbons are used 1️⃣ In the production of plastic foams 2️⃣ In the production of tubeless tyres 3️⃣ In cleaning certain electronic components 4️⃣ As pressurizing agents in aerosol cans. Which of the statements given above is/are correct? [2012-1]",
+   "o": [
+    "1, 3 and 4 only",
+    "4 only",
+    "1, 2 and 3 only",
+    "1, 2, 3 and 4"
+   ],
+   "a": 0,
+   "e": "CFCs were traditionally used for making plastic foams, cleaning electronics, and as aerosol propellants."
+  },
+  {
+   "q": "With reference to the by-products of sugar industry, which of the following is/are correct? 1️⃣ Bagasse can be used as biomass fuel for energy. 2️⃣ Molasses can be used for synthetic chemical fertilizers. 3️⃣ Molasses can be used for the production of ethanol. [2013-1]",
+   "o": [
+    "1, 2 and 3",
+    "1 and 3 only",
+    "1 only",
+    "2 and 3 only"
+   ],
+   "a": 1,
+   "e": "Bagasse is used as fuel; molasses is used to ferment ethanol. Molasses is not used for synthetic NPK fertilizers."
+  },
+  {
+   "q": "In the context of H-CNG as fuel for buses, consider the following: 1️⃣ H-CNG eliminates carbon monoxide emissions. 2️⃣ H-CNG reduces carbon dioxide and hydrocarbon emissions. 3️⃣ Hydrogen up to one-fifth by volume can be blended with CNG. 4️⃣ H-CNG makes the fuel less expensive than CNG. Which are correct? [2020-1]",
+   "o": [
+    "4 only",
+    "2 and 3 only",
+    "1 only",
+    "1, 2, 3 and 4"
+   ],
+   "a": 1,
+   "e": "H-CNG reduces CO by up to 70% but does not eliminate it. Blending makes the fuel more expensive, not less."
+  },
+  {
+   "q": "The term 'West Texas Intermediate' refers to a grade of [2020-1]",
+   "o": [
+    "Bullion",
+    "Uranium",
+    "Rare earth elements",
+    "Crude oil"
+   ],
+   "a": 3,
+   "e": "WTI is a specific grade of crude oil trade associated with the USA market."
+  },
+  {
+   "q": "The \"offensive substance\" in the quotation regarding Agent Orange and its toxic fallout (cancers, birth defects) is: [1995]",
+   "o": [
+    "A complex mixture of DDT and other insecticides",
+    "A complex mixture of herbicides and weedicides used in South Vietnam",
+    "DDT used as insecticide",
+    "Dioxin used as defoliants"
+   ],
+   "a": 3,
+   "e": "The US used Dioxin as a defoliant in Vietnam; it caused severe long-term health issues like cancer and birth defects."
+  },
+  {
+   "q": "Which one of the following fuels causes minimum environmental pollution? [1995]",
+   "o": [
+    "Kerosene",
+    "Diesel",
+    "Hydrogen",
+    "Coal"
+   ],
+   "a": 2,
+   "e": "Hydrogen is considered a \"future fuel\" because its combustion with oxygen produces only water, resulting in no pollution."
+  },
+  {
+   "q": "Physico-chemical characteristics of water in water sources undergo changes due to [1996]",
+   "o": [
+    "evapotranspiration",
+    "aquatic macrophytes",
+    "aquatic fungi",
+    "effluents"
+   ],
+   "a": 3,
+   "e": "Industrial and domestic effluents change the pH, BOD, and chemical content of water, unlike natural biological processes."
+  },
+  {
+   "q": "The water pollution in river is measured by the dissolved amount of [1998]",
+   "o": [
+    "Oxygen",
+    "Nitrogen",
+    "Ozone",
+    "Chlorine"
+   ],
+   "a": 0,
+   "e": "Dissolved oxygen (DO) levels are a primary indicator of water health; lower levels indicate higher pollution."
+  },
+  {
+   "q": "Which one of the following is produced during the formation of photochemical smog? [2003]",
+   "o": [
+    "Hydrocarbons",
+    "Nitrogen Oxide",
+    "Methane",
+    "Ozone"
+   ],
+   "a": 1,
+   "e": "Oxides of nitrogen are produced during the combustion of fossil fuels and are primary components of photochemical smog."
+  },
+  {
+   "q": "Which of the following substances are found in the beach sands of many parts of Kerala? 1️⃣ Ilmenite 2️⃣ Zircon 3️⃣ Sillimanite 4️⃣ Tungsten [2006]",
+   "o": [
+    "1 and 2 only",
+    "3 and 4 only",
+    "1, 2, 3 and 4",
+    "1, 2 and 3 only"
+   ],
+   "a": 3,
+   "e": "Kerala's beach sands contain Ilmenite, Zircon, and Sillimanite, but they do not contain Tungsten."
+  },
+  {
+   "q": "Consider the following: 1️⃣ Oxides of Hydrogen 2️⃣ Oxides of Nitrogen 3️⃣ Oxides of Sulphur. Which of the above causes/cause acid rain? [2010]",
+   "o": [
+    "1 and 2 only",
+    "1, 2 and 3",
+    "3 only",
+    "2 and 3 only"
+   ],
+   "a": 3,
+   "e": "Acid rain is caused by emissions of sulfur dioxide and nitrogen oxides reacting with atmospheric water."
+  },
+  {
+   "q": "What causes oxygen supply in the human body to decrease when carbon monoxide (CO) is released into the air? [2010]",
+   "o": [
+    "When inhaled into the human body CO is converted into $CO_2$",
+    "The inhaled CO adversely affects the respiratory centre in the brain.",
+    "The inhaled CO destroys the chemical structure of haemoglobin.",
+    "The inhaled CO has much higher affinity for haemoglobin as compared to oxygen."
+   ],
+   "a": 3,
+   "e": "CO binds to haemoglobin much more effectively than oxygen, starving the blood of oxygen."
+  },
+  {
+   "q": "Which of the following are emissions from coal combustion at thermal power plants? 1️⃣ Carbon dioxide 2️⃣ Oxides of nitrogen 3️⃣ Oxides of sulphur [2011-1]",
+   "o": [
+    "1 and 3 only",
+    "1, 2 and 3",
+    "2 and 3 only",
+    "1 only"
+   ],
+   "a": 1,
+   "e": "Coal combustion releases $CO_2$, nitrogen oxides, and sulphur oxides, as well as fly ash and mercury."
+  },
+  {
+   "q": "What is the role of ultraviolet (UV) radiation in the water purification systems? 1️⃣ It inactivates/kills the harmful microorganisms. 2️⃣ It removes all the undesirable odours. 3️⃣ It quickens the sedimentation of solid particles. [2012-1]",
+   "o": [
+    "1 only",
+    "1, 2 and 3",
+    "2 and 3 only",
+    "1 and 3 only"
+   ],
+   "a": 0,
+   "e": "UV radiation is specifically used to kill or inactivate microorganisms; it does not remove odours or affect sedimentation."
+  },
+  {
+   "q": "Acid rain is caused by the pollution of environment by [2013-1]",
+   "o": [
+    "carbon dioxide and nitrogen",
+    "carbon monoxide and carbon dioxide",
+    "nitrous oxide and sulphur dioxide",
+    "ozone and carbon dioxide"
+   ],
+   "a": 2,
+   "e": "The reaction of sulphur dioxide and nitrogen oxides in the atmosphere produces the acids found in acid rain."
+  },
+  {
+   "q": "With reference to 'fly ash', which of the following statements is/are correct? 1️⃣ Fly ash can be used in the production of bricks. 2️⃣ Fly ash can be used as a replacement for some Portland cement. 3️⃣ Fly ash is made up of $SiO_2$ and $CaO$ only, and contains no toxic elements. [2015-1]",
+   "o": [
+    "2 only",
+    "1 and 2",
+    "3 only",
+    "1 and 3"
+   ],
+   "a": 1,
+   "e": "Fly ash is used in bricks and concrete. It contains $SiO_2$, $Al_2O_3$, and $CaO$, but may also contain toxic metal traces from coal."
+  },
+  {
+   "q": "Why is there concern about brominated flame retardants? 1️⃣ They are highly resistant to degradation in the environment. 2️⃣ They are able to accumulate in humans and animals. [2014-1]",
+   "o": [
+    "Both 1 and 2",
+    "Neither 1 nor 2",
+    "2 only",
+    "1 only"
+   ],
+   "a": 0,
+   "e": "These chemicals persist in the environment and bioaccumulate in tissues, posing health and ecological risks."
+  },
+  {
+   "q": "With reference to 'coalbed methane' and 'shale gas', consider the following: 1️⃣ Coalbed methane is pure methane, while shale gas is a mixture of propane and butane only. 2️⃣ In India, abundant coalbed methane sources exist, but no shale gas has been found. [2014-1]",
+   "o": [
+    "Both 1 and 2",
+    "2 only",
+    "Neither 1 nor 2",
+    "1 only"
+   ],
+   "a": 2,
+   "e": "Shale gas also contains methane (not just propane/butane), and shale gas sources have indeed been identified in India."
+  },
+  {
+   "q": "Consider the following pairs of materials and chemicals: 1️⃣ Lipstick: Lead 2️⃣ Soft drinks: Brominated vegetable oils 3️⃣ Chinese fast food: Monosodium glutamate. Which are correctly matched? [2017-1]",
+   "o": [
+    "1 only",
+    "2 and 3 only",
+    "1 and 3 only",
+    "1, 2 and 3"
+   ],
+   "a": 3,
+   "e": "MSG is a flavor enhancer in Chinese food; lead is found in lipsticks; and brominated oils are used as stabilizers in some soft drinks."
+  },
+  {
+   "q": "In what context are the terms 'pyrolysis' and 'plasma gasification' mentioned? [2019-1]",
+   "o": [
+    "natural gas extractions technologies",
+    "Hydrogen fuel based automobiles",
+    "Waste to energy technologies",
+    "Extraction of earth element"
+   ],
+   "a": 2,
+   "e": "Pyrolysis and plasma gasification are methods used to convert waste materials into energy (gas/liquid fuels)."
+  },
+  {
+   "q": "In India, the use of carbofuran, methyl parathion, phorate and triazophos is viewed with apprehension. These chemicals are used as [2019-1]",
+   "o": [
+    "moisturising agents in cosmetics",
+    "preservatives in processed foods",
+    "pesticides in agriculture",
+    "fruit-ripening agents"
+   ],
+   "a": 2,
+   "e": "These chemicals are pesticides/insecticides that have been subject to government notifications regarding potential bans."
+  }
+ ]
+}

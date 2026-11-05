@@ -1,0 +1,808 @@
+{
+ "title": "Test 7702",
+ "category": "Vajiram Power Up 2026",
+ "minutes": 55,
+ "negative": 0.25,
+ "questions": [
+  {
+   "q": "What does the phrase in the Preamble 'adopt, enact and give to ourselves this Constitution' best signifies?",
+   "o": [
+    "The Constitution is a self-executory document.",
+    "The Constitution derives its authority from the people of India.",
+    "The Constitution of India is a sovereign document.",
+    "The Constitution is not bound by any authority above it."
+   ],
+   "a": 1,
+   "e": "The Preamble reflects the values upon which the Constitution is founded. The phrase \"give to ourselves\" signifies that the Constitution is not imposed by external authority but is framed and adopted by the people of India themselves. It indicates that ultimate sovereign power lies with the people, and the Constitution derives its legitimacy from their will."
+  },
+  {
+   "q": "Consider the following — 1️⃣ The powers between the Executive and Legislature are better compartmentalized in a Parliamentary system of Government than the Presidential system. 2️⃣ In both, the Presidential and Parliamentary system of Government, the executive is responsible to the Legislature.",
+   "o": [
+    "II only",
+    "Both I and II",
+    "I only",
+    "Neither I nor II"
+   ],
+   "a": 3,
+   "e": "In a Presidential system (e.g., USA), there is a clear separation of powers where the executive and legislature function independently. Powers are more compartmentalized in the Presidential system, making statement I incorrect. In the Parliamentary system, the executive is responsible to the legislature, but in the Presidential system, the President is not accountable to the legislature and cannot be removed by a legislative vote except through impeachment."
+  },
+  {
+   "q": "Consider the following statements regarding the Preamble to the Constitution of India — 1️⃣ The Constitution of India is the first written Constitution in the world with a Preamble. 2️⃣ Since the adoption of the Constitution, the Preamble has been only amended once, by the 42nd Constitutional Amendment Act, 1976.",
+   "o": [
+    "I only",
+    "Neither I nor II",
+    "Both I and II",
+    "II only"
+   ],
+   "a": 3,
+   "e": "The US Constitution (1789) was the first written constitution to contain a Preamble. Since its adoption in 1950, the Indian Preamble has been amended only once, in 1976, which added the words \"Socialist\", \"Secular\", and \"Integrity\"."
+  },
+  {
+   "q": "Article 15 and Article 16 of the Constitution of India prohibits the State from discriminating against the Citizens on certain grounds. In this context, consider the following — 1️⃣ Religion 2️⃣ Descent 3️⃣ Race 4️⃣ Place of Birth 5️⃣ Sex 6️⃣ Residence",
+   "o": [
+    "Only five",
+    "Only four",
+    "All the six",
+    "Only three"
+   ],
+   "a": 1,
+   "e": "Both Articles 15 and 16 include religion, race, caste, sex, and place of birth as prohibited grounds. However, Article 16 adds \"descent\" and \"residence\" as additional grounds specifically for public employment. Thus, only four (religion, race, place of birth, and sex) are common to both."
+  },
+  {
+   "q": "Arrange the following offices of the British Constitutional setup in India in chronological order of their formation — 1️⃣ Secretary of State for India 2️⃣ Court of Directors 3️⃣ Chamber of Princes 4️⃣ Board of Control",
+   "o": [
+    "IV-II-III - I",
+    "I-II-IV - III",
+    "II-IV-I - III",
+    "III-I-IV - II"
+   ],
+   "a": 2,
+   "e": "The chronological order is: Court of Directors (1600), Board of Control (1784), Secretary of State for India (1858), and Chamber of Princes (1921)."
+  },
+  {
+   "q": "The 'Citizenship Act of 1955' has been amended how many times since January 01st 1985?",
+   "o": [
+    "Four",
+    "Seven",
+    "Six",
+    "Five"
+   ],
+   "a": 1,
+   "e": "The Citizenship Act, 1955 has been amended seven times since 1985 to incorporate evolving needs. Specific amendments occurred in 1985, 1986, 1992, 2003, 2005, 2015, and 2019."
+  },
+  {
+   "q": "Consider the following grounds for restrictions on the freedom of speech and expression in India — 1️⃣ Sovereignty and Integrity of India 2️⃣ Public Order 3️⃣ Morality 4️⃣ Contempt of Court",
+   "o": [
+    "Only three",
+    "Only one",
+    "All the four",
+    "Only two"
+   ],
+   "a": 3,
+   "e": "In the original 1950 Constitution, Article 19 provided only for defamation, contempt of Court, and morality as grounds for restriction. Public Order was added by the First Amendment (1951), and Sovereignty and Integrity of India was added by the Sixteenth Amendment (1963)."
+  },
+  {
+   "q": "Consider the following pairs — 1️⃣ Method of Election of the President: Australia 2️⃣ Vesting of residuary powers with the Centre: Canada 3️⃣ Concurrent List: Ireland 4️⃣ Election of members of Rajya Sabha: South Africa",
+   "o": [
+    "Only one",
+    "Only three",
+    "All the four",
+    "Only two"
+   ],
+   "a": 3,
+   "e": "Pair I is wrong; the method of election of the President is borrowed from the Irish Constitution. Pair II is correct; residuary powers with the Centre are similar to the Canadian model. Pair III is wrong; the Concurrent List is inspired by the Australian Constitution. Pair IV is correct; the election of Rajya Sabha members was adopted from South Africa."
+  },
+  {
+   "q": "Consider the following — Statement I: Fundamental Rights given in Part III of the Constitution cannot be amended for the implementation of Part IV of the Constitution. Statement II: The amending power of the Parliament under Article 368 of the Constitution is limited.",
+   "o": [
+    "Both Statement I and Statement II are correct, but Statement-II does not explain Statement I",
+    "Both Statement I and Statement II are correct and Statement II explains Statement I",
+    "Statement I is not correct, but Statement II is correct",
+    "Statement I is correct, but Statement II is not correct"
+   ],
+   "a": 2,
+   "e": "Statement I is incorrect because the present position is that Fundamental Rights can be amended to implement DPSPs, provided the basic structure is not violated. Statement II is correct as the Supreme Court in the Kesavananda Bharati case (1973) held that Parliament's amending power is wide but limited by the Basic Structure Doctrine."
+  },
+  {
+   "q": "Consider the following statements with regard to the Directive Principles of State Policy (DPSP) — 1️⃣ The Parliament and the State Legislatures are legally bound to implement the directives mentioned in Part IV of the Constitution. 2️⃣ It is compulsory for the Governor of a State to reserve a State bill for the consideration of the President, if it violates any of the DPSP.",
+   "o": [
+    "Both I and II",
+    "Neither I nor II",
+    "II only",
+    "I only"
+   ],
+   "a": 1,
+   "e": "DPSPs are non-justiciable as per Article 37, meaning legislatures are not legally bound to implement them. While the Governor can reserve bills for the President under Article 200, it is not mandatory to do so specifically on the grounds of a DPSP violation."
+  },
+  {
+   "q": "With reference to the amendment to the Constitution of India, consider the following — Statement I: A Constitutional Amendment can be challenged in a Court of law for being violative of the Fundamental Rights. Statement II: Article 13 declares that laws that are inconsistent with any of the Fundamental Rights shall be void.",
+   "o": [
+    "Both Statement I and Statement II are correct and Statement II explains Statement I",
+    "Statement I is not correct, but Statement II is correct",
+    "Statement I is correct, but Statement II is not correct",
+    "Both Statement I and Statement II are correct, but Statement II does not explain Statement I"
+   ],
+   "a": 3,
+   "e": "Statement I is correct; the Supreme Court held in the Keshavananda Bharati case (1973) that any act, including a Constitutional Amendment, is subject to judicial review if it violates the Basic Structure. Statement II is also correct as Article 13 mandates that inconsistent laws are void. However, Statement II does not explain Statement I because the definition of 'law' under Article 13 does not include Constitutional Amendments."
+  },
+  {
+   "q": "With reference to the acquisition of citizenship in India, consider the following statements — 1️⃣ Citizenship by birth is exclusively governed by the principle of Jus Solis. 2️⃣ All applicants seeking citizenship under naturalization must be resident of India for the last 15 years.",
+   "o": [
+    "Both I and II",
+    "II only",
+    "I only",
+    "Neither I nor II"
+   ],
+   "a": 3,
+   "e": "Statement I is incorrect as India has moved from the principle of *jus solis* (soil) toward *jus sanguinis* (blood/descent) through amendments in 1986 and 2003. Statement II is incorrect because the general requirement for naturalization is 11 years out of the previous 14 years, not 15. Furthermore, the 2019 amendment reduced this to 5 years for specific communities from Afghanistan, Bangladesh, and Pakistan."
+  },
+  {
+   "q": "Amendment to which of the following mentioned provisions, will require ratification by at least half of the State Legislature? 1️⃣ Distribution of seats in Rajya Sabha 2️⃣ Fundamental Rights 3️⃣ Seventh Schedule of the Constitution 4️⃣ First Schedule of the Constitution",
+   "o": [
+    "I and III only",
+    "II and IV only",
+    "I, II and III only",
+    "I, III and IV only"
+   ],
+   "a": 0,
+   "e": "Article 368 requires ratification by at least half the states for amendments seeking changes in the representation of States in Parliament (seats in Rajya Sabha) and any lists in the Seventh Schedule. Fundamental Rights require a special majority but not state ratification. Changes to the First Schedule (names/territory of states) do not require an amendment under Article 368."
+  },
+  {
+   "q": "Which of the following related to the Preamble to the Constitution of India is correct?",
+   "o": [
+    "It is a summary of the Constitutional principles but is not a part of the same.",
+    "The Parliament through normal legislative process can amend the Preamble in whole or any part of it.",
+    "It acts as a restriction upon the powers of the Legislature to amend the Constitution.",
+    "It was enacted after the rest of the Constitution was already enacted."
+   ],
+   "a": 3,
+   "e": "The Preamble is neither a source of power nor a prohibition on the legislature. It is indeed a part of the Constitution. It was enacted after the rest of the Constitution to ensure conformity with the adopted text. It can be amended, but only by a special majority under Article 368 and without affecting the Basic Structure."
+  },
+  {
+   "q": "Which of the following safeguards are provided to an individual under Article 20 of the Constitution of India? 1️⃣ A person arrested for any offence must be produced before a magistrate within 24 hours of his arrest. 2️⃣ A person must be informed of the grounds of his arrest. 3️⃣ A person accused of any offence cannot be compelled to testify against himself. 4️⃣ Any person cannot be punished for more than once for the breach of any criminal law.",
+   "o": [
+    "II and IV only",
+    "I and III only",
+    "I, III and IV only",
+    "III and IV only"
+   ],
+   "a": 3,
+   "e": "Article 20 provides protection against self-incrimination (statement III) and double jeopardy (statement IV). The rights to be informed of grounds for arrest and to be produced before a magistrate within 24 hours are provided under Article 22, not Article 20."
+  },
+  {
+   "q": "Consider the following rights — 1️⃣ Right against the adverse impact of climate change 2️⃣ Right to Livelihood 3️⃣ Right to Privacy 4️⃣ Right to Broadcast 5️⃣ Right to Strike",
+   "o": [
+    "Only two",
+    "All the five",
+    "Only three",
+    "Only four"
+   ],
+   "a": 2,
+   "e": "The Supreme Court has established the right against climate change (2024), the right to livelihood (1985), and the right to privacy (2017) as intrinsic parts of the Right to Life under Article 21. The right to broadcast is part of freedom of speech under Article 19(1)(a) , and there is no fundamental right to strike."
+  },
+  {
+   "q": "Consider the following — 1️⃣ Parliament has exclusive power to make laws with respect to any of the matters enumerated in Union List. 2️⃣ In case of conflict between Central and State laws over the subjects in Concurrent List it is the former that prevails, in regular legislative circumstances.",
+   "o": [
+    "II only",
+    "I only",
+    "Both I and II"
+   ],
+   "a": 2,
+   "e": "Article 246 grants Parliament exclusive power over Union List matters. Article 254 provides that in case of conflict on a Concurrent List subject, the Central law prevails and the State law is void to the extent of repugnancy."
+  },
+  {
+   "q": "Which Central law on the subject matter of the State List will stand in perpetuity unless withdrawn or amended by the appropriate Legislature? 1️⃣ A law enacted based on the resolution passed by the Rajya Sabha 2️⃣ A law enacted during the President's rule 3️⃣ A law enacted during the National emergency under Article 352 4️⃣ A law promulgated for the implementation of international agreements and conventions",
+   "o": [
+    "II and III only",
+    "I, III and IV only",
+    "II and IV only",
+    "I and IV only"
+   ],
+   "a": 2,
+   "e": "Laws made during President's Rule (Article 356) continue in force unless actively repealed or amended. Laws made under Article 253 for international obligations also remain in force permanently unless repealed. Conversely, laws based on Rajya Sabha resolutions (Article 249) and those during a National Emergency (Article 352) are temporary and lapse six months after the resolution or emergency ends."
+  },
+  {
+   "q": "Which one of the following provisions enables the Center to extend discretionary grants to States through Centrally Sponsored Schemes (CSS)?",
+   "o": [
+    "Article 275",
+    "Article 268",
+    "Article 282",
+    "Article 270"
+   ],
+   "a": 2,
+   "e": "Article 282 empowers both the Union and States to make grants for any public purpose regardless of legislative competence. This is used for discretionary grants through Centrally Sponsored Schemes. Article 275 provides for statutory (obligatory) grants-in-aid."
+  },
+  {
+   "q": "Which of the following statements is/are correct with reference to a Constitution Amendment Bill under Article 368? 1️⃣ It can be introduced in the Parliament only after the prior recommendation of the President. 2️⃣ It can be introduced by a Minister as well as by a private member of the House. 3️⃣ It is obligatory for the President to give her/ his assent to such a bill.",
+   "o": [
+    "I, II and III",
+    "II and III only",
+    "I and III only",
+    "II only"
+   ],
+   "a": 1,
+   "e": "A Constitution Amendment Bill does not require prior Presidential recommendation. It can be introduced by either a Minister or a private member. The 24th Amendment (1971) made it obligatory for the President to give assent to such bills."
+  },
+  {
+   "q": "Consider the following statements with reference to Government of India Act, 1935 — 1️⃣ The Governors of the Provinces were made subordinate and directly responsible to the Viceroy of India. 2️⃣ The Federal Legislature was empowered to move a No Confidence Motion in the Assembly. 3️⃣ The residuary powers were vested with the Federal Legislative Assembly.",
+   "o": [
+    "I and II only",
+    "I and III only",
+    "III only",
+    "II only"
+   ],
+   "a": 3,
+   "e": "Statement I is incorrect; the 1935 Act moved toward provincial autonomy, and Governors were now the Crown's nominees, relieved from the superintendence of the Viceroy. Statement II is correct; the Federal Assembly could move a No-Confidence Motion. Statement III is incorrect; residuary powers were vested with the Viceroy, not the legislature."
+  },
+  {
+   "q": "In the context of judicial proceedings in India, the 'Doctrine of Essentiality' is usually applied to test the applicability of which of the following rights granted under the Constitution of India?",
+   "o": [
+    "Freedom to Manage Religious Affairs",
+    "Abolition of Untouchability",
+    "Equality before Law",
+    "Right to Constitutional Remedies"
+   ],
+   "a": 0,
+   "e": "The Doctrine of Essentiality, invented in the 1954 'Shirur Mutt' case, determines which religious practices are \"integral\" and thus protected under Articles 25 and 26 (Freedom to manage religious affairs)."
+  },
+  {
+   "q": "Consider the following — 1️⃣ It must not be established by an Act of the Parliament or any State Legislature. 2️⃣ It must be administered by the minority community at all times. 3️⃣ It must not receive any financial aid from the Union or the State Governments.",
+   "o": [
+    "All the three",
+    "Only one",
+    "Only two",
+    "None"
+   ],
+   "a": 3,
+   "e": "None of these are required parameters. The Supreme Court recently held that an institution's minority status is not dismissed solely because it was created by law. It is also not necessary to prove administration vests with the minority; the test is whether administration affirms the minority character. Finally, state aid does not alter the minority nature of an institute."
+  },
+  {
+   "q": "In the context of Fundamental Rights, consider the following pairs — 1️⃣ Denying entry to any place of worship to a person belonging to Scheduled Castes: Article 17 2️⃣ Preventing any person from using water wells or bathing ghats constructed for public use: Article 15 3️⃣ Denying admission to any person to a State funded educational institution on the basis of his mother tongue: Article 29 4️⃣ Forcibly making a person to work on the fields of another person without being paid: Article 23",
+   "o": [
+    "I, II, III and IV",
+    "II, III and IV only",
+    "I, III and IV only",
+    "I and II only"
+   ],
+   "a": 0,
+   "e": "All pairs are correct. Denying entry to worship is an Article 17 (untouchability) violation. Preventing use of public wells/ghats violates Article 15 (discrimination). Denying admission based on language violates Article 29. Forced labor without pay is \"begar,\" a violation of Article 23."
+  },
+  {
+   "q": "Consider the following — Statement I: The Courts cannot adjudicate on the relevance, validity or interpretation of the words included in the Preamble of the Constitution of India. Statement II: The Preamble is not-justiciable and its provisions are not enforceable in the Court of law.",
+   "o": [
+    "Both Statement I and Statement II are correct, but Statement II does not explain Statement I",
+    "Statement I is correct, but Statement II is not correct",
+    "Statement I is not correct, but Statement II is correct",
+    "Both Statement I and Statement II are correct and Statement II explains Statement I"
+   ],
+   "a": 2,
+   "e": "Statement I is incorrect as Courts *do* have the power to interpret the Preamble, as seen in cases like Kesavananda Bharati. Statement II is correct; the Preamble is non-justiciable and its provisions are not directly enforceable."
+  },
+  {
+   "q": "Which one of the following constituents of the Constitution of India provides for the explicit separation of the Executive from the Judiciary in the country?",
+   "o": [
+    "Tenth Schedule",
+    "Fundamental Rights",
+    "Directive Principles of State Policy",
+    "Seventh Schedule"
+   ],
+   "a": 2,
+   "e": "Article 50, under the Directive Principles of State Policy (Part IV), explicitly directs the State to take steps to separate the judiciary from the executive in public services."
+  },
+  {
+   "q": "Consider the following — Statement I: A Constitutional Amendment Act was enacted in 1975 to incorporate Sikkim as a full-fledged State of India. Statement II: Any new territory can be incorporated into the Union of India only through a Constitutional Amendment.",
+   "o": [
+    "Both Statement I and Statement II are correct, but Statement II does not explain Statement I",
+    "Both Statement I and Statement II are correct and Statement II explains Statement I",
+    "Statement I is not correct, but Statement II is correct",
+    "Statement I is correct, but Statement II is not correct"
+   ],
+   "a": 3,
+   "e": "Statement I is correct; the 36th Amendment (1975) made Sikkim a full state. Statement II is incorrect because under Article 2, Parliament can admit new states via ordinary law (e.g., Puducherry) without an amendment."
+  },
+  {
+   "q": "Which of the following bills can not be introduced in the Parliament without the prior recommendations of the President? 1️⃣ A bill altering the boundaries of any State 2️⃣ A Bill for the withdrawal of funds from the Consolidated fund of India 3️⃣ A bill to expand the jurisdiction of the High Courts",
+   "o": [
+    "II and III only",
+    "I and III only",
+    "I, II and III",
+    "I and II only"
+   ],
+   "a": 3,
+   "e": "Article 3 requires prior recommendation for bills altering state boundaries. A money bill (Article 110) for withdrawing funds also requires prior recommendation. Expanding High Court jurisdiction under Article 225 does *not* require prior recommendation."
+  },
+  {
+   "q": "Match the following Directive Principles — 1️⃣ Securing a living wage 2️⃣ Uniform Civil Code 3️⃣ Prohibiting slaughter of cows 4️⃣ Promoting international peace",
+   "o": [
+    "I-C, II-D, III-B, IV-A",
+    "I-A, II-B, III-C, IV-D",
+    "I-D, II-A, III-B, IV-C",
+    "I-B, II-C, III-A, IV-D"
+   ],
+   "a": 0,
+   "e": "The correct matching is: Securing a living wage - Article 43; Uniform Civil Code - Article 44; Prohibiting slaughter of cows - Article 48; and Promoting international peace - Article 51."
+  },
+  {
+   "q": "Consider the following — Statement I: Courts cannot declare any law unconstitutional for violating DPSPs alone. Statement II: DPSPs are not self-executory in nature.",
+   "o": [
+    "Both Statement I and Statement II are correct and Statement II explains Statement I",
+    "Statement I is correct, but Statement II is not correct",
+    "Statement I is not correct, but Statement II is correct",
+    "Both Statement I and Statement II are correct, but Statement II does not explain Statement I"
+   ],
+   "a": 3,
+   "e": "Statement I is correct; DPSPs are guidelines, and laws cannot be invalidated solely for violating them. Statement II is correct; DPSPs are not self-executory and require legislative action to be implemented. Statement II does not explain Statement I."
+  },
+  {
+   "q": "The Rajamannar commission, Sarkaria Commission and Punchhi Commission in the constitutional history of India are related to:",
+   "o": [
+    "constitutionalrecognitionto local Government",
+    "reorganisationofStatesonthebasisoflanguage",
+    "Center-State Relations",
+    "reservation in jobs for Backward Classes"
+   ],
+   "a": 2,
+   "e": "All three commissions—Rajamannar (1969), Sarkaria (1983), and Punchhi (2007)—were appointed to study and recommend improvements for Center-State relations."
+  },
+  {
+   "q": "Consider the following statements regarding Inter States Council — 1️⃣ It is a Constitutional body under Article 263. 2️⃣ The Union Home Minister is the ex-officio chairperson of the Council. 3️⃣ Its decisions are generally taken by consensus among its members.",
+   "o": [
+    "Only two",
+    "Only one",
+    "All the three",
+    "None"
+   ],
+   "a": 0,
+   "e": "Statement I is correct; it has constitutional status under Article 263. Statement II is incorrect; the Prime Minister (not Home Minister) is the ex-officio Chairperson. Statement III is correct; decisions are generally taken by consensus."
+  },
+  {
+   "q": "Consider the following — Statement I: Decrees passed by the criminal Courts of one State are applicable for execution across all other States of the Union of India as well. Statement II: The Constitution of India explicitly provides for 'Full Faith and Credit' to judicial proceedings, public acts of Union and the States throughout the country.",
+   "o": [
+    "Statement I is not correct, but Statement II is correct",
+    "Both Statement I and Statement II are correct, but Statement II does not explain Statement I",
+    "Both Statement I and Statement II are correct and Statement II explains Statement I",
+    "Statement I is correct, but Statement II is not correct"
+   ],
+   "a": 0,
+   "e": "Statement I is incorrect; the 'Full Faith and Credit' clause applies only to civil laws and proceedings, not criminal laws. Statement II is correct; Article 261 explicitly provides for this."
+  },
+  {
+   "q": "Consider the following statements with reference to the National Population Register (NPR) in India — 1️⃣ It is a statutory document under the Citizenship Act, 1955. 2️⃣ It records the database of citizens of India only. 3️⃣ It records both demographic and biometric data.",
+   "o": [
+    "I and III only",
+    "I and II only",
+    "I, II and III",
+    "II and III only"
+   ],
+   "a": 0,
+   "e": "Statement I is correct; NPR is prepared under the Citizenship Act, 1955. Statement II is incorrect; it is a list of \"usual residents,\" which can include foreign nationals staying for more than six months. Statement III is correct; it collects both types of data."
+  },
+  {
+   "q": "Consider the following — Statement I: Rights under Articles 14 and 19 can be restricted for the enforcement of Fundamental Duties. Statement II: Rights under Part III are subservient to the Duties in Part IVA of the Constitution of India.",
+   "o": [
+    "Both Statement I and Statement II are correct, but Statement II does not explain Statement I",
+    "Both Statement I and Statement II are correct and Statement II explains Statement I",
+    "Statement I is correct, but Statement II is not correct",
+    "Statement I is not correct, but Statement II is correct"
+   ],
+   "a": 2,
+   "e": "Statement I is correct; the Supreme Court has recognized that enforcing Fundamental Duties may justify reasonable restrictions on rights like Articles 14 and 19. Statement II is incorrect; Fundamental Rights are not subservient to Duties; they are independent of each other."
+  },
+  {
+   "q": "A child born on 27th July 2025 in India will not be considered as its citizen under which one of the following situations?",
+   "o": [
+    "If both of its parents are Indian passport holders but are not the ordinary residents of the country.",
+    "If only one of its parents is a citizen of India and the other is a foreigner visiting India after fulfilling due immigration formalities.",
+    "If one of its parents is an Indian citizen while the other parent is an illegal immigrant.",
+    "If both parents are Indian citizens but the child was conceived via in-vitro fertilization conducted in a foreign hospital."
+   ],
+   "a": 2,
+   "e": "For children born after December 3, 2004, they are not citizens if one of their parents is an illegal migrant at the time of birth."
+  },
+  {
+   "q": "Consider the following statements — 1️⃣ Only a language listed in the Eighth Schedule of the Constitution can be recognised as an official language of the State. 2️⃣ The State Legislature has the exclusive prerogative for determining the official language of the State.",
+   "o": [
+    "I only",
+    "Neither I nor II",
+    "Both I and II",
+    "II only"
+   ],
+   "a": 1,
+   "e": "Statement I is incorrect; states can adopt any language spoken there, even if not in the Eighth Schedule. Statement II is incorrect because while legislatures can choose , the President can also direct a state to recognize a language if a substantial portion of the population desires it."
+  },
+  {
+   "q": "Suppose a bill for a Constitutional Amendment has been put to vote in the Lok Sabha (543 members). If 360 members are present and voting, how many votes are required for passage?",
+   "o": [
+    "301",
+    "360",
+    "273",
+    "240"
+   ],
+   "a": 2,
+   "e": "A special majority requires: (i) majority of total membership (543/2 = 272+ = 273) AND (ii) two-thirds of those present and voting (360 * 2/3 = 240). The bill must satisfy the higher number, which is 273."
+  },
+  {
+   "q": "As on 01st July 2025, the Constitution of India consisted of:",
+   "o": [
+    "25 Parts and 8 Schedules",
+    "25 Parts and 12 Schedules",
+    "24 Parts and 10 Schedules",
+    "22 Parts and 12 Schedules"
+   ],
+   "a": 1,
+   "e": "Presently, the Constitution has 25 Parts and 12 Schedules"
+  },
+  {
+   "q": "Consider the following statements regarding Fazl Ali Commission — 1️⃣ It recommended the reorganisation of States on the basis of 'One Language One State' principle. 2️⃣ It took the preservation of the unity of the country as the primary criterion for reorganization of States.",
+   "o": [
+    "II only",
+    "I only",
+    "Neither I nor II",
+    "Both I and II"
+   ],
+   "a": 0,
+   "e": "Statement I is incorrect; the commission explicitly rejected 'One language, one state'. Statement II is correct; it prioritized national unity and integrity as the paramount objective."
+  },
+  {
+   "q": "With reference to Article 25, consider the following statements — 1️⃣ It protects the religious beliefs as well as the religious practices of an individual. 2️⃣ It guarantees the right to propagate religion which encompasses the right to convert anyone from one religion to another. 3️⃣ The fundamental right under Article 14 operates as a limitation on the rights provided by Article 25.",
+   "o": [
+    "I only",
+    "III only",
+    "I and III only",
+    "II and III only"
+   ],
+   "a": 2,
+   "e": "Statement I is correct; Article 25 covers both beliefs and practices. Statement II is incorrect; the right to propagate does *not* include the right to forcibly convert others. Statement III is correct; Article 25 is subject to other rights, including the right to equality (Article 14)."
+  },
+  {
+   "q": "Which one of the following articles of Part III of the Constitution of India is self-executory in nature?",
+   "o": [
+    "Article 33",
+    "Article 17",
+    "Article 32",
+    "Article 23"
+   ],
+   "a": 2,
+   "e": "Article 32 (Constitutional Remedies) is self-executory. Articles 17, 23, and 33 require enabling legislation to be enforced or implemented."
+  },
+  {
+   "q": "Regarding preventive detention — 1️⃣ The preventive detention of a person cannot exceed three months under any circumstance. 2️⃣ The detainee must be provided an opportunity for making a representation against the detention order.",
+   "o": [
+    "II only",
+    "I only",
+    "Both I and II",
+    "Neither I nor II"
+   ],
+   "a": 0,
+   "e": "Statement I is incorrect; detention beyond three months is possible with advisory board approval. Statement II is correct; Article 22(5) guarantees the right of representation."
+  },
+  {
+   "q": "Which of the following are considered as the 'State' for Part III? 1️⃣ The Gram Panchayats 2️⃣ The Airports Authority of India 3️⃣ The Supreme Court of India while performing judicial functions 4️⃣ The National Human Rights Commission",
+   "o": [
+    "I, II and IV only",
+    "I and III only",
+    "I only",
+    "II, III and IV only"
+   ],
+   "a": 0,
+   "e": "Panchayats, AAI, and NHRC fall under Article 12. The Supreme Court is *not* \"State\" while performing judicial functions."
+  },
+  {
+   "q": "Regarding President's Rule — 1️⃣ Once the President's rule is declared in the State, its legislative assembly gets dissolved. 2️⃣ Once imposed, it can continue indefinitely without any approval from the Parliament.",
+   "o": [
+    "Both I and II",
+    "II only",
+    "I only",
+    "Neither I nor II"
+   ],
+   "a": 3,
+   "e": "Statement I is incorrect; the assembly is suspended and only dissolved after Parliamentary approval. Statement II is incorrect; it requires approval every six months and has a 3-year maximum limit."
+  },
+  {
+   "q": "Consider the following — 1️⃣ The Parliament is empowered to provide for the use of any language other than English to be used for the proceedings of the Supreme Court. 2️⃣ The Governor of a State can authorize the use of the Hindi or any other language in proceedings of the High Court.",
+   "o": [
+    "II only",
+    "I only",
+    "Both I and II"
+   ],
+   "a": 2,
+   "e": "Article 348(1)(a) mandates English in the Supreme Court unless Parliament provides otherwise. For High Courts, the Governor (with Presidential consent) can authorize Hindi or other regional languages for proceedings."
+  },
+  {
+   "q": "Which one of the following is not correct regarding the Constitutional status of cooperative societies?",
+   "o": [
+    "Cooperative societies is a subject under the List II of the Seventh Schedule of the Constitution.",
+    "Forming a cooperative society is Fundamental Right granted to the citizens.",
+    "The Central Government can legislate for cooperative societies operating in more than one State.",
+    "Any person can become a member of a Cooperative society as a matter of Constitutional Right."
+   ],
+   "a": 3,
+   "e": "Forming a society is a fundamental right (Article 19(1)(c)), but becoming a member is *not* a constitutional right; it is governed by state laws."
+  },
+  {
+   "q": "Match the Committee and Chairman — 1️⃣ House Committee: B. Pattabhi Sitaramayya 2️⃣ Linguistic Provinces Commission: S.K. Dhar 3️⃣ Committee on Fundamental Rights: Vallabhbhai Patel 4️⃣ Steering Committee: Dr. Rajendra Prasad",
+   "o": [
+    "I, II and III only",
+    "I and IV only",
+    "I, II, III and IV",
+    "II, III and IV only"
+   ],
+   "a": 2,
+   "e": "All pairs are correct as per the records of the Constituent Assembly"
+  },
+  {
+   "q": "The Constitution explicitly provides for which of the following duties of the Centre to the States? 1️⃣ Preserve territorial integrity 2️⃣ Protect against internal disturbances 3️⃣ Provide financial assistance to all 4️⃣ Ensure government is carried in accordance with the Constitution 5️⃣ Protect interests at Union level",
+   "o": [
+    "I and IV only",
+    "II and IV only",
+    "I, II and III only",
+    "III, IV and V only"
+   ],
+   "a": 1,
+   "e": "Article 355 imposes two duties: to protect states against external aggression/internal disturbance (2️⃣) and ensure governance follows the Constitution (4️⃣)."
+  },
+  {
+   "q": "Which one of the following parts of the Constitution of India provides for positive rights to the Citizens?",
+   "o": [
+    "Part III",
+    "Part XX",
+    "Part II",
+    "Part IV"
+   ],
+   "a": 3,
+   "e": "DPSPs (Part IV) are positive rights because they require the State to take affirmative action. Fundamental Rights are mostly negative rights as they limit state power."
+  },
+  {
+   "q": "Regarding OCI cardholders — 1️⃣ Only a Person of Indian Origin can be registered as an OCI. 2️⃣ Indian civil and criminal laws are not applicable to an OCI living in India. 3️⃣ They can acquire agricultural property in India by way of purchase. 4️⃣ They are not entitled to vote in legislative elections in India.",
+   "o": [
+    "II and III only",
+    "I and IV only",
+    "II and IV only",
+    "I and III only"
+   ],
+   "a": 1,
+   "e": "OCIs are Persons of Indian Origin (statement I). Indian laws *do* apply to them while in India (statement II). They *cannot* acquire agricultural land (statement III). They are not entitled to vote (statement IV)."
+  },
+  {
+   "q": "Regarding amending power — 1️⃣ The amending power of the Parliament arises only from Part XX of the Constitution of India. 2️⃣ The Doctrine of Basic Structure is the only limitation on the amending power of the Parliament.",
+   "o": [
+    "II only",
+    "I only",
+    "Both I and II",
+    "Neither I nor II"
+   ],
+   "a": 0,
+   "e": "Statement I is incorrect; power also arises from Articles 245, 246, and 248. Statement II is correct; the Basic Structure Doctrine is the only limitation."
+  },
+  {
+   "q": "Regarding the Ninth Schedule — 1️⃣ It was added by the 1st Constitutional Amendment Act of 1951. 2️⃣ Laws included in it can not be challenged in a Court on the ground of being violative of the Constitution. 3️⃣ Any changes to it require an amendment to the Constitution under Article 368.",
+   "o": [
+    "I and III only",
+    "I only",
+    "I, II and III",
+    "II and III only"
+   ],
+   "a": 0,
+   "e": "Statement I is correct. Statement II is incorrect; the 2007 I.R. Coelho case ruled laws added after 1973 are subject to judicial review for Basic Structure violations. Statement III is correct; adding/removing laws requires an Article 368 amendment."
+  },
+  {
+   "q": "Which jurisdiction is enjoyed by High Courts, but not by the Supreme Court?",
+   "o": [
+    "Supervisory Jurisdiction",
+    "Writ Jurisdiction",
+    "Appellate jurisdiction",
+    "Advisory Jurisdiction"
+   ],
+   "a": 0,
+   "e": "Under Article 227, High Courts have supervisory jurisdiction over all courts/tribunals in their territory; the Supreme Court lacks this power."
+  },
+  {
+   "q": "Regarding Supreme Court judge removal — 1️⃣ Ground: misbehaviour or incapacity. 2️⃣ Presiding officer cannot refuse to admit motion. 3️⃣ Passed by both Houses by special majority. 4️⃣ Resolution addressed to President during the same session.",
+   "o": [
+    "I, III and IV only",
+    "I and III only",
+    "II, III and IV only",
+    "I and II only"
+   ],
+   "a": 0,
+   "e": "Statement I is correct. Statement II is incorrect; the Speaker/Chairman *can* refuse to admit the motion. Statements III and IV are correct."
+  },
+  {
+   "q": "Which Writs cannot be issued against a private individual? 1️⃣ Mandamus 2️⃣ Certiorari 3️⃣ Prohibition 4️⃣ Habeas Corpus 5️⃣ Quo-Warranto",
+   "o": [
+    "I, II, III and V only",
+    "I, II and V only",
+    "I, III and V only",
+    "II, III, and IV only"
+   ],
+   "a": 0,
+   "e": "Mandamus, Certiorari, Prohibition, and Quo-Warranto cannot be issued against private individuals. Only Habeas Corpus can be issued against both public and private parties."
+  },
+  {
+   "q": "Regarding National Emergency — Statement I: During a National Emergency, Fundamental Rights of citizens can be restricted. Statement II: Article 359 allows the suspension of all the Fundamental Rights during the Emergency. Statements III: Article 359 comes into force as soon as the proclamation of National Emergency is made on the grounds of external aggression.",
+   "o": [
+    "Only one of the statements II and III is correct, and that explains statement I.",
+    "Neither Statement II nor statement III is correct.",
+    "Both statement II and statement III are correct and both of them explain statement I.",
+    "Both statement II and statement III are correct, but only one of them explains statement I."
+   ],
+   "a": 0,
+   "e": "Statement I is correct. Statement II is incorrect; Articles 20 and 21 cannot be suspended. Statement III is incorrect; Article 359 does not apply automatically but requires a specific Presidential Order. Thus, only Statement I is actually correct."
+  },
+  {
+   "q": "In which situation will President's Rule be deemed improper? 1️⃣ Maladministration or corruption 2️⃣ Anti-secular activities 3️⃣ Majority assessment without floor test",
+   "o": [
+    "II and III only",
+    "I, II and III",
+    "I and III only",
+    "I and II only"
+   ],
+   "a": 2,
+   "e": "Maladministration (1️⃣) and not using a floor test (3️⃣) are improper. Pursuing anti-secular activities (2️⃣) is considered a proper ground for President's Rule."
+  },
+  {
+   "q": "Which Article imposes restrictions on the Executive but not on the Legislature at all?",
+   "o": [
+    "Article 15",
+    "Article 20",
+    "Article 24",
+    "Article 21"
+   ],
+   "a": 3,
+   "e": "Article 21 ensures the Executive follows \"procedure established by law,\" but the Legislature is entitled to lay down any procedure for deprivation of liberty."
+  },
+  {
+   "q": "Which fall under the original jurisdiction of the Supreme Court? 1️⃣ Speaker election 2️⃣ Center-State disputes 3️⃣ Fundamental Right enforcement",
+   "o": [
+    "II and III only",
+    "I, II and III",
+    "I and III only",
+    "I only"
+   ],
+   "a": 0,
+   "e": "Center-State disputes (Article 131) and Fundamental Right enforcement (Article 32) are original jurisdiction. Speaker elections go to High Courts."
+  },
+  {
+   "q": "Which comprises the collegium for selection of Supreme Court judges?",
+   "o": [
+    "The Chief Justice of India and four senior most judges of the Supreme Court of India",
+    "The Chief Justice of India, the Speaker of the Lok Sabha, and the Attorney General of India",
+    "The Chief Justice of India, four senior most judges of the Supreme Court, and the Secretary-General of the Supreme Court",
+    "The Prime Minister of India, the Chief Justice of India, and the Union Law Minister"
+   ],
+   "a": 0,
+   "e": "As per the Third Judges Case (1998), the collegium consists of the CJI and four senior-most judges of the Supreme Court."
+  },
+  {
+   "q": "Regarding Fundamental Duties — 1️⃣ They can be enforced only through suitable legislation. 2️⃣ They are non-justiciable in nature.",
+   "o": [
+    "Both I and II",
+    "II only",
+    "I only",
+    "Neither I nor II"
+   ],
+   "a": 1,
+   "e": "Statement I is incorrect; duties are directly applicable to citizens. Statement II is correct; they are non-justiciable unless specific laws make them enforceable."
+  },
+  {
+   "q": "Regarding Special Leave Petition (SLP) —",
+   "o": [
+    "It is a discretionary power of the Supreme Court",
+    "The Supreme Court admits a SLP on account of being the Court of Record.",
+    "The Supreme Court cannot accept a SLP if the matter is pending before a High Court.",
+    "It forms a part of the original jurisdiction of the Supreme Court."
+   ],
+   "a": 0,
+   "e": "SLP is a residual, discretionary power under Article 136; it is not a matter of right."
+  },
+  {
+   "q": "Regarding Article 143 (public importance reference) — 1️⃣ Decided by at least five judges. 2️⃣ SC is bound to tender opinion. 3️⃣ Opinion is binding on President.",
+   "o": [
+    "II and III only",
+    "I only",
+    "I and III only",
+    "II only"
+   ],
+   "a": 1,
+   "e": "Statement I is correct (Article 145(3)). Statement II is incorrect; for public importance, the SC *can* refuse to tender opinion. Statement III is incorrect; the opinion is advisory and not binding."
+  },
+  {
+   "q": "Regarding Government of India Act, 1909 — 1️⃣ Abolished official majority in Central Legislative Council. 2️⃣ Provided for elections to non-official members. 3️⃣ Members allowed to discuss budget and ask supplementary questions.",
+   "o": [
+    "I and II only",
+    "II and III only",
+    "I, II and III",
+    "I and III only"
+   ],
+   "a": 1,
+   "e": "Statement I is incorrect; the official majority was *retained* at the Central level. Statement II is correct; the elective principle was introduced. Statement III is correct."
+  },
+  {
+   "q": "Which language is not included in the Eighth Schedule?",
+   "o": [
+    "Manipuri",
+    "Konkani",
+    "Bodo",
+    "English"
+   ],
+   "a": 3,
+   "e": "English is not recognized as a scheduled language under the Eighth Schedule."
+  },
+  {
+   "q": "Regarding High Courts — 1️⃣ Numerical strength determined by President. 2️⃣ Territorial jurisdiction co-terminus with concerned State(s).",
+   "o": [
+    "I only",
+    "Both I and II",
+    "II only"
+   ],
+   "a": 1,
+   "e": "Both statements are correct"
+  },
+  {
+   "q": "Which Act for the first time referred to Company's territories as \"British possessions in India\"?",
+   "o": [
+    "Charter Act of 1813",
+    "Government of India Act of 1858",
+    "Pitt's India Act of 1784",
+    "Regulating Act of 1773"
+   ],
+   "a": 2,
+   "e": "The Pitt's India Act, 1784 officially used this term for the first time."
+  },
+  {
+   "q": "How many ways can national emergency be revoked? 1️⃣ Presidential proclamation 2️⃣ 1/10th Lok Sabha members submit written notice 3️⃣ Resolution passed in each house by simple majority 4️⃣ Rajya Sabha rejects proclamation while Lok Sabha dissolved",
+   "o": [
+    "All the four",
+    "Only three",
+    "Only one",
+    "Only two"
+   ],
+   "a": 1,
+   "e": "Revoked by: 1️⃣ , 3️⃣ , and 4️⃣. 2️⃣ merely triggers a special sitting, it doesn't revoke the emergency directly."
+  },
+  {
+   "q": "Regarding PILs — 1️⃣ \"Locus Standi\" relaxed. 2️⃣ SC cannot initiate PIL suo moto. 3️⃣ Cannot be filed in any court lower than High Courts.",
+   "o": [
+    "I and III only",
+    "II and III only",
+    "I, II and III",
+    "I only"
+   ],
+   "a": 0,
+   "e": "Statement I is correct. Statement II is incorrect; the SC *can* take suo motu cognizance. Statement III is correct; they can only be filed in the SC or High Courts."
+  },
+  {
+   "q": "Regarding High Court Judges — 1️⃣ Oath by President. 2️⃣ Salary and pension charged on State Consolidated Fund. 3️⃣ Transfer only after consulting Governors of both States.",
+   "o": [
+    "Only two",
+    "Only one",
+    "All the three",
+    "None"
+   ],
+   "a": 3,
+   "e": "None are correct. 1️⃣ Oath by Governor. 2️⃣ Salary on State Fund, but pension on Central Fund. 3️⃣ Transfer by President after consulting CJI (who consults collegium and relevant High Court Chief Justices, not Governors)."
+  },
+  {
+   "q": "How many terms were *not* part of the original Preamble? 1️⃣ Socialist 2️⃣ Secular 3️⃣ Democratic 4️⃣ Fraternity 5️⃣ Integrity",
+   "o": [
+    "Only three",
+    "Only two",
+    "All the five",
+    "Only four"
+   ],
+   "a": 0,
+   "e": "Socialist, Secular, and Integrity were added in 1976."
+  },
+  {
+   "q": "Regarding Financial Emergency — 1️⃣ Approved by Parliament within two months. 2️⃣ Once approved, continues indefinitely without repeated approval. 3️⃣ Courts not allowed to review grounds of imposition.",
+   "o": [
+    "I only",
+    "II and III only",
+    "I and II only",
+    "I, II and III"
+   ],
+   "a": 2,
+   "e": "1️⃣ and 2️⃣ are correct. 3️⃣ is incorrect; the 44th Amendment ensured the President's satisfaction is subject to judicial review."
+  }
+ ]
+}

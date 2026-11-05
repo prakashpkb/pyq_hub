@@ -1,0 +1,1108 @@
+{
+ "title": "Test 7718",
+ "category": "Vajiram Power Up 2026",
+ "minutes": 75,
+ "negative": 0.25,
+ "questions": [
+  {
+   "q": "With reference to the history of India, consider the following information: 1️⃣ Row I: Peleolithic - Developed in the Pleistocene period or the Ice Age - Belan valley 2️⃣ Row II: Mesolithic - People lived on hunting, fishing and food gathering - Maski and Chirand 3️⃣ Row III: Neolithic - People used tools and implements of polished stone - Burzahom and Gufkral. In how many of the above rows is the given information correctly matched?",
+   "o": [
+    "All the three",
+    "None",
+    "Only one",
+    "Only two"
+   ],
+   "a": 3,
+   "e": "The Indian Stone Age is classified into three types based on geological age and technology. Row I is correct as the Palaeolithic Age developed during the Pleistocene period (Ice Age), and remains were found in the Belan valley, Uttar Pradesh. Row II is incorrect; while Mesolithic people did hunt and gather, Maski and Chirand are actually Neolithic sites. Row III is correct because Neolithic people used polished stone tools, and Burzahom and Gufkral in Kashmir are famous sites of this period. Therefore, only two rows are correctly matched."
+  },
+  {
+   "q": "Consider the following: 1️⃣ Use of copper implements 2️⃣ First to use painted pottery 3️⃣ Knew the art of writing 4️⃣ Lived in cities 5️⃣ Used spindle whorls. How many of the above are features of Chalcolithic Cultures in India?",
+   "o": [
+    "Only two",
+    "Only four",
+    "Only three",
+    "All the five"
+   ],
+   "a": 2,
+   "e": "Chalcolithic (Stone-Copper) cultures used both stone and copper implements, making feature 1 correct. They were the first to use painted pottery in India, notably Ochre Coloured Pottery (OCP) and black-and-red ware, so feature 2 is correct. Feature 5 is also correct as spindle whorls found in Malwa indicate they knew spinning and weaving. Feature 3 is incorrect because Chalcolithic people did not know writing; this was a feature of the distinct Harappan culture. Feature 4 is incorrect because these settlements were typically rural villages or small fortified sites, not cities. Thus, only three features are correct."
+  },
+  {
+   "q": "With reference to the Indus Valley Civilization, consider the following pairs: 1️⃣ Pair I: Manda - Jammu and Kashmir 2️⃣ Pair II: Bhagwanpura - Gujarat 3️⃣ Pair III: Daulatpur - Haryana 4️⃣ Pair IV: Alamgirpur - Uttar Pradesh. How many of the pairs given above are correctly matched?",
+   "o": [
+    "Only three",
+    "Only one",
+    "All the four",
+    "Only two"
+   ],
+   "a": 0,
+   "e": "Pair I is correct as Manda in Jammu district is the northernmost site of the Harappan culture. Pair II is incorrect because Bhagwanpura is located in the Kurukshetra district of Haryana, not Gujarat. Pair III is correct as Daulatpur is a Late Harappan site also located in the Kurukshetra district of Haryana. Pair IV is correct because Alamgirpur, located in the Meerut district of Uttar Pradesh, is the easternmost known outpost of the civilization. Thus, only three pairs are correctly matched."
+  },
+  {
+   "q": "Consider the following pairs with reference to the Early Vedic society: 1️⃣ Pair I: Vrajapati - Enjoyed authority over the pasture ground 2️⃣ Pair II: Grama - Smaller tribal units 3️⃣ Pair III: Vidatha - Clan-based assemblies 4️⃣ Pair IV: Bali - Voluntary offerings. How many of the pairs given above are correctly matched?",
+   "o": [
+    "All the four",
+    "Only two",
+    "Only one",
+    "Only three"
+   ],
+   "a": 0,
+   "e": "Pair I is correct as the Vrajapati was the officer with authority over pasture grounds. Pair II is correct because a Grama was a collection of families forming a mobile tribal fighting unit. Pair III is correct as Vidatha was one of the tribal/clan assemblies mentioned in the Rig Veda that exercised military and religious functions. Pair IV is correct because Bali was a voluntary tribute or offering made to the king in the Early Vedic period; it only became a compulsory tax later. All four pairs are correctly matched."
+  },
+  {
+   "q": "Which one of the following statements best describes the Upanishads?",
+   "o": [
+    "Prose manuals containing detailed instructions for guiding priests during rituals and sacrifices",
+    "Appendices to the Brahmanas and are meant only for hermits dwelling in the forest",
+    "Religious scriptures containing hymns, prayers, and benedictions used for public ceremonies",
+    "Philosophical treatises that mark the final stage of Vedic thought and spiritual revelation"
+   ],
+   "a": 3,
+   "e": "The Upanishads are philosophical texts that mark the end of the Vedic period. They criticized rituals and focused on the value of right belief and knowledge regarding 'Atman' (self) and 'Brahman' (ultimate reality). Unlike Aranyakas, which were intended for hermits in the forest, Upanishads focused on spiritual revelation."
+  },
+  {
+   "q": "With reference to the different schools of Buddhism, consider the following statements: 1️⃣ I. In Mahayana Buddhism, Bodhisattva assists all sentient beings suffering in the cycle of rebirth. 2️⃣ II. Tipitaka is the primary scriptural source and foundational text for Theravada Buddhism. 3️⃣ III. Vajrayana Buddhism is distinguished by its reliance on the Tantras. 4️⃣ IV. The Two Truths Doctrine' is the central concept of the Hinayana school. Which of the statements given above are correct?",
+   "o": [
+    "I, II and IV only",
+    "III and IV only",
+    "I, II and III only",
+    "II and III only"
+   ],
+   "a": 2,
+   "e": "Statement I is correct as Mahayana Bodhisattvas take a vow to stay in the cycle of rebirth until all sentient beings are freed from suffering. Statement II is correct because the Tipitaka (Pali Canon) is the authoritative collection of scriptures for Theravada Buddhism. Statement III is correct as Vajrayana is characterized by the use of Tantric texts and practices. Statement IV is incorrect because the 'Two Truths Doctrine' is a central concept of Mahayana Buddhism, not Hinayana."
+  },
+  {
+   "q": "With reference to the philosophical tenets of Jainism, consider the following statements: 1️⃣ I. It holds that the universe has a definite beginning and a final end with respect to time, followed by a state of absolute non-existence. 2️⃣ II. It posits that every living being is currently in an ignorant state regarding its true, perfect nature, and this ignorance can be eliminated through self-knowledge. 3️⃣ III. Its central tenant is Anekantavada, which emphasizes the multiplicity, relativity, and non-absolutist nature of all viewpoints and truths. 4️⃣ IV. It emphasises that the attainment of liberation is restricted only to those who follow the ascetic path. Which of the statements given above are correct?",
+   "o": [
+    "I, II and III only",
+    "II, III and IV only",
+    "I and IV only",
+    "II and III only"
+   ],
+   "a": 3,
+   "e": "Statement I is incorrect because Jainism believes the universe is eternal, with no beginning or end. Statement II is correct as Jains believe ignorance of one's true nature can be removed through self-knowledge and self-effort. Statement III is correct; Anekantavada emphasizes that reality is perceived differently from various viewpoints. Statement IV is incorrect because, while the ascetic path is the most direct, Jainism (specifically the Shwetambara tradition) believes liberation may be possible for laypersons as well."
+  },
+  {
+   "q": "With reference to the nature of the government and polity during the Mahajanapada period, consider the following statements: 1️⃣ I. All Mahajanapadas had a high degree of administrative centralization under the King. 2️⃣ II. The kingship of the state was decided through general consent of the common people. 3️⃣ III. The division between the executive and judicial branches was not clearly demarcated. 4️⃣ IV. The land grants were primarily given to Brahmins with the right to collect revenue. Which of the statements given above are correct?",
+   "o": [
+    "I, III and IV only",
+    "III and IV only",
+    "II and IV only",
+    "I, II and III only"
+   ],
+   "a": 1,
+   "e": "Statement I is incorrect; while some monarchies moved toward centralization, many areas and republics (Gana-Sanghas) remained decentralized. Statement II is incorrect because in monarchies, kingship was usually hereditary, and in republics, the head was chosen by a council of chiefs, not by general consent of common people. Statement III is correct as the King or Council served as the supreme authority for all functions, including the executive and judicial. Statement IV is correct because land grants were given to Brahmins for revenue collection during this period."
+  },
+  {
+   "q": "With reference to the polity in the Mauryan period, consider the following: 1️⃣ I. Swamin (King) 2️⃣ II. Amatyas (Ministers) 3️⃣ III. Rastra (Territory) 4️⃣ IV. Durgas (Forts) 5️⃣ V. Bala (Army) 6️⃣ VI. Kosha (Treasury). How many of the above elements were part of the 'Seven limbs' of the state?",
+   "o": [
+    "Only four",
+    "Only three",
+    "Only five",
+    "All the six"
+   ],
+   "a": 3,
+   "e": "All six mentioned elements—Swamin (King), Amatyas (Ministers), Rastra (Territory), Durga (Fort), Kosha (Treasury), and Danda/Bala (Army)—along with Mitra (Ally), were part of Kautilya’s 'Saptanga Rajya' or seven limbs of the state."
+  },
+  {
+   "q": "With reference to the development of coinage system in ancient India, consider the following statements: 1️⃣ I. The Indo-Greek coinage often exhibited Hellenistic artistic traditions. 2️⃣ II. The Kushana coins typically featured both the King and a deity. 3️⃣ III. The Satavahana coins carried the motifs of nature including motifs of fauna. 4️⃣ IV. The Western Kshatraps coins are earliest coins bearing dates given in the Saka era. Which of the statements given above are correct?",
+   "o": [
+    "I and III only",
+    "I, II, III and IV",
+    "I and II only",
+    "II, III and IV only"
+   ],
+   "a": 1,
+   "e": "Statement I is correct as Indo-Greek coins used Hellenistic traditions with portraits of kings and deities. Statement II is correct because Kushana coins showed the King on the obverse and various deities on the reverse. Statement III is correct as Satavahana coins featured motifs like elephants, bulls, hills, and trees. Statement IV is correct; Western Kshatrap coins were the first to bear dates in the Saka era. All statements are correct."
+  },
+  {
+   "q": "With reference to the Ancient Indian history, consider the following information: 1️⃣ Row I: Mudrarakshasa - Vishakhadatta - Details about Chanakya's mechanisms against Chandragupta's enemies 2️⃣ Row II: Indica - Megasthenes - Throws light on administration, society and economy of Maurya times 3️⃣ Row III: Saundarnanda - Ashvaghosh - Account of Chandragupta Maurya's abdication and emigration to Shravanabelagola 4️⃣ Row IV: Parishishta Parva - Hemachandra - Detailed account of Chandragupta Maurya's life and role of Chanakya. In how many of the above rows is the information correctly matched?",
+   "o": [
+    "Only two",
+    "All the four",
+    "Only three",
+    "Only one"
+   ],
+   "a": 2,
+   "e": "Row I is correct; Vishakhadatta’s Mudrarakshasa describes Chanakya’s schemes. Row II is correct; Megasthenes’s Indica is a primary source for Mauryan governance and society. Row III is incorrect because Saundarananda describes the conversion of Buddha's half-brother Nanda, not Chandragupta's abdication. Row IV is correct; Parishishta Parva by Hemachandra gives a Jain account of Chandragupta's life and his abdication at Shravanabelagola. Thus, three rows are matched."
+  },
+  {
+   "q": "The name of Ashoka occurs in the copies of which one of the following types of edicts?",
+   "o": [
+    "Major Pillar Edicts",
+    "Separate Rock Edicts",
+    "Minor Rock Edicts",
+    "Major Rock Edicts"
+   ],
+   "a": 2,
+   "e": "While Ashoka referred to himself as Devanampiya Piyadasi in most inscriptions, his personal name \"Ashoka\" explicitly appears in copies of Minor Rock Edict I, found at sites like Maski, Brahmagiri, and Nittur."
+  },
+  {
+   "q": "With reference to the Satavahanas, consider the following statements: 1️⃣ I. Satakarni I adopted the title \"Lord of Dakshinapath\". 2️⃣ II. Gautamiputra Satakarni's military achievements are recorded in the Nashik inscriptions. 3️⃣ III. Yajna Sri Satakarni issued coins with the motif of the ship. 4️⃣ IV. Satavahana kings prominently used matronymics as succession was matrilineal. Which of the statements given above are correct?",
+   "o": [
+    "II and IV only",
+    "I and III only",
+    "I, II and III only",
+    "II, III and IV only"
+   ],
+   "a": 2,
+   "e": "Statement I is correct as Satakarni I is described as \"Lord of Dakshinapatha\" in the Naneghat inscription. Statement II is correct; his mother Gautami Balashri recorded his achievements in the Nashik inscription. Statement III is correct; Yajna Sri Satakarni issued coins with ship motifs, suggesting naval capabilities. Statement IV is incorrect because while they used matronymics (mother's name), succession was patriarchal and hereditary."
+  },
+  {
+   "q": "In the context of the Satavahana administration, the terms Kataka and Skandhavaras refer to:",
+   "o": [
+    "major fortified regional capitals and permanent military garrisons",
+    "special tax levies imposed on traders and artisans for military maintenance",
+    "titles conferred upon the highest judicial officers in the kingdom",
+    "military camps which served as administrative centres as long as the king was there"
+   ],
+   "a": 3,
+   "e": "In Satavahana inscriptions, Kataka and Skandhavaras were military camps that functioned as temporary administrative headquarters or capitals for the King and his officials while traveling."
+  },
+  {
+   "q": "Consider the following: 1️⃣ Pair I: Arasar - Ruling class 2️⃣ Pair II: Avai - Royal court 3️⃣ Pair III: Manram - Village council 4️⃣ Pair IV: Aimperunkulu - Council to assist the king in administration. How many of the pairs given above are correctly matched?",
+   "o": [
+    "All the four",
+    "Only two",
+    "Only one",
+    "Only three"
+   ],
+   "a": 0,
+   "e": "All four pairs are correct. Arasar was the ruling class in the Sangam period. Avai was the royal court. Manram served as a village council. Aimperunkulu was the 'Council of Five' that assisted the king in central administration."
+  },
+  {
+   "q": "Consider the following statements with reference to the Gupta Empire: 1️⃣ I. It was mainly spread in the fertile land of Madhyadesha. 2️⃣ II. Only the ablest son ascended to the throne with the consent of the council of ministers. 3️⃣ III. Fa-Hien found that capital punishment was rare in the Gupta Empire. 4️⃣ IV. The people paid one-sixth of their cumulative income as tax. Which of the statements given above are correct?",
+   "o": [
+    "II and III only",
+    "I, II, III and IV",
+    "I, III and IV only",
+    "I and II only"
+   ],
+   "a": 1,
+   "e": "Statement I is correct; the Gupta heartland was Madhyadesha in the Ganga-Yamuna Doab. Statement II is correct; kingship was hereditary, but ministerial consent and the prince's ability were required. Statement III is correct as recorded by the pilgrim Fa-Hien. Statement IV is correct; cultivators paid one-sixth of their produce as land tax."
+  },
+  {
+   "q": "Consider the following pairs: 1️⃣ Pair I: Cholas - Vanji 2️⃣ Pair II: Pandyas - Madurai 3️⃣ Pair III: Cheras - Uraiyur. How many of the pairs given above are correctly matched?",
+   "o": [
+    "Only one pair",
+    "All the three pairs",
+    "Only two pairs",
+    "None of the pairs"
+   ],
+   "a": 0,
+   "e": "Pair I is incorrect because Vanji was the capital of the Cheras, not the Cholas. Pair II is correct; Madurai was the historical capital of the Pandyas. Pair III is incorrect as Uraiyur was an early capital of the Cholas. Thus, only one pair is correct."
+  },
+  {
+   "q": "With reference to the Pitribhaktas, consider the following statements: 1️⃣ I. They dominated the region lying between the rivers Godavari and Kaveri. 2️⃣ II. They used the standard lunar calendar with twelve months. 3️⃣ III. They made agraharas endowments to promote religious learning and Vedic education. Which of the statements given above are correct?",
+   "o": [
+    "I and II only",
+    "II and III only",
+    "I and III only",
+    "I, II and III"
+   ],
+   "a": 1,
+   "e": "Statement I is incorrect; the Pitribhaktas ruled the region between the Mahanadi and Krishna rivers in modern Odisha and northern Andhra Pradesh. Statement II is correct; their inscriptions show the formalized use of twelve lunar months. Statement III is correct because they donated agraharas (tax-free villages) to Brahmanas to promote Vedic education."
+  },
+  {
+   "q": "In ancient Bengal region, Dandabhukti was known as a:",
+   "o": [
+    "guild of merchants and artisans",
+    "type of land grant to Brahmanas",
+    "fortress town on the western frontier",
+    "prominent territorial sub-division"
+   ],
+   "a": 3,
+   "e": "Dandabhukti was a prominent territorial subdivision (bhukti) in ancient Bengal that linked Bengal with Odisha."
+  },
+  {
+   "q": "Consider the following statements with regard to the ancient kingdom of Kamarupa: 1️⃣ I. It finds mention in the Allahabad Pillar Inscription of Samudragupta. 2️⃣ II. The kings adopted the title Varman. 3️⃣ III. It was visited by Hsuan Tsang during the reign of Bhaskaravarman. How many of the statements given above are not correct?",
+   "o": [
+    "Only one",
+    "None",
+    "All the three",
+    "Only two"
+   ],
+   "a": 1,
+   "e": "All statements are correct. Statement I is correct as Kamarupa is listed as a \"Pratyanta Rajya\" (frontier kingdom) in Samudragupta's Allahabad Pillar Inscription. Statement II is correct; the earliest dynasty was the Varman dynasty. Statement III is correct because the Chinese monk Hsuan Tsang visited during Bhaskaravarman's reign."
+  },
+  {
+   "q": "Consider the following statements with regard to Emperor Harshavardhana and his reign: 1️⃣ I. Ujjain transformed from a military camp to the imperial capital of Harsha. 2️⃣ II. Banabhatta, the author of Harshacharita, was his court poet. 3️⃣ III. He convened assemblies at Kanauj and Prayag to propagate Mahayana Buddhism. How many of the above statements are correct?",
+   "o": [
+    "Only one",
+    "Only two",
+    "None",
+    "All the three"
+   ],
+   "a": 1,
+   "e": "Statement I is incorrect; Harsha made Kanauj his imperial capital, not Ujjain. Statement II is correct; Banabhatta was Harsha's court poet and biographer. Statement III is correct as he held grand religious assemblies at Kanauj and Prayag to support Mahayana Buddhism and charity."
+  },
+  {
+   "q": "With reference to the Second Historical Phase (circa AD 300-750) in the regions south of the Vindhyas, consider the following statements: 1️⃣ I. It was marked by the beginning of the construction of stone temples in the peninsula. 2️⃣ II. Sanskrit was discontinued and regional languages came to be used as the official and administrative language. 3️⃣ III. It was characterised by the proliferation of land grants to temples and monasteries. Which of the statements given above are correct?",
+   "o": [
+    "II and III only",
+    "I, II and III",
+    "I and II only",
+    "I and III only"
+   ],
+   "a": 3,
+   "e": "Statement I is correct; this phase saw the start of structural stone temple construction by dynasties like the Pallavas and Chalukyas. Statement II is incorrect; Sanskrit actually became the dominant administrative and elite language during this period. Statement III is correct because extensive land grants (agraharas) were made to Brahmanas and religious institutions."
+  },
+  {
+   "q": "Which of the following provisions were provided for in the Indian Independence Act, 1947: 1️⃣ I. Replaced Viceroy with President 2️⃣ II. Dominion status for India and Pakistan 3️⃣ III. Transfer of full legislative sovereignty to Constituent Assemblies 4️⃣ IV. Provision for a joint military command for both Dominions 5️⃣ V. End of British parliamentary oversight over Indian affairs. Select the correct answer using the code given below:",
+   "o": [
+    "II, III and V only",
+    "I, II and IV only",
+    "II, III and IV only",
+    "I, III and IV only"
+   ],
+   "a": 0,
+   "e": "Provision I is incorrect; the Viceroy was redesignated as Governor-General, not President. Provision II is correct as India and Pakistan became Dominions. Provision III is correct because Constituent Assemblies gained full sovereign authority. Provision IV is incorrect as there was no such clause in the Act. Provision V is correct; the British Parliament could no longer legislate for India."
+  },
+  {
+   "q": "Consider the following temples of early medieval South India: 1️⃣ I. The Seven Ratha Temples 2️⃣ II. The Shore Temple 3️⃣ III. The Kailashanath Temple 4️⃣ IV. The Papanatha Temple 5️⃣ V. The Virupaksha Temple. How many of the above are structural temples constructed using masonry techniques?",
+   "o": [
+    "Only four",
+    "All the five",
+    "Only two",
+    "Only three"
+   ],
+   "a": 0,
+   "e": "Item I is incorrect as the Seven Rathas are monolithic rock-cut structures, not structural. Item II is correct; the Shore Temple marks the transition to structural masonry. Item III is correct; Kailashanath is a fully developed structural temple. Item IV and V are also correct; the Papanatha and Virupaksha temples at Pattadakal are major structural temples."
+  },
+  {
+   "q": "The concepts of Prakriti and Purusha are central to which one of the following schools of Indian philosophy?",
+   "o": [
+    "Yoga",
+    "Samkhya",
+    "Vaisheshika",
+    "Nyaya"
+   ],
+   "a": 1,
+   "e": "The Samkhya school, traditionally attributed to Sage Kapila, explains existence through the dualism of Purusha (consciousness) and Prakriti (matter)."
+  },
+  {
+   "q": "Consider the following pairs: 1️⃣ Pair I: Brahmasutra - Ramanujacharya 2️⃣ Pair II: Sri Bhashya - Badrayana 3️⃣ Pair III: Prasthanatraya Bhashyam - Adi Shankaracharya. How many of the pairs given above are correctly matched?",
+   "o": [
+    "All the three pairs",
+    "None of the pairs",
+    "Only one pair",
+    "Only two pairs"
+   ],
+   "a": 2,
+   "e": "Pair I is incorrect; Brahmasutra was composed by Badrayana. Pair II is incorrect; Sri Bhashya is the commentary written by Ramanujacharya. Pair III is correct; Adi Shankaracharya wrote the Prasthanatraya Bhashyam commentaries."
+  },
+  {
+   "q": "With reference to the ancient centers of learning in South and Southeast Asia, consider the following statements: 1️⃣ I. Champa in Vietnam was a great centre of education in the Vedas and Dharmashastras. 2️⃣ II. Borobudur in Indonesia has the largest Buddhist temple in the world. 3️⃣ III. Kamboja in the northwestern frontier of the Indian subcontinent developed as a centre of Sanskrit learning. How many of the above statements are not correct?",
+   "o": [
+    "All the three",
+    "None",
+    "Only two",
+    "Only one"
+   ],
+   "a": 1,
+   "e": "All statements are correct. Statement I is correct as Champa was influenced by Hinduism and Vedic study. Statement II is correct; Borobudur is the world's largest Buddhist temple. Statement III is correct; Kamboja was a major centre for Sanskrit learning."
+  },
+  {
+   "q": "With reference to the ancient Indian contributions to science and linguistics, consider the following information: 1️⃣ Row I: Varahamihira - Brihatsamhita - The Moon rotates around the Earth, and the Earth rotates around the Sun 2️⃣ Row II: Panini - Ashtadhyayi - Systematised the rules governing Sanskrit grammar 3️⃣ Row III: Apastamba - Shulvasutra - Described the planets in a sequence and their speed. In how many of the above rows is the given information correctly matched?",
+   "o": [
+    "All the three",
+    "Only one",
+    "None",
+    "Only two"
+   ],
+   "a": 3,
+   "e": "Row I is correct; Varahamihira’s Brihatsamhita noted that the Moon revolves around Earth and Earth revolves around the Sun. Row II is correct; Panini’s Ashtadhyayi systematized Sanskrit grammar. Row III is incorrect; while Apastamba wrote a Shulvasutra, it described geometric principles for altars, not planetary speeds."
+  },
+  {
+   "q": "Who among the following is considered to be the first person to be acquainted with the decimal system?",
+   "o": [
+    "Apastamba",
+    "Aryabhata",
+    "Varahamihira",
+    "Brahmagupta"
+   ],
+   "a": 1,
+   "e": "Aryabhata was one of the earliest Indian mathematicians to use the decimal system and place value in his work, the Aryabhatiya."
+  },
+  {
+   "q": "With reference to the early medieval Indian dynasties, consider the following information: 1️⃣ Row I: Pala - Dharmapala - Visited by Al-Masudi 2️⃣ Row II: Gurjara-Pratihara - Mihira Bhoja - Visited by Sulaiman 3️⃣ Row III: Rashtrakuta - Dantidurga - Visited by Alberuni. In how many of the above rows is the information correctly matched?",
+   "o": [
+    "All the three",
+    "None",
+    "Only two",
+    "Only one"
+   ],
+   "a": 3,
+   "e": "Row I is incorrect; Gopala was the founder of the Pala dynasty, and the merchant Sulaiman mentioned them, not Al-Masudi. Row II is incorrect; Al-Masudi recorded the strength of the Pratiharas, while Sulaiman visited during the Pala/Pratihara era but is matched wrongly here. Row III is correct; Dantidurga founded the Rashtrakutas, and Alberuni provided retrospective references to them."
+  },
+  {
+   "q": "Consider the following: 1️⃣ I. A Union controlling only few subjects 2️⃣ II. Grouping of provinces into sections 3️⃣ III. Interim Government 4️⃣ IV. A directly elected Constituent Assembly. Which of the above are included in the Cabinet Mission Plan?",
+   "o": [
+    "I, II and III only",
+    "I, II and IV only",
+    "I, III and IV only",
+    "II, III and IV only"
+   ],
+   "a": 0,
+   "e": "Item I is correct; the plan proposed a Union for only defence, foreign affairs, and communications. Item II is correct; it grouped provinces into three sections. Item III is correct; it proposed an Interim Government. Item IV is incorrect because the Constituent Assembly was to be elected indirectly by provincial legislatures."
+  },
+  {
+   "q": "Consider the following pairs: 1️⃣ Pair I: Rajashekhar - Sanskrit poet and dramatist in the court of Mahipala 2️⃣ Pair II: Svayambhu - Apabhramsa poet patronised by Rashtrakuta kings 3️⃣ Pair III: Medhatithi - Expounder of the Dharmashastra in the Pallava court. How many of the pairs given above are correctly matched?",
+   "o": [
+    "Only two",
+    "Only one",
+    "All the three",
+    "None"
+   ],
+   "a": 0,
+   "e": "Pair I is correct; Rajashekhar was at the court of the Pratihara king Mahipala. Pair II is correct; Svayambhu was patronized by Rashtrakuta kings. Pair III is incorrect; Medhatithi was an expounder of Dharmashastra during the Rashtrakuta period, not the Pallava court."
+  },
+  {
+   "q": "Consider the following statements: 1️⃣ I. A Sailendra ruler of the Srivijaya Empire built a Buddhist monastery at Nagapattinam. 2️⃣ II. The Chola rulers marked their victories by erecting Shiva and Vishnu temples. Which of the statements given above is/are correct?",
+   "o": [
+    "II only",
+    "I only",
+    "Neither I nor II",
+    "Both I and II"
+   ],
+   "a": 3,
+   "e": "Statement I is correct; a Sailendra ruler built the Chudamani Vihara at Nagapattinam with Rajendra I’s support. Statement II is correct; Rajaraja and Rajendra I built many Shiva and Vishnu temples, like Brihadishwara, to commemorate victories."
+  },
+  {
+   "q": "With reference to the evolution of the Chola temple architecture, consider the following statements: 1️⃣ I. Vijayalaya Cholesvaram temple in Pudukkottai has a towering gopuram and additional pillared mandapas. 2️⃣ II. Brihadisvara Temple at Thanjavur was constructed entirely of granite. 3️⃣ III. Airavatesvara Temple at Darasuram has musical stone pillars, which produce distinct notes when struck. Which of the statements given above is/are correct?",
+   "o": [
+    "I, II and III",
+    "II and III only",
+    "I and III only",
+    "II only"
+   ],
+   "a": 1,
+   "e": "Statement I is incorrect; Vijayalaya Cholesvaram belongs to the early phase and has a square vimana, while towering gopurams and pillared mandapas were late-phase features. Statement II is correct; Brihadisvara at Thanjavur is made entirely of granite. Statement III is correct as Airavatesvara at Darasuram is famous for its musical stone pillars."
+  },
+  {
+   "q": "Consider the following statements with regard to the Nataraja: 1️⃣ I. Shiva Natraja conveys the Indian conception of the never-ending cycle of time. 2️⃣ II. Shiva is holding a hand drum and fire in abhayamudra. 3️⃣ III. The present form of Nataraja evolved under the rule of the Rashtrakutas. Which of the statements given above are correct?",
+   "o": [
+    "I, II and III",
+    "II and III only",
+    "I and III only",
+    "I and II only"
+   ],
+   "a": 3,
+   "e": "Statement I is correct; Nataraja symbolizes the cycle of creation and destruction. Statement II is correct; he holds a hand drum (creation) and fire (destruction) while using the abhayamudra (protection). Statement III is incorrect because the refined form evolved under the Cholas, not Rashtrakutas."
+  },
+  {
+   "q": "The nationwide agitation demanding the release of the Indian National Army (INA) prisoners in 1945-46 is regarded as a landmark because it:",
+   "o": [
+    "resulted in the immediate withdrawal of British troops from the subcontinent",
+    "led to the formal recognition of the INA as part of the national army",
+    "brought a negotiated constitutional settlement between the British and the Congress",
+    "unified diverse political groups and ignited mass patriotic sentiment across India"
+   ],
+   "a": 3,
+   "e": "The INA agitation unified groups like Congress, the Muslim League, and Communists, creating unprecedented mass patriotic mobilization."
+  },
+  {
+   "q": "The scholars Nanniah and Tikkanna are best known for:",
+   "o": [
+    "developing grammar of classical Sanskrit during the Gupta period",
+    "completing the Telugu version of the Mahabharata",
+    "none of the above",
+    "compiling Tamil Ramayana during Chola period"
+   ],
+   "a": 1,
+   "e": "Nanniah began the Telugu version of the Mahabharata, and Tikkanna completed it in the 13th century."
+  },
+  {
+   "q": "Consider the following statements: 1️⃣ I. Dashakumaracharita is a storybook in classical Sanskrit literature. 2️⃣ II. Rajatarangini is an account of the royal dynasties that ruled from Rajgir. 3️⃣ III. Lilavati is a mathematical work on algebra, geometry and number theory. How many of the statements given above are correct?",
+   "o": [
+    "Only two",
+    "All the three",
+    "Only one",
+    "None"
+   ],
+   "a": 0,
+   "e": "Statement I is correct; Dashakumaracharita is a Sanskrit prose work by Dandin. Statement II is incorrect; Rajatarangini by Kalhana is an account of the dynasties of Kashmir, not Rajgir. Statement III is correct; Lilavati by Bhaskara II is a major work on arithmetic and geometry."
+  },
+  {
+   "q": "With reference to the development of education in British India, consider the following statements: 1️⃣ I. Wood's Despatch repudiated the \"Downward Filtration Theory\" and recommended a system of grants-in-aid to encourage private enterprise in education. 2️⃣ II. The Hunter Education Commission was appointed primarily to review the working of universities and recommend reforms in higher education research. 3️⃣ III. The Sadler University Commission recommended that intermediate education should be separated from the universities and placed under a Board of Secondary and Intermediate Education. Which of the statements given above are correct?",
+   "o": [
+    "II and III only",
+    "I and III only",
+    "I, II and III",
+    "I and II only"
+   ],
+   "a": 1,
+   "e": "Statement I is correct; Wood's Despatch argued for mass education instead of the \"Downward Filtration Theory\". Statement II is incorrect; the Hunter Commission reviewed primary and secondary education, while the 1902 Raleigh Commission reviewed universities. Statement III is correct as the Sadler Commission recommended separating intermediate education from universities."
+  },
+  {
+   "q": "Consider the following statements with regard to Jainism: 1️⃣ I. The Dilwara temple at Mt. Abu was built during the rule of Chalukya in Gujarat. 2️⃣ II. Scholars like Jinasena and Gunabhadra were patronised by the Rashtrakuta. 3️⃣ III. The Chola dynasty built the iconic Gommateshvara statue at Shravanabelagola. How many of the statements given above are correct?",
+   "o": [
+    "All the three",
+    "Only two",
+    "None",
+    "Only one"
+   ],
+   "a": 1,
+   "e": "Statement I is correct; Chalukyan rulers of Gujarat patronized the Dilwara temples. Statement II is correct; Jinasena and Gunabhadra were supported by the Rashtrakutas. Statement III is incorrect; the Gommateshvara statue was built by the Western Ganga dynasty, not the Cholas."
+  },
+  {
+   "q": "Consider the following statements with regard to the Nagara style of temple architecture: 1️⃣ I. It followed the Panchayatan style layout for temples. 2️⃣ II. Its characteristic feature is the presence of water tanks in the premises of the temple. 3️⃣ III. The Kandariya Mahadeo temple at Khajuraho is an example of the Nagara style. Which of the statements given above are correct?",
+   "o": [
+    "I, II and III only",
+    "II and III only",
+    "I and III only",
+    "I and II only"
+   ],
+   "a": 2,
+   "e": "Statement I is correct; Nagara temples often used the Panchayatan layout. Statement II is incorrect; unlike Dravida style, Nagara temples generally lacked water tanks on premises. Statement III is correct; Kandariya Mahadeo is a prime example of the Nagara style."
+  },
+  {
+   "q": "Which of the following reforms were taken by the Congress Ministries in the provinces between 1937 and 1939? 1️⃣ I. Release of political prisoners 2️⃣ II. Redistribution of land to landless 3️⃣ III. Discouraged unionisation of labour 4️⃣ IV. Lowered land revenue demands. Select the correct statement using the code given below:",
+   "o": [
+    "I and IV only",
+    "II and III only",
+    "I, II and III only",
+    "II and IV only"
+   ],
+   "a": 0,
+   "e": "Item I is correct; Congress ministries released political prisoners. Item II is incorrect; large-scale land redistribution did not happen due to tenure limitations. Item III is incorrect as they generally encouraged unionization. Item IV is correct; they reduced land revenue and provided debt relief."
+  },
+  {
+   "q": "Consider the following statements: 1️⃣ I. Iqta was a land assignment granted to officials as payment for their services under the Delhi Sultanate. 2️⃣ II. Amaram was a land granted to the Nayaks in lieu of their services during the Vijayanagar Empire. Which of the statements given above is/are correct?",
+   "o": [
+    "Neither I nor II",
+    "II only",
+    "I only",
+    "Both I and II"
+   ],
+   "a": 3,
+   "e": "Statement I is correct; Iqta was a territorial assignment for service under the Delhi Sultanate. Statement II is correct; Amaram was land granted to military officers (Nayaks) in the Vijayanagar Empire."
+  },
+  {
+   "q": "Arrange rule of the following dynasties of the Delhi Sultanate based on their duration from shortest to longest: 1️⃣ I. Tughlaqs 2️⃣ II. Khaljis 3️⃣ III. Mameluk. Select the correct answer using the code given below:",
+   "o": [
+    "III-I-II",
+    "II-III-I",
+    "III-II-I",
+    "II-I-III"
+   ],
+   "a": 1,
+   "e": "The Khaljis ruled for 30 years. The Mameluk (Slave) dynasty ruled for 84 years. The Tughlaqs ruled for 93 years. Thus, the order from shortest to longest is Khaljis, Mameluk, Tughlaqs."
+  },
+  {
+   "q": "Consider the following pairs: 1️⃣ Pair I: Diwan-i-Mustakhraj - Manage royal slave 2️⃣ Pair II: Diwan-i-Bandagan - Collection of land revenue 3️⃣ Pair III: Diwan-i-Qaza-i-Mamalik - Delivery of Justice 4️⃣ Pair IV: Diwan-i-Khairat - To provide social welfare and charity. How many of the pairs given above are correctly matched?",
+   "o": [
+    "Only three",
+    "All the four",
+    "Only one",
+    "Only two"
+   ],
+   "a": 3,
+   "e": "Pair I is incorrect; Diwan-i-Mustakhraj was for revenue arrears. Pair II is incorrect; Diwan-i-Bandagan managed slaves. Pair III is correct; Diwan-i-Qaza handled justice. Pair IV is correct; Diwan-i-Khairat was for social welfare and charity."
+  },
+  {
+   "q": "With reference to the local administration under the Delhi Sultanate, consider the following statements: 1️⃣ I. Amil was responsible for revenue collection and maintaining law and order for the parganas. 2️⃣ II. Khut was the village headman responsible for administration and assisting in revenue collection. 3️⃣ III. Patwari was the village accountant responsible for maintaining land and revenue records. How many of the above statements are correct?",
+   "o": [
+    "Only one",
+    "All the three",
+    "None",
+    "Only two"
+   ],
+   "a": 3,
+   "e": "Statement I is correct; the Amil headed the pargana and collected revenue. Statement II is incorrect; the Muqaddam was the village headman, while Khuts were large landholders. Statement III is correct as the Patwari maintained village records."
+  },
+  {
+   "q": "In the history of medieval India, artillery was used for the first time in a battle between:",
+   "o": [
+    "Delhi Sultanate and Mongols",
+    "Mughal forces and Rajputs",
+    "Vijayanagara Empire and Bahmani Sultans",
+    "Cholas and Hoysalas"
+   ],
+   "a": 2,
+   "e": "Artillery was first used in Indian warfare during a 14th-century battle between the Vijayanagara Empire and the Bahmani Sultanate."
+  },
+  {
+   "q": "Which of the following travellers visited the Vijayanagara Empire?",
+   "o": [
+    "Ferishta, Ibn Battuta and Marco Polo",
+    "Nuniz and Abdur Razzaq",
+    "Ferishta, Domingo Paes and Abdur Razzaq",
+    "Marco Polo, Nicolo Conti, and Abdur Razzaq"
+   ],
+   "a": 1,
+   "e": "Abdur Razzaq (1443 CE) and Nuniz (16th century) both visited the empire. Ferishta wrote about it but did not visit."
+  },
+  {
+   "q": "With reference to administrative divisions in medieval India, consider the following pairs: 1️⃣ Pair I: Wilayats - Delhi Sultanate 2️⃣ Pair II: Subah - Mughal Empire 3️⃣ Pair III: Taraf - Bahmani Sultanate 4️⃣ Pair IV: Rajya - Chola Empire 5️⃣ Pair V: Mandalam - Vijayanagara Empire. How many of the above pairs are correctly matched?",
+   "o": [
+    "Only three",
+    "Only two",
+    "All the five",
+    "Only four"
+   ],
+   "a": 0,
+   "e": "Pair I, II, and III are correct: Delhi Sultanate used Wilayats , Mughals used Subahs , and Bahmanis used Tarafs. Pair IV and V are swapped: the Cholas used Mandalams and Vijayanagara used Rajyas. Thus, three pairs are matched."
+  },
+  {
+   "q": "Which of the following were the important ports under the Bahmani kingdom?",
+   "o": [
+    "Nagapattinam and Tuticorin",
+    "Chaul and Dabhol",
+    "Calicut and Surat",
+    "Cambay and Bharuch"
+   ],
+   "a": 1,
+   "e": "Under the Bahmani kingdom, particularly during Firoz Shah’s reign, Chaul and Dabhol were the principal seaports for maritime trade."
+  },
+  {
+   "q": "With reference to the administration of the regional kingdoms of medieval India, consider the following statements: 1️⃣ I. The Kakatiyas developed the Nayankara system to strengthen decentralised military administration. 2️⃣ II. The Imperial Cholas used Brahmadeya and Devadana grants to stregthen their local administration. 3️⃣ III. The Gajapati kingdom organised its polity through a feudal-military structure known as Chhatisa Jogini. How many of the statements given above are correct?",
+   "o": [
+    "Only one",
+    "Only two",
+    "Only three",
+    "None"
+   ],
+   "a": 2,
+   "e": "Statement I is correct; Kakatiyas used the Nayankara system of land grants for military service. Statement II is correct; Cholas used Brahmadeya and Devadana grants to anchor village assemblies and temples. Statement III is correct as the Gajapati kingdom used thirty-six hereditary chiefs (Chhatisa Joginis) for military contingents."
+  },
+  {
+   "q": "With reference to the Sufi tradition in India, consider the following statements: 1️⃣ I. The Chishti saints laid emphasis on a life of simplicity and selfless devotion to God. 2️⃣ II. The Suhrawardi saints accepted the service of the state. Which of the statements given above is/are correct?",
+   "o": [
+    "Neither I nor II",
+    "Both I and II",
+    "II only",
+    "I only"
+   ],
+   "a": 1,
+   "e": "Statement I is correct; Chishti saints emphasized simplicity and often lived in poverty. Statement II is correct as Suhrawardi saints, unlike Chishtis, accepted state service and held official posts."
+  },
+  {
+   "q": "With reference to the Ahom Kingdom in medieval India, consider the following statements: 1️⃣ I. Sukaphaa founded the kingdom in the 15th century with its capital at Jorhat. 2️⃣ II. Lachit Borphukan successfully fought the Mughal invasion in the Battle of Saraighat. 3️⃣ III. The Paik system required every adult male to render compulsory service to the state. How many of the statements given above are not correct?",
+   "o": [
+    "All the three",
+    "Only one",
+    "None",
+    "Only two"
+   ],
+   "a": 1,
+   "e": "Statement I is incorrect; Sukapha founded the kingdom in 1228 CE (13th century) at Charaideo, not Jorhat. Statement II is correct; Lachit Borphukan defeated the Mughals at the Battle of Saraighat in 1671. Statement III is correct; the Paik system required compulsory service from adult males. Only one statement is incorrect."
+  },
+  {
+   "q": "With regard to Vaishnavite traditions in medieval India, consider the following information: 1️⃣ Row I: Narsinha Mehta - Sudama Charit - Gujarat 2️⃣ Row II: Chaitanya Prabhu - Shikshashtakam - Odisha 3️⃣ Row III: Meera Bai - Raag Govind - Rajasthan 4️⃣ Row IV: Surdas - Sahitya Lahari - Uttar Pradesh. In how many of the above rows is the information correctly matched?",
+   "o": [
+    "All the four",
+    "Only three",
+    "Only two",
+    "Only one"
+   ],
+   "a": 0,
+   "e": "All rows are correct: Narsinha Mehta wrote Sudama Charit in Gujarat. Chaitanya Prabhu spent his final years in Odisha and wrote Shikshashtakam. Meera Bai, from Rajasthan, wrote Raag Govind. Surdas wrote Sahitya Lahari in Uttar Pradesh."
+  },
+  {
+   "q": "With regard to the Kashmiri Shaivism, consider the following statements: 1️⃣ I. It is a system of idealistic monism based on the Shivasutra of Vasugupta. 2️⃣ II. The doctrine of Trikasāstra explains the threefold principles of Śiva, Śakti and Anu. 3️⃣ III. It rejected worldly participation and insisted on strict renunciation and monastic life. How many of the above statements are correct?",
+   "o": [
+    "None",
+    "Only two",
+    "Only one",
+    "All the three"
+   ],
+   "a": 1,
+   "e": "Statement I is correct; it is an Advaita system founded by Vasugupta. Statement II is correct; it is also called Trika based on its threefold principles. Statement III is incorrect as Kashmiri Shaivism values householder life and does not demand renunciation."
+  },
+  {
+   "q": "With reference to the architectural features of the Delhi Sultanate, consider the following statements: 1️⃣ I. Arabesque is a type of ornamentation that uses rhythmic linear patterns of scrolling foliage, geometric motifs and stylised Arabic calligraphy. 2️⃣ II. Batter refers to the intricate carvings found around the base of the minarets serving primarily as decorative elements. Which of the statements given above is/are correct?",
+   "o": [
+    "I only",
+    "Neither I nor II",
+    "II only",
+    "Both I and II"
+   ],
+   "a": 0,
+   "e": "Statement I is correct as Arabesque uses rhythmic patterns and calligraphy for decoration. Statement II is incorrect; \"Batter\" refers to the deliberate inward slope of a wall for structural stability, notably in Tughlaq architecture."
+  },
+  {
+   "q": "With reference to the Sufi movement in medieval India, consider the following statements: 1️⃣ I. Silsila refers to a spiritual lineage that connects a Sufi master to his disciples. 2️⃣ II. Unlike Be Shara, the Ba Shara silsila was not bound by the Islamic law. Which of the statements given above is/are correct?",
+   "o": [
+    "Both I and II",
+    "II only",
+    "Neither I nor II",
+    "I only"
+   ],
+   "a": 3,
+   "e": "Statement I is correct; Silsila is the spiritual chain linking the Prophet to Sufi masters and disciples. Statement II is incorrect because Ba-shara orders followed Islamic law (Sharia), while Be-shara orders were not bound by it."
+  },
+  {
+   "q": "With reference to the regional kingdoms of Eastern India during the 15th century, consider the following statements: 1️⃣ I. The Bengal Sultanate maintained close cultural and commercial links with Southeast Asia through its ports of Tamralipti and Chittagong. 2️⃣ II. The Gajapati dynasty of Orissa under Kapilendra Deva expanded its territory up to Tiruchirappalli in the south. 3️⃣ III. The river Saraswati formed the political frontier between Bengal and Orissa during the Gajapati period. How many of the statements given above are correct?",
+   "o": [
+    "Only two",
+    "All the three",
+    "None",
+    "Only one"
+   ],
+   "a": 0,
+   "e": "Statement I is incorrect; Tamralipti had declined by then, and Bengal lacked significant direct links with Southeast Asia in the 15th century. Statement II is correct as Kapilendra Deva expanded the Gajapati empire to the Kaveri basin. Statement III is correct as the Saraswati River served as the boundary during their conflicts."
+  },
+  {
+   "q": "With reference to the Bhakti movement in medieval India, consider the following statements: 1️⃣ I. Ravidas and Kabir were disciples of Ramanuja. 2️⃣ II. Namdev belonged to the Varkari tradition and composed Abhangas. 3️⃣ III. The hymns of Kabir and Namadev are included in the Guru Granth Sahib. Which of the statements given above is/are correct?",
+   "o": [
+    "II and III only",
+    "I only",
+    "I and II only",
+    "III only"
+   ],
+   "a": 0,
+   "e": "Statement I is incorrect; Ravidas and Kabir were disciples of Ramananda, not Ramanuja. Statement II is correct; Namdev was a Varkari saint. Statement III is correct as their hymns are included in the Guru Granth Sahib."
+  },
+  {
+   "q": "With reference to the kingdoms in medieval India, consider the following statements: 1️⃣ I. The Sharqi Sultans established their capital at Jaunpur. 2️⃣ II. The Lodis were of Afghan origin and were the last dynasty of the Delhi Sultanate. 3️⃣ III. Sultan Zain-ul-Abidin's reign in Kashmir marked a cultural renaissance in Kashmir. How many of the statements given above are correct?",
+   "o": [
+    "Only one",
+    "All the three",
+    "None",
+    "Only two"
+   ],
+   "a": 1,
+   "e": "All statements are correct. Statement I is correct; Sharqi Sultans made Jaunpur a major cultural hub. Statement II is correct; the Lodis were Afghans and the final Sultanate dynasty. Statement III is correct; Zain-ul-Abidin’s enlightened reign saw a Kashmiri renaissance."
+  },
+  {
+   "q": "With reference to the cultural history of medieval India, consider the following statements: 1️⃣ I. Dadu Dayal, founder of Dadupanth in Rajasthan, was a contemporary of Akbar. 2️⃣ II. The Lingayats of the Kannada region, founded by Basavanna, challenged the concept of rebirth and rejected the established caste hierarchy. Which of the statements given above is/are correct?",
+   "o": [
+    "Both I and II",
+    "I only",
+    "II only",
+    "Neither I nor II"
+   ],
+   "a": 0,
+   "e": "Statement I is correct; Dadu Dayal is said to have met Akbar in 1586. Statement II is correct; Basavanna founded the Lingayats to challenge caste and rigid rituals."
+  },
+  {
+   "q": "The treatise Haqaiq-i-Hindi which explains the Islamic equivalents of terms such as Krishna, Radha, Gopi, Jamuna and Ganga, was written by:",
+   "o": [
+    "Abdul Wahid Bilgrami",
+    "Amir Khusrau",
+    "Yahya bin Ahmad Sirhindi",
+    "Abul Fazl"
+   ],
+   "a": 0,
+   "e": "Abdul Wahid Bilgrami, a Chishti scholar under Akbar, wrote Haqaiq-i-Hindi to harmonize Sufi and Hindu terms."
+  },
+  {
+   "q": "With reference to Hindu law concerning property sharing and inheritance, consider the following statements: 1️⃣ I. In the Dayabhaga school, a widow is entitled to inherit her deceased husband's share in the joint family property. 2️⃣ II. In the Mitakshara school, a son acquires a right in the ancestral property only by the consent of the father. Which of the statements given above is/are correct?",
+   "o": [
+    "II only",
+    "I only",
+    "Neither I nor II",
+    "Both I and II"
+   ],
+   "a": 1,
+   "e": "Statement I is correct; Dayabhaga allowed widows to inherit a husband's share in joint property. Statement II is incorrect; in the Mitakshara school, a son acquires a right in ancestral property by birth, not by father's consent."
+  },
+  {
+   "q": "Consider the following statements about Amir Khusrau: 1️⃣ I. He created a new style of Persian which came to be called the sabaq-i- hindi. 2️⃣ II. His literary work Miftah-ul-Futuh provides the details of the military campaigns of Babar. 3️⃣ III. He is credited with having created the Sufi devotional music 'Qawwali'. Which of the statements given above is/are correct?",
+   "o": [
+    "III only",
+    "I and III only",
+    "I and II only",
+    "II only"
+   ],
+   "a": 1,
+   "e": "Statement I is correct; Khusrau created the sabaq-i-hindi style. Statement II is incorrect; Miftah-ul-Futuh details the campaigns of Jalaluddin Khilji, not Babar. Statement III is correct; he is credited with originating Qawwali."
+  },
+  {
+   "q": "With reference to medieval India, consider the following pairs: 1️⃣ Pair I: Raja Man Singh - Man Kautuhal 2️⃣ Pair II: Malik Muhammad Jaisi - Padmavat 3️⃣ Pair III: Ibrahim Adil Shah II - Kitab-i-Nauras 4️⃣ Pair IV: Ziauddin Barani - Tabaqat-i- Nasiri. How many of the pairs given above are correctly matched?",
+   "o": [
+    "Only two",
+    "All the four",
+    "Only three",
+    "Only one"
+   ],
+   "a": 2,
+   "e": "Pair I, II, and III are correct: Man Kautuhal was commissioned by Raja Man Singh , Jaisi wrote Padmavat , and Ibrahim Adil Shah II wrote Kitab-i-Nauras. Pair IV is incorrect; Ziauddin Barani wrote Tarikh-i-Firoz Shahi, while Tabaqat-i-Nasiri was by Minhaj-i-Siraj."
+  },
+  {
+   "q": "The musical instruments such as the rabab and sarangi were introduced into India by:",
+   "o": [
+    "Lodhis",
+    "Mughals",
+    "Khiljis",
+    "Turks"
+   ],
+   "a": 3,
+   "e": "The rabab (Central Asian) and sarangi were introduced during the early Delhi Sultanate by the Turks."
+  },
+  {
+   "q": "Which of the following statements about Sher Shah Suri is not correct?",
+   "o": [
+    "He introduced the silver Rupiya and the copper Dam.",
+    "He restored the Grand Trunk Road from the river Indus in the West to Sonargaon in Bengal.",
+    "He built sarais for the convenience of travellers.",
+    "He abolished the system of local officers known as Amins to centralise revenue collection."
+   ],
+   "a": 3,
+   "e": "Statements A, B, and C are correct: Sher Shah restored the Grand Trunk Road , built sarais , and introduced the silver Rupiya. Statement D is incorrect because he did not abolish Amins; he used local officers like Amins and Patwaris for revenue collection."
+  },
+  {
+   "q": "Consider the following statements with regard to the land revenue administration during the reign of Akbar: 1️⃣ I. Qanungos were hereditary local officials and acted as custodians of revenue records. 2️⃣ II. Each Karori was responsible for ensuring the collection of one crore dams in revenue. 3️⃣ III. Amalguzar was in charge of assessment and collection of land revenue in the empire. Which of the statements given above are correct?",
+   "o": [
+    "I and III only",
+    "I, II and III",
+    "I and II only",
+    "II and III only"
+   ],
+   "a": 1,
+   "e": "All statements are correct. Qanungos were hereditary custodians of records. Karoris ensured the collection of one crore dams. The Amalguzar was responsible for assessing and collecting land revenue at the local level."
+  },
+  {
+   "q": "TThe terms Bandobast, Zabti, and Dahsala in Mughal administration referred to:",
+   "o": [
+    "trade regulation policy",
+    "system of military recruitment",
+    "land revenue assessment system",
+    "loan for cultivation"
+   ],
+   "a": 2,
+   "e": "Under Akbar and Todar Mal, Bandobast (settlement), Zabti (measurement), and Dahsala (average of ten years) were key land revenue assessment methods."
+  },
+  {
+   "q": "With reference to the advent of Europeans in India, consider the following statements: 1️⃣ I. Polaj 2️⃣ II. Parati 3️⃣ III. Chahchar 4️⃣ IV. Banjar. The terms listed above refer to:",
+   "o": [
+    "field irrigation methods",
+    "land classification",
+    "share of the state in land revenue",
+    "continuity of cultivation"
+   ],
+   "a": 3,
+   "e": "These terms—Polaj, Parati, Chahchar, and Banjar—categorized Mughal land based on the continuity of cultivation and fertility."
+  },
+  {
+   "q": "With reference to the advent of Europeans in India, consider the following statements: 1️⃣ I. The Cartaz system was introduced in the Indian Ocean to control and tax maritime trade. 2️⃣ II. In the Battle of Hooghly of 1759, the Dutch were decisively defeated in India. 3️⃣ III. The Governor and Company of Merchants of London Trading into the East Indies was the first European trading company established in India. 4️⃣ IV. In 1674, the first French Governor François Martin obtained a farman from the Sultan of Bijapur to set up a trading centre at Pondicherry. How many of the above statements are not correct?",
+   "o": [
+    "All the four",
+    "Only two",
+    "Only three",
+    "Only one"
+   ],
+   "a": 3,
+   "e": "Statement I is correct (Portuguese Cartaz). Statement II is correct (Dutch defeat in 1759). Statement III is incorrect because the Portuguese Estado da Índia (1505) predated the English company. Statement IV is correct (French at Pondicherry). Thus, only one statement is incorrect."
+  },
+  {
+   "q": "Which of the following were the cultural contributions of the Deccan States? 1️⃣ I. Miniature painting with romanticized aesthetic 2️⃣ II. Dakhini Urdu a predecessor to North Indian Urdu 3️⃣ III. Bidriware made of zinc alloy inlaid with silver and brass designs 4️⃣ IV. Bulbous dome surrounded by a row of stone petals. Select the correct answer using the code given below:",
+   "o": [
+    "I, II, III and IV",
+    "I, II and III only",
+    "III and IV only",
+    "I, II and IV only"
+   ],
+   "a": 0,
+   "e": "All points are correct. Deccan states contributed romanticized miniature painting , Dakhini Urdu , Bidriware , and distinctive bulbous domes with stone petal bases."
+  },
+  {
+   "q": "With reference to Mughal period, consider the following statements: 1️⃣ I. Khudkas were peasants who owned and tilled their own land. 2️⃣ II. Taccavi was an agricultural loan to peasants in times of famine and drought. 3️⃣ III. Talluqa was a revenue division under the control of a zamindar. How many of the statements given above are correct?",
+   "o": [
+    "All the three",
+    "Only two",
+    "None",
+    "Only one"
+   ],
+   "a": 0,
+   "e": "All three statements are correct. Khudkas were owner-cultivators. Taccavi were state loans to improve cultivation. Talluqa was a jurisdictional revenue division."
+  },
+  {
+   "q": "Consider the following statements: 1️⃣ Statement I: During the first half of the 17th century, the general price level witnessed a significant rise in India. 2️⃣ Statement II: The expansion of India's foreign trade led to a large inflow of gold and silver bullion. Which one of the following is correct in respect of the above Statements?",
+   "o": [
+    "Statement I is incorrect but Statement II is correct",
+    "Both Statement I and Statement II are correct and Statement II is the correct explanation for Statement I",
+    "Both Statement I and Statement II are correct and Statement II is the correct explanation for Statement I",
+    "Statement I is correct but Statement II is incorrect"
+   ],
+   "a": 1,
+   "e": "Both statements are correct. The 17th-century price rise (Statement I) was caused by the massive inflow of gold and silver bullion (Statement II) from foreign trade, which increased the money supply."
+  },
+  {
+   "q": "With reference to the Rajasthan School of Painting, consider the following statements: 1️⃣ I. The Mewar School illustrated literary works such as Rasikapriya and Bhagavata Purana. 2️⃣ II. The Kishangarh School is known for the iconic portrayal of Bani-Thani. 3️⃣ III. The Jaipur School absorbed Mughal artistic influences like naturalism and refined brushwork. Which of the statements given above are correct?",
+   "o": [
+    "I and III only",
+    "I, II and III",
+    "II and III only",
+    "I and II only"
+   ],
+   "a": 1,
+   "e": "All three statements are correct. Mewar artists illustrated Rasikapriya. Kishangarh is famous for Bani-Thani. Jaipur paintings reflected refined Mughal influence."
+  },
+  {
+   "q": "With reference to the Sikh Gurus and their contributions, consider the following statements: 1️⃣ I. Guru Hargobind completed the compilation of the Sikh scripture the Adi Granth. 2️⃣ II. Guru Gobind Singh founded the military brotherhood Khalsa in 1699. 3️⃣ III. Guru Arjan Dev introduced the doctrine of Miri and Piri, signifying the integration of temporal and spiritual authority. How many of the above statements are correct?",
+   "o": [
+    "Only two",
+    "Only one",
+    "All the three",
+    "None"
+   ],
+   "a": 1,
+   "e": "Statement I is incorrect; Guru Arjan Dev compiled the Adi Granth. Statement II is correct; Guru Gobind Singh founded the Khalsa in 1699. Statement III is incorrect; Guru Hargobind introduced the Miri-Piri concept, not Guru Arjan Dev."
+  },
+  {
+   "q": "Which of the following provisions were provided for in the Government of India Act, 1935? 1️⃣ I. All-India Federation 2️⃣ II. Provincial autonomy 3️⃣ III. Dyarchy at the Centre 4️⃣ IV. Abolition of communal electorates. Select the correct answer using the code given below:",
+   "o": [
+    "I, II and III only",
+    "I, II and IV only",
+    "II, III and IV only",
+    "I, II, III and IV"
+   ],
+   "a": 0,
+   "e": "Provision I, II, and III are correct: the Act proposed an All-India Federation , introduced provincial autonomy , and introduced dyarchy at the center. Provision IV is incorrect because it continued and expanded communal electorates."
+  },
+  {
+   "q": "With reference to Shivaji's administration, consider the following statements: 1️⃣ I. Shivaji organised his central administration based on the Ashta Pradhan system. 2️⃣ II. Chauth and Sardeshmukhi were regular state taxes collected from peasants in the kingdom. 3️⃣ III. Shivaji discouraged the use of artillery in forts due to mobility challenges in the Sahyadri terrain. 4️⃣ IV. Administrative offices were assigned purely based on merit and loyalty. How many of the above statements are correct?",
+   "o": [
+    "Only one",
+    "Only two",
+    "Only three",
+    "All the four"
+   ],
+   "a": 1,
+   "e": "Statement I is correct; Shivaji established the Ashta Pradhan council. Statement II is incorrect; Chauth and Sardeshmukhi were levies on neighboring territories, not regular internal taxes. Statement III is incorrect; he maintained mobile artillery in forts. Statement IV is correct; he assigned offices based on merit and loyalty, discouraging hereditary claims."
+  },
+  {
+   "q": "Consider the following pairs: 1️⃣ Pair I: Khalisa - Income from these villages went directly to the royal exchequer 2️⃣ Pair II: Inam lands - Allotted to learned and religious men 3️⃣ Pair III: Jagirs - Allotted to nobles and members of the royal family including the queens. How many of the pairs given above are correctly matched?",
+   "o": [
+    "Only two",
+    "None",
+    "All the three",
+    "Only one"
+   ],
+   "a": 2,
+   "e": "All three pairs are correct. Khalisa land revenues were for the royal exchequer. Inam lands were tax-free grants for religious men. Jagirs were land assignments for nobles and royal family members."
+  },
+  {
+   "q": "With reference to the ideological positions of Mahatma Gandhi and Dr B.R. Ambedkar, consider the following statements: 1️⃣ I. While Gandhi sought moral transformation within Hindu society, Ambedkar aimed at structural annihilation of caste to bring social equality. 2️⃣ II. Both Gandhi and Ambedkar supported protective political safeguards for the Depressed Classes. 3️⃣ III. Unlike Ambedkar, Gandhi rejected the idea of separate electorates for the Depressed Classes. How many of the statements given above are correct?",
+   "o": [
+    "All the three",
+    "Only one",
+    "None",
+    "Only two"
+   ],
+   "a": 0,
+   "e": "All statements are correct. Statement I is correct; Gandhi sought moral reform, while Ambedkar sought structural annihilation. Statement II is correct; both wanted political safeguards. Statement III is correct; Gandhi opposed separate electorates and went on a fast in 1932 to protest them."
+  },
+  {
+   "q": "Consider the following pairs with reference to rise of regional states with decline of Mughal power in India: 1️⃣ Pair I: Successor states - Awadh, Bengal and Hyderabad 2️⃣ Pair II: Independent kingdoms - Maratha and the Sikh 3️⃣ Pair III: New states - Mysore and the Rajput. How many of the pairs given above are correctly matched?",
+   "o": [
+    "None",
+    "All the three",
+    "Only two",
+    "Only one"
+   ],
+   "a": 3,
+   "e": "Pair I is correct; Bengal, Hyderabad, and Awadh were successor states founded by Mughal governors. Pair II is incorrect; Marathas and Sikhs are considered \"New States\" because they were founded by rebels. Pair III is incorrect; Mysore and Rajput states are considered \"Independent Kingdoms\"."
+  },
+  {
+   "q": "Which one of the following statements best describes the role of Chatuspathis, functioning in the 18th century?",
+   "o": [
+    "They were centres of higher learning that imparted advanced education in Sanskrit texts, logic, and philosophy.",
+    "They were missionary institutions in rural areas established by the East India Company to promote English education.",
+    "They functioned as village-level schools providing elementary instruction in vernacular languages.",
+    "They were technical institutions created to train Indians for administrative service under Company rule."
+   ],
+   "a": 0,
+   "e": "Chatuspathis (or Tols) were traditional centers of higher education in 18th-century India, focusing on Sanskrit literature, law, and philosophy."
+  },
+  {
+   "q": "With reference to the history of India, Kanchan Nambiar, Tayumanavar, and Shah Abdul Latif were:",
+   "o": [
+    "prominent miniature painters",
+    "none of the above",
+    "veterans in the Carnatic music tradition",
+    "poets who wrote in regional languages"
+   ],
+   "a": 3,
+   "e": "All three were regional poets: Nambiar (Malayalam), Tayumanavar (Tamil), and Shah Abdul Latif (Sindhi)."
+  },
+  {
+   "q": "Consider the following statements with regard to the British conquest of Bengal: 1️⃣ I. The Imperial Farman of 1717 exempted from duty the private trade of the Company's officials. 2️⃣ II. Mir Qasim shifted his capital from Calcutta to Murshidabad to distance his administration from the intrigues of the Company at Calcutta. 3️⃣ III. The Diwani rights to the Company contributed to the drain of resources from Bengal. Which of the statements given above are not correct?",
+   "o": [
+    "I, II and III",
+    "II and III only",
+    "I and III only",
+    "I and II only"
+   ],
+   "a": 3,
+   "e": "Statement I is incorrect because the Farman only covered official trade, not private trade. Statement II is incorrect; Mir Qasim shifted the capital from Murshidabad to Munger in Bihar, not Calcutta to Murshidabad. Statement III is correct; Diwani rights led to the purchase of Indian goods with Indian money, resulting in a resource drain. Two statements are incorrect."
+  },
+  {
+   "q": "Consider the following statements about the conquest of Punjab state by British East India Company: 1️⃣ I. The Treaty of Amritsar (1809) fixed the Sutlej River as the boundary between Maharaja Ranjit Singh and the British. 2️⃣ II. The Treaty of Lahore (1846) led to the total annexation of Punjab. Which of the statements given above is/are correct?",
+   "o": [
+    "I only",
+    "Both I and II",
+    "II only",
+    "Neither I nor II"
+   ],
+   "a": 0,
+   "e": "Statement I is correct as the 1809 treaty fixed the Sutlej as the boundary. Statement II is incorrect because the Treaty of Lahore followed the First war, while total annexation only occurred after the Second Anglo-Sikh War in 1849."
+  },
+  {
+   "q": "Consider the following statements with reference to the British Empire in India: 1️⃣ I. The Treaty of Yandabo brought the province of Arakan under the control of the British. 2️⃣ II. The 'forward policy' was adopted to protect the British India frontiers from Napoleon. 3️⃣ III. The Treaty of Sugauli defined the boundary between Nepal and British India. 4️⃣ IV. The Younghusband Expedition resulted in the formal annexation of Tibet into British India. Which of the statements given above are correct?",
+   "o": [
+    "II, III and IV only",
+    "I, II and III only",
+    "I and III only",
+    "II and IV only"
+   ],
+   "a": 2,
+   "e": "Statement I is correct; the 1826 Treaty of Yandabo ceded Arakan. Statement II is incorrect; the 'forward policy' aimed to counter Russia, while the Subsidiary Alliance was used against the French. Statement III is correct as the Treaty of Sugauli (1816) defined borders with Nepal. Statement IV is incorrect; Tibet was forced to sign a treaty but was not annexed."
+  },
+  {
+   "q": "Consider the following: 1️⃣ I. Extremely localised nature of rebellion 2️⃣ II. Lack of discipline and order among the rebels 3️⃣ III. Act for the Better Government of India 4️⃣ IV. Military inferiority of rebels 5️⃣ V. Lack of communal unity among people. How many of the above given factors were responsible for the failure of the Revolt of 1857?",
+   "o": [
+    "Only four",
+    "All the five",
+    "Only two",
+    "Only three"
+   ],
+   "a": 3,
+   "e": "Factors I, II, and IV are correct: the revolt was localized , lacked coordination/discipline , and the rebels were militarily inferior. Factor III is incorrect as it was a consequence of the revolt. Factor V is incorrect as there was high communal unity."
+  },
+  {
+   "q": "Consider the following statements with reference to the Young Bengal movement: 1️⃣ I. It was inspired by the European radical youth groups. 2️⃣ II. Its leader was Louis Henri Derozio who organized the Academic Association in 1828. Which of the statements given above is/are correct?",
+   "o": [
+    "I only",
+    "II only",
+    "Both I and II",
+    "Neither I nor II"
+   ],
+   "a": 2,
+   "e": "Both statements are correct. The movement was inspired by European radical groups. Henry Derozio led the group and organized the Academic Association in 1828."
+  },
+  {
+   "q": "Consider the following statements about Dayananda Saraswati: 1️⃣ I. He rejected the authority of the Puranas and regarded the Vedas as infallible. 2️⃣ II. He believed in the Vedic Chaturvarna system and that one's Varna should be determined by birth. Which of the statements given above is/are correct?",
+   "o": [
+    "I only",
+    "Neither I nor II",
+    "Both I and II",
+    "II only"
+   ],
+   "a": 0,
+   "e": "Statement I is correct; he rejected Puranas and wanted a \"return to the Vedas\". Statement II is incorrect; he believed Varna should be determined by character and action (Guna and Karma), not by birth."
+  },
+  {
+   "q": "Consider the following: 1️⃣ I. Indianization of civil services 2️⃣ II. Advocated self-reliance 3️⃣ III. Mass mobilization as a strategy 4️⃣ IV. Use of cultural nationalism. How many of the above strategies were adopted by Moderates in the Indian National Congress?",
+   "o": [
+    "Only two",
+    "Only three",
+    "All the four",
+    "Only one"
+   ],
+   "a": 3,
+   "e": "Strategy I is correct; Moderates campaigned for Indianization of services. Strategies II, III, and IV are incorrect; these were adopted by the Extremists, whereas Moderates feared mass mobilization and relied on intellectual protest."
+  },
+  {
+   "q": "With reference to the 'Swadeshi Movement', consider the following: 1️⃣ I. Bonfires of foreign clothes and boycott of British educational institutions 2️⃣ II. Samitis were established to spread political consciousness 3️⃣ III. Raksha bandhan was observed as a symbol of brotherhood 4️⃣ IV. Promotion of indigenous education and Industries. How many of the above methods were adopted to protest against the Partition of Bengal?",
+   "o": [
+    "All the four",
+    "Only three",
+    "Only one",
+    "Only two"
+   ],
+   "a": 0,
+   "e": "All methods were used. They burned foreign clothes and boycotted schools. Samitis like Swadesh Bandhab spread political awareness. Raksha Bandhan symbolised unity. Indigenous schools and industries (like Bengal Chemicals) were promoted."
+  },
+  {
+   "q": "Consider the following: 1️⃣ I. Introduction of non-official majority in the provincial legislative councils 2️⃣ II. Members of the legislative councils were allowed to move resolutions on the budget 3️⃣ III. Direct election was introduced for the provincial legislatures 4️⃣ IV. Indians were to be appointed to the viceroy's executive council. How many of the above reforms were introduced by the Morley-Minto Reforms of 1909?",
+   "o": [
+    "Only three",
+    "All the four",
+    "Only one",
+    "Only two"
+   ],
+   "a": 0,
+   "e": "Reform I is correct (non-official majority in provinces). Reform II is correct (resolutions on budget items). Reform III is incorrect because elections were indirect. Reform IV is correct as S.P. Sinha joined the executive council."
+  },
+  {
+   "q": "Consider the following statements: 1️⃣ Statement I: The demand for Home Rule intensified during World War I. 2️⃣ Statement II: The wartime economic hardships like inflation and increased taxation created widespread public dissatisfaction. 3️⃣ Statement III: The Home Rule Leagues sought to impress upon the British the necessity of granting self-government in India. Which one of the following is correct in respect of the above statements?",
+   "o": [
+    "Neither Statement II nor Statement III is correct",
+    "Both Statement II and Statement III are correct and both of them explain Statement I",
+    "Only one of the Statements II and III is correct and that explains Statement I",
+    "Both Statement II and Statement III are correct, but only one of them explains Statement I"
+   ],
+   "a": 1,
+   "e": "All statements are correct. Statement I is true. Statement II (economic hardship) and Statement III (political education) both explain why the movement intensified."
+  },
+  {
+   "q": "Consider the following statements: 1️⃣ Statement I: Satyagraha seeks to win over the wrongdoer rather than to defeat or humiliate them. 2️⃣ Statement II: Satyagraha believes that every human being possesses an inner conscience that can be awakened through truth and compassion. Which one of the following is correct in respect of the above statements?",
+   "o": [
+    "Statement I is correct, but Statement II is incorrect",
+    "Both Statement I and Statement II are correct and Statement II explains Statement I",
+    "Statement I is incorrect, but statement II is correct",
+    "Both Statement I and statement II are correct, but Statement II does not explain Statement I"
+   ],
+   "a": 1,
+   "e": "Both are correct. Statement II (inner conscience) provides the philosophical reason for why Satyagraha aims to win over (not defeat) the opponent."
+  },
+  {
+   "q": "The Montagu-Chelmsford Reforms of 1919 introduced which of the following reforms?",
+   "o": [
+    "Revenue resources were divided between the center and the provinces.",
+    "Elected Indian ministers were made responsible to the central legislature.",
+    "It set up a bicameral system at the provincial level.",
+    "Communal representation introduced in the Morley-Minto reforms was abolished."
+   ],
+   "a": 0,
+   "e": "Option C is correct; the Act separated provincial and central budgets for the first time. Option A is incorrect (bicameralism was at the center). Option B is incorrect (ministers were responsible to provincial councils). Option D is incorrect (communal representation was extended)."
+  },
+  {
+   "q": "With reference to the Revolutionary Activity During the 1920s, consider the following information: 1️⃣ Row I: Hindustan Republican Association - Ram Prasad Bismil - Kakori Train Robbery 2️⃣ Row II: Yugantar Group - Sachindra Nath Sanyal - Chittagong armoury raid 3️⃣ Row III: Kirti Kisan Party - Surya Sen - Propagating socialist ideology among peasants and workers. In how many of the above rows is the given information correctly matched?",
+   "o": [
+    "None",
+    "All the three",
+    "Only one",
+    "Only two"
+   ],
+   "a": 2,
+   "e": "Row I is correct as Bismil led the HRA and the Kakori robbery. Row II is incorrect; Surya Sen led the Chittagong raid, while Sanyal was HRA. Row III is incorrect; Sohan Singh Josh led the Kirti Kisan Party."
+  },
+  {
+   "q": "With reference to the Round Table Conferences (1930-32), consider the following statements: 1️⃣ I. The First Round Table Conference included Subhash Chandra Bose who advocated a radical stance on Indian self-rule. 2️⃣ II. The Second Round Table Conference failed due to disagreement on minority representation and the communal issue. 3️⃣ III. The Third Round Table Conference included discussions on the separate electorates for minorities. Which of the statements given above is/are correct?",
+   "o": [
+    "II and III only",
+    "I and III only",
+    "I, II and III",
+    "I only"
+   ],
+   "a": 0,
+   "e": "Statement I is incorrect; Bose did not attend any RTC. Statement II is correct; disagreements on minority representation caused the 1931 conference to fail. Statement III is correct; the third conference revisited communal questions."
+  },
+  {
+   "q": "Consider the following statements: 1️⃣ Statement-I: The Permanent Settlement was abolished in the late 19th century. 2️⃣ Statement-II: The Second half of the 19th century witnessed widespread peasant movements like the Indigo revolt and Deccan Riots. Which one of the following is correct in respect of the above Statements?",
+   "o": [
+    "Both Statement I and Statement II are correct and Statement II does not explains Statement I",
+    "Statement I is correct but Statement II is incorrect",
+    "Statement I is incorrect but Statement II is correct",
+    "Both Statement I and Statement II are correct and Statement II explains Statement I"
+   ],
+   "a": 2,
+   "e": "Statement I is incorrect; the Zamindari system was abolished in the 1950s after independence. Statement II is correct as the late 19th century saw major peasant uprisings."
+  },
+  {
+   "q": "With reference to the Khilafat-Non-Cooperation Programme (1919-1922), consider the following statements: 1️⃣ I. It called for the renunciation of titles and honorary positions. 2️⃣ II. The Congress at Calcutta session in 1920 linked the resistance to repressive Rowlatt legislation with the Khilafat grievances. Which of the above statements is/are correct?",
+   "o": [
+    "I only",
+    "II only",
+    "Neither I nor II",
+    "Both I and II"
+   ],
+   "a": 3,
+   "e": "Both are correct. Statement I is true. Statement II is true as the Congress linked the Rowlatt Acts and Jallianwala Bagh to Khilafat at the 1920 session."
+  },
+  {
+   "q": "Which of the following were the demands placed by Mahatma Gandhi before the Viceroy Irwin in January 1930, consider the following points: 1️⃣ I. Abolition of the salt tax 2️⃣ II. Reduction of land revenue 3️⃣ III. Increase import duties on foreign cloth 4️⃣ IV. Release of political prisoners convicted for non-violent activities. Which of the above points are included in Gandhi's Eleven Demands?",
+   "o": [
+    "I, III and IV only",
+    "I, II, III and IV",
+    "I, II and III only",
+    "I, II and IV only"
+   ],
+   "a": 3,
+   "e": "Item I, II, and IV were part of the Eleven Demands. Item III is incorrect; while Gandhi wanted a boycott, tariff restructuring was not among these specific actionable demands."
+  }
+ ]
+}

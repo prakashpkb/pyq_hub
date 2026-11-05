@@ -1,0 +1,2757 @@
+{
+ "title": "Chapter 71 - 78",
+ "category": "Laxmikant",
+ "minutes": 125,
+ "negative": 0.25,
+ "questions": [
+  {
+   "q": "Which of the following best describes the literal meaning of the word 'delimitation' as per the provided text?",
+   "o": [
+    "The process of conducting periodic elections in a parliamentary democracy.",
+    "The process of identifying the total number of seats in the Lok Sabha based on the latest census.",
+    "The administrative task of assigning a high-powered body to oversee electoral reforms.",
+    "The act of fixing limits or boundaries of territorial constituencies in a country having a legislative body."
+   ],
+   "a": 3,
+   "e": "According to the text, 'delimitation' literally means the act or process of fixing limits or boundaries of territorial constituencies in a country or a Province having a legislative body. This job is assigned to a high-powered body known as a Delimitation Commission or Boundary Commission."
+  },
+  {
+   "q": "Consider the following statements regarding the rationale of delimitation in India: 1️⃣ Periodic delimitation and elections constitute the pillars of Indian parliamentary democracy. 2️⃣ Delimitation ensures that people can choose their representatives through a fair electoral process. 3️⃣ The process is a legally mandated exercise specifically in systems where single-member constituencies are used.",
+   "o": [
+    "1 and 3 only",
+    "2 and 3 only",
+    "1 and 2 only",
+    "1, 2 and 3"
+   ],
+   "a": 3,
+   "e": "The text states that periodic delimitation and elections are pillars of Indian democracy. It allows people to choose representatives fairly, and it is a legally mandated exercise in a representative system using single-member constituencies."
+  },
+  {
+   "q": "With reference to the principle of \"one man, one vote\" mentioned in the text, consider the following: 1️⃣ It envisages parity in the value of votes of electors. 2️⃣ Such parity is an ideal that is easily achieved in representative democracies. 3️⃣ A constituency with a smaller population gives more value to an individual's vote compared to one with a larger population.",
+   "o": [
+    "1 and 3 only",
+    "2 and 3 only",
+    "1 and 2 only",
+    "1, 2 and 3"
+   ],
+   "a": 0,
+   "e": "While the principle envisages parity in vote value, the text notes this is difficult to achieve and there is some departure in every system. If a constituency has a lesser population but still elects one member, the value of a vote there is effectively more than in a larger constituency."
+  },
+  {
+   "q": "Which of the following is correct regarding the legal status and powers of the Delimitation Commission of India? 1️⃣ It is a constitutional body established directly under Article 82. 2️⃣ Its orders have the force of law and cannot be challenged in any court. 3️⃣ The Lok Sabha and State Assemblies can modify the Commission's orders after they are laid before them.",
+   "o": [
+    "2 and 3 only",
+    "1 and 2 only",
+    "2 only",
+    "1, 2 and 3"
+   ],
+   "a": 2,
+   "e": "The Commission is a statutory body (not constitutional) established under a law enacted by Parliament. Its orders have the force of law, cannot be challenged in court, and while laid before the Lok Sabha/Assemblies, modifications are not permissible."
+  },
+  {
+   "q": "Consider the following pairs regarding Delimitation Commissions established in India: 1️⃣ First Commission: 1952 2️⃣ Third Commission: 1973 3️⃣ Fourth Commission: 2002. How many of the above pairs are correctly matched?",
+   "o": [
+    "Only one pair",
+    "Only two pairs",
+    "None of the pairs",
+    "All three pairs"
+   ],
+   "a": 3,
+   "e": "Table 71.1 confirms that the First Commission was established in 1952, the Second in 1963, the Third in 1973, and the Fourth in 2002."
+  },
+  {
+   "q": "According to the 84th and 87th Constitutional Amendment Acts, the total number of seats in the Lok Sabha and State Legislative Assemblies is frozen based on the 1971 census until the first census after which year?",
+   "o": [
+    "2026",
+    "2031",
+    "2051",
+    "2021"
+   ],
+   "a": 0,
+   "e": "The text states that the total number of existing seats in the Lok Sabha and Legislative Assemblies allocated on the basis of the 1971 census shall remain unaltered till the first census to be taken after the year 2026."
+  },
+  {
+   "q": "On the basis of which census is the current re-delimitation of territorial parliamentary and assembly constituencies (within states) and the reservation of seats for SCs and STs conducted?",
+   "o": [
+    "1971 Census",
+    "2011 Census",
+    "2001 Census",
+    "1991 Census"
+   ],
+   "a": 2,
+   "e": "Per the 84th and 87th Amendments, seats reserved for SCs/STs are re-worked based on the 2001 census, and the redelimitation of territorial constituencies within each state is also based on the 2001 census."
+  },
+  {
+   "q": "Which of the following was the Chairperson of the Fourth Delimitation Commission constituted in 2002?",
+   "o": [
+    "Justice Kuldip Singh",
+    "Sushil Chandra",
+    "B.G. Kher",
+    "Justice Ranjana Prakash Desai"
+   ],
+   "a": 0,
+   "e": "Justice Kuldip Singh, a retired judge of the Supreme Court, was appointed as the Chairperson of the Fourth Delimitation Commission established in 2002."
+  },
+  {
+   "q": "Regarding the composition of the Fourth Delimitation Commission (2002), consider the following: 1️⃣ It was a three-member body. 2️⃣ The Chief Election Commissioner is a member. 3️⃣ It included ten associate members from each state who had the right to vote on final orders.",
+   "o": [
+    "1 and 2 only",
+    "1, 2 and 3",
+    "1 and 3 only",
+    "2 and 3 only"
+   ],
+   "a": 0,
+   "e": "The Commission consisted of a Chairperson (SC Judge), the CEC or an EC, and the State Election Commissioner. While it had ten associate members (5 MP, 5 MLA) per state, these members did not have the right to vote or sign orders."
+  },
+  {
+   "q": "In 2008, the implementation of the Delimitation Commission's recommendations was deferred or nullified for certain states. Which of the following states was NOT part of that list of five states?",
+   "o": [
+    "Assam",
+    "Jharkhand",
+    "Arunachal Pradesh",
+    "West Bengal"
+   ],
+   "a": 3,
+   "e": "The recommendations were not applicable to five states: Assam, Arunachal Pradesh, Manipur, Nagaland (deferred due to security concerns), and Jharkhand (final order nullified)."
+  },
+  {
+   "q": "In March 2020, a new Delimitation Commission was set up under Justice Ranjana Prakash Desai. What was its initial specific mandate?",
+   "o": [
+    "To delimit constituencies for the entire country based on the 2011 census.",
+    "To increase the number of seats in the Lok Sabha.",
+    "To conduct the first delimitation for the state of Telangana.",
+    "To delimit constituencies in four North-Eastern states and the UT of Jammu and Kashmir."
+   ],
+   "a": 3,
+   "e": "In March 2020, the government set up a Commission for the purpose of delimitation of Parliamentary and Assembly constituencies in Assam, Arunachal Pradesh, Manipur, Nagaland, and the UT of J&K."
+  },
+  {
+   "q": "Why was the delimitation exercise in Jammu & Kashmir historically different from the rest of India before 2019?",
+   "o": [
+    "Lok Sabha seats were governed by the Indian Constitution, but Assembly seats were governed by the J&K Constitution and the J&K Representation of People Act, 1957.",
+    "It was never conducted in J&K before 2019.",
+    "The Delimitation Commission of India had no jurisdiction over J&K Lok Sabha seats.",
+    "It was conducted every 5 years regardless of the census."
+   ],
+   "a": 0,
+   "e": "Because of the region's special status (withdrawn in 2019), Lok Sabha seats were governed by the Constitution of India, but Assembly seats were governed by the J&K Constitution and local law."
+  },
+  {
+   "q": "According to the J&K Reorganisation Act, 2019, what is the total number of seats fixed for the Legislative Assembly of the UT of Jammu and Kashmir (including those vacant for PoJ&K)?",
+   "o": [
+    "90",
+    "114",
+    "111",
+    "107"
+   ],
+   "a": 1,
+   "e": "The J&K Reorganisation Act, 2019 fixed the total number of seats in the Assembly at 114. This includes 24 seats kept vacant for the area under occupation of Pakistan."
+  },
+  {
+   "q": "Under the final order of the Delimitation Commission (2022) for J&K, how many Assembly constituencies are allocated to the Jammu region and the Kashmir region respectively?",
+   "o": [
+    "43 for Jammu and 47 for Kashmir",
+    "40 for Jammu and 50 for Kashmir",
+    "37 for Jammu and 46 for Kashmir",
+    "47 for Jammu and 43 for Kashmir"
+   ],
+   "a": 0,
+   "e": "The 2022 order allocated 43 seats to the Jammu region and 47 seats to the Kashmir region, totaling 90 seats for which elections are held."
+  },
+  {
+   "q": "The Delimitation Commission (2022) for J&K recommended the nomination of members from which specific community to the Assembly?",
+   "o": [
+    "The Anglo-Indian community",
+    "Kashmiri Migrants and Displaced Persons from PoJ&K",
+    "The Buddhist community of Ladakh",
+    "Linguistic minorities from the Jammu region"
+   ],
+   "a": 1,
+   "e": "The Commission recommended providing at least two members from the Kashmiri migrant community (one female) and suggested the government consider nominating representatives for Displaced Persons from PoJ&K."
+  },
+  {
+   "q": "Which of the following Nodal Ministries is correctly matched with its Commission/Body? 1️⃣ Finance Commission: Ministry of Finance 2️⃣ National Commission for STs: Ministry of Tribal Affairs 3️⃣ Delimitation Commission of India: Ministry of Law and Justice.",
+   "o": [
+    "2 and 3 only",
+    "1 and 3 only",
+    "1, 2 and 3",
+    "1 and 2 only"
+   ],
+   "a": 2,
+   "e": "According to Table 71.2, the Finance Commission falls under the Ministry of Finance, the National Commission for STs under Tribal Affairs, and the Delimitation Commission under Law and Justice."
+  },
+  {
+   "q": "Consider the following statements about the North Eastern Council (NEC): 1️⃣ It is a constitutional body established under Article 371. 2️⃣ It was established in 1972 through the North Eastern Council Act, 1971. 3️⃣ Sikkim became the eighth member state of the Council in 2002.",
+   "o": [
+    "1, 2 and 3",
+    "1 and 2 only",
+    "1 and 3 only",
+    "2 and 3 only"
+   ],
+   "a": 3,
+   "e": "The NEC is a statutory (not constitutional) body established in 1972. Sikkim was added as the eighth member state in 2002."
+  },
+  {
+   "q": "Who serves as the ex-officio Chairman of the North Eastern Council since July 2018?",
+   "o": [
+    "The Union Home Minister",
+    "The Minister of DONER",
+    "The Prime Minister of India",
+    "The Governor of Assam"
+   ],
+   "a": 0,
+   "e": "Since July 2018, the Union Home Minister is the ex-officio Chairman, and the Minister in-charge of the Ministry of Development of North Eastern Region (DONER) is the ex-officio Vice-Chairman."
+  },
+  {
+   "q": "Which Constitutional Amendment Act gave constitutional status and protection to co-operative societies in India?",
+   "o": [
+    "86th Amendment Act, 2002",
+    "97th Amendment Act, 2011",
+    "73rd Amendment Act, 1992",
+    "101st Amendment Act, 2016"
+   ],
+   "a": 1,
+   "e": "The 97th Constitutional Amendment Act of 2011 gave constitutional status to co-operative societies by adding Article 19(1)(c), Article 43-B, and Part IX-B."
+  },
+  {
+   "q": "According to the constitutional provisions for co-operative societies (Part IX-B), what is the maximum number of directors allowed on the board of a co-operative society?",
+   "o": [
+    "21",
+    "15",
+    "31",
+    "25"
+   ],
+   "a": 0,
+   "e": "The text specifies that the maximum number of directors of a co-operative society shall not exceed twenty-one."
+  },
+  {
+   "q": "Regarding the board of a co-operative society, the state legislature must provide for the reservation of how many seats for women?",
+   "o": [
+    "One seat",
+    "Two seats",
+    "Three seats",
+    "33% of total seats"
+   ],
+   "a": 1,
+   "e": "Under Part IX-B, the state legislature shall provide for the reservation of one seat for SC/STs and two seats for women on the board of every co-operative society."
+  },
+  {
+   "q": "What is the maximum period for which the board of a co-operative society can be superseded or kept under suspension (general case)?",
+   "o": [
+    "Two years",
+    "Three months",
+    "Six months",
+    "One year"
+   ],
+   "a": 2,
+   "e": "According to the text, no board shall be superseded or kept under suspension for a period exceeding six months (though for co-operative banks, it can be up to one year)."
+  },
+  {
+   "q": "In the Rajendra Shah case (2013/2021), what was the Supreme Court's final ruling regarding the 97th Amendment?",
+   "o": [
+    "The right to form co-operatives as a Fundamental Right was struck down.",
+    "The Amendment is fully valid for all co-operative societies.",
+    "The Amendment is valid only for multi-state co-operative societies.",
+    "The entire Amendment was declared unconstitutional."
+   ],
+   "a": 2,
+   "e": "The Supreme Court upheld that Part IX-B is operative only insofar as it concerns multi-state co-operative societies. For other co-operative societies, it was struck down because it lacked the required ratification by state legislatures."
+  },
+  {
+   "q": "Which part of the Constitution of India deals with the Official Language?",
+   "o": [
+    "Part XVII",
+    "Part XIV",
+    "Part XX",
+    "Part XV"
+   ],
+   "a": 0,
+   "e": "Part XVII of the Constitution deals with the official language in Articles 343 to 351."
+  },
+  {
+   "q": "Consider the following statements regarding the Language of the Union: 1️⃣ Hindi in Devanagari script is the official language. 2️⃣ The form of numerals used is the Devanagari form. 3️⃣ English was to continue for all official purposes for a period of 15 years from 1950.",
+   "o": [
+    "1 and 3 only",
+    "1 and 2 only",
+    "1, 2 and 3",
+    "2 and 3 only"
+   ],
+   "a": 0,
+   "e": "Hindi in Devanagari script is the official language, but the numerals used must be the international form of Indian numerals (not Devanagari). English was permitted for an initial 15-year period."
+  },
+  {
+   "q": "The Official Languages Act, 1963 was enacted to provide for which of the following?",
+   "o": [
+    "The continued use of English in addition to Hindi indefinitely.",
+    "The declaration of Sanskrit as the sole official language.",
+    "The mandatory use of regional languages in Parliament.",
+    "The immediate removal of English as an official language."
+   ],
+   "a": 0,
+   "e": "The Official Languages Act of 1963 provides for the continued use of English (even after 1965), in addition to Hindi, for all official purposes and enables its use indefinitely."
+  },
+  {
+   "q": "How many languages are currently specified in the Eighth Schedule of the Constitution?",
+   "o": [
+    "25",
+    "22",
+    "18",
+    "14"
+   ],
+   "a": 1,
+   "e": "At present, the Eighth Schedule of the Constitution specifies 22 languages. Originally, there were 14."
+  },
+  {
+   "q": "Which language was added to the Eighth Schedule by the 21st Amendment Act of 1967?",
+   "o": [
+    "Santhali",
+    "Sindhi",
+    "Manipuri",
+    "Konkani"
+   ],
+   "a": 1,
+   "e": "Sindhi was added by the 21st Amendment Act of 1967. Konkani, Manipuri, and Nepali were added later by the 71st Amendment (1992)."
+  },
+  {
+   "q": "Which of the following is NOT one of the criteria for a language to be declared a \"Classical Language\" in India?",
+   "o": [
+    "High antiquity of early texts over 1500–2000 years.",
+    "Discontinuity between the classical language and its later forms.",
+    "A body of ancient literature considered a valuable heritage.",
+    "The literary tradition must be borrowed from another speech community."
+   ],
+   "a": 3,
+   "e": "One of the criteria is that the literary tradition must be original and NOT borrowed from another speech community."
+  },
+  {
+   "q": "Which was the first language to be granted the \"Classical Language\" status in India?",
+   "o": [
+    "Telugu",
+    "Sanskrit",
+    "Kannada",
+    "Tamil"
+   ],
+   "a": 3,
+   "e": "According to Table 74.1, Tamil was declared a classical language in 2004, followed by Sanskrit in 2005."
+  },
+  {
+   "q": "Consider the following statements regarding All-India Services: 1️⃣ They are common to both Central and state governments. 2️⃣ At present, there are only two All-India Services: IAS and IPS. 3️⃣ The Indian Forest Service was established in 1966.",
+   "o": [
+    "2 and 3 only",
+    "1 and 2 only",
+    "1, 2 and 3",
+    "1 and 3 only"
+   ],
+   "a": 3,
+   "e": "All-India services serve both Centre and States. There are currently three: IAS, IPS, and IFOS (Indian Forest Service). The IFOS was established in 1966."
+  },
+  {
+   "q": "Who is regarded as the 'Father of All-India Services' in India?",
+   "o": [
+    "Jawaharlal Nehru",
+    "B.R. Ambedkar",
+    "Sardar Vallabhbhai Patel",
+    "Lord Cornwallis"
+   ],
+   "a": 2,
+   "e": "Sardar Vallabhbhai Patel was the chief protagonist of All-India Services in the Constituent Assembly and is regarded as the 'Father of All-India Services'."
+  },
+  {
+   "q": "Which house of Parliament has the power to pass a resolution for the creation of a new All-India Service?",
+   "o": [
+    "Lok Sabha",
+    "Both houses jointly",
+    "The President by decree",
+    "Rajya Sabha"
+   ],
+   "a": 3,
+   "e": "Article 312 authorises Parliament to create new All-India Services based on a resolution passed by the Rajya Sabha to that effect by two-thirds of the members present and voting."
+  },
+  {
+   "q": "Which Ministry manages and controls the Indian Police Service (IPS)?",
+   "o": [
+    "Ministry of Personnel, Public Grievances and Pensions",
+    "Ministry of Defence",
+    "Ministry of Home Affairs",
+    "Ministry of Law and Justice"
+   ],
+   "a": 2,
+   "e": "The IAS is managed by the Ministry of Personnel, the IPS by the Ministry of Home Affairs, and the IFOS by the Ministry of Environment, Forest and Climate Change."
+  },
+  {
+   "q": "According to the 'Doctrine of Pleasure' (Article 310), members of the civil services of the Centre hold office during the pleasure of:",
+   "o": [
+    "The Parliament",
+    "The Prime Minister",
+    "The President",
+    "The Union Public Service Commission"
+   ],
+   "a": 2,
+   "e": "Article 310 states that members of the defence services, central civil services, and all-India services hold office during the pleasure of the President."
+  },
+  {
+   "q": "Article 311 provides safeguards to civil servants. Which of the following is NOT a safeguard mentioned?",
+   "o": [
+    "A civil servant cannot be dismissed by an authority subordinate to the appointing authority.",
+    "A civil servant must be informed of the charges against him/her.",
+    "A civil servant has a fundamental right to a second opportunity to represent against the proposed punishment.",
+    "A civil servant cannot be dismissed without an inquiry and a reasonable opportunity of being heard."
+   ],
+   "a": 2,
+   "e": "The 42nd Amendment Act of 1976 abolished the provision for a second opportunity to make representation against the punishment proposed."
+  },
+  {
+   "q": "Under Article 297, in whom do the minerals and things of value under the waters of the ocean within the territorial waters of India vest?",
+   "o": [
+    "The International Seabed Authority",
+    "The adjacent State government",
+    "The local municipal bodies",
+    "The Union of India"
+   ],
+   "a": 3,
+   "e": "Article 297 specifies that all lands, minerals, and other things of value within the territorial waters, continental shelf, and exclusive economic zone of India vest in the Union."
+  },
+  {
+   "q": "What is the distance of India's territorial waters from the baseline?",
+   "o": [
+    "200 nautical miles",
+    "10 nautical miles",
+    "24 nautical miles",
+    "12 nautical miles"
+   ],
+   "a": 3,
+   "e": "India's territorial waters extend to a distance of 12 nautical miles, while the exclusive economic zone (EEZ) extends up to 200 nautical miles."
+  },
+  {
+   "q": "Under Article 300, by what name may the Government of India sue or be sued?",
+   "o": [
+    "The State of India",
+    "The President of India",
+    "The Government of India",
+    "The Union of India"
+   ],
+   "a": 3,
+   "e": "Article 300 lays down that the Government of India may sue or be sued by the name of the 'Union of India'."
+  },
+  {
+   "q": "In which famous case did the Supreme Court examine the doctrine of sovereign immunity and rule that the State is liable for the negligent acts of its servants?",
+   "o": [
+    "P and O Steam Navigation Company case (1861)",
+    "Golaknath case (1967)",
+    "Kasturilal case (1964)",
+    "Nagendra Rao case (1994)"
+   ],
+   "a": 3,
+   "e": "In the Nagendra Rao case (1994), the Supreme Court ruled that the State is liable to pay compensation for damages due to the negligent acts of its servants and cannot avoid liability on the ground of sovereign immunity."
+  },
+  {
+   "q": "Which of the following is true regarding the immunity of the President of India for official acts?",
+   "o": [
+    "The President is personally immune from legal liability for any act done in the performance of official duties.",
+    "The President's official conduct cannot be reviewed by any body.",
+    "Immunity for official acts ends immediately after the President leaves office.",
+    "The President can be sued in a civil court for official acts during his term."
+   ],
+   "a": 0,
+   "e": "The President and Governors cannot be sued during their term or thereafter for any act done in the exercise of their official powers and duties."
+  },
+  {
+   "q": "Under what condition can civil proceedings be started against the President or a Governor for their personal acts during their term of office?",
+   "o": [
+    "No civil proceedings can be started under any circumstances.",
+    "After giving two months' advance notice.",
+    "Only if the act is a criminal offence.",
+    "After obtaining permission from the Chief Justice of India."
+   ],
+   "a": 1,
+   "e": "Civil proceedings can be started against the President or Governors during their term for personal acts only after giving two months' advance notice."
+  },
+  {
+   "q": "Which part of the Constitution contains special provisions relating to certain classes like SCs, STs, and OBCs?",
+   "o": [
+    "Part XV",
+    "Part XVI",
+    "Part XVIII",
+    "Part XIV"
+   ],
+   "a": 1,
+   "e": "Part XVI of the Constitution (Articles 330 to 342A) contains special provisions for Scheduled Castes, Scheduled Tribes, Backward Classes, and Anglo-Indians."
+  },
+  {
+   "q": "Who has the power to specify which castes or tribes are to be treated as Scheduled Castes (SCs) or Scheduled Tribes (STs) in a state?",
+   "o": [
+    "The National Commission for SCs",
+    "The Governor of the state",
+    "The Parliament",
+    "The President of India"
+   ],
+   "a": 3,
+   "e": "The Constitution leaves to the President the power to specify the SCs and STs in each state and union territory, usually after consulting the Governor."
+  },
+  {
+   "q": "Which Constitutional Amendment Act discontinued the provision for the nomination of Anglo-Indians to the Lok Sabha and State Legislative Assemblies?",
+   "o": [
+    "105th Amendment Act, 2021",
+    "104th Amendment Act, 2019",
+    "102nd Amendment Act, 2018",
+    "103rd Amendment Act, 2019"
+   ],
+   "a": 1,
+   "e": "The 104th Amendment Act of 2019 did not extend the nomination of Anglo-Indians beyond January 25, 2020, effectively discontinuing the provision."
+  },
+  {
+   "q": "Article 371-A provides special provisions for which state?",
+   "o": [
+    "Assam",
+    "Nagaland",
+    "Sikkim",
+    "Manipur"
+   ],
+   "a": 1,
+   "e": "Article 371-A (added by the 13th Amendment) provides special provisions for the state of Nagaland, protecting their customary laws and practices."
+  },
+  {
+   "q": "For which state does the Governor have a special responsibility for law and order so long as internal disturbances caused by 'hostile Nagas' continue?",
+   "o": [
+    "Mizoram",
+    "Manipur",
+    "Nagaland",
+    "Arunachal Pradesh"
+   ],
+   "a": 2,
+   "e": "Under Article 371-A, the Governor of Nagaland has special responsibility for law and order in the state due to internal disturbances."
+  },
+  {
+   "q": "Article 371-F contains special provisions for which state, which became a full-fledged state of India in 1975?",
+   "o": [
+    "Arunachal Pradesh",
+    "Goa",
+    "Sikkim",
+    "Mizoram"
+   ],
+   "a": 2,
+   "e": "The 36th Constitutional Amendment Act of 1975 made Sikkim a full-fledged state and inserted Article 371-F."
+  },
+  {
+   "q": "Which Article provides for the establishment of a Central University in the state of Andhra Pradesh?",
+   "o": [
+    "Article 371-J",
+    "Article 371-C",
+    "Article 371-E",
+    "Article 371-D"
+   ],
+   "a": 2,
+   "e": "Article 371-E empowers the Parliament to provide for the establishment of a Central University in the state of Andhra Pradesh."
+  },
+  {
+   "q": "The 98th Constitutional Amendment Act, 2012 inserted Article 371-J to provide special provisions for which region?",
+   "o": [
+    "Hyderabad-Karnataka region in Karnataka",
+    "Saurashtra in Gujarat",
+    "Hill Areas in Manipur",
+    "Vidarbha in Maharashtra"
+   ],
+   "a": 0,
+   "e": "Article 371-J was inserted by the 98th Amendment to provide special provisions for the Hyderabad-Karnataka region of the state of Karnataka."
+  },
+  {
+   "q": "What does the term 'Bona Vacantia' refer to in the context of government property?",
+   "o": [
+    "Property leased for 99 years.",
+    "Property acquired through war.",
+    "Property sold by the government to private individuals.",
+    "Property found without any owner."
+   ],
+   "a": 3,
+   "e": "Bona vacantia refers to property found without any owner, which vests in the government if no rightful claimant exists."
+  },
+  {
+   "q": "Which Article of the Constitution deals with the 'Directive for development of the Hindi language'?",
+   "o": [
+    "Article 343",
+    "Article 348",
+    "Article 350",
+    "Article 351"
+   ],
+   "a": 3,
+   "e": "Article 351 contains the directive for the development of the Hindi language, imposing a duty on the Centre to promote its spread."
+  },
+  {
+   "q": "How many members from the Lok Sabha are nominated as associate members to the Delimitation Commission for each state?",
+   "o": [
+    "Two",
+    "Five",
+    "Twenty",
+    "Ten"
+   ],
+   "a": 1,
+   "e": "The Commission had ten associate members in respect of each state; out of them, five were members of the Lok Sabha and five were members of the State Legislative Assembly."
+  },
+  {
+   "q": "The \"Doctrine of Pleasure\" in Article 310 is subject to the safeguards provided in which Article?",
+   "o": [
+    "Article 311",
+    "Article 312",
+    "Article 309",
+    "Article 315"
+   ],
+   "a": 0,
+   "e": "The doctrine of pleasure (Article 310) is not absolute and is restricted by the safeguards provided to civil servants under Article 311."
+  },
+  {
+   "q": "In which year was the first Backward Classes Commission (Kaka Kalelkar Commission) appointed?",
+   "o": [
+    "1950",
+    "1979",
+    "1953",
+    "1993"
+   ],
+   "a": 2,
+   "e": "The first Backward Classes Commission was appointed in 1953 under the chairmanship of Kaka Kalelkar and submitted its report in 1955."
+  },
+  {
+   "q": "Which Article empowers the President to appoint a special officer for linguistic minorities?",
+   "o": [
+    "Article 350-B",
+    "Article 350",
+    "Article 350-A",
+    "Article 351"
+   ],
+   "a": 0,
+   "e": "Article 350-B provides that the President should appoint a special officer for linguistic minorities to investigate matters relating to constitutional safeguards."
+  },
+  {
+   "q": "The Nagaland Legislative Assembly must consist of not less than how many members according to Article 371-A?",
+   "o": [
+    "40",
+    "60",
+    "46",
+    "30"
+   ],
+   "a": 2,
+   "e": "While the text mentions 30 for states like Goa and Arunachal, it notes members for Nagaland from Tuensang are elected by a regional council. General constitutional provisions apply, but specific numbers for smaller assemblies are often cited (e.g., Sikkim 30, Mizoram 40, Goa 30)."
+  },
+  {
+   "q": "Which constitutional amendment added Bodo, Dogri, Maithili, and Santhali to the Eighth Schedule?",
+   "o": [
+    "84th Amendment",
+    "92nd Amendment",
+    "97th Amendment",
+    "71st Amendment"
+   ],
+   "a": 1,
+   "e": "The 92nd Amendment Act of 2003 added Bodo, Dogri (Dongri), Maithili, and Santhali to the Eighth Schedule."
+  },
+  {
+   "q": "What is the tenure of the board of directors of a co-operative society?",
+   "o": [
+    "Five years",
+    "Ten years",
+    "Six years",
+    "Three years"
+   ],
+   "a": 0,
+   "e": "The term of office of elected members of the board and its office bearers shall be five years from the date of election."
+  },
+  {
+   "q": "Which of the following is NOT an All-India Service?",
+   "o": [
+    "Indian Forest Service",
+    "Indian Administrative Service",
+    "Indian Police Service",
+    "Indian Foreign Service"
+   ],
+   "a": 3,
+   "e": "The three All-India Services are IAS, IPS, and IFOS. The Indian Foreign Service is a Group A Central Service."
+  },
+  {
+   "q": "Who was the Chairman of the Second Backward Classes Commission?",
+   "o": [
+    "Kaka Kalelkar",
+    "Justice Kuldip Singh",
+    "U.N. Dhebar",
+    "B.P. Mandal"
+   ],
+   "a": 3,
+   "e": "The second Backward Classes Commission was appointed in 1979 with B.P. Mandal as chairman."
+  },
+  {
+   "q": "The 105th Constitutional Amendment Act, 2021 restored the power of which bodies to maintain their own lists of SEBCs?",
+   "o": [
+    "The Parliament",
+    "The President only",
+    "National Commission for BCs",
+    "State Governments and Union Territories"
+   ],
+   "a": 3,
+   "e": "The 105th Amendment Act of 2021 empowered states and union territories to prepare and maintain their own list of socially and educationally backward classes."
+  },
+  {
+   "q": "Which Article provides that all proceedings in the Supreme Court shall be in the English language?",
+   "o": [
+    "Article 345",
+    "Article 350",
+    "Article 348",
+    "Article 343"
+   ],
+   "a": 2,
+   "e": "Article 348 specifies that until Parliament provides otherwise, all proceedings in the Supreme Court and high courts shall be in English only."
+  },
+  {
+   "q": "Under Article 338, which body investigates safeguards for the Anglo-Indian community?",
+   "o": [
+    "National Commission for BCs",
+    "A separate Anglo-Indian Commission",
+    "National Commission for STs",
+    "National Commission for SCs"
+   ],
+   "a": 3,
+   "e": "The National Commission for SCs is also required to discharge functions with regard to the Anglo-Indian community as it does for SCs (Article 338, Clause 10)."
+  },
+  {
+   "q": "Which of the following states is NOT mentioned as having special provisions under Articles 371 to 371-J?",
+   "o": [
+    "Sikkim",
+    "Assam",
+    "Nagaland",
+    "Rajasthan"
+   ],
+   "a": 3,
+   "e": "Articles 371 to 371-J cover 12 states: Maharashtra, Gujarat, Nagaland, Assam, Manipur, Andhra Pradesh, Telangana, Sikkim, Mizoram, Arunachal Pradesh, Goa, and Karnataka."
+  },
+  {
+   "q": "According to the text, a civil servant cannot be reduced in rank without:",
+   "o": [
+    "A resolution in the State Assembly.",
+    "Permission from the Governor.",
+    "The consent of the Union Public Service Commission.",
+    "An inquiry and reasonable opportunity of being heard."
+   ],
+   "a": 3,
+   "e": "Article 311(2) states that a civil servant cannot be dismissed, removed, or reduced in rank except after an inquiry and a reasonable opportunity of being heard."
+  },
+  {
+   "q": "Which body acts as the 'Regional Planning Body' for the North Eastern region?",
+   "o": [
+    "North Eastern Council",
+    "Inter-State Council",
+    "NITI Aayog",
+    "Zonal Council"
+   ],
+   "a": 0,
+   "e": "By virtue of the 2002 Amendment, the North Eastern Council (NEC) has been made the Regional Planning Body for the North Eastern region."
+  },
+  {
+   "q": "The maximum number of co-opted members on the board of a co-operative society is:",
+   "o": [
+    "Two",
+    "Seven",
+    "One",
+    "Five"
+   ],
+   "a": 0,
+   "e": "The number of co-opted members (specialists in banking, etc.) shall not exceed two, in addition to the maximum of 21 directors."
+  },
+  {
+   "q": "Which language status provides for the setting up of a 'Centre of Excellence for Studies'?",
+   "o": [
+    "Official Language",
+    "Classical Language",
+    "National Language",
+    "Regional Language"
+   ],
+   "a": 1,
+   "e": "Benefits of being a Classical Language include the setting up of a 'Centre of Excellence for Studies in Classical Languages'."
+  },
+  {
+   "q": "Under Article 312, a resolution for a new All-India Service must be supported by what majority in the Rajya Sabha?",
+   "o": [
+    "Majority of the total membership",
+    "Absolute majority",
+    "Simple majority",
+    "Two-thirds of members present and voting"
+   ],
+   "a": 3,
+   "e": "A resolution in the Rajya Sabha to create a new All-India Service should be supported by two-thirds of the members present and voting."
+  },
+  {
+   "q": "The \"Escheat\" property accrues to the government when:",
+   "o": [
+    "A person fails to pay taxes.",
+    "A person dies without any heir.",
+    "The property is abandoned during war.",
+    "A person dies without a will."
+   ],
+   "a": 1,
+   "e": "Escheat refers to the death of a person intestate (without a will) and without any heir, in which case the property accrues to the government."
+  },
+  {
+   "q": "Which Ministry is the 'Central Personnel Agency' in the Government of India?",
+   "o": [
+    "Ministry of Law and Justice",
+    "Ministry of Finance",
+    "Ministry of Home Affairs",
+    "Ministry of Personnel"
+   ],
+   "a": 3,
+   "e": "The Ministry of Personnel is the central personnel agency in the Government of India, managing All-India Services (IAS) and determining general policies."
+  },
+  {
+   "q": "In the J.N. Pandey text cited, which case's efficacy as a binding precedent was described as 'eroded'?",
+   "o": [
+    "Kasturilal case",
+    "P and O Steam Navigation Company case",
+    "Nagendra Rao case",
+    "Rajendra Shah case"
+   ],
+   "a": 0,
+   "e": "In the Common Cause case (1999), the Supreme Court observed that the efficacy of the Kasturilal case as a binding precedent has been eroded due to the expansion of state activities."
+  },
+  {
+   "q": "Which Article deals with 'Special procedure for enactment of certain laws relating to language'?",
+   "o": [
+    "Article 347",
+    "Article 343",
+    "Article 351",
+    "Article 349"
+   ],
+   "a": 3,
+   "e": "Table 74.2 identifies Article 349 as covering the special procedure for enactment of certain laws relating to language."
+  },
+  {
+   "q": "How many seats in the J&K Assembly are specifically reserved for STs according to the 2022 order?",
+   "o": [
+    "9",
+    "7",
+    "24",
+    "18"
+   ],
+   "a": 0,
+   "e": "The 2022 order reserved 9 Assembly constituencies for the STs (6 in Jammu and 3 in Kashmir region)."
+  },
+  {
+   "q": "Which state's governor has special responsibility for the establishment of separate development boards for Vidarbha and Marathwada?",
+   "o": [
+    "Maharashtra",
+    "Andhra Pradesh",
+    "Karnataka",
+    "Gujarat"
+   ],
+   "a": 0,
+   "e": "Under Article 371, the Governor of Maharashtra has special responsibility for separate development boards for Vidarbha, Marathwada, and the rest of Maharashtra."
+  },
+  {
+   "q": "The 97th Amendment added which new Directive Principle of State Policy?",
+   "o": [
+    "Article 43-B",
+    "Article 39-A",
+    "Article 43-A",
+    "Article 48-A"
+   ],
+   "a": 0,
+   "e": "The 97th Amendment included a new Directive Principle, Article 43-B, on the promotion of co-operative societies."
+  },
+  {
+   "q": "Which language was added to the Eighth Schedule by the 71st Amendment Act of 1992?",
+   "o": [
+    "Bodo and Santhali",
+    "Konkani, Manipuri and Nepali",
+    "Dogri and Maithili",
+    "Sindhi"
+   ],
+   "a": 1,
+   "e": "The 71st Amendment Act of 1992 added Konkani, Manipuri, and Nepali to the Eighth Schedule."
+  },
+  {
+   "q": "Who appoints the members of the North Eastern Council?",
+   "o": [
+    "The President of India",
+    "The Union Home Minister",
+    "The Parliament",
+    "The Prime Minister"
+   ],
+   "a": 0,
+   "e": "The Council includes three members nominated by the President of India. Governors and Chief Ministers of the member states are also part of it."
+  },
+  {
+   "q": "Which Article deals with 'Suits and proceedings' involving the government?",
+   "o": [
+    "Article 297",
+    "Article 299",
+    "Article 302",
+    "Article 300"
+   ],
+   "a": 3,
+   "e": "Article 300 of the Constitution deals with the suits by or against the Government in India."
+  },
+  {
+   "q": "The Indian Civil Service (ICS) was replaced by which service in 1947?",
+   "o": [
+    "Indian Foreign Service",
+    "Indian Administrative Service",
+    "Central Secretariat Service",
+    "Indian Police Service"
+   ],
+   "a": 1,
+   "e": "In 1947, the Indian Civil Service (ICS) was replaced by the IAS, and the Indian Police (IP) was replaced by the IPS."
+  },
+  {
+   "q": "According to Article 311, the safeguard of an inquiry is NOT available in which case?",
+   "o": [
+    "If the civil servant is on probation.",
+    "If the civil servant is a member of an All-India Service.",
+    "If the civil servant belongs to a state service.",
+    "If a civil servant is dismissed for a criminal conviction."
+   ],
+   "a": 3,
+   "e": "The inquiry safeguard is not available where a civil servant is dismissed on the ground of conduct which led to his/her conviction on a criminal charge."
+  },
+  {
+   "q": "Which Schedule of the Constitution specifies the Tribal Areas of Assam?",
+   "o": [
+    "Seventh Schedule",
+    "Sixth Schedule",
+    "Eighth Schedule",
+    "Fifth Schedule"
+   ],
+   "a": 1,
+   "e": "The Tribal Areas of Assam (North Cachar Hills, Karbi Anglong, and Bodoland) are specified in the Sixth Schedule."
+  },
+  {
+   "q": "The 102nd Amendment Act of 2018 inserted which Article to confer constitutional status on the National Commission for BCs?",
+   "o": [
+    "Article 338",
+    "Article 338-B",
+    "Article 338-A",
+    "Article 340"
+   ],
+   "a": 1,
+   "e": "The 102nd Amendment Act of 2018 inserted Article 338-B to provide a constitutional status to the National Commission for Backward Classes."
+  },
+  {
+   "q": "Which of the following Nodal Ministries is NOT correctly matched with its Commission/Body?",
+   "o": [
+    "Zonal Councils: Ministry of Home Affairs",
+    "Central Information Commission: Ministry of Personnel",
+    "Staff Selection Commission: Ministry of Finance",
+    "Central Bureau of Investigation: Ministry of Personnel"
+   ],
+   "a": 2,
+   "e": "According to Table 71.2, the Staff Selection Commission (SSC) falls under the Ministry of Personnel, not Finance."
+  },
+  {
+   "q": "What is the maximum number of seats reserved for women on the board of a co-operative society?",
+   "o": [
+    "2",
+    "5",
+    "3",
+    "1"
+   ],
+   "a": 0,
+   "e": "The state legislature shall provide for the reservation of two seats for women on the board of every co-operative society."
+  },
+  {
+   "q": "In the context of government contracts, which of the following is mandatory?",
+   "o": [
+    "They must be written in Hindi only.",
+    "They must be ratified by the Parliament.",
+    "They must be expressed to be made by the President or Governor.",
+    "They must be signed by the Prime Minister."
+   ],
+   "a": 2,
+   "e": "Article 299 requires that contracts must be expressed to be made by the President or Governor and executed on their behalf."
+  },
+  {
+   "q": "Which state was given special provisions under Article 371-G?",
+   "o": [
+    "Arunachal Pradesh",
+    "Mizoram",
+    "Goa",
+    "Sikkim"
+   ],
+   "a": 1,
+   "e": "Article 371-G specifies special provisions for the state of Mizoram, including protection for Mizo customary laws."
+  },
+  {
+   "q": "The 'Indian Forest Service' (IFOS) is managed by which ministry?",
+   "o": [
+    "Ministry of Agriculture",
+    "Ministry of Home Affairs",
+    "Ministry of Environment, Forest and Climate Change",
+    "Ministry of Personnel"
+   ],
+   "a": 2,
+   "e": "The IFOS is managed and controlled by the Ministry of Environment, Forest and Climate Change."
+  },
+  {
+   "q": "Which census was the basis for the last delimitation of Assembly seats in J&K before 2019?",
+   "o": [
+    "1981",
+    "2001",
+    "1991",
+    "1971"
+   ],
+   "a": 0,
+   "e": "The last delimitation exercise for J&K Assembly seats before the 2019 reorganisation was conducted on the basis of the 1981 census."
+  },
+  {
+   "q": "According to the text, which state service is considered the most prestigious?",
+   "o": [
+    "Educational Service",
+    "Civil Service",
+    "Police Service",
+    "Medical Service"
+   ],
+   "a": 1,
+   "e": "Among all the state services, the civil service (also known as the administrative service) is the most prestigious."
+  },
+  {
+   "q": "Which Article authorises the President to provide for the establishment of an Administrative Tribunal in Andhra Pradesh?",
+   "o": [
+    "Article 371-A",
+    "Article 371-B",
+    "Article 371-F",
+    "Article 371-D"
+   ],
+   "a": 3,
+   "e": "Article 371-D authorises the establishment of an Administrative Tribunal in Andhra Pradesh to deal with disputes relating to public employment."
+  },
+  {
+   "q": "What is the 'Eighth Schedule' used for regarding the Hindi language?",
+   "o": [
+    "To list the only languages that can be official.",
+    "To list the languages that the President must speak.",
+    "To replace Hindi with these 22 languages.",
+    "To help the Centre draw vocabulary for the enrichment of Hindi."
+   ],
+   "a": 3,
+   "e": "Article 351 directs the Centre to secure the enrichment of Hindi by assimilating forms from languages specified in the Eighth Schedule."
+  },
+  {
+   "q": "Who presided over the committee that examined the 1955 Official Language Commission's report?",
+   "o": [
+    "Gobind Ballabh Pant",
+    "Sardar Patel",
+    "B.G. Kher",
+    "B.R. Ambedkar"
+   ],
+   "a": 0,
+   "e": "The report of the 1955 commission (under B.G. Kher) was examined by a parliamentary committee in 1957 under the chairmanship of Gobind Ballabh Pant."
+  },
+  {
+   "q": "The 44th Amendment Act (1978) abolished the constitutional obligation to pay compensation for acquired property, except in how many cases?",
+   "o": [
+    "Two",
+    "One",
+    "Three",
+    "Zero"
+   ],
+   "a": 0,
+   "e": "Compensation is still constitutionally required in two cases: (a) acquisition of property of a minority educational institution and (b) acquisition of land under personal cultivation within ceiling limits."
+  },
+  {
+   "q": "Which Article deals with the 'Interpretation' of the term 'state' for the purpose of Part XIV?",
+   "o": [
+    "Article 309",
+    "Article 308",
+    "Article 310",
+    "Article 312"
+   ],
+   "a": 1,
+   "e": "Article 308 provides the interpretation for the provisions related to public services in Part XIV."
+  },
+  {
+   "q": "How many Group A Central Services are there at present?",
+   "o": [
+    "45",
+    "100",
+    "66",
+    "26"
+   ],
+   "a": 2,
+   "e": "The text states that at present there are 66 Group A Central Services, including the Indian Foreign Service and Indian Revenue Service."
+  },
+  {
+   "q": "Which Article provides for 'Facilities for instruction in mother-tongue at primary stage'?",
+   "o": [
+    "Article 343",
+    "Article 350-A",
+    "Article 351",
+    "Article 348"
+   ],
+   "a": 1,
+   "e": "Article 350-A directs every state to provide adequate facilities for instruction in the mother-tongue at the primary stage of education for linguistic minorities."
+  },
+  {
+   "q": "The 'Anantnag Rajouri' Parliamentary Constituency in J&K was carved out by combining areas from:",
+   "o": [
+    "Kashmir region and Jammu region",
+    "Two different states",
+    "Kashmir region and PoJ&K",
+    "Jammu region and Ladakh"
+   ],
+   "a": 0,
+   "e": "The 2022 Delimitation order carved out this constituency by combining the Anantnag area of the Kashmir region and the Rajouri & Poonch area of the Jammu region."
+  },
+  {
+   "q": "Which of the following is NOT a member of the North Eastern Council?",
+   "o": [
+    "Chief Minister of Sikkim",
+    "Chief Minister of Manipur",
+    "Governor of Tripura",
+    "Governor of West Bengal"
+   ],
+   "a": 3,
+   "e": "The NEC consists of the Governors and Chief Ministers of the eight member states of the North Eastern region. West Bengal is not a member state."
+  },
+  {
+   "q": "Regarding the \"Fourth Delimitation Commission\" of 2002, consider the following statements: 1️⃣ It was established under the Delimitation Act, 2002. 2️⃣ Its task was to readjust constituencies based on the 2001 census. 3️⃣ The Commission's recommendations were initially applicable to all states including Jammu and Kashmir.",
+   "o": [
+    "II and III only",
+    "I and III only",
+    "I and II only",
+    "I, II and III"
+   ],
+   "a": 2,
+   "e": "The Fourth Delimitation Commission was established under the Delimitation Act, 2002 to readjust constituencies based on the 2001 census. However, the text notes that the state of Jammu and Kashmir was excluded from its initial task."
+  },
+  {
+   "q": "Which of the following is correct regarding the \"Associate Members\" of the Delimitation Commission? 1️⃣ They are nominated by the President of India. 2️⃣ They consist of five members of the Lok Sabha and five members of the State Legislative Assembly from each state. 3️⃣ They have the right to vote on the final orders of the Commission.",
+   "o": [
+    "I and II only",
+    "II only",
+    "II and III only",
+    "I, II and III"
+   ],
+   "a": 1,
+   "e": "Associate members consist of five Lok Sabha members and five State Assembly members from the concerned state. They are nominated by the Speakers of the respective houses, not the President, and they do not have the right to vote."
+  },
+  {
+   "q": "With reference to the Delimitation Commission (2020), which of the following states were removed from its purview in March 2021?",
+   "o": [
+    "Sikkim and Mizoram",
+    "Assam and West Bengal",
+    "Jammu and Kashmir and Jharkhand",
+    "Assam, Arunachal Pradesh, Manipur, and Nagaland"
+   ],
+   "a": 3,
+   "e": "In March 2020, a commission was set up for four North-eastern states and J&K, but in March 2021, the government removed the four North-eastern states (Assam, Arunachal Pradesh, Manipur, and Nagaland) from the Commission's purview."
+  },
+  {
+   "q": "According to the J&K Reorganisation Act, 2019, how many seats are reserved for women in the Legislative Assembly of the UT of Jammu and Kashmir?",
+   "o": [
+    "Five seats (elected by direct vote)",
+    "No specific reservation for women is provided",
+    "One-third of the total 114 seats",
+    "Two seats (nominated by the Lieutenant Governor)"
+   ],
+   "a": 3,
+   "e": "The J&K Reorganisation Act, 2019 provides for the nomination of 2 women members to the Assembly by the Lieutenant Governor if they are not adequately represented."
+  },
+  {
+   "q": "Consider the following statements about \"All-India Services\": 1️⃣ The Indian Administrative Service (IAS) and Indian Police Service (IPS) are managed by the Ministry of Personnel. 2️⃣ The Indian Forest Service (IFOS) is managed by the Ministry of Environment, Forest and Climate Change. 3️⃣ The ultimate control of these services lies with the Central Government.",
+   "o": [
+    "I, II and III",
+    "I and II only",
+    "I and III only",
+    "II and III only"
+   ],
+   "a": 3,
+   "e": "While the IAS is managed by the Ministry of Personnel, the IPS is managed by the Ministry of Home Affairs. The IFOS is under the Ministry of Environment, Forest and Climate Change, and the ultimate control of All-India services lies with the Centre."
+  },
+  {
+   "q": "Which of the following is the \"Nodal Ministry\" for the National Commission for Scheduled Castes (SCs)?",
+   "o": [
+    "Ministry of Personnel",
+    "Ministry of Tribal Affairs",
+    "Ministry of Home Affairs",
+    "Ministry of Social Justice & Empowerment"
+   ],
+   "a": 3,
+   "e": "According to Table 71.2, the National Commission for SCs falls under the Ministry of Social Justice & Empowerment."
+  },
+  {
+   "q": "With reference to the North Eastern Council (NEC), consider the following: 1️⃣ It was established to secure balanced development and maintain security in the region. 2️⃣ The Union Home Minister is the ex-officio Chairman. 3️⃣ Its headquarters are located in Guwahati, Assam.",
+   "o": [
+    "II and III only",
+    "I and II only",
+    "I, II and III",
+    "I and III only"
+   ],
+   "a": 1,
+   "e": "The NEC was set up for balanced development and security, and the Union Home Minister is the ex-officio Chairman. However, its headquarters are in Shillong, Meghalaya, not Guwahati."
+  },
+  {
+   "q": "Regarding \"Co-operative Societies\" under Part IX-B, which of the following statements is incorrect?",
+   "o": [
+    "The maximum number of directors shall not exceed twenty-one. The term of office of elected members of the board is five years.",
+    "Reservation of one seat for SC/ST and two seats for women is mandatory.",
+    "The board can be kept under suspension for a maximum of one year in all cases."
+   ],
+   "a": 2,
+   "e": "No board shall be superseded or kept under suspension for more than six months. The one-year limit applies specifically to co-operative banks, not all co-operative societies."
+  },
+  {
+   "q": "Which Article of the Constitution imposes a duty on the Centre to promote the spread and development of the Hindi language?",
+   "o": [
+    "Article 350-B",
+    "Article 343",
+    "Article 351",
+    "Article 348"
+   ],
+   "a": 2,
+   "e": "Article 351 contains the directive for the development of the Hindi language to make it the lingua franca of India's composite culture."
+  },
+  {
+   "q": "Consider the following pairs of \"Constitutional Provisions\" and their subjects: 1️⃣ Article 312: All-India Services 2️⃣ Article 299: Contracts 3️⃣ Article 342A: Socially and educationally backward classes. How many are correctly matched?",
+   "o": [
+    "Only two pairs",
+    "None of the pairs",
+    "All three pairs",
+    "Only one pair"
+   ],
+   "a": 2,
+   "e": "Article 312 deals with All-India Services , Article 299 covers government contracts , and Article 342A covers socially and educationally backward classes."
+  },
+  {
+   "q": "Which of the following best describes \"Bona Vacantia\" as mentioned in the text?",
+   "o": [
+    "Termination of rights through failure to follow procedures",
+    "Death of a person intestate without any heir",
+    "Property acquired through eminent domain",
+    "Property found without any owner"
+   ],
+   "a": 3,
+   "e": "Bona vacantia is defined as property found without any owner, which then vests in the state or Union."
+  },
+  {
+   "q": "With reference to the \"Classical Language\" status, consider the following statements: 1️⃣ High antiquity of its early texts over a period of 1500–2000 years is a criteria. 2️⃣ The literary tradition must be original and not borrowed from another community. 3️⃣ Odia was the most recent language to be granted this status according to the text.",
+   "o": [
+    "I and II only",
+    "II and III only",
+    "I and III only",
+    "I, II and III"
+   ],
+   "a": 3,
+   "e": "All three statements are correct: the antiquity requirement is 1500–2000 years, the tradition must be original, and Odia (declared in 2014) is the latest on the list provided."
+  },
+  {
+   "q": "Which constitutional amendment act made the \"right to form co-operative societies\" a fundamental right under Article 19?",
+   "o": [
+    "101st Amendment Act",
+    "97th Amendment Act",
+    "42nd Amendment Act",
+    "73rd Amendment Act"
+   ],
+   "a": 1,
+   "e": "The 97th Constitutional Amendment Act of 2011 made the right to form co-operative societies a fundamental right by inserting the words in Article 19(1)(c)."
+  },
+  {
+   "q": "Regarding the \"Language of the Judiciary,\" which of the following is true?",
+   "o": [
+    "The Supreme Court can hear petitions in any language listed in the Eighth Schedule.",
+    "The Governor can authorize the use of Hindi in the Supreme Court with President's consent.",
+    "All proceedings in every High Court must be in English unless Parliament provides otherwise.",
+    "High Court judgements can be passed in regional languages without an English translation."
+   ],
+   "a": 2,
+   "e": "Until Parliament provides otherwise, all proceedings in the Supreme Court and every high court shall be in English. High court judgements must be in English unless the Governor (with President's consent) authorizes another language, and even then, they must have an English translation."
+  },
+  {
+   "q": "The \"Doctrine of Pleasure\" (Article 310) applies to which of the following? 1️⃣ Members of the defense services 2️⃣ Members of the civil services of the Union 3️⃣ Persons holding military posts under the Centre.",
+   "o": [
+    "I and III only",
+    "I and II only",
+    "II and III only",
+    "I, II and III"
+   ],
+   "a": 3,
+   "e": "Article 310 states that members of the defense services, civil services of the Centre, all-India services, and those holding military or civil posts under the Centre hold office during the pleasure of the President."
+  },
+  {
+   "q": "Which of the following is correctly matched regarding the \"Special Provisions for Some States\"?",
+   "o": [
+    "Article 371-G: Arunachal Pradesh",
+    "Article 371-C: Sikkim",
+    "Article 371-F: Manipur",
+    "Article 371-A: Nagaland"
+   ],
+   "a": 3,
+   "e": "Article 371-A is for Nagaland. Article 371-C is for Manipur , 371-F is for Sikkim , and 371-G is for Mizoram."
+  },
+  {
+   "q": "Consider the following statements about the \"National Commission for Backward Classes (NCBC)\": 1️⃣ It was initially set up in 1993 as a statutory body. 2️⃣ The 102nd Amendment Act of 2018 conferred constitutional status on it. 3️⃣ It falls under the administrative control of the Ministry of Personnel.",
+   "o": [
+    "II and III only",
+    "I, II and III",
+    "I and III only",
+    "I and II only"
+   ],
+   "a": 3,
+   "e": "The NCBC was set up in 1993 and gained constitutional status via the 102nd Amendment. However, it falls under the Ministry of Social Justice & Empowerment, not Personnel."
+  },
+  {
+   "q": "Under the \"Nagaland\" special provisions (Article 371-A), who has the final decision on all matters relating to the Tuensang district?",
+   "o": [
+    "The Regional Council",
+    "The Chief Minister of Nagaland",
+    "The President of India",
+    "The Governor of Nagaland"
+   ],
+   "a": 3,
+   "e": "Article 371-A specifies that the final decision on all matters relating to the Tuensang district shall be made by the Governor in his/her discretion."
+  },
+  {
+   "q": "What is the \"Eighth Schedule\" primarily used for in terms of the Hindi language?",
+   "o": [
+    "Determining the official languages of the various states.",
+    "Securing the enrichment of Hindi by drawing vocabulary primarily on Sanskrit.",
+    "Identifying languages that must be taught in all schools.",
+    "Listing the languages used for all proceedings in the Supreme Court."
+   ],
+   "a": 1,
+   "e": "The Centre is directed to secure the enrichment of Hindi by drawing its vocabulary primarily on Sanskrit and secondarily on other languages specified in the Eighth Schedule."
+  },
+  {
+   "q": "Which of the following is an \"All-India Service\" according to Article 312?",
+   "o": [
+    "Indian Revenue Service",
+    "Indian Foreign Service",
+    "Indian Forest Service",
+    "Indian Economic Service"
+   ],
+   "a": 2,
+   "e": "At present, there are only three All-India services: IAS, IPS, and the Indian Forest Service (IFOS)."
+  },
+  {
+   "q": "Regarding \"Government Contracts\" (Article 299), consider the following statements: 1️⃣ They must be expressed to be made by the President or Governor. 2️⃣ The President or Governor is personally liable for contracts executed in their name. 3️⃣ Failure to comply with the mandatory conditions renders the contract void.",
+   "o": [
+    "I and II only",
+    "I and III only",
+    "I, II and III",
+    "II and III only"
+   ],
+   "a": 1,
+   "e": "Contracts must be made in the name of the President/Governor and failure to comply makes them void. However, the President or Governor is NOT personally liable in respect of such contracts."
+  },
+  {
+   "q": "The 104th Amendment Act of 2019 extended the reservation of seats for SCs and STs in the Lok Sabha until which year?",
+   "o": [
+    "2026",
+    "2032",
+    "2025",
+    "2030"
+   ],
+   "a": 3,
+   "e": "Under the 104th Amendment Act of 2019, the reservation for SCs and STs is to last until the year 2030."
+  },
+  {
+   "q": "Which Article provides for the \"Special Officer for Linguistic Minorities\"?",
+   "o": [
+    "Article 351",
+    "Article 350-A",
+    "Article 350",
+    "Article 350-B"
+   ],
+   "a": 3,
+   "e": "Article 350-B states the President should appoint a special officer for linguistic minorities to investigate constitutional safeguards."
+  },
+  {
+   "q": "With reference to the \"Delimitation Commission of India,\" which statement is correct?",
+   "o": [
+    "Its orders have the force of law and cannot be challenged in any court.",
+    "It is a permanent body that meets every five years.",
+    "It is a constitutional body established under Article 82.",
+    "Its orders can be modified by the Lok Sabha before implementation."
+   ],
+   "a": 0,
+   "e": "The Delimitation Commission is a statutory body whose orders have the force of law and cannot be challenged in court. Modifications by the legislature are not permissible."
+  },
+  {
+   "q": "According to the text, which of the following is NOT a member of the \"Fourth Delimitation Commission\" (2002)?",
+   "o": [
+    "The Prime Minister of India",
+    "The State Election Commissioner",
+    "Justice Kuldip Singh (Chairperson)",
+    "The Chief Election Commissioner"
+   ],
+   "a": 0,
+   "e": "The three-member body consisted of a Chairperson (retired SC judge), the CEC, and the State Election Commissioner."
+  },
+  {
+   "q": "Consider the following statements about the \"North Eastern Council (NEC)\": 1️⃣ Sikkim was an original member state since 1972. 2️⃣ It operates under the Ministry of Development of the North Eastern Region (DONER). 3️⃣ It functions as a regional planning body for the North-eastern area.",
+   "o": [
+    "I and II only",
+    "I, II and III",
+    "I and III only",
+    "II and III only"
+   ],
+   "a": 3,
+   "e": "The NEC operates under DONER and serves as a planning body. Sikkim, however, only became the eighth member state in 2002."
+  },
+  {
+   "q": "Which Article of the Constitution deals with \"Suits and proceedings\"?",
+   "o": [
+    "Article 297",
+    "Article 299",
+    "Article 361",
+    "Article 300"
+   ],
+   "a": 3,
+   "e": "Article 300 in Part XII of the Constitution deals with suits and proceedings by or against the government."
+  },
+  {
+   "q": "Regarding \"Co-operative Societies,\" the 97th Amendment added a new Part to the Constitution. Which part is it?",
+   "o": [
+    "Part IX",
+    "Part IX-A",
+    "Part X",
+    "Part IX-B"
+   ],
+   "a": 3,
+   "e": "The 97th Constitutional Amendment Act of 2011 added a new Part IX-B entitled \"The Co-operative Societies\"."
+  },
+  {
+   "q": "Under Article 371-D, who is empowered to provide equitable opportunities for the people of Andhra Pradesh and Telangana in public employment?",
+   "o": [
+    "The Governor",
+    "The Parliament",
+    "The President of India",
+    "The State Legislature"
+   ],
+   "a": 2,
+   "e": "Under Article 371-D, the President is empowered to provide for equitable opportunities and facilities for people in Andhra Pradesh or Telangana regarding public employment and education."
+  },
+  {
+   "q": "Which of the following \"All-India Services\" was established most recently (in 1966)?",
+   "o": [
+    "Indian Medical and Health Service",
+    "Indian Administrative Service",
+    "Indian Police Service",
+    "Indian Forest Service"
+   ],
+   "a": 3,
+   "e": "The Indian Forest Service (IFOS) was established in 1966 as the third All-India service."
+  },
+  {
+   "q": "Which Article of the Constitution deals with \"Escheat, Lapse and Bona Vacantia\"?",
+   "o": [
+    "Article 295",
+    "Article 294",
+    "Article 297",
+    "Article 296"
+   ],
+   "a": 3,
+   "e": "Article 296 covers property accruing by escheat or lapse or as bona vacantia."
+  },
+  {
+   "q": "With reference to \"Classical Languages,\" which of the following was declared a classical language in 2014?",
+   "o": [
+    "Kannada",
+    "Telugu",
+    "Odia",
+    "Malayalam"
+   ],
+   "a": 2,
+   "e": "According to Table 74.1, Odia was granted the classical language status in the year 2014."
+  },
+  {
+   "q": "Consider the following statements regarding \"Civil Servants\" (Article 311): 1️⃣ They cannot be dismissed by an authority subordinate to the appointing authority. 2️⃣ They have a right to a second opportunity of being heard at the punishment stage. 3️⃣ The safeguards are not available to members of the defense services.",
+   "o": [
+    "I and III only",
+    "I and II only",
+    "II and III only",
+    "I, II and III"
+   ],
+   "a": 0,
+   "e": "Civil servants cannot be dismissed by a subordinate authority, and these safeguards do not apply to defense personnel. The 42nd Amendment abolished the second opportunity at the punishment stage."
+  },
+  {
+   "q": "Which of the following is the \"Nodal Ministry\" for the Election Commission of India?",
+   "o": [
+    "Ministry of Home Affairs",
+    "Ministry of Personnel",
+    "Ministry of Finance",
+    "Ministry of Law and Justice"
+   ],
+   "a": 3,
+   "e": "According to Table 71.2, the Election Commission of India falls under the Ministry of Law and Justice."
+  },
+  {
+   "q": "According to Article 371-F, what is the minimum number of members in the Sikkim Legislative Assembly?",
+   "o": [
+    "30 members",
+    "40 members",
+    "60 members",
+    "32 members"
+   ],
+   "a": 0,
+   "e": "Article 371-F specifies that the Sikkim Legislative Assembly is to consist of not less than 30 members."
+  },
+  {
+   "q": "Regarding \"Official Language,\" which of the following languages was added by the 21st Amendment Act of 1967?",
+   "o": [
+    "Konkani",
+    "Dogri",
+    "Sindhi",
+    "Santhali"
+   ],
+   "a": 2,
+   "e": "Sindhi was added to the Eighth Schedule by the 21st Amendment Act of 1967."
+  },
+  {
+   "q": "The \"Nagendra Rao case (1994)\" is significant for which of the following?",
+   "o": [
+    "Criticizing the doctrine of sovereign immunity and advocating State liability for torts.",
+    "Confirming the absolute sovereign immunity of the State.",
+    "Defining the powers of the Delimitation Commission.",
+    "Striking down the 97th Amendment."
+   ],
+   "a": 0,
+   "e": "In the Nagendra Rao case, the Supreme Court criticized the doctrine of sovereign immunity and ruled that the State is liable for the negligent acts of its servants."
+  },
+  {
+   "q": "Under Article 342A, who is authorized to specify the \"socially and educationally backward classes\" for a state in the Central List?",
+   "o": [
+    "The Governor of the state",
+    "The National Commission for BCs",
+    "The Parliament",
+    "The President of India"
+   ],
+   "a": 3,
+   "e": "Article 342A provides that the President may specify the socially and educationally backward classes in the Central List in relation to a state or union territory."
+  },
+  {
+   "q": "Which of the following \"Special Provisions\" states that Acts of Parliament relating to \"ownership and transfer of land\" would not apply unless the State Assembly decides?",
+   "o": [
+    "Nagaland (371-A) and Mizoram (371-G)",
+    "Sikkim (371-F)",
+    "Goa (371-I)",
+    "Assam (371-B)"
+   ],
+   "a": 0,
+   "e": "This protection regarding land ownership applies to both Nagaland under Article 371-A and Mizoram under Article 371-G."
+  },
+  {
+   "q": "Which \"Nodal Ministry\" controls the Central Bureau of Investigation (CBI)?",
+   "o": [
+    "Ministry of Personnel",
+    "Ministry of Home Affairs",
+    "Ministry of Law and Justice",
+    "Ministry of Finance"
+   ],
+   "a": 0,
+   "e": "The CBI falls under the Ministry of Personnel according to Table 71.2."
+  },
+  {
+   "q": "Consider the following statements about the \"Delimitation Commission (2020)\": 1️⃣ It was chaired by Justice Ranjana Prakash Desai. 2️⃣ It completed its task for the UT of J&K in May 2022. 3️⃣ It recommended the reservation of 9 seats for SCs in the J&K Assembly.",
+   "o": [
+    "I, II and III",
+    "II and III only",
+    "I and II only",
+    "I and III only"
+   ],
+   "a": 2,
+   "e": "The commission was chaired by Justice Desai and finished its J&K task in May 2022. However, it reserved 9 seats for STs, while 7 seats were reserved for SCs."
+  },
+  {
+   "q": "Regarding \"Co-operative Societies,\" who conducts the audit of their accounts?",
+   "o": [
+    "The Registrar of Co-operative Societies",
+    "An auditor appointed by the general body from an approved panel",
+    "An auditor appointed by the State Government",
+    "The Comptroller and Auditor General"
+   ],
+   "a": 1,
+   "e": "Every co-operative society shall be audited by an auditor appointed by its general body from a panel approved by the State Government."
+  },
+  {
+   "q": "Which Article empowers the Parliament to create new \"All-India Services\"?",
+   "o": [
+    "Article 309",
+    "Article 310",
+    "Article 311",
+    "Article 312"
+   ],
+   "a": 3,
+   "e": "Article 312 authorizes the Parliament to create new All-India services based on a Rajya Sabha resolution."
+  },
+  {
+   "q": "Who is known as the \"Father of All-India Services\"?",
+   "o": [
+    "Lord Cornwallis",
+    "Sardar Vallabhbhai Patel",
+    "Jawaharlal Nehru",
+    "B.R. Ambedkar"
+   ],
+   "a": 1,
+   "e": "Sardar Vallabhbhai Patel is regarded as the 'Father of All-India Services' for his advocacy in the Constituent Assembly."
+  },
+  {
+   "q": "Under \"Special Provisions for SCs and STs,\" the 82nd Amendment Act of 2000 allows for:",
+   "o": [
+    "The creation of separate electorates.",
+    "Reservation in the Rajya Sabha.",
+    "Extension of reservation in legislatures for 20 years.",
+    "Relaxation in qualifying marks in examinations for promotion."
+   ],
+   "a": 3,
+   "e": "The 82nd Amendment provides for relaxation in qualifying marks or lowering standards of evaluation for SCs/STs in matters of promotion."
+  },
+  {
+   "q": "Which language was the first to be declared a \"Classical Language\" in 2004?",
+   "o": [
+    "Sanskrit",
+    "Telugu",
+    "Tamil",
+    "Kannada"
+   ],
+   "a": 2,
+   "e": "Tamil was conferred with Classical Language status in 2004, followed by Sanskrit in 2005."
+  },
+  {
+   "q": "Regarding the \"North Eastern Council,\" who is the ex-officio Vice-Chairman?",
+   "o": [
+    "The Union Home Minister",
+    "The Minister (In-charge) of the Ministry of DONER",
+    "The Governor of Assam",
+    "The Prime Minister"
+   ],
+   "a": 1,
+   "e": "Since July 2018, the Minister (In-charge) of the Ministry of DONER is the ex-officio Vice-Chairman."
+  },
+  {
+   "q": "Which Article of the Constitution deals with the \"Language of the Union\"?",
+   "o": [
+    "Article 348",
+    "Article 343",
+    "Article 351",
+    "Article 345"
+   ],
+   "a": 1,
+   "e": "Article 343 contains provisions in respect of the official language of the Union, establishing Hindi in Devanagari script."
+  },
+  {
+   "q": "The \"Peninsular and Oriental Steam Navigation Company case (1861)\" established the distinction between:",
+   "o": [
+    "Sovereign and non-sovereign functions of the government.",
+    "Central and State services.",
+    "Constitutional and Statutory bodies.",
+    "Fundamental Rights and Directive Principles."
+   ],
+   "a": 0,
+   "e": "This 1861 case established the distinction between sovereign and non-sovereign functions and the government's immunity in sovereign functions."
+  },
+  {
+   "q": "Which constitutional amendment made \"Odia\" the new spelling for \"Oriya\" in the Eighth Schedule?",
+   "o": [
+    "71st Amendment",
+    "97th Amendment",
+    "92nd Amendment",
+    "96th Amendment"
+   ],
+   "a": 3,
+   "e": "The 96th Amendment Act of 2011 substituted \"Odia\" for \"Oriya\"."
+  },
+  {
+   "q": "Consider the following statements about \"Sikkim's\" special provisions (Article 371-F): 1️⃣ It is allotted one seat in the Lok Sabha. 2️⃣ The Governor has special responsibility for peace and social advancement. 3️⃣ The Legislative Assembly must have at least 40 members.",
+   "o": [
+    "I and II only",
+    "I, II and III",
+    "I and III only",
+    "II and III only"
+   ],
+   "a": 0,
+   "e": "Sikkim has one Lok Sabha seat and the Governor has special responsibilities. However, the Assembly must have at least 30 members, not 40."
+  },
+  {
+   "q": "Which Ministry is responsible for managing the \"Indian Administrative Service (IAS)\"?",
+   "o": [
+    "Ministry of External Affairs",
+    "Ministry of Personnel, Public Grievances and Pensions",
+    "Ministry of Law and Justice",
+    "Ministry of Home Affairs"
+   ],
+   "a": 1,
+   "e": "The IAS is managed and controlled by the Ministry of Personnel, Public Grievances and Pensions."
+  },
+  {
+   "q": "Under Article 297, the \"Exclusive Economic Zone\" of India extends up to:",
+   "o": [
+    "200 nautical miles",
+    "12 nautical miles",
+    "100 nautical miles",
+    "24 nautical miles"
+   ],
+   "a": 0,
+   "e": "According to the text, India's exclusive economic zone extends up to 200 nautical miles."
+  },
+  {
+   "q": "Regarding the \"Delimitation Commission,\" what happens to its orders after they are laid before the Lok Sabha?",
+   "o": [
+    "They are only for information and have no legal force.",
+    "They cannot be modified by the Lok Sabha.",
+    "They are voted upon and can be amended.",
+    "They must be ratified by a two-thirds majority."
+   ],
+   "a": 1,
+   "e": "The orders are laid before the Lok Sabha and State Assemblies, but modifications are not permissible."
+  },
+  {
+   "q": "Which constitutional amendment added \"Part IX-B\" to the Constitution?",
+   "o": [
+    "73rd Amendment",
+    "74th Amendment",
+    "102nd Amendment",
+    "97th Amendment"
+   ],
+   "a": 3,
+   "e": "The 97th Constitutional Amendment Act of 2011 added Part IX-B, which deals with co-operative societies."
+  },
+  {
+   "q": "Under the \"Nagaland\" special provisions (Article 371-A), who has special responsibility for \"law and order\" as long as internal disturbances continue?",
+   "o": [
+    "The Union Home Minister",
+    "The Governor of Nagaland",
+    "The President",
+    "The Chief Minister"
+   ],
+   "a": 1,
+   "e": "The Governor of Nagaland has special responsibility for law and order so long as internal disturbances continue."
+  },
+  {
+   "q": "Which language was NOT among those added to the Eighth Schedule by the 92nd Amendment in 2003?",
+   "o": [
+    "Bodo",
+    "Maithili",
+    "Nepali",
+    "Dogri"
+   ],
+   "a": 2,
+   "e": "The 92nd Amendment added Bodo, Dogri, Maithili, and Santhali. Nepali was added earlier by the 71st Amendment in 1992."
+  },
+  {
+   "q": "Which Article of the Constitution deals with the \"Commission and Committee of Parliament on official language\"?",
+   "o": [
+    "Article 344",
+    "Article 343",
+    "Article 351",
+    "Article 348"
+   ],
+   "a": 0,
+   "e": "Article 344 covers the appointment of a commission and a committee of Parliament on official language."
+  },
+  {
+   "q": "According to the text, the \"Doctrine of Pleasure\" is an exception when:",
+   "o": [
+    "The Governor decides to ignore the President's advice.",
+    "A post is abolished before the expiration of a contractual period for a person with special qualifications.",
+    "The Parliament passes a resolution against the civil servant.",
+    "The civil servant belongs to the IAS."
+   ],
+   "a": 1,
+   "e": "An exception exists where the President or Governor may provide compensation if a post is abolished before the contract ends or for reasons not connected to misconduct."
+  },
+  {
+   "q": "The \"Hyderabad-Karnataka region\" of Karnataka (Article 371-J) includes how many backward districts?",
+   "o": [
+    "Six",
+    "Four",
+    "Eight",
+    "Ten"
+   ],
+   "a": 0,
+   "e": "The region includes six backward districts: Gulbarga, Bidar, Raichur, Koppal, Yadgir, and Bellary."
+  },
+  {
+   "q": "Which \"Nodal Ministry\" oversees the \"National Human Rights Commission\"?",
+   "o": [
+    "Ministry of Home Affairs",
+    "Ministry of Personnel",
+    "Ministry of Social Justice & Empowerment",
+    "Ministry of Law and Justice"
+   ],
+   "a": 0,
+   "e": "According to Table 71.2, the National Human Rights Commission falls under the Ministry of Home Affairs."
+  },
+  {
+   "q": "Regarding \"Co-operative Societies,\" no board shall be superseded if there is:",
+   "o": [
+    "No government shareholding or loan.",
+    "More than 10 directors.",
+    "A female chairperson.",
+    "A turnover of less than 1 crore."
+   ],
+   "a": 0,
+   "e": "A board shall not be superseded or kept under suspension where there is no Government shareholding or loan or financial assistance."
+  },
+  {
+   "q": "Under Article 300, the \"Union of India\" is described as a:",
+   "o": [
+    "Executive body",
+    "Juristic (legal) person",
+    "Sovereign entity",
+    "Constitutional monarch"
+   ],
+   "a": 1,
+   "e": "The Constitution makes the Union or the states juristic (legal) persons for the purposes of property, contracts, and suits."
+  },
+  {
+   "q": "Which constitutional amendment gave constitutional status to the \"National Commission for Backward Classes\"?",
+   "o": [
+    "105th Amendment",
+    "101st Amendment",
+    "102nd Amendment",
+    "97th Amendment"
+   ],
+   "a": 2,
+   "e": "The 102nd Amendment Act of 2018 conferred constitutional status on the NCBC by inserting Article 338-B."
+  },
+  {
+   "q": "According to the \"Delimitation Commission (2022)\" for J&K, how many seats are in the Jammu region?",
+   "o": [
+    "47",
+    "43",
+    "37",
+    "90"
+   ],
+   "a": 1,
+   "e": "Out of 90 total Assembly constituencies, 43 are for the Jammu region and 47 are for the Kashmir region."
+  },
+  {
+   "q": "Which of the following is true about the \"Official Language Commission\"?",
+   "o": [
+    "It is appointed by the Prime Minister.",
+    "It was first appointed in 1963.",
+    "It was first chaired by B.G. Kher in 1955.",
+    "It consists of members of the Rajya Sabha only."
+   ],
+   "a": 2,
+   "e": "The first Official Language Commission was appointed by the President in 1955 under the chairmanship of B.G. Kher."
+  },
+  {
+   "q": "In the context of \"All-India Services,\" the \"immediate control\" of officers vests with:",
+   "o": [
+    "The Central Government",
+    "The President of India",
+    "The Union Public Service Commission",
+    "The State Government"
+   ],
+   "a": 3,
+   "e": "All-India services are controlled jointly; ultimate control lies with the Centre, while immediate control vests with the state governments."
+  },
+  {
+   "q": "Which \"Special Provision\" Article relates to the \"Hill Areas\" of Manipur?",
+   "o": [
+    "Article 371-D",
+    "Article 371-C",
+    "Article 371-B",
+    "Article 371-A"
+   ],
+   "a": 1,
+   "e": "Article 371-C makes special provisions for Manipur, including the creation of a committee for members from the Hill Areas."
+  },
+  {
+   "q": "Under \"Escheat, Lapse and Bona Vacantia,\" property vests in the State if:",
+   "o": [
+    "The owner was a resident of that state.",
+    "The property is worth more than 10 lakhs.",
+    "The property is situated in that state.",
+    "The owner died in that state."
+   ],
+   "a": 2,
+   "e": "Property accrues to the state if situated there, and to the Union in any other case."
+  },
+  {
+   "q": "The \"Kaka Kalelkar Commission (1953)\" was the first commission to investigate:",
+   "o": [
+    "The conditions of Backward Classes.",
+    "The implementation of the Official Language.",
+    "The conditions of Scheduled Tribes.",
+    "Linguistic minorities."
+   ],
+   "a": 0,
+   "e": "The first backward classes commission was appointed in 1953 under Kaka Kalelkar to investigate the conditions of socially and educationally backward classes."
+  },
+  {
+   "q": "Which constitutional amendment restored the power of State Governments to identify SEBCs?",
+   "o": [
+    "103rd Amendment",
+    "102nd Amendment",
+    "104th Amendment",
+    "105th Amendment"
+   ],
+   "a": 3,
+   "e": "The 105th Amendment Act of 2021 modified Article 342A to empower states and UTs to maintain their own lists of SEBCs."
+  },
+  {
+   "q": "Which Ministry manages the \"Indian Foreign Service (IFS)\"?",
+   "o": [
+    "Ministry of Finance",
+    "Ministry of Personnel",
+    "Ministry of External Affairs",
+    "Ministry of Home Affairs"
+   ],
+   "a": 2,
+   "e": "The Indian Foreign Service is a Central Service managed by the Ministry of External Affairs."
+  },
+  {
+   "q": "Regarding \"Official Language,\" which of the following is correct?",
+   "o": [
+    "Hindi numerals must be used for all Union purposes.",
+    "Sanskrit is the official language of the Union.",
+    "English was to be removed by 1965 without exception.",
+    "Parliament can provide for the continued use of English after 15 years."
+   ],
+   "a": 3,
+   "e": "Article 343(3) allows Parliament to provide for the continued use of English after the initial 15-year period."
+  },
+  {
+   "q": "The \"Prisoner's Murder case (2000)\" ruled that which case is no longer of binding value?",
+   "o": [
+    "Rajendra Shah case",
+    "Kasturilal case",
+    "Nagendra Rao case",
+    "P and O Steam Navigation Company case"
+   ],
+   "a": 1,
+   "e": "In the Prisoner's Murder case (State of A.P. vs. Challa Ramkrishna Reddy), the Supreme Court ruled that the Kasturilal case is no longer of binding value."
+  },
+  {
+   "q": "Which of the following states is NOT among those with \"Special Provisions\" in Part XXI?",
+   "o": [
+    "Gujarat",
+    "Goa",
+    "Mizoram",
+    "Kerala"
+   ],
+   "a": 3,
+   "e": "Part XXI provides special provisions for twelve states, including Maharashtra, Gujarat, Nagaland, Assam, Manipur, Andhra Pradesh, Telangana, Sikkim, Mizoram, Arunachal Pradesh, Goa, and Karnataka."
+  },
+  {
+   "q": "Under Article 371-A, Acts of Parliament relating to \"Naga customary law\" apply only if:",
+   "o": [
+    "The Regional Council approves.",
+    "The Governor gives consent.",
+    "The President issues a notification.",
+    "The State Legislative Assembly so decides."
+   ],
+   "a": 3,
+   "e": "Acts of Parliament regarding Naga religious/social practices or customary law do not apply to Nagaland unless the State Legislative Assembly decides."
+  },
+  {
+   "q": "Regarding \"Co-operative Societies,\" what is the maximum number of co-opted members?",
+   "o": [
+    "One",
+    "Five",
+    "Three",
+    "Two"
+   ],
+   "a": 3,
+   "e": "The state legislature shall make provisions for co-option of persons, but the number of such co-opted members shall not exceed two."
+  },
+  {
+   "q": "Which Article of the Constitution deals with the \"Protection (immunities) of President and Governors\"?",
+   "o": [
+    "Article 361",
+    "Article 312",
+    "Article 300",
+    "Article 311"
+   ],
+   "a": 0,
+   "e": "Article 361 provides protection and immunities to the President and Governors."
+  },
+  {
+   "q": "The \"Second Backward Classes Commission (1979)\" was headed by:",
+   "o": [
+    "Dilip Singh Bhuria",
+    "U.N. Dhebar",
+    "B.P. Mandal",
+    "Kaka Kalelkar"
+   ],
+   "a": 2,
+   "e": "The second Backward Classes Commission was appointed in 1979 with B.P. Mandal as chairman."
+  },
+  {
+   "q": "Which Ministry is responsible for the \"Indian Forest Service (IFOS)\"?",
+   "o": [
+    "Ministry of Agriculture",
+    "Ministry of Personnel",
+    "Ministry of Tribal Affairs",
+    "Ministry of Environment, Forest and Climate Change"
+   ],
+   "a": 3,
+   "e": "The IFOS is one of the three All-India Services and is managed by the Ministry of Environment, Forest and Climate Change."
+  },
+  {
+   "q": "Under the \"Delimitation Act, 2002,\" who appoints the Chairperson of the Commission?",
+   "o": [
+    "The President",
+    "The Speaker of the Lok Sabha",
+    "The Central Government",
+    "The Chief Justice of India"
+   ],
+   "a": 2,
+   "e": "The Commission is established by the Central Government under the provisions of a law enacted by Parliament."
+  },
+  {
+   "q": "Which constitutional amendment added \"Official Language\" provisions related to the Seventh Amendment recommendations?",
+   "o": [
+    "92nd Amendment",
+    "7th Amendment",
+    "21st Amendment",
+    "71st Amendment"
+   ],
+   "a": 1,
+   "e": "The 7th Amendment Act of 1956 added Article 350-A (facilities for instruction in mother-tongue)."
+  },
+  {
+   "q": "Regarding \"Suits against ministers,\" which statement is correct?",
+   "o": [
+    "Ministers are immune from civil suits for official acts.",
+    "Ministers are personally liable for official acts because they countersign them.",
+    "Ministers do not enjoy any immunity for their personal acts.",
+    "Ministers are liable for official acts because advice to the President is reviewable."
+   ],
+   "a": 2,
+   "e": "Ministers do not enjoy immunity for personal acts and can be sued for crimes/torts. They aren't liable for official acts as they don't countersign (unlike in Britain) and advice to the President is not reviewable."
+  },
+  {
+   "q": "Which \"Special Provision\" Article relates to \"Arunachal Pradesh\"?",
+   "o": [
+    "Article 371-I",
+    "Article 371-J",
+    "Article 371-H",
+    "Article 371-G"
+   ],
+   "a": 2,
+   "e": "Article 371-H makes special provisions for Arunachal Pradesh, including a minimum of 30 members in its Assembly."
+  },
+  {
+   "q": "The \"97th Amendment\" was declared \"ultra vires\" by which High Court?",
+   "o": [
+    "Bombay High Court",
+    "Madras High Court",
+    "Delhi High Court",
+    "Gujarat High Court"
+   ],
+   "a": 3,
+   "e": "In the Rajendra Shah case (2013), the Gujarat High Court declared the 97th Constitutional Amendment Act inserting Part IX-B ultra vires for want of state ratification."
+  },
+  {
+   "q": "According to the text, \"All-India Services\" are common to:",
+   "o": [
+    "Central and State governments.",
+    "Central and Municipal governments.",
+    "Central government and Union Territories only.",
+    "The President and the Prime Minister only."
+   ],
+   "a": 0,
+   "e": "All-India services are common to both Central and state governments."
+  },
+  {
+   "q": "Which Article covers \"Reservation of seats for SCs and STs in the House of the People\"?",
+   "o": [
+    "Article 335",
+    "Article 330",
+    "Article 332",
+    "Article 334"
+   ],
+   "a": 1,
+   "e": "Article 330 provides for the reservation of seats for scheduled castes and tribes in the House of the People (Lok Sabha)."
+  },
+  {
+   "q": "Under \"Official Language,\" the international form of which numerals is to be used?",
+   "o": [
+    "Indian numerals",
+    "Devanagari numerals",
+    "Arabic numerals",
+    "Roman numerals"
+   ],
+   "a": 0,
+   "e": "Article 343(1) states the form of numerals for Union purposes shall be the international form of Indian numerals."
+  },
+  {
+   "q": "Which \"Nodal Ministry\" oversees the \"Union Public Service Commission (UPSC)\"?",
+   "o": [
+    "Ministry of Finance",
+    "Ministry of Home Affairs",
+    "Ministry of Personnel",
+    "Ministry of Law and Justice"
+   ],
+   "a": 2,
+   "e": "The UPSC falls under the Ministry of Personnel according to Table 71.2."
+  },
+  {
+   "q": "Regarding the \"North Eastern Council,\" who is the ex-officio Chairman?",
+   "o": [
+    "The Governor of Assam",
+    "The Minister of DONER",
+    "The Prime Minister",
+    "The Union Home Minister"
+   ],
+   "a": 3,
+   "e": "Since July 2018, the Union Home Minister is the ex-officio Chairman of the Council."
+  },
+  {
+   "q": "The \"Common Cause case (1999)\" rejected which rule?",
+   "o": [
+    "The right to form associations.",
+    "The freeze on delimitation.",
+    "The supremacy of the Lok Sabha.",
+    "The sovereign immunity rule for torts."
+   ],
+   "a": 3,
+   "e": "In the Common Cause case, the Supreme Court examined the doctrine and rejected the sovereign immunity rule, holding the State liable for tortious acts of employees."
+  },
+  {
+   "q": "Which constitutional amendment added \"Konkani, Manipuri and Nepali\" to the Eighth Schedule?",
+   "o": [
+    "71st Amendment",
+    "21st Amendment",
+    "96th Amendment",
+    "92nd Amendment"
+   ],
+   "a": 0,
+   "e": "Konkani, Manipuri, and Nepali were added to the Eighth Schedule by the 71st Amendment Act of 1992."
+  },
+  {
+   "q": "Under Article 371-F, how many seats are allotted to Sikkim in the Lok Sabha?",
+   "o": [
+    "Three",
+    "Two",
+    "One",
+    "Four"
+   ],
+   "a": 2,
+   "e": "Article 371-F states that one seat is allotted to Sikkim in the Lok Sabha and Sikkim forms one Parliamentary constituency."
+  },
+  {
+   "q": "Regarding \"Co-operative Societies,\" every return must be filed within:",
+   "o": [
+    "One year of the close of the financial year.",
+    "One month of the close of the financial year.",
+    "Six months of the close of the financial year.",
+    "Three months of the close of the financial year."
+   ],
+   "a": 2,
+   "e": "Every co-operative society shall file returns within six months of the close of every financial year."
+  },
+  {
+   "q": "Which Ministry manages the \"Indian Police Service (IPS)\"?",
+   "o": [
+    "Ministry of Defence",
+    "Ministry of Law and Justice",
+    "Ministry of Home Affairs",
+    "Ministry of Personnel"
+   ],
+   "a": 2,
+   "e": "The Indian Police Service (IPS) is one of the All-India Services managed and controlled by the Ministry of Home Affairs."
+  },
+  {
+   "q": "Which Article provides for \"Claims of SCs and STs to services and posts\"?",
+   "o": [
+    "Article 332",
+    "Article 335",
+    "Article 334",
+    "Article 330"
+   ],
+   "a": 1,
+   "e": "Article 335 specifies that the claims of SCs and STs shall be taken into consideration in making appointments to public services."
+  },
+  {
+   "q": "According to the text, the \"Territorial Waters\" of India extend to:",
+   "o": [
+    "6 nautical miles",
+    "24 nautical miles",
+    "12 nautical miles",
+    "200 nautical miles"
+   ],
+   "a": 2,
+   "e": "India's territorial waters extend to a distance of 12 nautical miles from the baseline."
+  },
+  {
+   "q": "Which constitutional amendment added \"Maithili\" to the Eighth Schedule?",
+   "o": [
+    "92nd Amendment",
+    "97th Amendment",
+    "96th Amendment",
+    "71st Amendment"
+   ],
+   "a": 0,
+   "e": "Maithili was added by the 92nd Amendment Act of 2003."
+  },
+  {
+   "q": "Under \"Special Provisions for Some States,\" which Article relates to \"Mizoram\"?",
+   "o": [
+    "Article 371-G",
+    "Article 371-H",
+    "Article 371-I",
+    "Article 371-F"
+   ],
+   "a": 0,
+   "e": "Article 371-G specifies special provisions for the state of Mizoram."
+  },
+  {
+   "q": "Which \"Nodal Ministry\" oversees the \"Comptroller and Auditor General of India\"?",
+   "o": [
+    "Ministry of Finance",
+    "Ministry of Personnel",
+    "Ministry of Home Affairs",
+    "Ministry of Law and Justice"
+   ],
+   "a": 0,
+   "e": "The CAG falls under the Ministry of Finance according to Table 71.2."
+  },
+  {
+   "q": "Regarding \"Co-operative Societies,\" the maximum number of directors (21) excludes:",
+   "o": [
+    "Co-opted members.",
+    "Women directors.",
+    "Functional directors.",
+    "SC/ST directors."
+   ],
+   "a": 2,
+   "e": "Functional directors are members of the board but are excluded for the purpose of counting the total number of directors (twenty-one)."
+  },
+  {
+   "q": "Which constitutional amendment conferred constitutional status on the \"National Commission for Scheduled Tribes\"?",
+   "o": [
+    "89th Amendment",
+    "92nd Amendment",
+    "65th Amendment",
+    "102nd Amendment"
+   ],
+   "a": 0,
+   "e": "The 89th Amendment Act of 2003 bifurcated the combined commission into the National Commission for SCs and the National Commission for STs."
+  },
+  {
+   "q": "Under \"Official Language,\" how many members are in the \"Committee of Parliament on Official Language\"?",
+   "o": [
+    "40 members",
+    "50 members",
+    "30 members",
+    "20 members"
+   ],
+   "a": 2,
+   "e": "The Committee comprises 30 members of Parliament: 20 from the Lok Sabha and 10 from the Rajya Sabha."
+  },
+  {
+   "q": "Which Article deals with \"Power of Parliament to vary or revoke conditions of service of officers of certain services\"?",
+   "o": [
+    "Article 313",
+    "Article 314",
+    "Article 312",
+    "Article 312A"
+   ],
+   "a": 3,
+   "e": "Article 312A (inserted in 1972) confers powers on Parliament to vary or revoke service conditions for those appointed before 1950."
+  },
+  {
+   "q": "The \"Justice Kuldip Singh\" commission was which Delimitation Commission?",
+   "o": [
+    "Third",
+    "Second",
+    "First",
+    "Fourth"
+   ],
+   "a": 3,
+   "e": "Justice Kuldip Singh was appointed as the Chairperson of the Fourth Delimitation Commission (2002)."
+  },
+  {
+   "q": "Which \"Special Provision\" Article relates to \"Goa\"?",
+   "o": [
+    "Article 371-I",
+    "Article 371-J",
+    "Article 371-G",
+    "Article 371-H"
+   ],
+   "a": 0,
+   "e": "Article 371-I provides that the Goa Legislative Assembly is to consist of not less than 30 members."
+  },
+  {
+   "q": "Regarding \"Suits against the President,\" criminal proceedings:",
+   "o": [
+    "Can be started after he leaves office.",
+    "Can be started if the Chief Justice permits.",
+    "Can be started with a two-month notice.",
+    "Cannot be started during his term of office."
+   ],
+   "a": 3,
+   "e": "No criminal proceedings can be started against the President/Governors in respect of personal acts during their term."
+  },
+  {
+   "q": "Which constitutional amendment added \"Santhali\" to the Eighth Schedule?",
+   "o": [
+    "92nd Amendment",
+    "96th Amendment",
+    "97th Amendment",
+    "71st Amendment"
+   ],
+   "a": 0,
+   "e": "Santhali was added to the Eighth Schedule by the 92nd Amendment Act of 2003."
+  },
+  {
+   "q": "Under Article 298, the executive power of the Union extends to:",
+   "o": [
+    "Dissolving the Rajya Sabha.",
+    "Amending the Constitution.",
+    "Carrying on any trade or business.",
+    "Granting pardons only."
+   ],
+   "a": 2,
+   "e": "Article 298 empowers the Union and states to carry on any trade or business and acquire property."
+  },
+  {
+   "q": "The \"B.G. Kher\" commission (1955) was related to:",
+   "o": [
+    "Delimitation",
+    "Scheduled Tribes",
+    "Official Language",
+    "Backward Classes"
+   ],
+   "a": 2,
+   "e": "In 1955, the President appointed the first Official Language Commission under the chairmanship of B.G. Kher."
+  },
+  {
+   "q": "Which \"Nodal Ministry\" oversees the \"Finance Commission\"?",
+   "o": [
+    "Ministry of Finance",
+    "Ministry of Law and Justice",
+    "Ministry of Home Affairs",
+    "Ministry of Personnel"
+   ],
+   "a": 0,
+   "e": "The Finance Commission falls under the Ministry of Finance according to Table 71.2."
+  },
+  {
+   "q": "Regarding \"Co-operative Societies,\" the \"Registrar\" for multi-state societies is appointed by:",
+   "o": [
+    "The Governor",
+    "The Central Government",
+    "The State Government",
+    "The President"
+   ],
+   "a": 1,
+   "e": "The \"Registrar\" means the Central Registrar appointed by the Central Government for multi-state co-operative societies."
+  },
+  {
+   "q": "Which constitutional amendment bifurcated the combined National Commission for SCs and STs?",
+   "o": [
+    "102nd Amendment",
+    "89th Amendment",
+    "79th Amendment",
+    "65th Amendment"
+   ],
+   "a": 1,
+   "e": "The 89th Amendment Act of 2003 bifurcated the combined commission into two separate bodies (Article 338 and 338-A)."
+  },
+  {
+   "q": "Under \"Official Language,\" English is the \"link language\" for communication between:",
+   "o": [
+    "The Union and the states.",
+    "The Supreme Court and High Courts only.",
+    "The President and the Prime Minister.",
+    "India and other countries only."
+   ],
+   "a": 0,
+   "e": "English remains the link language for communications between the Union and states or between states."
+  },
+  {
+   "q": "Which \"Special Provision\" Article relates to \"Assam\"?",
+   "o": [
+    "Article 371-C",
+    "Article 371-B",
+    "Article 371-D",
+    "Article 371-A"
+   ],
+   "a": 1,
+   "e": "Article 371-B makes special provisions for the state of Assam."
+  },
+  {
+   "q": "According to the text, \"Central Services\" are classified into:",
+   "o": [
+    "Two categories (Gazetted and Non-gazetted).",
+    "Four categories (Group A, B, C, D).",
+    "Three categories (IAS, IPS, IFOS).",
+    "Five categories (Grade I to V)."
+   ],
+   "a": 1,
+   "e": "Central Services are classified into four categories: Group A, Group B, Group C, and Group D."
+  },
+  {
+   "q": "Which Article deals with \"Representation of the Anglo-Indian community in the House of the People\"?",
+   "o": [
+    "Article 333",
+    "Article 330",
+    "Article 332",
+    "Article 331"
+   ],
+   "a": 3,
+   "e": "Article 331 dealt with the representation of the Anglo-Indian community in the Lok Sabha by nomination."
+  },
+  {
+   "q": "Regarding \"Government Property,\" all rights and liabilities of the \"Dominion of India\" vested in:",
+   "o": [
+    "The British Crown",
+    "The President personally",
+    "The individual States",
+    "The Union of India"
+   ],
+   "a": 3,
+   "e": "Assets vested in the Dominion of India before the Constitution became vested in the Union."
+  },
+  {
+   "q": "Which constitutional amendment added \"Dogri\" to the Eighth Schedule?",
+   "o": [
+    "96th Amendment",
+    "71st Amendment",
+    "92nd Amendment",
+    "97th Amendment"
+   ],
+   "a": 2,
+   "e": "Dogri (Dongri) was added by the 92nd Amendment Act of 2003."
+  },
+  {
+   "q": "Under Article 350-B, the \"Special Officer for Linguistic Minorities\" reports to:",
+   "o": [
+    "The Governor",
+    "The President",
+    "The Prime Minister",
+    "The Parliament"
+   ],
+   "a": 1,
+   "e": "The special officer investigations safeguards for linguistic minorities and reports to the President."
+  },
+  {
+   "q": "Which \"Nodal Ministry\" oversees the \"Inter-State Council\"?",
+   "o": [
+    "Ministry of Home Affairs",
+    "Ministry of Personnel",
+    "Ministry of Law and Justice",
+    "Ministry of Finance"
+   ],
+   "a": 0,
+   "e": "The Inter-State Council falls under the Ministry of Home Affairs according to Table 71.2."
+  },
+  {
+   "q": "Regarding \"Co-operative Societies,\" the \"Board\" can be superseded for negligent performance of:",
+   "o": [
+    "Its duties.",
+    "Its marketing strategies.",
+    "Its religious functions.",
+    "Its foreign exchange dealings."
+   ],
+   "a": 0,
+   "e": "The board may be superseded or kept under suspension for persistent default, negligence in performance of duties, or acts prejudicial to the society."
+  },
+  {
+   "q": "Which constitutional amendment substituted \"Odia\" for \"Oriya\"?",
+   "o": [
+    "97th Amendment",
+    "96th Amendment",
+    "71st Amendment",
+    "92nd Amendment"
+   ],
+   "a": 1,
+   "e": "The 96th Amendment Act of 2011 substituted \"Odia\" for \"Oriya\"."
+  },
+  {
+   "q": "Under \"Official Language,\" most states have adopted:",
+   "o": [
+    "The major regional language as their official language.",
+    "English as the only language.",
+    "Hindi as the only language.",
+    "Sanskrit as their official language."
+   ],
+   "a": 0,
+   "e": "Under Article 345, most states have adopted the major regional language of the state as their official language."
+  },
+  {
+   "q": "Which \"Special Provision\" Article relates to \"Sikkim\"?",
+   "o": [
+    "Article 371-E",
+    "Article 371-F",
+    "Article 371-G",
+    "Article 371-D"
+   ],
+   "a": 1,
+   "e": "Article 371-F contains special provisions with respect to the state of Sikkim."
+  },
+  {
+   "q": "According to the text, the \"Indian Foreign Service (IFS)\" is a:",
+   "o": [
+    "State Service.",
+    "Judicial Service.",
+    "Central Service, Group A.",
+    "All-India Service."
+   ],
+   "a": 2,
+   "e": "The Indian Foreign Service is the topmost Central Service (Group A)."
+  },
+  {
+   "q": "Which Article deals with \"Reservation of seats for SCs and STs in the legislative assemblies of the states\"?",
+   "o": [
+    "Article 331",
+    "Article 330",
+    "Article 333",
+    "Article 332"
+   ],
+   "a": 3,
+   "e": "Article 332 provides for the reservation of seats for scheduled castes and tribes in the legislative assemblies of the states."
+  },
+  {
+   "q": "Regarding \"Government Torts,\" the \"Nagendra Rao case\" held that state immunity does NOT exist for:",
+   "o": [
+    "Maintenance of law and order.",
+    "Negligent acts of officials that deprive a citizen of property.",
+    "Repression of crime.",
+    "Administration of justice."
+   ],
+   "a": 1,
+   "e": "The court ruled that if a citizen suffers damage due to a negligent act of State servants, the State is liable to pay compensation."
+  },
+  {
+   "q": "Which constitutional amendment added \"Bodo\" to the Eighth Schedule?",
+   "o": [
+    "97th Amendment",
+    "96th Amendment",
+    "92nd Amendment",
+    "71st Amendment"
+   ],
+   "a": 2,
+   "e": "Bodo was added to the Eighth Schedule by the 92nd Amendment Act of 2003."
+  },
+  {
+   "q": "Under Article 344, the \"Committee of Parliament on Official Language\" consists of how many members from the Rajya Sabha?",
+   "o": [
+    "20 members",
+    "30 members",
+    "10 members",
+    "40 members"
+   ],
+   "a": 2,
+   "e": "The Committee consists of 30 members: 20 from the Lok Sabha and 10 from the Rajya Sabha."
+  },
+  {
+   "q": "Which \"Nodal Ministry\" oversees the \"Zonal Councils\"?",
+   "o": [
+    "Ministry of Finance",
+    "Ministry of Law and Justice",
+    "Ministry of Home Affairs",
+    "Ministry of Personnel"
+   ],
+   "a": 2,
+   "e": "Zonal Councils fall under the Ministry of Home Affairs according to Table 71.2."
+  },
+  {
+   "q": "Regarding \"Co-operative Societies,\" co-opted members shall NOT:",
+   "o": [
+    "Be experts in finance.",
+    "Have the right to vote in elections.",
+    "Give advice on banking.",
+    "Attend meetings."
+   ],
+   "a": 1,
+   "e": "Co-opted members shall not have the right to vote in any election of the co-operative society or be eligible to be elected as office bearers."
+  },
+  {
+   "q": "Which constitutional amendment made \"Sikkim\" a full-fledged state of India?",
+   "o": [
+    "36th Amendment",
+    "32nd Amendment",
+    "27th Amendment",
+    "22nd Amendment"
+   ],
+   "a": 0,
+   "e": "The 36th Constitutional Amendment Act of 1975 made Sikkim a full-fledged state of the Indian Union."
+  },
+  {
+   "q": "Under \"Official Language,\" the President appoints a commission at the end of:",
+   "o": [
+    "Every election cycle.",
+    "One and two years.",
+    "Ten and twenty years.",
+    "Five and ten years."
+   ],
+   "a": 3,
+   "e": "Article 344(1) provides that the President should appoint a commission at the end of five years and again at the end of ten years from the commencement of the Constitution."
+  },
+  {
+   "q": "Which \"Special Provision\" Article relates to \"Karnataka\"?",
+   "o": [
+    "Article 371-G",
+    "Article 371-I",
+    "Article 371-J",
+    "Article 371-H"
+   ],
+   "a": 2,
+   "e": "Article 371-J relates to special provisions for the state of Karnataka."
+  },
+  {
+   "q": "According to the text, \"State Services\" are classified into:",
+   "o": [
+    "Six categories.",
+    "Four categories (Class I to IV).",
+    "Two categories.",
+    "Three categories."
+   ],
+   "a": 1,
+   "e": "Like Central services, state services are classified into four categories: Class I, II, III, and IV."
+  },
+  {
+   "q": "Which Article deals with \"National Commission for scheduled castes\"?",
+   "o": [
+    "Article 338A",
+    "Article 338",
+    "Article 338B",
+    "Article 339"
+   ],
+   "a": 1,
+   "e": "Article 338 provides for the establishment of the National Commission for Scheduled Castes."
+  },
+  {
+   "q": "Regarding \"Government Contracts,\" the President or Governor is:",
+   "o": [
+    "Liable only if the contract is over 1 crore.",
+    "Liable only for criminal fraud.",
+    "Personally liable.",
+    "Not personally liable."
+   ],
+   "a": 3,
+   "e": "The President or Governor is not personally liable in respect of any contract executed in his name."
+  },
+  {
+   "q": "Which constitutional amendment added \"Malayalam\" to the Classical Languages list?",
+   "o": [
+    "92nd Amendment",
+    "71st Amendment",
+    "97th Amendment",
+    "It was not an amendment; it was by Government decision."
+   ],
+   "a": 3,
+   "e": "Classical language status is granted by Government decision; Malayalam was granted this status in 2013."
+  },
+  {
+   "q": "Under Article 350, every aggrieved person has the right to submit a representation in:",
+   "o": [
+    "Any language listed in the Eighth Schedule only.",
+    "English or Hindi only.",
+    "Any of the languages used in the Union or the state.",
+    "Only the official language of the state."
+   ],
+   "a": 2,
+   "e": "Representations can be submitted in any language used in the Union or state, and cannot be rejected for not being in the official language."
+  },
+  {
+   "q": "Which \"Nodal Ministry\" oversees the \"Election Commission of India\"?",
+   "o": [
+    "Ministry of Personnel",
+    "Ministry of Law and Justice",
+    "Ministry of Home Affairs",
+    "Ministry of Finance"
+   ],
+   "a": 1,
+   "e": "The Election Commission of India falls under the Ministry of Law and Justice according to Table 71.2."
+  },
+  {
+   "q": "Regarding \"Co-operative Societies,\" who decides the \"Plan for surplus disposal\"?",
+   "o": [
+    "The State Government",
+    "The Board of Directors",
+    "The general body",
+    "The Registrar"
+   ],
+   "a": 2,
+   "e": "Returns filed by the society must include the plan for surplus disposal as approved by the general body."
+  },
+  {
+   "q": "Which constitutional amendment added Article 371-J (Karnataka)?",
+   "o": [
+    "96th Amendment",
+    "98th Amendment",
+    "92nd Amendment",
+    "97th Amendment"
+   ],
+   "a": 1,
+   "e": "Article 371-J was inserted in the Constitution by the 98th Constitutional Amendment Act of 2012."
+  },
+  {
+   "q": "Under \"Official Language,\" the 1955 Commission was chaired by:",
+   "o": [
+    "G.B. Pant",
+    "B.G. Kher",
+    "Sardar Patel",
+    "B.R. Ambedkar"
+   ],
+   "a": 1,
+   "e": "In 1955, the President appointed an Official Language Commission under the chairmanship of B.G. Kher."
+  },
+  {
+   "q": "Which \"Special Provision\" Article relates to \"Mizoram\"?",
+   "o": [
+    "Article 371-H",
+    "Article 371-F",
+    "Article 371-I",
+    "Article 371-G"
+   ],
+   "a": 3,
+   "e": "Article 371-G relates to special provisions for the state of Mizoram."
+  },
+  {
+   "q": "According to the text, \"All-India Services\" officers are:",
+   "o": [
+    "Recruited by the Centre and assigned to state cadres.",
+    "Only assigned to Union Territories.",
+    "Recruited and trained by the State.",
+    "Recruited by local bodies."
+   ],
+   "a": 0,
+   "e": "Members of All-India services are recruited and trained by the Central Government but assigned to different state cadres."
+  },
+  {
+   "q": "Which Article deals with \"National Commission for scheduled tribes\"?",
+   "o": [
+    "Article 338",
+    "Article 338A",
+    "Article 338B",
+    "Article 339"
+   ],
+   "a": 1,
+   "e": "Article 338A provides for the establishment of the National Commission for Scheduled Tribes."
+  },
+  {
+   "q": "Regarding \"Government Property,\" sea-wealth within territorial waters vests in:",
+   "o": [
+    "The coastal District.",
+    "The coastal State.",
+    "The Union.",
+    "The International Seabed Authority."
+   ],
+   "a": 2,
+   "e": "Minerals and other things of value under territorial waters, the continental shelf, and the exclusive economic zone vest in the Union."
+  },
+  {
+   "q": "Which constitutional amendment added \"Sindhi\" to the Eighth Schedule?",
+   "o": [
+    "92nd Amendment",
+    "71st Amendment",
+    "96th Amendment",
+    "21st Amendment"
+   ],
+   "a": 3,
+   "e": "Sindhi was added to the Eighth Schedule by the 21st Amendment Act of 1967."
+  },
+  {
+   "q": "Under Article 311, the \"first opportunity\" for a civil servant is at:",
+   "o": [
+    "The inquiry stage.",
+    "The recruitment stage.",
+    "The punishment stage.",
+    "The promotion stage."
+   ],
+   "a": 0,
+   "e": "Originally, the opportunity of being heard was at two stages; after the 42nd Amendment, it remains only at the inquiry stage."
+  }
+ ]
+}

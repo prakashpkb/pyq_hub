@@ -1,0 +1,1207 @@
+{
+ "title": "Sci & Tech",
+ "category": "UPSC Prelims PYQs",
+ "minutes": 73,
+ "negative": 0.25,
+ "questions": [
+  {
+   "q": "Which one of the following is a spacecraft? [2008]",
+   "o": [
+    "(b) Cassini",
+    "(d) TechSar",
+    "(c) Spitzer",
+    "(a) Apophis"
+   ],
+   "a": 0,
+   "e": "Cassini is an unmanned spacecraft sent by NASA to study the planet Saturn and its system. Apophis is an asteroid, while Spitzer is a space telescope."
+  },
+  {
+   "q": "With reference to Indian satellites and their launchers, consider the following statements: 1️⃣ All the INSAT series of satellites were launched abroad. 2️⃣ PSLVs were used to launch IRS-series of satellites. 3️⃣ India used the indigenously built cryogenic engines for the first time for powering the third stage of GSLV. 4️⃣ GSAT, launched in the year 2001, has payloads to demonstrate digital broadcasts and internet services. [2002]",
+   "o": [
+    "(d) 1 and 3",
+    "(a) 1, 2, 3 and 4",
+    "(c) 1, 2 and 4",
+    "(b) 2, 3 and 4"
+   ],
+   "a": 1,
+   "e": "All statements provided regarding Indian satellites are correct. PSLV was developed to launch IRS satellites into polar orbits, and GSLV features a cryogenic third stage."
+  },
+  {
+   "q": "Assertion (A): Artificial satellites are always launched from the earth in the eastward direction. Reason (R): The earth rotates from west to east and so the satellite attains the escape velocity. [2002]",
+   "o": [
+    "(a) Both A and R are true and R is the correct explanation of A",
+    "(d) A is false but R is true",
+    "(b) Both A and R are true but R is NOT a correct explanation of A",
+    "(c) A is true but R is false"
+   ],
+   "a": 3,
+   "e": "Satellites are launched eastward to take advantage of the Earth's rotational velocity, which provides an initial boost. However, the reason given is false because this boost helps reach orbital velocity, not necessarily escape velocity, and the benefit applies primarily to geostationary orbits."
+  },
+  {
+   "q": "Consider the following statements: 1️⃣ India launched its first full-fledged meteorological satellite (METSAT) in September, 2002. 2️⃣ For the first time, the space vehicle PSLV C-4 carried a payload of more than 1000 kg into a geosynchronous orbit. [2003]",
+   "o": [
+    "(d) Neither 1 nor 2",
+    "(b) Only 2",
+    "(a) Only 1",
+    "(c) Both 1 and 2"
+   ],
+   "a": 3,
+   "e": "METSAT (Kalpana-1) was India's first dedicated meteorological satellite. PSLV-C4 successfully placed a 1060 kg payload into a Geosynchronous Transfer Orbit for the first time."
+  },
+  {
+   "q": "NASA's Deep Impact space mission was employed to take detailed pictures of which comet nucleus? [2007]",
+   "o": [
+    "(d) Tempel 1",
+    "(a) Halley's Comet",
+    "(c) Hyakutake",
+    "(b) Hale-Bopp"
+   ],
+   "a": 0,
+   "e": "Deep Impact was a NASA probe launched in 2005 specifically designed to study the interior composition of the comet Tempel 1 by releasing an impactor."
+  },
+  {
+   "q": "Which one of the following pairs is not correctly matched? [2007]",
+   "o": [
+    "(b) Falcon: Under-sea cable system",
+    "(a) Cosmic Background Explorer (COBE): Satellite Programme",
+    "(d) Atlantis: Space station",
+    "(c) Discovery: Space shuttle"
+   ],
+   "a": 2,
+   "e": "Atlantis was a Space Shuttle orbiter operated by NASA, not a space station. COBE is a satellite, Falcon is a cable system, and Discovery is a shuttle."
+  },
+  {
+   "q": "Selene-1, the lunar orbiter mission belongs to which one of the followings? [2008]",
+   "o": [
+    "(b) European Union",
+    "(a) China",
+    "(d) USA",
+    "(c) Japan"
+   ],
+   "a": 3,
+   "e": "SELENE (KAGUYA) was a lunar orbiter mission launched by the Japan Aerospace Exploration Agency (JAXA) in 2007 to study the Moon's origin and evolution."
+  },
+  {
+   "q": "ISRO successfully conducted a rocket test using cryogenic engines in the year 2007. Where is the teststand used for the purpose, located? [2008]",
+   "o": [
+    "(b) Thiruvananthapuram",
+    "(d) Karwar",
+    "(c) Mahendragiri",
+    "(a) Balasore"
+   ],
+   "a": 2,
+   "e": "The Liquid Propulsion Systems Centre (LPSC) test facility for cryogenic engines is located at Mahendragiri in Tamil Nadu."
+  },
+  {
+   "q": "What is the purpose of the US Space Agency's Themis Mission, which was recently in the news? [2008]",
+   "o": [
+    "(a) To study the possibility of life on Mars",
+    "(d) To build a space laboratory to study the stellar explosions",
+    "(b) To study the satellites of Saturn",
+    "(c) To study the colourful of display of high latitude skies"
+   ],
+   "a": 3,
+   "e": "NASA's THEMIS mission used five identical probes to study the sub-storms that cause sudden brightening of the aurora (Northern and Southern lights) in high-latitude skies."
+  },
+  {
+   "q": "In the context of space technology, what is \"Bhuvan\", recently in the news? [2010]",
+   "o": [
+    "(d) A space telescope developed by India",
+    "(a) A mini satellite launched by ISRO for promoting the distance education in India",
+    "(c) The name given to the next Moon Impact Probe, for Chandrayan-II",
+    "(b) A geoportal of ISRO with 3 D imaging capabilities of India"
+   ],
+   "a": 3,
+   "e": "Bhuvan is ISRO's web-based GIS tool (geoportal) that allows users to explore 2D and 3D representations of the Earth's surface with high-resolution imagery of India."
+  },
+  {
+   "q": "Consider the following statements: The satellite Oceansat-2 launched by India helps in 1️⃣ estimating the water vapour content in the atmosphere. 2️⃣ predicting the onset of monsoons. 3️⃣ monitoring the pollution of coastal waters. [2010]",
+   "o": [
+    "(d) 1, 2 and 3",
+    "(b) 2 only",
+    "(a) 1 and 2 only",
+    "(c) 1 and 3 only"
+   ],
+   "a": 0,
+   "e": "Oceansat-2 is designed for oceanographic studies, including sea surface winds, chlorophyll concentration, and atmospheric aerosols which assist in weather and pollution monitoring."
+  },
+  {
+   "q": "With reference to technologies for solar power production, consider the following statements: 1️⃣ 'Photovoltaics' is a technology that generates electricity by direct conversion of light into electricity, while 'Solar Thermal' is a technology that utilizes the Sun's rays to generate heat which is further used in electricity generation process. 2️⃣ Photovoltaics generates Alternating Current (AC), while Solar Thermal generates Direct Current (DC). 3️⃣ India has manufacturing base for Solar Thermal technology, but not for Photovoltaics. [2014-I]",
+   "o": [
+    "(c) 1, 2 and 3",
+    "(b) 2 and 3 only",
+    "(d) None",
+    "(a) 1 only"
+   ],
+   "a": 3,
+   "e": "Statement 1 is correct. Statement 2 is wrong because both generate Direct Current (DC). Statement 3 is wrong because India has a manufacturing base for both technologies."
+  },
+  {
+   "q": "Which of the following pairs is/are correctly matched? 1️⃣ Cassini-Huygens: Orbiting the Venus and transmitting data to the Earth 2️⃣ Messenger: Mapping and investigating the Mercury 3️⃣ Voyager 1 and 2: Exploring the outer solar system [2014-I]",
+   "o": [
+    "(d) 1, 2 and 3",
+    "(a) 1 only",
+    "(b) 2 and 3 only",
+    "(c) 1 and 3 only"
+   ],
+   "a": 2,
+   "e": "Cassini-Huygens was sent to Saturn, not Venus. Messenger investigated Mercury, and the Voyager probes were designed to explore the outer solar system."
+  },
+  {
+   "q": "With reference to 'Astrosat', the astronomical observatory launched by India, which of the following statements is/are correct? 1️⃣ Other than USA and Russia, India is the only country to have launched a similar observatory into space. 2️⃣ Astrosat is a 2000 kg satellite placed in an orbit at 1650 km above the surface of the Earth. [2016-I]",
+   "o": [
+    "(b) 2 only",
+    "(d) Neither 1 nor 2",
+    "(c) Both 1 and 2",
+    "(a) 1 only"
+   ],
+   "a": 1,
+   "e": "India is the fifth country/entity to launch such an observatory after the US, Russia, EU, and Japan. Astrosat weighs 1513 kg, not 2000 kg."
+  },
+  {
+   "q": "Consider the following statements: The Mangalyaan launched by ISRO 1️⃣ is also called the Mars Orbiter Mission 2️⃣ made India the second country to have a spacecraft orbit the Mars after USA 3️⃣ made India the only country to be successful in making its spacecraft orbit the Mars in its very first attempt [2016-I]",
+   "o": [
+    "(d) 1, 2 and 3",
+    "(a) 1 only",
+    "(b) 2 and 3 only",
+    "(c) 1 and 3 only"
+   ],
+   "a": 3,
+   "e": "India was the fourth to reach Mars after the Soviet Union, USA, and ESA. However, it was the first nation to succeed in its maiden attempt."
+  },
+  {
+   "q": "'Project Loon', sometimes seen in the news, is related to [2016-I]",
+   "o": [
+    "(d) water conservation technology",
+    "(a) waste management technology",
+    "(b) wireless communication technology",
+    "(c) solar power production technology"
+   ],
+   "a": 2,
+   "e": "Project Loon was a Google initiative using high-altitude helium balloons to provide internet connectivity to rural and remote areas."
+  },
+  {
+   "q": "The terms 'Event Horizon', 'Singularity', 'String Theory' and 'Standard Model' are sometimes seen in the news in the context of [2017-I]",
+   "o": [
+    "(b) Placing satellites in the orbit of the Earth",
+    "(c) Study of the solar and the lunar eclipses",
+    "(a) Observation and understanding of the Universe",
+    "(d) Origin and evolution of living organisms on the Earth"
+   ],
+   "a": 2,
+   "e": "These terms are related to astrophysics and particle physics; Event Horizon and Singularity pertain to black holes, while Standard Model explains fundamental forces."
+  },
+  {
+   "q": "With reference to the Indian Regional Navigation Satellite System (IRNSS), consider the following statements: 1️⃣ IRNSS has three satellites in geostationary and four satellites in geosynchronous orbits. 2️⃣ IRNSS covers entire India and about 5500 sq. km beyond its borders. 3️⃣ India will have its own satellite navigation system with full global coverage by the middle of 2019. [2018-I]",
+   "o": [
+    "(c) 2 and 3 only",
+    "(b) 1 and 2 only",
+    "(a) 1 only",
+    "(d) None"
+   ],
+   "a": 2,
+   "e": "IRNSS (NavIC) consists of 7 satellites (3 geostationary, 4 geosynchronous). It covers India and an area of 1,500 km around it, not 5,500 sq km or global coverage."
+  },
+  {
+   "q": "With reference to India's satellite launch vehicles, consider the following statements: 1️⃣ PSLVs launch the satellites useful for Earth resources monitoring whereas GSLVs are designed mainly to launch communication satellites. 2️⃣ Satellites launched by PSLV appear to remain permanently fixed in the same position in the sky, as viewed from a particular location on Earth. 3️⃣ GSLV Mk III is a four-staged launch vehicle with the first and third stages using solid rocket motors; and the second and fourth stages using liquid rocket engines. [2018-I]",
+   "o": [
+    "(d) 3 only",
+    "(b) 2 and 3",
+    "(c) 1 and 2",
+    "(a) 1 only"
+   ],
+   "a": 3,
+   "e": "PSLV is for polar (resource monitoring) orbits, while GSLV is for geosynchronous (communication) orbits. GSLV is a 3-stage vehicle, and geostationary satellites (GSLV) appear fixed, not PSLV satellites."
+  },
+  {
+   "q": "For the measurement/estimation of which of the following are satellite images/remote sensing data used? 1️⃣ Chlorophyll content in the vegetation of a specific location 2️⃣ Greenhouse gas emissions from rice paddies of a specific location 3️⃣ Land surface temperatures of a specific location [2019-I]",
+   "o": [
+    "(d) 1, 2 and 3",
+    "(a) 1 only",
+    "(c) 3 only",
+    "(b) 2 and 3 only"
+   ],
+   "a": 0,
+   "e": "Remote sensing can detect chlorophyll concentration, surface temperatures, and greenhouse gas concentrations like methane through spectral analysis."
+  },
+  {
+   "q": "\"The experiment will employ a trio of spacecraft flying in formation in the shape of an equilateral triangle that has sides one million kilometres long, with lasers shining between the craft.\" The experiment in question refers to [2020-I]",
+   "o": [
+    "(d) Evolved LISA",
+    "(a) Voyager-2",
+    "(c) LISA Pathfinder",
+    "(b) New Horizons"
+   ],
+   "a": 0,
+   "e": "Evolved LISA (eLISA) is a project designed to detect gravitational waves using three spacecraft in a massive triangular formation in space."
+  },
+  {
+   "q": "Consider the following statements: 1️⃣ In November, 2006, DRDO successfully conducted the interception test using Prithvi-II missile. 2️⃣ Prithivi-II is a surface-to-surface missile and can be deployed to guard the metros against air attacks. [2007]",
+   "o": [
+    "(c) Both 1 and 2",
+    "(d) Neither 1 nor 2",
+    "(a) 1 only",
+    "(b) 2 only"
+   ],
+   "a": 0,
+   "e": "Prithvi-II is a tactical surface-to-surface missile. India successfully tested its missile defense shield (Prithvi Air Defence) in 2006 to intercept incoming threats."
+  },
+  {
+   "q": "What is the Galileo Project which has been in news recently? [2007]",
+   "o": [
+    "(d) An environmental protection project being developed by Japan",
+    "(b) A multi-satellite navigation project being developed by the European Union",
+    "(c) A project developed by India with assistance from Canada",
+    "(a) An intercountry programme of missile shield developed by the United States of America"
+   ],
+   "a": 1,
+   "e": "Galileo is the global navigation satellite system (GNSS) created by the European Union and the European Space Agency."
+  },
+  {
+   "q": "From which one of the following did India buy the Barak anti-missile defence systems? [2008]",
+   "o": [
+    "(c) Russia",
+    "(d) USA",
+    "(b) France",
+    "(a) Israel"
+   ],
+   "a": 3,
+   "e": "The Barak missile system is an Israeli surface-to-air missile jointly developed and produced by India and Israel."
+  },
+  {
+   "q": "In the context of the Indian defence, what is 'Dhruv'? [2008]",
+   "o": [
+    "(b) Missile-carrying submarine",
+    "(a) Aircraft-carrying warship",
+    "(d) Intercontinental ballistic missile",
+    "(c) Advanced light helicopter"
+   ],
+   "a": 3,
+   "e": "Dhruv is an Advanced Light Helicopter (ALH) developed indigenously by Hindustan Aeronautics Limited (HAL)."
+  },
+  {
+   "q": "In the context of Indian defence, consider the following statements: 1️⃣ The Shourya missile flies with a speed of more than 8 Mach. 2️⃣ The range of Shourya missile is more than 1600 km. [2009]",
+   "o": [
+    "(b) 2 only",
+    "(c) Both 1 and 2",
+    "(d) Neither 1 nor 2",
+    "(a) 1 only"
+   ],
+   "a": 2,
+   "e": "The Shourya missile flew at 7.5 Mach (not >8) and has a range of approximately 700 km (not >1600 km)."
+  },
+  {
+   "q": "Consider the following statements: 1️⃣ INS Sindhughosh is an aircraft carrier. 2️⃣ INS Viraat is a submarine. [2009]",
+   "o": [
+    "(c) Both 1 and 2",
+    "(b) 2 only",
+    "(a) 1 only",
+    "(d) Neither 1 nor 2"
+   ],
+   "a": 3,
+   "e": "Both statements are reversed. INS Sindhughosh is a diesel-electric submarine, and INS Viraat was an aircraft carrier."
+  },
+  {
+   "q": "With reference to Agni-IV Missile, which of the following statements is/are correct? 1️⃣ It is a surface-to-surface missile. 2️⃣ It is fuelled by liquid propellant only. 3️⃣ It can deliver one-tonne nuclear warheads about 7500 km away. [2014-I]",
+   "o": [
+    "(b) 2 and 3 only",
+    "(c) 1 and 3 only",
+    "(a) 1 only",
+    "(d) 1, 2 and 3"
+   ],
+   "a": 2,
+   "e": "Agni-IV is a surface-to-surface missile. It uses solid propellant (not liquid) and has a range of about 4000 km (not 7500 km)."
+  },
+  {
+   "q": "The term 'IndARC', sometimes seen in the news, is the name of [2015-I]",
+   "o": [
+    "(c) a scientific establishment set up by India in Antarctic region",
+    "(a) an indigenously developed radar system inducted into Indian Defence",
+    "(d) India's underwater observatory to scientifically study the Arctic region",
+    "(b) India's satellite to provide services to the countries of Indian Ocean Rim"
+   ],
+   "a": 2,
+   "e": "IndARC is India's first underwater moored observatory, deployed in the Kongsfjorden fjord to study the Arctic region."
+  },
+  {
+   "q": "Which one of the following is the best description of 'INS Astradharini', that was in the news recently? [2016-I]",
+   "o": [
+    "(d) Nuclear-powered aircraft carrier",
+    "(c) Torpedo launch and recovery vessel",
+    "(b) Nuclear-powered submarine",
+    "(a) Amphibious warfare ship"
+   ],
+   "a": 1,
+   "e": "INS Astradharini is an indigenously built torpedo launch and recovery vessel used by the Indian Navy."
+  },
+  {
+   "q": "What is \"Terminal High Altitude Area Defense (THAAD)\", sometimes seen in the news? [2017-I]",
+   "o": [
+    "(c) An American anti missile system",
+    "(a) An Israeli radar system",
+    "(d) A defence collaboration between Japan and South Korea",
+    "(b) India's indigenous anti-missile Programme"
+   ],
+   "a": 0,
+   "e": "THAAD is an American anti-ballistic missile system designed to destroy short and medium-range missiles during their final phase of flight."
+  },
+  {
+   "q": "In the context of recent advances in human reproductive technology, \"Pronuclear Transfer\" is used for [2020-I]",
+   "o": [
+    "(b) Genetic modification of sperm producing cells",
+    "(c) Development of stem cells into functional embryos",
+    "(a) Fertilization of egg in vitro by the donor sperm",
+    "(d) Prevention of mitochondrial diseases in offspring"
+   ],
+   "a": 3,
+   "e": "Pronuclear transfer is a technique used in \"three-parent baby\" procedures to prevent the transmission of mitochondrial diseases from mother to child."
+  },
+  {
+   "q": "In which one of the following areas did the Indira Gandhi Centre for Atomic Research make significant progress in the year 2005? [2006]",
+   "o": [
+    "(a) Reprocessing the uranium-plutonium mixed carbide fuel of the Fast Breeder Test Reactor.",
+    "(d) A new technology for high level nuclear waste management.",
+    "(c) A new technology for production of heavy water.",
+    "(b) New applications of radioisotopes in metallurgy."
+   ],
+   "a": 0,
+   "e": "The center made significant strides in Fast Breeder Reactor (FBR) technology, specifically in reprocessing mixed carbide fuel which produced nuclear electricity."
+  },
+  {
+   "q": "In which one of the following locations is the International Thermonuclear Experimental Reactor (ITER) project to be built? [2008]",
+   "o": [
+    "(b) Southern France",
+    "(c) Eastern Germany",
+    "(d) Southern Italy",
+    "(a) Northern Spain"
+   ],
+   "a": 0,
+   "e": "ITER is an international nuclear fusion research megaproject being built in Cadarache, in the south of France."
+  },
+  {
+   "q": "In the year 2008, which one of the following conducted a complex scientific experiment in which sub-atomic particles were accelerated to nearly the speed of light? [2009]",
+   "o": [
+    "(d) National Aeronautics and Space administration",
+    "(b) European Organization for Nuclear Research",
+    "(c) International Atomic Energy Agency",
+    "(a) European Space Agency"
+   ],
+   "a": 1,
+   "e": "CERN (European Organization for Nuclear Research) conducted this experiment in 2008 using the Large Hadron Collider."
+  },
+  {
+   "q": "To meet its rapidly growing energy demand, some opine that India should pursue research and development on thorium as the future fuel of nuclear energy. In this context, what advantage does thorium hold over uranium? 1️⃣ Thorium is far more abundant in nature than uranium. 2️⃣ On the basis of per unit mass of mined mineral, thorium can generate more energy compared to natural uranium. 3️⃣ Thorium produces less harmful waste compared to uranium. [2012-I]",
+   "o": [
+    "(d) 1, 2 and 3",
+    "(a) 1 only",
+    "(c) 1 and 3 only",
+    "(b) 2 and 3 only"
+   ],
+   "a": 0,
+   "e": "Thorium is 3-4 times more abundant, generates significantly more energy per unit mass, and produces waste that is much harder to weaponize."
+  },
+  {
+   "q": "India is an important member of the 'International Thermonuclear Experimental Reactor'. If this experiment succeeds, what is the immediate advantage for India? [2016-I]",
+   "o": [
+    "(b) It can attain a global role in satellite navigation",
+    "(d) It can drastically improve the efficiency of its fission reactors in power generation",
+    "(a) It can use thorium in place of uranium for power generation",
+    "(c) It can build fusion reactors for power generation"
+   ],
+   "a": 3,
+   "e": "The ITER project is dedicated to demonstrating the feasibility of nuclear fusion as a large-scale, carbon-free source of energy."
+  },
+  {
+   "q": "In India, why are some nuclear reactors kept under \"IAEA Safeguards\" while others are not? [2020-I]",
+   "o": [
+    "(a) Some use uranium and others use thorium",
+    "(c) Some are operated by foreign enterprises and others are operated by domestic enterprises",
+    "(d) Some are State-owned and others are privately-owned",
+    "(b) Some use imported uranium and others use domestic supplies"
+   ],
+   "a": 3,
+   "e": "Under the India-US Civil Nuclear Deal, reactors using imported fuel must be under IAEA inspection, while those using domestic fuel can remain outside."
+  },
+  {
+   "q": "Which of the following professional(s) are more likely to run the risk of a permanent change in their cell's DNA? 1️⃣ Researchers using Carbon 14 isotope 2️⃣ X-ray technician 3️⃣ Coal miner 4️⃣ Dyer and painter [1996]",
+   "o": [
+    "(a) 2 alone",
+    "(d) 1, 3 and 4",
+    "(c) 1, 2 and 4",
+    "(b) 1, 2 and 3"
+   ],
+   "a": 2,
+   "e": "X-ray technicians and those working with radioactive isotopes or certain industrial chemicals face higher risks of DNA mutation. Coal mining does not typically pose this specific risk."
+  },
+  {
+   "q": "Which one of the following techniques can be used to establish the paternity of a child? [1997]",
+   "o": [
+    "(a) Protein analysis",
+    "(b) Chromosome counting",
+    "(c) Quantitative analysis of DNA",
+    "(d) DNA finger printing"
+   ],
+   "a": 3,
+   "e": "DNA fingerprinting is the standard technology used to establish biological parental relationships by analyzing sample cells."
+  },
+  {
+   "q": "Assertion (A): Insect resistant transgenic cotton has been produced by inserting Bt gene. Reason (R): The Bt gene is derived from a bacterium. [1999]",
+   "o": [
+    "(b) Both A and R are true but R is not a correct explanation of A",
+    "(a) Both A and R are true and R is the correct explanation of A",
+    "(d) A is false but R is true",
+    "(c) A is true but R is false"
+   ],
+   "a": 1,
+   "e": "Bt-cotton contains a gene from the soil bacterium Bacillus thuringiensis, which provides the plant with natural resistance to certain pests."
+  },
+  {
+   "q": "Assertion (A): Dolly was the first cloned mammal. Reason (R): Dolly was produced by in vitro fertilization. [1999]",
+   "o": [
+    "(c) A is true but R is false",
+    "(b) Both A and R are true but R is not a correct explanation of A",
+    "(a) Both A and R are true and R is the correct explanation of A",
+    "(d) A is false but R is true"
+   ],
+   "a": 3,
+   "e": "Dolly was a cloned sheep, but she was not the first cloned mammal (a mouse was first). Furthermore, cloning is not the same as in vitro fertilization."
+  },
+  {
+   "q": "Assertion (A): \"DNA finger printing\" has become a powerful tool to establish paternity and identity of criminals in rape and assault cases. Reason (R): Trace evidences such as hairs, saliva and dried semen are adequate for DNA analysis. [2000]",
+   "o": [
+    "(d) A is false but R is true",
+    "(b) Both A and R are true but R is not a correct explanation of A",
+    "(c) A is true but R is false",
+    "(a) Both A and R are true and R is the correct explanation of A"
+   ],
+   "a": 3,
+   "e": "DNA fingerprinting is effective because it requires only minute biological samples like hair or saliva to create a unique genetic profile."
+  },
+  {
+   "q": "Insect-resistant cotton plants have been genetically engineered by inserting a gene from a/an [2000]",
+   "o": [
+    "(d) plant",
+    "(b) bacterium",
+    "(c) insect",
+    "(a) virus"
+   ],
+   "a": 1,
+   "e": "The gene is sourced from the soil-dwelling bacterium Bacillus thuringiensis (Bt)."
+  },
+  {
+   "q": "Hybridoma technology is a new biotechnological approach for commercial production of [2000]",
+   "o": [
+    "(d) alcohol",
+    "(a) monoclonal antibodies",
+    "(b) interferon",
+    "(c) antibiotics"
+   ],
+   "a": 1,
+   "e": "Hybridoma technology involves fusing antibody-producing cells with cancer cells to produce a continuous supply of monoclonal antibodies."
+  },
+  {
+   "q": "The American multinational company, Monsanto, has produced an insect-resistant cotton variety that is undergoing field trials in India. A toxic gene from which one of the following bacteria has been transferred to this transgenic cotton? [2001]",
+   "o": [
+    "(a) Bacillus subtilis",
+    "(b) Bacillus thuringiensis",
+    "(d) Bacillus globlii",
+    "(c) Bacillus anyloliquifanciens"
+   ],
+   "a": 1,
+   "e": "Monsanto's transgenic cotton utilizes genes from Bacillus thuringiensis to produce proteins toxic to specific insect pests."
+  },
+  {
+   "q": "With reference to the latest developments in stem cell research, consider the following statements: 1️⃣ The only source of human stem cells are the embryos at blastocyst stage. 2️⃣ The stem cells can be derived without causing destruction to blastocysts. 3️⃣ The stem cells can regenerate themselves in vitro virtually forever. 4️⃣ Indian research centres also created a few cell lines which can be developed into many types of tissues. [2002]",
+   "o": [
+    "(c) 1, 2 and 4",
+    "(a) 1, 2 and 4",
+    "(d) 3 and 4",
+    "(b) 1, 2 and 3"
+   ],
+   "a": 2,
+   "e": "Stem cells can also be sourced from adult tissues, not just embryos. They are unique for their ability to self-renew indefinitely and differentiate into various cell types."
+  },
+  {
+   "q": "Which one of the following is the landmark performance of Dr. V. Mohan Reddy, an Indian born doctor working in U.S.A. during February, 2005? [2005]",
+   "o": [
+    "(a) Research on human stem cell which is likely to...",
+    "(c) Research on genetic engineering which can help...",
+    "(b) Successful open heart procedure called arteria...",
+    "(d) Successful brain surgery to revive the functio..."
+   ],
+   "a": 2,
+   "e": "Dr. V. Mohan Reddy performed a successful open-heart surgery on a premature baby weighing only 700 grams in 2005."
+  },
+  {
+   "q": "Consider the following statements: 1️⃣ ELISA test is employed as the first and most basic test for an individual to detect cancer. 2️⃣ Almost 50 per cent of human beings have Rh+ blood while the remaining have Rh- blood. [2006]",
+   "o": [
+    "(b) 2 only",
+    "(a) 1 only",
+    "(d) Neither 1 nor 2",
+    "(c) Both 1 and 2"
+   ],
+   "a": 2,
+   "e": "ELISA is primarily used to detect HIV antibodies, not cancer. Rh+ blood is found in more than 85% of the population, not 50%."
+  },
+  {
+   "q": "Which one of the following Union Ministries is implementing the Biodiesel Mission (as Nodal Ministry)? [2003]",
+   "o": [
+    "(d) Ministry of Rural Development",
+    "(c) Ministry of New and Renewable Energy",
+    "(a) Ministry of Agriculture",
+    "(b) Ministry of Science and Technology"
+   ],
+   "a": 0,
+   "e": "The Ministry of Rural Development was designated as the nodal ministry for the National Mission on Bio-diesel."
+  },
+  {
+   "q": "In the context of alternative sources of energy, ethanol as a viable bio-fuel can be obtained from [2008]",
+   "o": [
+    "(d) Wheat",
+    "(a) Potato",
+    "(b) Rice",
+    "(c) Sugarcane"
+   ],
+   "a": 3,
+   "e": "Ethanol is a clean biofuel commonly produced through the fermentation of sugarcane juice and molasses."
+  },
+  {
+   "q": "In the context of CO2 emission and Global Warming, what is the name of a market driven device under the UNFCC that allows developing countries to get funds/ incentives from the developed countries to adopt better technologies that reduce greenhouse gas emissions? [2009]",
+   "o": [
+    "(a) Carbon Footprint",
+    "(c) Clean Development Mechanism",
+    "(b) Carbon Credit Rating",
+    "(d) Emission Reduction Norm"
+   ],
+   "a": 1,
+   "e": "The Clean Development Mechanism (CDM), defined under the Kyoto Protocol, allows emission-reduction projects in developing countries to earn certified emission reduction credits."
+  },
+  {
+   "q": "With reference to the treatment of cancerous tumours, a tool called cyberknife has been making the news. In this context, which one of the following statements is not correct? [2010]",
+   "o": [
+    "(a) It is a robotic image guided system",
+    "(c) It has the capability of achieving sub-millimetre accuracy.",
+    "(b) It delivers an extremely precise dose of radiation.",
+    "(d) It can map the spread of tumour in the body"
+   ],
+   "a": 3,
+   "e": "CyberKnife is a robotic radiosurgery system used for precision radiation treatment. While it delivers highly accurate doses, it is not a tool used for mapping the spread of tumors throughout the body."
+  },
+  {
+   "q": "Genetically modified \"golden rice\" has been engineered to meet human nutritional requirements. Which one of the following statements best qualifies golden rice? [2010]",
+   "o": [
+    "(b) Its grains contain pro-vitamin A which upon in...",
+    "(d) Its modified genes cause the fortification of...",
+    "(c) Its modified genes cause the synthesis of all...",
+    "(a) The grains have been fortified with genes to p..."
+   ],
+   "a": 0,
+   "e": "Golden rice is engineered to contain beta-carotene (pro-vitamin A), which the human body converts into vitamin A."
+  },
+  {
+   "q": "Recently, \"oil zapper\" was in the news. What is it? [2011-I]",
+   "o": [
+    "(c) It is a genetically engineered high biofuel yielding maize variety",
+    "(d) It is the latest technology to control the accidentally caused flames from oil wells.",
+    "(a) It is an eco-friendly technology for the remediation of oily sludge and oil spills",
+    "(b) It is the latest technology developed for undersea oil exploration"
+   ],
+   "a": 2,
+   "e": "Oil zapper is a cocktail of bacteria that feeds on hydrocarbons in oil spills and sludge, converting them into harmless CO2 and water."
+  },
+  {
+   "q": "A genetically engineered form of brinjal, known as the Bt-brinjal, has been developed. The objective of this is [2011-I]",
+   "o": [
+    "(d) to make its shelf-life longer.",
+    "(b) to improve its taste and nutritive qualities.",
+    "(a) to make it pest-resistant.",
+    "(c) to make it drought-resistant."
+   ],
+   "a": 2,
+   "e": "Bt Brinjal is created by inserting a gene from Bacillus thuringiensis to provide resistance against lepidopteran insects like the fruit and shoot borer."
+  },
+  {
+   "q": "Microbial fuel cells are considered a source of sustainable energy. Why? 1️⃣ They use living organisms as catalysts to generate electricity from certain substrates. 2️⃣ They use a variety of inorganic materials as substrates. 3️⃣ They can be installed in waste water treatment plants to cleanse water and produce electricity. [2011-I]",
+   "o": [
+    "(b) 2 and 3 only",
+    "(a) 1 only",
+    "(d) 1, 2 and 3",
+    "(c) 1 and 3 only"
+   ],
+   "a": 3,
+   "e": "Microbial fuel cells use bacteria as catalysts to convert organic waste (not inorganic) into electricity, making them useful for wastewater treatment."
+  },
+  {
+   "q": "With reference to 'stem cells', frequently in the news, which of the following statements is/are correct? 1️⃣ Stem cells can be derived from mammals only. 2️⃣ Stem cells can be used for medical therapies. 3️⃣ Stem cells can be used for screening new drugs. [2012-I]",
+   "o": [
+    "(a) 1 and 2 only",
+    "(c) 3 only",
+    "(d) 1, 2 and 3",
+    "(b) 2 and 3 only"
+   ],
+   "a": 3,
+   "e": "Stem cells are found in various organisms, not just mammals. They have significant applications in regenerative medicine and drug testing."
+  },
+  {
+   "q": "What are the reasons for the people's resistance to the introduction of Bt brinjal in India? 1️⃣ Bt brinjal has been created by inserting a gene from a soil fungus into its genome. 2️⃣ The seeds of Bt brinjal are terminator seeds and therefore, the farmers have to buy the seeds before every season from the seed companies. 3️⃣ There is an apprehension that the consumption of Bt brinjal may have adverse impact on health. 4️⃣ There is some concern that the introduction of Bt brinjal may have adverse effect on the biodiversity. [2012-I]",
+   "o": [
+    "(b) 2 and 3 only",
+    "(d) 1, 2, 3 and 4",
+    "(c) 3 and 4 only",
+    "(a) 1, 2 and 3 only"
+   ],
+   "a": 2,
+   "e": "Resistance is based on health and biodiversity concerns. The gene comes from a bacterium (not fungus) and current Bt varieties in India do not use terminator technology."
+  },
+  {
+   "q": "Other than resistance to pests, what are the prospects for which genetically engineered plants have been created? 1️⃣ To enable them to withstand drought 2️⃣ To increase the nutritive value of the produce 3️⃣ To enable them to grow and do photosynthesis in spaceships and space stations 4️⃣ To increase their shelflife [2012-I]",
+   "o": [
+    "(c) 1, 2 and 4 only",
+    "(a) 1 and 2 only",
+    "(d) 1, 2, 3 and 4",
+    "(b) 3 and 4 only"
+   ],
+   "a": 0,
+   "e": "Genetic engineering is used for drought resistance, biofortification, and extending shelf life. Growing plants for space stations is not a standard commercial application of this technology yet."
+  },
+  {
+   "q": "Mycorrhizal biotechnology has been used in rehabilitating degraded sites because mycorrhiza enables the plants to 1️⃣ resist drought and increase absorptive area 2️⃣ tolerate extremes of pH 3️⃣ resist disease infestation [2013-I]",
+   "o": [
+    "(b) 2 and 3 only",
+    "(c) 1 and 3 only",
+    "(a) 1 only",
+    "(d) 1, 2 and 3"
+   ],
+   "a": 3,
+   "e": "Mycorrhizal fungi form a symbiotic relationship with plant roots, enhancing water/nutrient uptake, improving disease resistance, and helping plants survive in contaminated or extreme soils."
+  },
+  {
+   "q": "Recombinant DNA technology (Genetic Engineering) allows genes to be transferred 1️⃣ across different species of plants 2️⃣ from animals to plants 3️⃣ from microorganisms to higher organisms [2013-I]",
+   "o": [
+    "(c) 1 and 3 only",
+    "(a) 1 only",
+    "(b) 2 and 3 only",
+    "(d) 1, 2 and 3"
+   ],
+   "a": 3,
+   "e": "Genetic engineering enables the horizontal transfer of genetic material between entirely different species and kingdoms."
+  },
+  {
+   "q": "Consider the following techniques/phenomena: 1️⃣ Budding and grafting in fruit plants 2️⃣ Gene silencing 3️⃣ Cytoplasmic male sterility. Which of the above is\\are used to create transgenic crops? [2014-I]",
+   "o": [
+    "(d) None",
+    "(b) 2 and 3",
+    "(a) 1 only",
+    "(c) 1 and 3 only"
+   ],
+   "a": 1,
+   "e": "Gene silencing and cytoplasmic male sterility are advanced molecular techniques used in developing transgenic plants. Budding and grafting are traditional vegetative propagation methods."
+  },
+  {
+   "q": "There is some concern regarding the nanoparticles of some chemical elements that are used by the industry in the manufacture of various products. Why? 1️⃣ They can accumulate in the environment, and contaminate water and soil. 2️⃣ They can enter the food chains. 3️⃣ They can trigger the production of free radicals. [2014-I]",
+   "o": [
+    "(c) 1 and 3 only",
+    "(a) 1 and 2 only",
+    "(d) 1, 2 and 3",
+    "(b) 3 only"
+   ],
+   "a": 2,
+   "e": "All these are valid concerns regarding nanotechnology, as the small size of nanoparticles allows them to penetrate biological barriers and persist in ecosystems."
+  },
+  {
+   "q": "With reference to the use of nano-technology in health sector, which of the following statements is/are correct? 1️⃣ Targeted drug delivery is made possible by nanotechnology. 2️⃣ Nanotechnology can largely contribute to gene therapy. [2015-I]",
+   "o": [
+    "(d) Neither 1 nor 2",
+    "(b) 2 Only",
+    "(a) 1 only",
+    "(c) Both 1 and 2"
+   ],
+   "a": 3,
+   "e": "Nanotechnology allows for the delivery of drugs directly to specific cells (like cancer cells) and aids in genetic therapy by approaching diseases at the root molecular level."
+  },
+  {
+   "q": "The Genetic Engineering Appraisal Committee is constituted under the [2015-I]",
+   "o": [
+    "(b) Geographical Indications of Goods (Registration and Protection) Act, 1999",
+    "(d) Wildlife (Protection) Act, 1972",
+    "(c) Environment (Protection) Act, 1986",
+    "(a) Food Safety and Standards Act, 2006"
+   ],
+   "a": 2,
+   "e": "GEAC is a statutory body operating under the Ministry of Environment and Forests per the Environment Protection Act, 1986."
+  },
+  {
+   "q": "With reference to 'fuel cells' in which hydrogen-rich fuel and oxygen are used to generate electricity, consider the following statements: 1️⃣ If pure hydrogen is used as a fuel, the fuel cell emits heat and water as by-products. 2️⃣ Fuel cells can be used for powering buildings and not for small devices like laptop computers. 3️⃣ Fuel cells produce electricity in the form of Alternating Current (AC) [2015-I]",
+   "o": [
+    "(c) 1 and 3 only",
+    "(b) 2 and 3 Only",
+    "(a) 1 only",
+    "(d) 1, 2 and 3"
+   ],
+   "a": 2,
+   "e": "Fuel cells convert chemical energy into DC electricity, with water and heat as by-products. They can be used for both large-scale power and small portable devices."
+  },
+  {
+   "q": "In the context of the developments in Bioinformatics, the term 'transcriptome' sometimes seen in the news, refers to [2016-I]",
+   "o": [
+    "(d) a mechanism of genetic mutations taking place in cells",
+    "(b) the full range of mRNA molecules expressed by an organism",
+    "(a) a range of enzymes used in genome editing",
+    "(c) the description of the mechanism of gene expression"
+   ],
+   "a": 1,
+   "e": "The transcriptome is the complete set of all RNA molecules, particularly mRNA, expressed within a single cell or a population of cells."
+  },
+  {
+   "q": "What is the application of Somatic Cell Nuclear Transfer (SCNT) Technology? [2017-I]",
+   "o": [
+    "(a) Production of biolarvicides",
+    "(b) Manufacture of biodegradable plastics",
+    "(c) Reproductive cloning of animals",
+    "(d) Production of organisms free of diseases"
+   ],
+   "a": 2,
+   "e": "SCNT is the technique used for reproductive cloning, famously used to create Dolly the sheep."
+  },
+  {
+   "q": "With reference to the Genetically Modified mustard (GM mustard) developed in India, consider the following statements: 1️⃣ GM mustard has the genes of a soil bacterium that give the plant the property of pest-resistance to a wide variety of pests. 2️⃣ GM mustard has the genes that allow the plant cross-pollination and hybridization. 3️⃣ GM mustard has been developed jointly by the IARI and Punjab Agricultural University. [2018-I]",
+   "o": [
+    "(d) 1, 2 and 3",
+    "(c) 2 and 3 only",
+    "(b) 2 only",
+    "(a) 1 and 3 only"
+   ],
+   "a": 2,
+   "e": "GM Mustard (DMH-11) was developed by Delhi University to facilitate cross-pollination/hybridization. It is not pest-resistant (that's Bt crops)."
+  },
+  {
+   "q": "Consider the following statements: 1️⃣ According to the Indian Patents Act, a biological process to create a seed can be patented in India. 2️⃣ In India, there is no Intellectual Property Appellate Board. 3️⃣ Plant Varieties are not eligible to the patented in India. [2019-I]",
+   "o": [
+    "(b) 2 and 3 only",
+    "(d) 1, 2, and 3",
+    "(a) 1 and 3 only",
+    "(c) 3 only"
+   ],
+   "a": 3,
+   "e": "Under Indian law, plants, animals, and biological processes for their production are not patentable. India does have an Intellectual Property Appellate Board (IPAB)."
+  },
+  {
+   "q": "With reference to the recent developments in science which one of the following statements is not correct? [2019-I]",
+   "o": [
+    "(c) A piece of DNA taken out from an animal cell c...",
+    "(d) Cells taken out from plants and animals can be...",
+    "(b) Pieces of artificial functional DNA can be cre...",
+    "(a) Functional chromosomes can be created by joini..."
+   ],
+   "a": 3,
+   "e": "While artificial DNA can be created and replicated in vitro, creating entirely functional chromosomes by joining DNA from different species is currently not accurate in the context of standard scientific achievement."
+  },
+  {
+   "q": "'RNA interference (RNA-i)' technology has gained popularity in the last few years. why? 1️⃣ It is used in developing gene silencing therapies. 2️⃣ It can be used in developing therapies for the treatment of cancer. 3️⃣ It can be used to develop hormone replacement therapies. 4️⃣ It can be used to produce crop plants that are resistant to virtual pathogens. [2019-I]",
+   "o": [
+    "(a) 1, 2 and 4",
+    "(c) 1 and 3",
+    "(b) 2 and 3",
+    "(d) 1 and 4 only"
+   ],
+   "a": 0,
+   "e": "RNA-i is used for gene silencing, cancer treatment, and developing virus-resistant crops. It is not used for hormone replacement."
+  },
+  {
+   "q": "With reference to the carbon nanotubes, consider the following statement: 1️⃣ They can be used as the carriers of drugs and antigens in the human body. 2️⃣ They can be made into artificial blood capillaries for an injured part of human body. 3️⃣ They can be used in biochemical sensors. 4️⃣ Carbon nanotubes are biodegradable. [2020-I]",
+   "o": [
+    "(c) 1, 3 and 4 only",
+    "(b) 2, 3 and 4 only",
+    "(a) 1 and 2 only",
+    "(d) 1, 2, 3 and 4"
+   ],
+   "a": 3,
+   "e": "Carbon nanotubes have diverse applications in targeted drug delivery, sensing, and tissue engineering. They are also considered biodegradable in certain biological contexts."
+  },
+  {
+   "q": "Assertion (A): Information technology is fast becoming a very important field of activity in India. Reason (R): Software is one of the major exports of the country and India has a very strong base in hardware. [1999]",
+   "o": [
+    "(d) A is false but R is true",
+    "(a) Both A and R are true and R is the correct explanation of A",
+    "(b) Both A and R are true but R is not a correct explanation of A",
+    "(c) A is true but R is false"
+   ],
+   "a": 3,
+   "e": "IT is vital to India's development and software is a top export, but India historically lacks a strong manufacturing base in hardware compared to software."
+  },
+  {
+   "q": "The memory of a computer is commonly expressed in terms of kilobytes or megabytes. A byte is made up of: [2000]",
+   "o": [
+    "(b) eight decimal digits",
+    "(c) two binary digits",
+    "(a) eight binary digits",
+    "(d) two decimal digits"
+   ],
+   "a": 2,
+   "e": "In computing, a byte most commonly consists of eight bits (binary digits)."
+  },
+  {
+   "q": "Consider the following statements: 1️⃣ Smart card is a plastic card with an embedded microchip. 2️⃣ Digital technology is primarily used with new physical communication medium such as satellite and fibre optics transmission. 3️⃣ A digital library is a collection of documents in an organized electronic form available on the internet only. [2004]",
+   "o": [
+    "(b) 1 and 2",
+    "(a) 3 only",
+    "(d) 1, 2 and 3",
+    "(c) 2 and 3"
+   ],
+   "a": 0,
+   "e": "Smart cards contain microchips for data storage. Digital libraries are organized electronic collections, but they are not strictly limited to the \"internet only\" (can be on local servers)."
+  },
+  {
+   "q": "Consider the following statements: 1️⃣ Adam Osborne introduced the first portable computer. 2️⃣ Ian Wilmut created the first cloned sheep. [2004]",
+   "o": [
+    "(b) 2 only",
+    "(a) 1 only",
+    "(c) Both 1 and 2",
+    "(d) Neither 1 nor 2"
+   ],
+   "a": 2,
+   "e": "Adam Osborne introduced the Osborne 1 in 1981. Ian Wilmut led the team that cloned Dolly the sheep in 1996."
+  },
+  {
+   "q": "WiMAX is related to which one of the following [2009]",
+   "o": [
+    "(c) Missile technology",
+    "(d) Communication technology",
+    "(b) Space technology",
+    "(a) Biotechnology"
+   ],
+   "a": 1,
+   "e": "WiMAX is a wireless broadband technology designed to deliver high-speed internet over long distances."
+  },
+  {
+   "q": "Which of the following can operate between 2.4 and 2.5 GHz range of radio frequency band? 1️⃣ Bluetooth device 2️⃣ Cordless phone 3️⃣ Microwave oven 4️⃣ Wi-Fi device [2010]",
+   "o": [
+    "(d) 1, 2, 3 and 4",
+    "(a) 1 and 2 only",
+    "(b) 3 and 4 only",
+    "(c) 1, 2 and 4 only"
+   ],
+   "a": 0,
+   "e": "This frequency range is part of the ISM (Industrial, Scientific, and Medical) band used by microwaves, Wi-Fi, Bluetooth, and many cordless phones."
+  },
+  {
+   "q": "Recently, LASIK (Laser Assisted In Situ Keratomileusis) procedure is being made popular for vision correction. Which one of the following statements in this context is-not correct? [2010]",
+   "o": [
+    "(a) LASIK procedure is used to correct refractive errors of the eye",
+    "(b) It is a procedure that permanently changes the shapes of the cornea",
+    "(c) It reduces a person's dependence on glasses or contact lenses",
+    "(d) It is a procedure that can be done on the person of any age"
+   ],
+   "a": 3,
+   "e": "LASIK is generally not performed on persons under 18 because their vision is still frequently changing."
+  },
+  {
+   "q": "Which among the following do/does not belong/belongs to the GSM family of wireless technologies? [2010]",
+   "o": [
+    "(c) DSL",
+    "(d) Both EDGE and LTE",
+    "(b) LTE",
+    "(a) EDGE"
+   ],
+   "a": 0,
+   "e": "DSL (Digital Subscriber Line) is a wired technology for internet access over telephone lines, unlike GSM-based wireless technologies like EDGE and LTE."
+  },
+  {
+   "q": "What is the difference between Blue-tooth and Wi-Fi devices? [2011-I]",
+   "o": [
+    "(a) Bluetooth uses 2.4 GHz radio frequency band, w...",
+    "(d) The statements (a) and (b) given above are cor...",
+    "(c) When information is transmitted between two de...",
+    "(b) Bluetooth is used for Wireless Local Area Netw..."
+   ],
+   "a": 0,
+   "e": "Bluetooth strictly operates in the 2.4 GHz range, while Wi-Fi standards (802.11) allow for 2.4 GHz, 5 GHz, and other bands."
+  },
+  {
+   "q": "What is the difference between a CFL and an LED lamp? 1️⃣ To produce light, a CFL uses mercury vapour and phosphor while an LED lamp uses semi-conductor material 2️⃣ The average life span of a CFL is much longer than that of an LED lamp 3️⃣ A CFL is less energy-efficient as compared to an LED lamp [2011-I]",
+   "o": [
+    "(b) 2 and 3 only",
+    "(d) 1, 2 and 3",
+    "(a) 1 only",
+    "(c) 1 and 3 only"
+   ],
+   "a": 3,
+   "e": "LED lamps are more energy-efficient and have a longer lifespan than CFLs. Statement 2 is incorrect."
+  },
+  {
+   "q": "A new optical disc format known as the Blu-ray Disc (BD) is becoming popular. In what way is it different from the traditional DVD? 1️⃣ DVD supports Standard Definition video while BD supports high definition video 2️⃣ Compared to a DVD, the BD format has several times more storage capacity 3️⃣ Thickness of BD is 2.4 mm while that of DVD is 1.2 mm. [2011-I]",
+   "o": [
+    "(c) 2 and 3 only",
+    "(b) 1 and 2 only",
+    "(d) 1, 2 and 3",
+    "(a) 1 only"
+   ],
+   "a": 1,
+   "e": "BD offers much higher storage and HD support. However, both discs have a similar thickness (approx 1.2 mm); statement 3 is incorrect."
+  },
+  {
+   "q": "What is \"Virtual Private Network\"? [2011-I]",
+   "o": [
+    "(c) It is a computer network in which users can ac...",
+    "(d) None of the statements (a), (b) and (c) given...",
+    "(b) It is a computer network across a public inter...",
+    "(a) It is a private computer network of an organiz..."
+   ],
+   "a": 2,
+   "e": "A VPN creates a secure, encrypted \"tunnel\" over a public network (like the internet) to allow safe access to a private network."
+  },
+  {
+   "q": "Graphene is frequently in news recently, what is its importance? 1️⃣ It is a two dimensional material and has good electrical conductivity. 2️⃣ It is one of the thinnest but strongest materials tested so far. 3️⃣ It is entirely made of silicon and has high optical transparency. 4️⃣ It can be used as conducting electrodes required for touch screens. LCDs and organic LEDs. [2012-I]",
+   "o": [
+    "(d) 1, 2, 3 and 4",
+    "(c) 1, 2 and 4 only",
+    "(b) 3 and 4 only",
+    "(a) 1 and 2 only"
+   ],
+   "a": 1,
+   "e": "Graphene is an allotrope of carbon (not silicon) that is 2D, extremely strong, and highly conductive."
+  },
+  {
+   "q": "In addition to fingerprint scanning, which of the following can be used in the biometric identification of a person? 1️⃣ Iris scanning 2️⃣ Retinal scanning 3️⃣ Voice recognition [2014-I]",
+   "o": [
+    "(a) 1 only",
+    "(d) 1, 2 and 3",
+    "(c) 1 and 3 only",
+    "(b) 2 and 3 only"
+   ],
+   "a": 1,
+   "e": "Biometric identifiers include physiological characteristics like iris and retina, and behavioral characteristics like voice."
+  },
+  {
+   "q": "With reference to 'Near Field Communication (NFC) Technology', which of the following statements is/are correct? 1️⃣ It is a contactless communication technology that uses electromagnetic radio fields. 2️⃣ NFC is designed for use by devices which can be at a distance of even a metre from each other 3️⃣ NFC can use encryption when sending sensitive information. [2015-I]",
+   "o": [
+    "(b) 3 Only",
+    "(d) 1, 2 and 3",
+    "(c) 1 and 3 only",
+    "(a) 1 and 2 only"
+   ],
+   "a": 2,
+   "e": "NFC is for very short-range communication (usually a few centimeters, not a meter). It supports encryption for secure payments."
+  },
+  {
+   "q": "In the context of modern scientific research, consider the following statements about 'Ice Cube', a particle detector located at South pole, which was recently in the news: 1️⃣ It is the world's largest neutrino detector, encompassing a cubic kilometre of ice. 2️⃣ It is a powerful telescope to search for dark matter. 3️⃣ It is buried deep in the ice. [2015-I]",
+   "o": [
+    "(c) 1 and 3 only",
+    "(a) 1 only",
+    "(d) 1, 2 and 3",
+    "(b) 2 and 3 Only"
+   ],
+   "a": 0,
+   "e": "IceCube is a neutrino observatory buried deep in Antarctic ice. While it primarily detects neutrinos, it also contributes to broader astrophysical research."
+  },
+  {
+   "q": "What is 'Greased Lightning-10 (GL-10)', recently in the news? [2016-I]",
+   "o": [
+    "(c) Space observatory launched by China",
+    "(b) Solar-powered two-seater aircraft designed by Japan",
+    "(a) Electric plane tested by NASA",
+    "(d) Reusable rocket designed by ISRO"
+   ],
+   "a": 2,
+   "e": "GL-10 is a battery-powered drone prototype designed by NASA that can take off vertically like a helicopter."
+  },
+  {
+   "q": "Regarding 'DigiLocker', sometimes seen in the news, which of the following statements is/are correct? 1️⃣ It is a digital locker system offered by the Government under Digital India Programme. 2️⃣ It allows you to access your e-documents irrespective of your physical location. [2016-I]",
+   "o": [
+    "(b) 2 Only",
+    "(c) Both 1 and 2",
+    "(d) Neither 1 nor 2",
+    "(a) 1 only"
+   ],
+   "a": 1,
+   "e": "DigiLocker is a cloud-based platform for issuance and verification of documents, enabling paperless governance."
+  },
+  {
+   "q": "With reference to 'Li-Fi', recently in the news, which of the following statements is/are correct? 1️⃣ It uses light as the medium for high-speed data transmission. 2️⃣ It is a wireless technology and is several times faster than 'Wi-Fi'. [2016-I]",
+   "o": [
+    "(a) 1 only",
+    "(b) 2 Only",
+    "(c) Both 1 and 2",
+    "(d) Neither 1 nor 2"
+   ],
+   "a": 2,
+   "e": "Li-Fi (Light Fidelity) uses LEDs for high-speed data transmission and can be significantly faster than traditional Wi-Fi."
+  },
+  {
+   "q": "What is the purpose of 'evolved Laser Interferometer Space Antenna (eLISA)' project? [2017-I]",
+   "o": [
+    "(b) To detect gravitational waves",
+    "(d) To study the effect of solar flares on our communication systems",
+    "(c) To detect the effectiveness of missile defence system",
+    "(a) To detect neutrinos"
+   ],
+   "a": 0,
+   "e": "eLISA is a mission designed to detect and measure gravitational waves from space."
+  },
+  {
+   "q": "Organic Light Emitting Diodes (OLEDs) are used to create digital display in many devices. What are the advantages of OLED displays over Liquid Crystal displays? 1️⃣ OLED displays can be fabricated on flexible plastic substrates. 2️⃣ Roll-up displays embedded in clothing can be made using OLEDs. 3️⃣ Transparent displays are possible using OLEDs. [2017-I]",
+   "o": [
+    "(c) 1, 2 and 3",
+    "(a) 1 and 3 only",
+    "(b) 2 only",
+    "(d) None of the above statements is correct"
+   ],
+   "a": 0,
+   "e": "Unlike LCDs, OLEDs do not require a backlight, allowing them to be flexible, transparent, and thinner."
+  },
+  {
+   "q": "Consider the following pairs of Terms sometimes seen in news vs Context /Topic: 1️⃣ Belle II experiment: Artificial Intelligence 2️⃣ Blockchain technology: Digital/ Cryptocurrency 3️⃣ CRISPR-Cas9: Particle Physics. Which of the pairs given above is/are correctly matched? [2018-I]",
+   "o": [
+    "(d) 1, 2 and 3",
+    "(b) 2 only",
+    "(a) 1 and 3 only",
+    "(c) 2 and 3 only"
+   ],
+   "a": 1,
+   "e": "CRISPR-Cas9 is a genome-editing tool (not Particle Physics). Belle II is a particle physics experiment (not AI). Blockchain is correctly matched with digital currency."
+  },
+  {
+   "q": "In the context of emerging communication technologies, which one of the following term best applies to a scenario where geysers, refrigerators, and cars are interconnected via the internet? [2018-I]",
+   "o": [
+    "(d) Virtual Private Network",
+    "(b) Internet of Things",
+    "(a) Border Gateway Protocol",
+    "(c) Internet Protocol"
+   ],
+   "a": 1,
+   "e": "The Internet of Things (IoT) refers to the network of physical objects embedded with sensors and software for connecting and exchanging data."
+  },
+  {
+   "q": "In which of the following areas can GPS technology be used? 1️⃣ Mobile phone operations 2️⃣ Banking operations 3️⃣ Controlling the power grids [2018-I]",
+   "o": [
+    "(a) 1 only",
+    "(c) 1 and 3 only",
+    "(d) 1, 2 and 3",
+    "(b) 2 and 3 only"
+   ],
+   "a": 2,
+   "e": "GPS provides precise timing used in banking transactions and power grid synchronization, in addition to location services for mobile phones."
+  },
+  {
+   "q": "The terms 'Wanna Cry, Petya and Eternal Blue' sometimes mentioned in the news recently are related to [2018-I]",
+   "o": [
+    "(d) Mini satellites",
+    "(b) Crypto-currency",
+    "(c) Cyber attacks",
+    "(a) Exo-planets"
+   ],
+   "a": 2,
+   "e": "These terms refer to major ransomware and vulnerabilities used in global cyberattacks."
+  },
+  {
+   "q": "\"3D printing\" has applications in which of the following? 1️⃣ Preparation of confectionery items 2️⃣ Manufacture of bionic ears 3️⃣ Automotive industry 4️⃣ Reconstructive surgeries 5️⃣ Data processing technologies [2018-I]",
+   "o": [
+    "(a) 1, 3 and 4 only",
+    "(d) 1, 2, 3, 4 and 5",
+    "(b) 2, 3 and 5 only",
+    "(c) 1 and 4 only"
+   ],
+   "a": 1,
+   "e": "3D printing (additive manufacturing) is used across various sectors including food, medicine (bioprinting), and industrial manufacturing."
+  },
+  {
+   "q": "With reference to communication technologies, what is/are the difference/differences between LTE (Long-Term Evolution) and VoLTE (Voice over Long-Term Evolution)? 1️⃣ LTE is commonly marketed as 3G and VoLTE is commonly marketed as advanced 3G. 2️⃣ LTE is data-only technology and VoLTE is voice-only technology. [2019-I]",
+   "o": [
+    "(c) Both 1 and 2",
+    "(d) Neither 1 nor 2",
+    "(a) 1 only",
+    "(b) 2 only"
+   ],
+   "a": 1,
+   "e": "Both are 4G technologies. VoLTE allows for both voice and data over 4G, whereas earlier LTE often required voice calls to drop to 2G/3G."
+  },
+  {
+   "q": "In the context of digital technologies for entertainment, consider the following statements: 1️⃣ In Augmented Reality (AR), a simulated environment is created and the physical world is completely shut out. 2️⃣ In Virtual Reality (VR), images generated from the computer are projected onto real life objects or surroundings. 3️⃣ AR allows individual to be present in the world and improves the experience using the camera of smart-phone or PC. 4️⃣ VR closes the world, and transposes an individual, providing complete immersion experience. [2019-I]",
+   "o": [
+    "(d) 4 only",
+    "(c) 1, 2 and 3",
+    "(b) 3 and 4",
+    "(a) 1 and 2 only"
+   ],
+   "a": 2,
+   "e": "VR creates a fully immersive simulated environment (shutting out the world). AR overlays digital content onto the real world."
+  },
+  {
+   "q": "Consider the following statements about a digital signature: 1️⃣ An electronic record that identifies the certifying authority issuing it. 2️⃣ Used to serve as a proof of identity of an individual to access information of server on Internet. 3️⃣ An electronic method of signing an electronic document and ensuring that the original content is unchanged. [2019-I]",
+   "o": [
+    "(b) 2 and 3 only",
+    "(c) 3 only",
+    "(d) 1, 2 and 3",
+    "(a) 1 only"
+   ],
+   "a": 1,
+   "e": "A digital signature is used to authenticate the signer's identity and ensure the integrity of the document. Statements 1 and 2 describe Digital Signature Certificates (DSC)."
+  },
+  {
+   "q": "In the context of wearable technology, which of the following tasks is/are accomplished by wearable devices? 1️⃣ Location identification of a person 2️⃣ Sleep monitoring of a person 3️⃣ Assisting the hearing impaired person [2019-I]",
+   "o": [
+    "(c) 3 only",
+    "(b) 2 and 3 only",
+    "(d) 1, 2 and 3",
+    "(a) 1 only"
+   ],
+   "a": 2,
+   "e": "Wearable devices like smartwatches and advanced hearing aids can track location, monitor health metrics, and assist with sensory impairments."
+  },
+  {
+   "q": "Consider the following activities: 1️⃣ Spraying pesticides on a crop field 2️⃣ Inspecting the craters of active volcanoes 3️⃣ Collecting breath samples from spouting whales for DNA analysis. At the present level of technology, which of the above activities can be successfully carried out by using drones? [2020-I]",
+   "o": [
+    "(a) 1 and 2 only",
+    "(d) 1, 2 and 3",
+    "(c) 1 and 3 only",
+    "(b) 2 and 3 only"
+   ],
+   "a": 1,
+   "e": "Drones are currently used for precision agriculture, environmental monitoring in hazardous areas, and non-invasive wildlife research."
+  },
+  {
+   "q": "In India, the term \"Public Key Infrastructure\" is used in the context of [2020-I]",
+   "o": [
+    "(a) Digital security infrastructure",
+    "(c) Health care and education infrastructure",
+    "(d) Telecommunication infrastructure",
+    "(b) Food security infrastructure"
+   ],
+   "a": 0,
+   "e": "PKI is the framework used for managing digital certificates and public-key encryption, which are essential for digital signatures and secure online transactions."
+  },
+  {
+   "q": "With the present state of development, Artificial Intelligence can effectively do which of the following? 1️⃣ Bring down electricity consumption in industrial units 2️⃣ Create meaningful short stories and songs 3️⃣ Disease diagnosis 4️⃣ Text-to-speech conversion 5️⃣ Wireless transmission of electrical energy [2020-I]",
+   "o": [
+    "(b) 1, 3, and 4 only",
+    "(c) 2, 4, and 5 only",
+    "(a) 1, 2, 3 and 5 only",
+    "(d) 1, 2, 3, 4 and 5"
+   ],
+   "a": 3,
+   "e": "AI is currently applied in energy optimization, creative content generation, healthcare diagnostics, and linguistics. (Note: While wireless transmission is a separate physical technology, AI can optimize the systems that manage it)."
+  },
+  {
+   "q": "With reference to visible light communication (VLC) technology, which of the following statements are correct? 1️⃣ VLC uses electromagnetic spectrum wavelengths 375 to 780nm 2️⃣ VLC is known as long-range optical wireless communication 3️⃣ VLC can transmit large amounts of data faster than Bluetooth 4️⃣ VLC has no electromagnetic interference [2020-I]",
+   "o": [
+    "(a) 1, 2 and 3 only",
+    "(c) 1, 3 and 4 only",
+    "(d) 2, 3 and 4 only",
+    "(b) 1, 2 and 4 only"
+   ],
+   "a": 1,
+   "e": "VLC (like Li-Fi) uses visible light, which falls in the 375-780nm range. It is much faster than Bluetooth and lacks EMI, but it is restricted to short-range applications."
+  },
+  {
+   "q": "With reference to solar water pumps, consider the following statements: 1️⃣ Solar power can be used for running surface pumps and not for submersible pumps. 2️⃣ Solar power can be used for running centrifugal pumps and not the ones with piston. [2020-I]",
+   "o": [
+    "(b) 2 only",
+    "(d) Neither 1 nor 2",
+    "(a) 1 only",
+    "(c) Both 1 and 2"
+   ],
+   "a": 1,
+   "e": "Solar energy can power both surface and submersible pumps, as well as centrifugal and piston-based systems."
+  }
+ ]
+}

@@ -1,0 +1,2758 @@
+{
+ "title": "Laxmikant Chapter 38-69",
+ "category": "Other",
+ "minutes": 188,
+ "negative": 0.25,
+ "questions": [
+  {
+   "q": "Which article of the Constitution of India provides for free legal aid to the poor and weaker sections of society to ensure justice for all?",
+   "o": [
+    "Article 39A",
+    "Article 14",
+    "Article 22(1)",
+    "Article 40"
+   ],
+   "a": 0,
+   "e": "Article 39A provides for free legal aid to the poor and weaker sections and ensures justice for all. Articles 14 and 22(1) also make it obligatory for the State to ensure equality before law."
+  },
+  {
+   "q": "In which year did the Legal Services Authorities Act come into force?",
+   "o": [
+    "1992",
+    "1987",
+    "1995",
+    "2002"
+   ],
+   "a": 2,
+   "e": "The Legal Services Authorities Act was enacted in 1987 but came into force on 9th November, 1995."
+  },
+  {
+   "q": "Which authority was constituted to monitor and evaluate the implementation of legal aid programs and lay down policies for making legal services available?",
+   "o": [
+    "District Legal Services Authority",
+    "National Legal Services Authority (NALSA)",
+    "Supreme Court Legal Services Committee",
+    "State Legal Services Authority"
+   ],
+   "a": 1,
+   "e": "NALSA was constituted under the Legal Services Authorities Act, 1987, to monitor legal aid programs and lay down policies for making legal services available."
+  },
+  {
+   "q": "Which of the following is NOT a function discharged by State or District Legal Services Authorities?",
+   "o": [
+    "Appointing judges to the High Court",
+    "Organizing Lok Adalats for amicable settlement of disputes",
+    "Organizing legal awareness camps in rural areas",
+    "Providing free and competent legal services to eligible persons"
+   ],
+   "a": 0,
+   "e": "Main functions include providing free legal services to eligible persons, organizing Lok Adalats, and organizing legal awareness camps."
+  },
+  {
+   "q": "What is the annual income limit for eligibility for free legal services in the Supreme Court Legal Services Committee?",
+   "o": [
+    "Rs. 10,00,000",
+    "Rs. 5,00,000",
+    "Rs. 1,00,000",
+    "Rs. 2,00,000"
+   ],
+   "a": 1,
+   "e": "While the general limit is an annual income not exceeding 1 lakh, for the Supreme Court Legal Services Committee, the limit is Rs. 5,00,000."
+  },
+  {
+   "q": "Which of the following categories of persons are eligible for free legal services? 1️⃣ Women and children 2️⃣ Members of SC/ST 3️⃣ Industrial workmen 4️⃣ Victims of mass disasters",
+   "o": [
+    "Only 1 and 2",
+    "Only 2, 3, and 4",
+    "All of the above",
+    "Only 1, 2, and 3"
+   ],
+   "a": 2,
+   "e": "Eligible persons include women, children, SC/ST members, industrial workmen, and victims of mass disasters like floods or earthquakes."
+  },
+  {
+   "q": "What is the meaning of the term 'Lok Adalat'?",
+   "o": [
+    "Village Assembly",
+    "People's Court",
+    "Justice Center",
+    "State Tribunal"
+   ],
+   "a": 1,
+   "e": "The word 'Lok Adalat' means 'People's Court' and the system is based on Gandhian principles."
+  },
+  {
+   "q": "Where was the first Lok Adalat camp organized in the post-independence era in 1982?",
+   "o": [
+    "Tamil Nadu",
+    "Maharashtra",
+    "Rajasthan",
+    "Gujarat"
+   ],
+   "a": 3,
+   "e": "The first Lok Adalat camp in the post-independence era was organized in Gujarat in 1982."
+  },
+  {
+   "q": "Which Act provides statutory status to the institution of Lok Adalats and their awards?",
+   "o": [
+    "The Family Courts Act, 1984",
+    "The Code of Civil Procedure",
+    "The Legal Services Authorities Act, 1987",
+    "The Gram Nyayalayas Act, 2008"
+   ],
+   "a": 2,
+   "e": "The institution of Lok Adalat has been given statutory status under the Legal Services Authorities Act, 1987."
+  },
+  {
+   "q": "A Lok Adalat generally consists of a judicial officer as the chairman and which other members?",
+   "o": [
+    "Two retired judges",
+    "A police officer and a doctor",
+    "A lawyer and a social worker",
+    "A local politician and a government official"
+   ],
+   "a": 2,
+   "e": "Generally, a Lok Adalat consists of a judicial officer as chairman, and a lawyer (advocate) and a social worker as members."
+  },
+  {
+   "q": "Lok Adalats have NO jurisdiction over which of the following?",
+   "o": [
+    "Bank recovery cases",
+    "Pre-litigation disputes",
+    "Cases pending before a court",
+    "Non-compoundable offences"
+   ],
+   "a": 3,
+   "e": "Lok Adalats have no jurisdiction in respect of any case relating to an offence not compoundable under any law."
+  },
+  {
+   "q": "What is the legal status of an award made by a Lok Adalat?",
+   "o": [
+    "It is deemed to be a decree of a Civil Court",
+    "It is an interim order subject to appeal",
+    "It requires approval from the High Court",
+    "It is a mere recommendation"
+   ],
+   "a": 0,
+   "e": "An award of a Lok Adalat is deemed to be a decree of a Civil Court or an order of any other court, and it is final and binding."
+  },
+  {
+   "q": "Can an appeal be filed against the award of a Lok Adalat?",
+   "o": [
+    "No appeal shall lie to any court",
+    "Yes, in the Supreme Court",
+    "Only if both parties agree",
+    "Yes, in the High Court"
+   ],
+   "a": 0,
+   "e": "Every award made by a Lok Adalat shall be final and binding, and no appeal shall lie to any court against it."
+  },
+  {
+   "q": "Which type of Lok Adalat is organized in a multi-utility van to resolve petty cases and spread legal awareness?",
+   "o": [
+    "Mega Lok Adalat",
+    "Continuous Lok Adalat",
+    "Mobile Lok Adalat",
+    "National Lok Adalat"
+   ],
+   "a": 2,
+   "e": "Mobile Lok Adalats are organized using a multi-utility van to resolve petty cases and spread legal awareness."
+  },
+  {
+   "q": "Permanent Lok Adalats were established to deal specifically with which type of cases?",
+   "o": [
+    "Matrimonial disputes",
+    "Land reforms",
+    "Public Utility Services",
+    "Criminal cases"
+   ],
+   "a": 2,
+   "e": "The Legal Services Authorities Act was amended in 2002 to establish Permanent Lok Adalats to deal with public utility services."
+  },
+  {
+   "q": "What is the current pecuniary jurisdiction of the Permanent Lok Adalat as increased in 2015?",
+   "o": [
+    "Rs. 10 Lakhs",
+    "Rs. 5 Crores",
+    "Rs. 1 Crore",
+    "Rs. 50 Lakhs"
+   ],
+   "a": 2,
+   "e": "Originally Rs. 10 lakhs, the Central Government increased the pecuniary jurisdiction of Permanent Lok Adalats to Rs. 1 Crore in 2015."
+  },
+  {
+   "q": "In a Permanent Lok Adalat, what happens if the parties fail to reach an agreement?",
+   "o": [
+    "The Permanent Lok Adalat shall decide the dispute on merits",
+    "The case is referred to the High Court",
+    "The Lok Adalat must dismiss the case",
+    "The parties must file a fresh suit in a Civil Court"
+   ],
+   "a": 0,
+   "e": "If parties fail to reach an agreement, the Permanent Lok Adalat shall decide the dispute on merits."
+  },
+  {
+   "q": "Under which Act were Family Courts established in India?",
+   "o": [
+    "Special Marriage Act, 1954",
+    "Hindu Marriage Act, 1955",
+    "Family Courts Act, 1984",
+    "Code of Civil Procedure, 1908"
+   ],
+   "a": 2,
+   "e": "The Family Courts Act, 1984 was enacted to establish Family Courts for speedy settlement of disputes relating to marriage and family affairs."
+  },
+  {
+   "q": "Which of the following is a feature of Family Courts?",
+   "o": [
+    "State Governments must set up a court in every city with population over one million",
+    "Lawyers have an absolute right to represent parties",
+    "Appeals lie directly to the Supreme Court",
+    "Only criminal matters are handled"
+   ],
+   "a": 0,
+   "e": "The Act makes it obligatory for State Governments to set up a Family Court in every city or town with a population exceeding one million."
+  },
+  {
+   "q": "In Family Court proceedings, parties are NOT entitled as of right to be represented by:",
+   "o": [
+    "Family members",
+    "Social workers",
+    "Amicus curiae",
+    "Legal practitioners"
+   ],
+   "a": 3,
+   "e": "The Act provides that parties to a dispute before a Family Court shall not be entitled, as of right, to be represented by a legal practitioner."
+  },
+  {
+   "q": "Gram Nyayalayas were established to provide justice at which level?",
+   "o": [
+    "District level",
+    "Metropolitan level",
+    "Grass roots level",
+    "State level"
+   ],
+   "a": 2,
+   "e": "The Gram Nyayalayas Act, 2008 was enacted to establish courts at the grass roots level to provide access to justice at the citizens' doorsteps."
+  },
+  {
+   "q": "Who is the presiding officer of a Gram Nyayalaya?",
+   "o": [
+    "District Judge",
+    "District Collector",
+    "Nyayadhikari",
+    "Sarpanch"
+   ],
+   "a": 2,
+   "e": "The presiding officer of a Gram Nyayalaya is known as the Nyayadhikari."
+  },
+  {
+   "q": "A Gram Nyayalaya is presided over by a judicial officer of which rank?",
+   "o": [
+    "Civil Judge (Senior Division)",
+    "Judicial Magistrate of the first class",
+    "Munsif",
+    "Executive Magistrate"
+   ],
+   "a": 1,
+   "e": "The Gram Nyayalaya shall be a court of Judicial Magistrate of the first class."
+  },
+  {
+   "q": "To which court does an appeal in criminal cases from a Gram Nyayalaya lie?",
+   "o": [
+    "District Court",
+    "Supreme Court",
+    "Court of Session",
+    "High Court"
+   ],
+   "a": 2,
+   "e": "Appeal in criminal cases shall lie to the Court of Session."
+  },
+  {
+   "q": "Under the Commercial Courts Act, 2015, what is the currently specified minimum value for a 'commercial dispute'?",
+   "o": [
+    "Rs. 3 Lakh",
+    "Rs. 1 Lakh",
+    "Rs. 10 Crore",
+    "Rs. 1 Crore"
+   ],
+   "a": 0,
+   "e": "In 2018, the specified value of commercial disputes was reduced from 1 crore to 3 lakh rupees."
+  },
+  {
+   "q": "The term 'Panchayati Raj' in India signifies which system?",
+   "o": [
+    "Central administration",
+    "Rural local self-government",
+    "State coordination",
+    "Urban local government"
+   ],
+   "a": 1,
+   "e": "The term Panchayati Raj signifies the system of rural local self-government."
+  },
+  {
+   "q": "Which Constitutional Amendment Act gave constitutional status to Panchayati Raj institutions?",
+   "o": [
+    "44th Amendment Act",
+    "73rd Amendment Act",
+    "74th Amendment Act",
+    "42nd Amendment Act"
+   ],
+   "a": 1,
+   "e": "Panchayati Raj was constitutionalized through the 73rd Constitutional Amendment Act of 1992."
+  },
+  {
+   "q": "Which committee, appointed in 1957, recommended the scheme of 'democratic decentralisation'?",
+   "o": [
+    "G.V.K. Rao Committee",
+    "Ashok Mehta Committee",
+    "Balwantrai Mehta Committee",
+    "L.M. Singhvi Committee"
+   ],
+   "a": 2,
+   "e": "The Balwantrai Mehta Committee, appointed in January 1957, recommended the establishment of 'democratic decentralisation', known as Panchayati Raj."
+  },
+  {
+   "q": "Which state was the first to establish Panchayati Raj in 1959?",
+   "o": [
+    "Gujarat",
+    "Rajasthan",
+    "Tamil Nadu",
+    "Andhra Pradesh"
+   ],
+   "a": 1,
+   "e": "Rajasthan was the first state to establish Panchayati Raj, inaugurated on October 2, 1959, in Nagaur district."
+  },
+  {
+   "q": "The Ashok Mehta Committee (1977) recommended replacing the three-tier system with how many tiers?",
+   "o": [
+    "Single-tier",
+    "Two-tier",
+    "Four-tier",
+    "Five-tier"
+   ],
+   "a": 1,
+   "e": "The Ashok Mehta Committee recommended that the three-tier system be replaced by a two-tier system."
+  },
+  {
+   "q": "Which committee described the bureaucratisation of development administration as 'grass without roots'?",
+   "o": [
+    "Thungon Committee",
+    "G.V.K. Rao Committee",
+    "Gadgil Committee",
+    "Balwantrai Mehta Committee"
+   ],
+   "a": 1,
+   "e": "The G.V.K. Rao Committee (1985) concluded that bureaucratisation weakened PRIs, resulting in 'grass without roots'."
+  },
+  {
+   "q": "Which committee first recommended that Panchayati Raj institutions should be constitutionally recognized, protected, and preserved?",
+   "o": [
+    "Ashok Mehta Committee",
+    "L.M. Singhvi Committee",
+    "Hanumantha Rao Committee",
+    "Dantwala Committee"
+   ],
+   "a": 1,
+   "e": "The L.M. Singhvi Committee (1986) recommended that PRIs should be constitutionally recognised and a new chapter added to the Constitution."
+  },
+  {
+   "q": "Which Prime Minister's government finally succeeded in passing the 73rd Amendment Act, 1992?",
+   "o": [
+    "Atal Bihari Vajpayee",
+    "V.P. Singh",
+    "Rajiv Gandhi",
+    "P.V. Narasimha Rao"
+   ],
+   "a": 3,
+   "e": "The bill introduced by the P.V. Narasimha Rao government finally emerged as the 73rd Constitutional Amendment Act, 1992."
+  },
+  {
+   "q": "Which Part was added to the Constitution by the 73rd Amendment Act, 1992?",
+   "o": [
+    "Part IX",
+    "Part XI",
+    "Part X",
+    "Part IX-A"
+   ],
+   "a": 0,
+   "e": "The 73rd Amendment Act added a new Part-IX to the Constitution, entitled 'The Panchayats'."
+  },
+  {
+   "q": "How many functional items are listed in the Eleventh Schedule of the Constitution related to Panchayats?",
+   "o": [
+    "32 items",
+    "18 items",
+    "29 items",
+    "21 items"
+   ],
+   "a": 2,
+   "e": "The Eleventh Schedule contains 29 functional items placed within the purview of panchayats."
+  },
+  {
+   "q": "What is the minimum age prescribed for contesting elections to Panchayats?",
+   "o": [
+    "25 years",
+    "30 years",
+    "18 years",
+    "21 years"
+   ],
+   "a": 3,
+   "e": "A person is not disqualified on the ground of age if he/she has attained 21 years."
+  },
+  {
+   "q": "Who appoints the State Election Commissioner?",
+   "o": [
+    "The Chief Minister",
+    "The Governor",
+    "The President",
+    "The Chief Justice of High Court"
+   ],
+   "a": 1,
+   "e": "The State Election Commissioner is appointed by the Governor."
+  },
+  {
+   "q": "Every how many years does the Governor of a state constitute a Finance Commission to review the position of Panchayats?",
+   "o": [
+    "6 years",
+    "10 years",
+    "5 years",
+    "3 years"
+   ],
+   "a": 2,
+   "e": "The Governor shall, after every five years, constitute a finance commission."
+  },
+  {
+   "q": "Which state is exempted from the reservation of seats for Scheduled Castes in Panchayats due to its indigenous tribal population?",
+   "o": [
+    "Nagaland",
+    "Mizoram",
+    "Arunachal Pradesh",
+    "Meghalaya"
+   ],
+   "a": 2,
+   "e": "Provision for SC reservation is not applicable to Arunachal Pradesh because it is inhabited fully by indigenous tribal people."
+  },
+  {
+   "q": "The PESA Act (1996) extends the provisions of Part IX to which areas?",
+   "o": [
+    "Metropolitan areas",
+    "Union Territories",
+    "Cantonment boards",
+    "Scheduled Areas"
+   ],
+   "a": 3,
+   "e": "The Parliament enacted the \"Provisions of the Panchayats (Extension to the Scheduled Areas) Act\", 1996, popularly known as PESA."
+  },
+  {
+   "q": "In Scheduled Areas under PESA, what is the minimum reservation for Scheduled Tribes in Panchayats?",
+   "o": [
+    "One-fourth",
+    "One-half",
+    "One-third",
+    "In proportion to population only"
+   ],
+   "a": 1,
+   "e": "Under PESA, reservation for Scheduled Tribes shall not be less than one-half of the total number of seats."
+  },
+  {
+   "q": "Which system of Urban Local Government was constitutionalised by the 74th Amendment Act?",
+   "o": [
+    "District Councils",
+    "Zila Parishads",
+    "Panchayati Raj",
+    "Municipalities"
+   ],
+   "a": 3,
+   "e": "The system of urban government was constitutionalised through the 74th Constitutional Amendment Act of 1992."
+  },
+  {
+   "q": "Which Ministry deals with 'urban local government' in the case of Cantonment Boards?",
+   "o": [
+    "Ministry of Home Affairs",
+    "Ministry of Law and Justice",
+    "Ministry of Defence",
+    "Ministry of Housing and Urban Affairs"
+   ],
+   "a": 2,
+   "e": "At the Central level, the subject of urban local government for cantonment boards is dealt with by the Ministry of Defence."
+  },
+  {
+   "q": "Who is called the 'father of local self-government' in India?",
+   "o": [
+    "Lord Mayo",
+    "Lord Curzon",
+    "Lord Ripon",
+    "Lord Dalhousie"
+   ],
+   "a": 2,
+   "e": "Lord Ripon’s Resolution of 1882 is called the 'Magna Carta' of local self-government, and he is called the father of local-self government in India."
+  },
+  {
+   "q": "Which type of municipality is constituted for a 'larger urban area'?",
+   "o": [
+    "Notified Area Committee",
+    "Municipal Corporation",
+    "Nagar Panchayat",
+    "Municipal Council"
+   ],
+   "a": 1,
+   "e": "The Act provides for a municipal corporation for a larger urban area."
+  },
+  {
+   "q": "What is the population threshold for the mandatory constitution of Wards Committees?",
+   "o": [
+    "Three lakh or more",
+    "Five lakh or more",
+    "One lakh or more",
+    "Two lakh or more"
+   ],
+   "a": 0,
+   "e": "There shall be a wards committee within the territorial area of a municipality having a population of three lakh or more."
+  },
+  {
+   "q": "How many functional items are listed in the Twelfth Schedule related to Municipalities?",
+   "o": [
+    "29 items",
+    "24 items",
+    "18 items",
+    "32 items"
+   ],
+   "a": 2,
+   "e": "The Twelfth Schedule contains eighteen functional items of municipalities."
+  },
+  {
+   "q": "Who is the formal, ornamental head of a Municipal Corporation?",
+   "o": [
+    "Mayor",
+    "Municipal Commissioner",
+    "President",
+    "Governor"
+   ],
+   "a": 0,
+   "e": "The Council is headed by a Mayor, who is basically an ornamental figure and formal head."
+  },
+  {
+   "q": "Which urban local body is an entirely nominated body created for fast-developing industrial towns?",
+   "o": [
+    "Notified Area Committee",
+    "Port Trust",
+    "Township",
+    "Town Area Committee"
+   ],
+   "a": 0,
+   "e": "A notified area committee is an entirely nominated body created for fast developing towns due to industrialisation."
+  },
+  {
+   "q": "Who appoints the executive officer of a Cantonment Board?",
+   "o": [
+    "The Governor",
+    "The Defence Minister",
+    "The President of India",
+    "The Chief Minister"
+   ],
+   "a": 2,
+   "e": "The executive officer of the cantonment board is appointed by the President of India."
+  },
+  {
+   "q": "Which personnel system allows municipal staff to be transferable between different local bodies in a state?",
+   "o": [
+    "Separate Personnel System",
+    "Unified Personnel System",
+    "Integrated Personnel System",
+    "Federal Personnel System"
+   ],
+   "a": 1,
+   "e": "In a Unified Personnel System, state-wide services are created, and staff are transferable between local bodies in the state."
+  },
+  {
+   "q": "Which tax is considered the most important tax revenue for urban local bodies?",
+   "o": [
+    "Water tax",
+    "Professional tax",
+    "Entertainment tax",
+    "Property tax"
+   ],
+   "a": 3,
+   "e": "Property tax is the most important tax revenue for municipal bodies."
+  },
+  {
+   "q": "When was the Central Council of Local Government set up?",
+   "o": [
+    "1992",
+    "1947",
+    "1950",
+    "1954"
+   ],
+   "a": 3,
+   "e": "The Central Council of Local Government was set up in 1954 under Article 263."
+  },
+  {
+   "q": "How many Union Territories are currently in India according to the text?",
+   "o": [
+    "7",
+    "8",
+    "10",
+    "9"
+   ],
+   "a": 1,
+   "e": "At present, there are twenty-eight states and eight union territories."
+  },
+  {
+   "q": "Which Union Territory has a High Court of its own since 1966?",
+   "o": [
+    "Puducherry",
+    "Jammu and Kashmir",
+    "Delhi",
+    "Chandigarh"
+   ],
+   "a": 2,
+   "e": "Delhi is the only union territory that has a high court of its own since 1966."
+  },
+  {
+   "q": "The strength of the Council of Ministers in Delhi is fixed at what percentage of the total strength of the Assembly?",
+   "o": [
+    "5%",
+    "15%",
+    "20%",
+    "10%"
+   ],
+   "a": 3,
+   "e": "The strength of the council of ministers in Delhi is fixed at ten per cent of the total strength of the assembly."
+  },
+  {
+   "q": "Which Schedule of the Constitution deals with the administration of Scheduled Areas and Scheduled Tribes in states OTHER THAN Assam, Meghalaya, Tripura, and Mizoram?",
+   "o": [
+    "Sixth Schedule",
+    "Fourth Schedule",
+    "Fifth Schedule",
+    "Seventh Schedule"
+   ],
+   "a": 2,
+   "e": "The Fifth Schedule deals with the administration of scheduled areas and tribes in any state except the four northeastern states."
+  },
+  {
+   "q": "Who is empowered to declare an area to be a 'Scheduled Area'?",
+   "o": [
+    "The Parliament",
+    "The Governor",
+    "The Prime Minister",
+    "The President"
+   ],
+   "a": 3,
+   "e": "The President is empowered to declare an area to be a scheduled area."
+  },
+  {
+   "q": "What is the maximum number of members in a Tribes Advisory Council?",
+   "o": [
+    "10",
+    "50",
+    "20",
+    "30"
+   ],
+   "a": 2,
+   "e": "The Tribes Advisory Council consists of 20 members, three-fourths of whom are ST representatives in the state assembly."
+  },
+  {
+   "q": "Which Schedule deals with the administration of tribal areas in Assam, Meghalaya, Tripura, and Mizoram?",
+   "o": [
+    "Sixth Schedule",
+    "Ninth Schedule",
+    "Fifth Schedule",
+    "Eighth Schedule"
+   ],
+   "a": 0,
+   "e": "The Sixth Schedule deals with the administration of the tribal areas in the four northeastern states of Assam, Meghalaya, Tripura and Mizoram."
+  },
+  {
+   "q": "How many members of an Autonomous District Council in Sixth Schedule areas are nominated by the Governor?",
+   "o": [
+    "4 members",
+    "6 members",
+    "10 members",
+    "2 members"
+   ],
+   "a": 0,
+   "e": "Each autonomous district has a district council of 30 members, 4 of whom are nominated and 26 elected."
+  },
+  {
+   "q": "The Election Commission of India conducts elections for which of the following? 1️⃣ Parliament 2️⃣ State Legislatures 3️⃣ Office of President 4️⃣ Panchayats",
+   "o": [
+    "1, 3, and 4",
+    "1, 2, and 3",
+    "2, 3, and 4",
+    "All of the above"
+   ],
+   "a": 1,
+   "e": "The Election Commission is vested with control of elections to Parliament, state legislatures, and offices of President and Vice-President. It is NOT concerned with Panchayats and Municipalities."
+  },
+  {
+   "q": "Who determines the conditions of service and tenure of office of the Election Commissioners?",
+   "o": [
+    "The Supreme Court",
+    "The President",
+    "The Chief Election Commissioner",
+    "The Parliament"
+   ],
+   "a": 1,
+   "e": "Subject to any law made by Parliament, the conditions of service and tenure of the election commissioners are determined by the President."
+  },
+  {
+   "q": "The Chairman and members of UPSC hold office for a term of six years or until they attain which age?",
+   "o": [
+    "70 years",
+    "60 years",
+    "65 years",
+    "62 years"
+   ],
+   "a": 2,
+   "e": "Chairman and members of UPSC hold office for six years or until they attain the age of 65 years."
+  },
+  {
+   "q": "On what ground can the President remove the Chairman of UPSC only after referring the matter to the Supreme Court for enquiry?",
+   "o": [
+    "Paid employment outside duties",
+    "Insolvency",
+    "Misbehaviour",
+    "Infirmity of mind"
+   ],
+   "a": 2,
+   "e": "For 'misbehaviour', the President must refer the matter to the Supreme Court for an enquiry before removal."
+  },
+  {
+   "q": "The expenses of the UPSC are charged on which fund?",
+   "o": [
+    "Consolidated Fund of India",
+    "General Reserve Fund",
+    "Public Account of India",
+    "Contingency Fund of India"
+   ],
+   "a": 0,
+   "e": "The entire expenses of the UPSC are charged on the Consolidated Fund of India."
+  },
+  {
+   "q": "Is the Chairman of UPSC eligible for further employment under the Government of India after ceasing to hold office?",
+   "o": [
+    "Yes, as Governor only",
+    "Only with Parliament's approval",
+    "No",
+    "Yes, in any post"
+   ],
+   "a": 2,
+   "e": "The chairman of the UPSC is not eligible for further employment in the Government of India or a state."
+  },
+  {
+   "q": "A member of a State Public Service Commission (SPSC) attains retirement at what age?",
+   "o": [
+    "60 years",
+    "70 years",
+    "65 years",
+    "62 years"
+   ],
+   "a": 3,
+   "e": "Members of a SPSC hold office until they attain the age of 62 years."
+  },
+  {
+   "q": "Although members of a SPSC are appointed by the Governor, they can be removed ONLY by whom?",
+   "o": [
+    "The High Court",
+    "The President",
+    "The Governor",
+    "The State Legislature"
+   ],
+   "a": 1,
+   "e": "Although appointed by the governor, members of a SPSC can be removed only by the President."
+  },
+  {
+   "q": "A Joint State Public Service Commission (JSPSC) is which type of body?",
+   "o": [
+    "Extra-constitutional Body",
+    "Statutory Body",
+    "Judicial Body",
+    "Constitutional Body"
+   ],
+   "a": 1,
+   "e": "A JSPSC can be created by an act of Parliament on request of state legislatures, making it a statutory and not a constitutional body."
+  },
+  {
+   "q": "Under which Article is the Finance Commission of India constituted?",
+   "o": [
+    "Article 280",
+    "Article 263",
+    "Article 324",
+    "Article 243-I"
+   ],
+   "a": 0,
+   "e": "Article 280 of the Constitution provides for a Finance Commission."
+  },
+  {
+   "q": "Who determines the qualifications of the members of the Finance Commission?",
+   "o": [
+    "The President",
+    "The Supreme Court",
+    "The Ministry of Finance",
+    "The Parliament"
+   ],
+   "a": 3,
+   "e": "The Constitution authorises the Parliament to determine the qualifications of members of the commission."
+  },
+  {
+   "q": "Which Amendment Act provided for the establishment of the GST Council?",
+   "o": [
+    "102nd Amendment Act",
+    "101st Amendment Act",
+    "100th Amendment Act",
+    "103rd Amendment Act"
+   ],
+   "a": 1,
+   "e": "The 101st Amendment Act of 2016 paved the way for the establishment of the GST Council."
+  },
+  {
+   "q": "Who acts as the Chairperson of the GST Council?",
+   "o": [
+    "Prime Minister",
+    "Governor of RBI",
+    "Union Revenue Secretary",
+    "Union Finance Minister"
+   ],
+   "a": 3,
+   "e": "The GST Council consists of the Union Finance Minister as the Chairperson."
+  },
+  {
+   "q": "What is the quorum for conducting a meeting of the GST Council?",
+   "o": [
+    "One-half of total members",
+    "One-third of total members",
+    "Three-fourths of total members",
+    "Two-thirds of total members"
+   ],
+   "a": 0,
+   "e": "One-half of the total number of members of the Council is the quorum for conducting a meeting."
+  },
+  {
+   "q": "In the GST Council, the vote of the Central Government has what weightage?",
+   "o": [
+    "Two-thirds",
+    "One-third",
+    "One-fourth",
+    "One-half"
+   ],
+   "a": 1,
+   "e": "The vote of the central government shall have a weightage of one-third of the total votes cast."
+  },
+  {
+   "q": "Which Article directly establishes the National Commission for Scheduled Castes (SCs)?",
+   "o": [
+    "Article 338",
+    "Article 338-A",
+    "Article 338-B",
+    "Article 340"
+   ],
+   "a": 0,
+   "e": "The National Commission for SCs is a constitutional body directly established by Article 338."
+  },
+  {
+   "q": "When was the National Commission for SCs and STs bifurcated into two separate bodies?",
+   "o": [
+    "1990",
+    "2018",
+    "1993",
+    "2003"
+   ],
+   "a": 3,
+   "e": "The 89th Constitutional Amendment Act of 2003 bifurcated the commission into the National Commission for SCs and the National Commission for STs."
+  },
+  {
+   "q": "The National Commission for Backward Classes (NCBC) became a constitutional body under which Article?",
+   "o": [
+    "Article 342-A",
+    "Article 338-A",
+    "Article 338",
+    "Article 338-B"
+   ],
+   "a": 3,
+   "e": "The 102nd Amendment Act of 2018 inserted Article 338-B, conferring constitutional status on the NCBC."
+  },
+  {
+   "q": "Which constitutional amendment inserted Article 350-B for the Special Officer for Linguistic Minorities?",
+   "o": [
+    "1st Amendment",
+    "73rd Amendment",
+    "42nd Amendment",
+    "7th Amendment"
+   ],
+   "a": 3,
+   "e": "The Seventh Constitutional Amendment Act of 1956 inserted Article 350-B."
+  },
+  {
+   "q": "Which officer is described by Dr. B.R. Ambedkar as the \"most important Officer under the Constitution of India\"?",
+   "o": [
+    "Chief Election Commissioner",
+    "Attorney General",
+    "Comptroller and Auditor General",
+    "Chief Justice of India"
+   ],
+   "a": 2,
+   "e": "Dr. B.R. Ambedkar said that the CAG shall be the most important Officer under the Constitution of India."
+  },
+  {
+   "q": "The CAG holds office for a term of six years or until he attains which age?",
+   "o": [
+    "62 years",
+    "75 years",
+    "65 years",
+    "70 years"
+   ],
+   "a": 2,
+   "e": "The CAG holds office for a term of six years or upto the age of 65 years."
+  },
+  {
+   "q": "Can the CAG hold any further office under the Government of India or any state after retirement?",
+   "o": [
+    "Yes, with President's permission",
+    "Yes, as Governor",
+    "No",
+    "Only as a consultant"
+   ],
+   "a": 2,
+   "e": "The CAG is not eligible for further office either under the Government of India or any state after ceasing to hold office."
+  },
+  {
+   "q": "Who secure the accountability of the executive to the Parliament in the sphere of financial administration through audit reports?",
+   "o": [
+    "The CAG",
+    "The Prime Minister",
+    "The Finance Minister",
+    "The Public Accounts Committee"
+   ],
+   "a": 0,
+   "e": "The accountability of the executive to Parliament in financial administration is secured through audit reports of the CAG."
+  },
+  {
+   "q": "The CAG submits how many audit reports to the President?",
+   "o": [
+    "Three",
+    "Four",
+    "Two",
+    "One"
+   ],
+   "a": 0,
+   "e": "The CAG submits three audit reports: on appropriation accounts, finance accounts, and public undertakings."
+  },
+  {
+   "q": "Who is the highest law officer in the country according to Article 76?",
+   "o": [
+    "Law Minister",
+    "Chief Justice of India",
+    "Solicitor General",
+    "Attorney General"
+   ],
+   "a": 3,
+   "e": "The Constitution (Article 76) has provided for the office of the Attorney General for India, who is the highest law officer in the country."
+  },
+  {
+   "q": "What are the qualifications required to be appointed as the Attorney General of India?",
+   "o": [
+    "Qualified to be a judge of Supreme Court",
+    "Qualified to be a judge of High Court",
+    "Qualified to be a Cabinet Minister",
+    "Qualified to be a Member of Parliament"
+   ],
+   "a": 0,
+   "e": "The Attorney General must be a person who is qualified to be appointed as a judge of the Supreme Court."
+  },
+  {
+   "q": "Does the Attorney General of India have the right to vote in Parliamentary proceedings?",
+   "o": [
+    "Only in joint sittings",
+    "Only in committees",
+    "Yes",
+    "No"
+   ],
+   "a": 3,
+   "e": "The AG has the right to speak and take part in proceedings of both Houses, but without a right to vote."
+  },
+  {
+   "q": "Who assists the Attorney General in the fulfilment of official responsibilities? 1️⃣ Solicitor General of India 2️⃣ Additional Solicitor General of India 3️⃣ Law Minister",
+   "o": [
+    "2 and 3 only",
+    "1 and 2 only",
+    "1 and 3 only",
+    "All of the above"
+   ],
+   "a": 1,
+   "e": "The solicitor general and additional solicitor general assist the AG, but only the AG’s office is created by the Constitution."
+  },
+  {
+   "q": "Which Article provides for the office of the Advocate General for the states?",
+   "o": [
+    "Article 177",
+    "Article 165",
+    "Article 148",
+    "Article 76"
+   ],
+   "a": 1,
+   "e": "Article 165 has provided for the office of the advocate general for the states."
+  },
+  {
+   "q": "Which body replaced the 65-year-old Planning Commission in 2015?",
+   "o": [
+    "GST Council",
+    "National Development Council",
+    "Finance Commission",
+    "NITI Aayog"
+   ],
+   "a": 3,
+   "e": "On January 1, 2015, the NITI Aayog was established as the successor to the Planning Commission."
+  },
+  {
+   "q": "The NITI Aayog was created by which of the following?",
+   "o": [
+    "Constitutional Amendment",
+    "Act of Parliament",
+    "Supreme Court Order",
+    "Executive Resolution"
+   ],
+   "a": 3,
+   "e": "NITI Aayog was created by an executive resolution of the Government of India."
+  },
+  {
+   "q": "Who is the ex-officio Chairperson of the NITI Aayog?",
+   "o": [
+    "The President",
+    "The Prime Minister",
+    "The Finance Minister",
+    "The Vice-President"
+   ],
+   "a": 1,
+   "e": "The Chairperson of the NITI Aayog is the Prime Minister of India."
+  },
+  {
+   "q": "Who comprises the Governing Council of NITI Aayog?",
+   "o": [
+    "Experts and specialists only",
+    "Union Cabinet Ministers only",
+    "Chief Ministers of all states and UTs with legislatures and Lt. Governors of UTs",
+    "Members of Parliament"
+   ],
+   "a": 2,
+   "e": "The Governing Council comprises Chief Ministers of all states and UTs with legislatures and Lt. Governors of other UTs."
+  },
+  {
+   "q": "The National Human Rights Commission (NHRC) is which type of body?",
+   "o": [
+    "Statutory Body",
+    "Temporary Body",
+    "Extra-constitutional Body",
+    "Constitutional Body"
+   ],
+   "a": 0,
+   "e": "The NHRC is a statutory body established in 1993 under the Protection of Human Rights Act."
+  },
+  {
+   "q": "What is the term of office for the Chairperson and members of the NHRC?",
+   "o": [
+    "6 years or 65 years age",
+    "3 years or 70 years age",
+    "5 years or 65 years age",
+    "5 years or 70 years age"
+   ],
+   "a": 1,
+   "e": "The chairperson and members of NHRC hold office for a term of three years or until they attain the age of 70 years."
+  },
+  {
+   "q": "Are the recommendations of the National Human Rights Commission binding on the government?",
+   "o": [
+    "No, they are recommendatory",
+    "Only in custodial death cases",
+    "Only if upheld by the High Court",
+    "Yes, always"
+   ],
+   "a": 0,
+   "e": "The functions of the commission are mainly recommendatory in nature and its recommendations are not binding."
+  },
+  {
+   "q": "Which body was established in 2005 under the Right to Information Act?",
+   "o": [
+    "Central Information Commission",
+    "National Investigation Agency",
+    "Central Vigilance Commission",
+    "Central Bureau of Investigation"
+   ],
+   "a": 0,
+   "e": "The Central Information Commission was established by the Central Government in 2005 under the RTI Act."
+  },
+  {
+   "q": "The Central Vigilance Commission (CVC) was established on the recommendation of which committee?",
+   "o": [
+    "Gadgil Committee",
+    "Ashok Mehta Committee",
+    "Balwantrai Mehta Committee",
+    "Santhanam Committee"
+   ],
+   "a": 3,
+   "e": "The CVC's establishment in 1964 was recommended by the Santhanam Committee on Prevention of Corruption."
+  },
+  {
+   "q": "Which agency acts as the \"National Central Bureau\" of Interpol in India?",
+   "o": [
+    "NIA",
+    "RAW",
+    "CVC",
+    "CBI"
+   ],
+   "a": 3,
+   "e": "The CBI acts as the \"National Central Bureau\" of Interpol in India."
+  },
+  {
+   "q": "Which of the following can organize Lok Adalats? 1️⃣ State Legal Services Authority 2️⃣ District Legal Services Authority 3️⃣ Supreme Court Legal Services Committee 4️⃣ Taluk Legal Services Committee",
+   "o": [
+    "1 and 2 only",
+    "1, 2, and 3 only",
+    "All of the above",
+    "1, 2, and 4 only"
+   ],
+   "a": 2,
+   "e": "The State Legal Services Authority, District Legal Services Authority, Supreme Court Legal Services Committee, High Court Legal Services Committee, or Taluk Legal Services Committee may organize Lok Adalats."
+  },
+  {
+   "q": "A case can be referred to a Lok Adalat if: 1️⃣ Both parties agree 2️⃣ One party makes an application and the court is satisfied 3️⃣ The court is satisfied that the matter is appropriate for Lok Adalat",
+   "o": [
+    "1 and 3 only",
+    "All of the above",
+    "2 and 3 only",
+    "1 and 2 only"
+   ],
+   "a": 1,
+   "e": "A case pending before a court can be referred if parties agree, one party applies and the court is satisfied, or if the court itself is satisfied that it is an appropriate case for Lok Adalat."
+  },
+  {
+   "q": "For pre-litigation disputes, a matter is referred to Lok Adalat on the application of:",
+   "o": [
+    "All parties involved",
+    "Both parties to the dispute",
+    "The District Magistrate",
+    "Any one of the parties to the dispute"
+   ],
+   "a": 3,
+   "e": "In the case of a pre-litigation dispute, the matter can be referred to the Lok Adalat on receipt of an application from any one of the parties to the dispute."
+  },
+  {
+   "q": "Which powers of a Civil Court under the Code of Civil Procedure (1908) are vested in a Lok Adalat? 1️⃣ Summoning witnesses 2️⃣ Discovery and production of documents 3️⃣ Reception of evidence on affidavits 4️⃣ Requisitioning public records",
+   "o": [
+    "1, 3, and 4 only",
+    "All of the above",
+    "1 and 2 only",
+    "2, 3, and 4 only"
+   ],
+   "a": 1,
+   "e": "Lok Adalats have Civil Court powers regarding summoning witnesses, discovery of documents, receiving evidence on affidavits, and requisitioning public records."
+  },
+  {
+   "q": "All proceedings before a Lok Adalat are deemed to be:",
+   "o": [
+    "Administrative proceedings",
+    "Judicial proceedings",
+    "Executive proceedings",
+    "Arbitration proceedings"
+   ],
+   "a": 1,
+   "e": "All proceedings before a Lok Adalat shall be deemed to be judicial proceedings within the meaning of the Indian Penal Code."
+  },
+  {
+   "q": "Every Lok Adalat shall be deemed to be a ______ for the purpose of the Code of Criminal Procedure (1973).",
+   "o": [
+    "High Court",
+    "Civil Court",
+    "Criminal Court",
+    "Sessions Court"
+   ],
+   "a": 1,
+   "e": "Every Lok Adalat shall be deemed to be a Civil Court for the purpose of the Code of Criminal Procedure (1973)."
+  },
+  {
+   "q": "National Lok Adalats have been held on a specific subject matter every month since which year?",
+   "o": [
+    "2002",
+    "1995",
+    "2008",
+    "2015"
+   ],
+   "a": 3,
+   "e": "From 2015, National Lok Adalats are being held on a specific subject matter every month."
+  },
+  {
+   "q": "What is the main characteristic of a 'Continuous Lok Adalat'?",
+   "o": [
+    "It only handles bank recovery cases",
+    "It sits every day indefinitely",
+    "It is a mobile van unit",
+    "It sits for a set number of days to facilitate reflections on settlement terms"
+   ],
+   "a": 3,
+   "e": "A Continuous Lok Adalat bench sits for a set number of days to facilitate settlements and encourage parties to reflect on accepted terms before actual settlement."
+  },
+  {
+   "q": "Who can be appointed as the Chairman of a Permanent Lok Adalat?",
+   "o": [
+    "Any social worker with experience",
+    "A serving or retired District Judge",
+    "A first-class magistrate",
+    "Any senior advocate"
+   ],
+   "a": 1,
+   "e": "A Permanent Lok Adalat consists of a Chairman who is or has been a district judge or additional district judge or held a higher judicial office."
+  },
+  {
+   "q": "How many members other than the Chairman sit on a Permanent Lok Adalat?",
+   "o": [
+    "Five",
+    "Two",
+    "One",
+    "Three"
+   ],
+   "a": 1,
+   "e": "The Permanent Lok Adalat consists of a Chairman and two other persons having adequate experience in public utility services."
+  },
+  {
+   "q": "Which of the following is considered a 'Public Utility Service' for Permanent Lok Adalats? 1️⃣ Transport of passengers by air or road 2️⃣ Postal or telephone services 3️⃣ Supply of light or water 4️⃣ Insurance services",
+   "o": [
+    "All of the above",
+    "1 and 2 only",
+    "2 and 3 only",
+    "1, 2, and 4 only"
+   ],
+   "a": 0,
+   "e": "Public utility services include transport (air, road, water), postal/telegraph/phone services, power/light/water supply, sanitation, hospital services, and insurance."
+  },
+  {
+   "q": "Once an application is made to a Permanent Lok Adalat, what is the restriction on the parties?",
+   "o": [
+    "They must settle within 30 days",
+    "They must pay a heavy court fee",
+    "No party shall invoke the jurisdiction of any court in the same dispute",
+    "They cannot hire a lawyer"
+   ],
+   "a": 2,
+   "e": "After an application is made to the Permanent Lok Adalat, no party to that application shall invoke the jurisdiction of any court in the same dispute."
+  },
+  {
+   "q": "Decisions in a Permanent Lok Adalat are made by:",
+   "o": [
+    "The State Government",
+    "A majority of the persons constituting the body",
+    "Unanimous agreement only",
+    "The Chairman alone"
+   ],
+   "a": 1,
+   "e": "Every award made by the Permanent Lok Adalat shall be final and binding and shall be by a majority of the persons constituting it."
+  },
+  {
+   "q": "The Law Commission's 59th report (1974) suggested that family disputes should be handled differently from:",
+   "o": [
+    "Ordinary civil proceedings",
+    "Criminal proceedings",
+    "Tribunal proceedings",
+    "Lok Adalat proceedings"
+   ],
+   "a": 0,
+   "e": "The Law Commission stressed that in family disputes, the Court ought to adopt an approach radically different from that adopted in ordinary civil proceedings."
+  },
+  {
+   "q": "State Governments MUST set up a Family Court in every city or town with a population exceeding:",
+   "o": [
+    "Five Lakhs",
+    "One Million",
+    "Two Million",
+    "Five Million"
+   ],
+   "a": 1,
+   "e": "The Family Courts Act makes it obligatory on State Governments to set up a Family Court in every city or town with a population exceeding one million."
+  },
+  {
+   "q": "Which of the following falls under the jurisdiction of Family Courts? 1️⃣ Matrimonial relief and divorce 2️⃣ Property of the spouses 3️⃣ Guardianship and custody of minors 4️⃣ Maintenance of parents",
+   "o": [
+    "1, 2, and 3 only",
+    "All of the above",
+    "2, 3, and 4 only",
+    "1 and 3 only"
+   ],
+   "a": 1,
+   "e": "Jurisdiction includes matrimonial relief, property of spouses, legitimacy declarations, guardianship/custody of minors, and maintenance of wife, children, and parents."
+  },
+  {
+   "q": "An appeal from a Family Court lies to which court?",
+   "o": [
+    "District Court",
+    "Supreme Court",
+    "High Court",
+    "There is no right of appeal"
+   ],
+   "a": 2,
+   "e": "The Family Courts Act provides for only one right of appeal, which shall lie to the High Court."
+  },
+  {
+   "q": "The Gram Nyayalayas Act, 2008 is broadly based on the recommendations of which report?",
+   "o": [
+    "Ashok Mehta Committee Report",
+    "First Administrative Reforms Commission",
+    "Santhanam Committee Report",
+    "114th Report of Law Commission"
+   ],
+   "a": 3,
+   "e": "The Gram Nyayalayas Act, 2008 is broadly based on the recommendations of the 114th Report of the Law Commission of India."
+  },
+  {
+   "q": "A Nyayadhikari of a Gram Nyayalaya is appointed by the State Government in consultation with the:",
+   "o": [
+    "District Judge",
+    "Governor",
+    "Chief Minister",
+    "High Court"
+   ],
+   "a": 3,
+   "e": "The presiding officer (Nyayadhikari) of a Gram Nyayalaya shall be appointed by the State Government in consultation with the High Court."
+  },
+  {
+   "q": "In criminal trials, a Gram Nyayalaya follows which type of procedure?",
+   "o": [
+    "Summary procedure",
+    "Warrant procedure",
+    "Administrative procedure",
+    "Sessions procedure"
+   ],
+   "a": 0,
+   "e": "The Gram Nyayalaya shall follow summary procedure in criminal trials."
+  },
+  {
+   "q": "Appeals in civil cases from a Gram Nyayalaya must be disposed of within:",
+   "o": [
+    "Two years",
+    "Six months",
+    "Three months",
+    "One year"
+   ],
+   "a": 1,
+   "e": "Appeal in civil cases shall lie to the District Court and shall be heard and disposed of within six months."
+  },
+  {
+   "q": "Under the Commercial Courts Act, 2015, who can constitute a Commercial Division in a High Court?",
+   "o": [
+    "The Governor",
+    "The Chief Justice of the High Court",
+    "The Law Minister",
+    "The President"
+   ],
+   "a": 1,
+   "e": "In High Courts having ordinary original civil jurisdiction, the Chief Justice of the High Court may constitute a Commercial Division."
+  },
+  {
+   "q": "According to the 73rd Amendment, a state with a population not exceeding _______ may NOT constitute panchayats at the intermediate level.",
+   "o": [
+    "10 Lakh",
+    "20 Lakh",
+    "25 Lakh",
+    "15 Lakh"
+   ],
+   "a": 1,
+   "e": "A state having a population not exceeding 20 lakh may not constitute panchayats at the intermediate level."
+  },
+  {
+   "q": "How are chairpersons of panchayats at the intermediate and district levels elected?",
+   "o": [
+    "Nominated by the Governor",
+    "Appointed by the State Government",
+    "Indirectly by and from elected members",
+    "Directly by the people"
+   ],
+   "a": 2,
+   "e": "The chairperson of panchayats at the intermediate and district levels shall be elected indirectly—by and from amongst the elected members thereof."
+  },
+  {
+   "q": "The reservation of seats for SCs and STs in Panchayats is based on:",
+   "o": [
+    "Discretion of the Governor",
+    "A fixed 15% quota",
+    "Proportion of their population to the total population",
+    "Economic backwardness"
+   ],
+   "a": 2,
+   "e": "The Act provides for reservation for SCs and STs in every panchayat in proportion of their population to the total population in the panchayat area."
+  },
+  {
+   "q": "What is the minimum reservation for women in Panchayats, including offices of chairpersons?",
+   "o": [
+    "Two-thirds",
+    "One-third",
+    "One-fourth",
+    "One-half"
+   ],
+   "a": 1,
+   "e": "The act provides for reservation of not less than one-third of the total number of seats and offices of chairpersons for women."
+  },
+  {
+   "q": "Reservation for SCs and STs in Panchayats is currently valid until:",
+   "o": [
+    "Indefinitely",
+    "2025",
+    "2030",
+    "2040"
+   ],
+   "a": 2,
+   "e": "The reservation of seats and offices for SCs and STs shall cease to have effect after the period specified in Article 334 (which is till 2030)."
+  },
+  {
+   "q": "If a Panchayat is dissolved prematurely, the reconstituted Panchayat continues for:",
+   "o": [
+    "Three years",
+    "The period decided by the State Election Commission",
+    "A full five-year term",
+    "The remainder of the original period"
+   ],
+   "a": 3,
+   "e": "A panchayat reconstituted after premature dissolution continues only for the remainder of the period for which the dissolved panchayat would have continued."
+  },
+  {
+   "q": "Under the 73rd Amendment, no person is disqualified from the Panchayat on the ground of age if they have attained:",
+   "o": [
+    "30 years",
+    "21 years",
+    "25 years",
+    "18 years"
+   ],
+   "a": 1,
+   "e": "No person shall be disqualified on the ground that he/she is less than 25 years of age if he/she has attained the age of 21 years."
+  },
+  {
+   "q": "A State Election Commissioner can only be removed in the same manner as:",
+   "o": [
+    "A High Court Judge",
+    "The Chief Minister",
+    "A District Judge",
+    "A Governor"
+   ],
+   "a": 0,
+   "e": "The State Election Commissioner shall not be removed except in the manner and on the grounds prescribed for the removal of a judge of the state high court."
+  },
+  {
+   "q": "The 11th Schedule of the Constitution deals with how many matters related to Panchayats?",
+   "o": [
+    "22",
+    "18",
+    "25",
+    "29"
+   ],
+   "a": 3,
+   "e": "The 11th Schedule contains 29 functional items of the panchayats."
+  },
+  {
+   "q": "Which of the following is a COMPULSORY provision of the 73rd Amendment Act? 1️⃣ Organization of Gram Sabha 2️⃣ 21 years as minimum age for elections 3️⃣ Establishment of State Finance Commission 4️⃣ Reservation for backward classes",
+   "o": [
+    "All of the above",
+    "2, 3, and 4 only",
+    "1, 2, and 3 only",
+    "1 and 2 only"
+   ],
+   "a": 2,
+   "e": "Compulsory provisions include Gram Sabha, three-tier system, direct elections, 21 years as minimum age, and Finance/Election commissions. Reservation for backward classes is a voluntary provision."
+  },
+  {
+   "q": "Which of the following is a VOLUNTARY provision of the 73rd Amendment Act? 1️⃣ Granting financial powers to Panchayats 2️⃣ Reservation for women 3️⃣ Giving representation to MPs and MLAs 4️⃣ 5-year tenure for Panchayats",
+   "o": [
+    "All of the above",
+    "1 and 3 only",
+    "2 and 4 only",
+    "1, 2, and 3 only"
+   ],
+   "a": 1,
+   "e": "Voluntary provisions include representation of MPs/MLAs, reservation for backward classes, and granting specific financial powers like levying taxes."
+  },
+  {
+   "q": "Under PESA (1996), which body is responsible for identifying beneficiaries under poverty alleviation programs?",
+   "o": [
+    "The Zila Parishad",
+    "The Gram Sabha",
+    "The Intermediate Panchayat",
+    "The District Collector"
+   ],
+   "a": 1,
+   "e": "Every Gram Sabha shall be responsible for the identification of beneficiaries under the poverty alleviation and other programmes."
+  },
+  {
+   "q": "Under PESA, what is the reservation requirement for the office of Chairpersons at all levels of Panchayats?",
+   "o": [
+    "Proportional to ST population",
+    "Reserved exclusively for Scheduled Tribes",
+    "One-half for STs",
+    "One-third for STs"
+   ],
+   "a": 1,
+   "e": "Under PESA, all seats of Chairpersons of Panchayats at all levels shall be reserved for the Scheduled Tribes."
+  },
+  {
+   "q": "The PESA Act grants ownership of which resource specifically to the Gram Sabha or appropriate Panchayat?",
+   "o": [
+    "Telecommunication lines",
+    "National Highways",
+    "Major minerals",
+    "Minor forest produce"
+   ],
+   "a": 3,
+   "e": "State Legislatures must ensure that Panchayats and the Gram Sabha are endowed specifically with the ownership of minor forest produce."
+  },
+  {
+   "q": "According to the Second ARC, which tier of Panchayati Raj is in a better position regarding own resource collection?",
+   "o": [
+    "Gram Panchayat",
+    "Zila Parishad",
+    "District Panchayat",
+    "Intermediate Panchayat"
+   ],
+   "a": 0,
+   "e": "In terms of own resource collection, Gram Panchayats are in a better position because they have a tax domain of their own."
+  },
+  {
+   "q": "Which Ministry is the nodal ministry at the Central level for 'Urban Local Government' in general?",
+   "o": [
+    "Ministry of Panchayati Raj",
+    "Ministry of Home Affairs",
+    "Ministry of Housing and Urban Affairs",
+    "Ministry of Finance"
+   ],
+   "a": 2,
+   "e": "At the Central level, the subject of 'urban local government' is dealt with primarily by the Ministry of Housing and Urban Affairs."
+  },
+  {
+   "q": "Where and when was the first municipal corporation in India established?",
+   "o": [
+    "Delhi, 1956",
+    "Calcutta, 1726",
+    "Bombay, 1726",
+    "Madras, 1688"
+   ],
+   "a": 3,
+   "e": "In 1688, the first municipal corporation in India was set up at Madras."
+  },
+  {
+   "q": "Lord Ripon's Resolution of 1882 is often called:",
+   "o": [
+    "The Bill of Rights",
+    "The Magna Carta of local self-government",
+    "The Great Charter",
+    "The Foundation Resolution"
+   ],
+   "a": 1,
+   "e": "Lord Ripon's Resolution of 1882 has been hailed as the 'Magna Carta' of local self-government."
+  },
+  {
+   "q": "Under the Government of India Act of 1919, local self-government became a:",
+   "o": [
+    "Provincial subject",
+    "Central subject",
+    "Transferred subject",
+    "Reserved subject"
+   ],
+   "a": 2,
+   "e": "Under the dyarchical scheme of the 1919 Act, local self-government became a transferred subject under an Indian minister."
+  },
+  {
+   "q": "Which Part was added to the Constitution by the 74th Amendment Act, 1992?",
+   "o": [
+    "Part XI",
+    "Part X",
+    "Part IX-A",
+    "Part IX"
+   ],
+   "a": 2,
+   "e": "The 74th Amendment Act added a new Part IX-A to the Constitution, entitled 'The Municipalities'."
+  },
+  {
+   "q": "A 'Nagar Panchayat' is constituted for which type of area?",
+   "o": [
+    "A smaller urban area",
+    "A larger urban area",
+    "An industrial township",
+    "A transitional area"
+   ],
+   "a": 3,
+   "e": "The Act provides for a nagar panchayat for a transitional area (an area in transition from rural to urban)."
+  },
+  {
+   "q": "Who specifies whether an area is a transitional, smaller, or larger urban area?",
+   "o": [
+    "The Chief Minister",
+    "The Governor",
+    "The Parliament",
+    "The President"
+   ],
+   "a": 1,
+   "e": "The governor has to specify a transitional area, smaller urban area, or larger urban area based on factors like population and revenue."
+  },
+  {
+   "q": "Members of a municipality who have special knowledge or experience in municipal administration:",
+   "o": [
+    "Do not have the right to vote",
+    "Can only vote on financial matters",
+    "Have the right to vote",
+    "Are elected directly"
+   ],
+   "a": 0,
+   "e": "The state legislature may provide for representation of persons with special knowledge, but without the right to vote in meetings."
+  },
+  {
+   "q": "An appeal petition regarding a municipal election must be presented to the authority provided by:",
+   "o": [
+    "The High Court",
+    "The Constitution",
+    "The Election Commission of India",
+    "The State Legislature"
+   ],
+   "a": 3,
+   "e": "No election to any municipality is to be questioned except by an election petition presented to such authority as provided by the state legislature."
+  },
+  {
+   "q": "Which Schedule contains the 18 functional items of municipalities?",
+   "o": [
+    "Eleventh Schedule",
+    "Seventh Schedule",
+    "Tenth Schedule",
+    "Twelfth Schedule"
+   ],
+   "a": 3,
+   "e": "The Twelfth Schedule contains eighteen functional items of municipalities."
+  },
+  {
+   "q": "Who is the chief executive authority of a Municipal Corporation?",
+   "o": [
+    "The Standing Committee Chairman",
+    "The Deputy Mayor",
+    "The Mayor",
+    "The Municipal Commissioner"
+   ],
+   "a": 3,
+   "e": "The municipal commissioner is the chief executive authority of the corporation, usually a member of the IAS."
+  },
+  {
+   "q": "Unlike a Mayor, the President of a Municipality:",
+   "o": [
+    "Is appointed by the Governor",
+    "Enjoys executive powers and is the pivot of administration",
+    "Has no right to preside over meetings",
+    "Is purely ornamental"
+   ],
+   "a": 1,
+   "e": "Unlike the Mayor, the President/Chairman of a municipality plays a significant role, is the pivot of administration, and enjoys executive powers."
+  },
+  {
+   "q": "Which urban local body is established for municipal administration for the civilian population in a military station?",
+   "o": [
+    "Township",
+    "Special Purpose Agency",
+    "Notified Area Committee",
+    "Cantonment Board"
+   ],
+   "a": 3,
+   "e": "A cantonment board is established for municipal administration for the civilian population in the cantonment area."
+  },
+  {
+   "q": "Cantonment Boards work under the administrative control of which Union Ministry?",
+   "o": [
+    "Ministry of Home Affairs",
+    "Ministry of Defence",
+    "Ministry of Finance",
+    "Ministry of Housing and Urban Affairs"
+   ],
+   "a": 1,
+   "e": "A cantonment board works under the administrative control of the defence ministry of the Central government."
+  },
+  {
+   "q": "Under the 'Integrated Personnel System', municipal personnel are:",
+   "o": [
+    "Appointed by the Mayor",
+    "Members of the state services and transferable between local bodies and state departments",
+    "Not transferable to other bodies",
+    "Transferable only within the state municipal cadre"
+   ],
+   "a": 1,
+   "e": "Under the integrated system, municipal personnel are members of state services and transferable between local bodies and state government departments."
+  },
+  {
+   "q": "The All-India Institute of Local Self-Government is located in:",
+   "o": [
+    "New Delhi",
+    "Kolkata",
+    "Hyderabad",
+    "Mumbai"
+   ],
+   "a": 3,
+   "e": "The All-India Institute of Local Self-Government is located in Mumbai and was constituted in 1927."
+  },
+  {
+   "q": "How many Union Territories currently have a Legislative Assembly?",
+   "o": [
+    "Five",
+    "All eight",
+    "Three",
+    "Two"
+   ],
+   "a": 2,
+   "e": "The Union Territories of Puducherry, Delhi, and Jammu and Kashmir are provided with a legislative assembly."
+  },
+  {
+   "q": "Who is the administrator of a Union Territory?",
+   "o": [
+    "A Head of State like a Governor",
+    "The Chief Minister",
+    "A constitutional head of the UT",
+    "An agent of the President"
+   ],
+   "a": 3,
+   "e": "An administrator of a union territory is an agent of the President and not head of state like a governor."
+  },
+  {
+   "q": "Which Union Territory was redesignated as the 'National Capital Territory' in 1992?",
+   "o": [
+    "Delhi",
+    "Chandigarh",
+    "Ladakh",
+    "Puducherry"
+   ],
+   "a": 0,
+   "e": "In 1992, Delhi was redesignated as the National Capital Territory of Delhi."
+  },
+  {
+   "q": "The Governor of which state is concurrently the Administrator of Chandigarh?",
+   "o": [
+    "Haryana",
+    "Rajasthan",
+    "Punjab",
+    "Himachal Pradesh"
+   ],
+   "a": 2,
+   "e": "The Governor of Punjab is concurrently the Administrator of Chandigarh."
+  },
+  {
+   "q": "Which Article deals with 'Special provisions with respect to Delhi'?",
+   "o": [
+    "Article 241",
+    "Article 239",
+    "Article 239AA",
+    "Article 239A"
+   ],
+   "a": 2,
+   "e": "Article 239AA contains special provisions with respect to Delhi, added by the 69th Amendment Act."
+  },
+  {
+   "q": "On which three matters of the State List can the Delhi Legislative Assembly NOT make laws? 1️⃣ Public order 2️⃣ Police 3️⃣ Land 4️⃣ Health",
+   "o": [
+    "1 and 2 only",
+    "1, 2, and 3 only",
+    "All of the above",
+    "2 and 3 only"
+   ],
+   "a": 1,
+   "e": "The assembly of Delhi can make laws on the State List except three matters: public order, police, and land."
+  },
+  {
+   "q": "The Fifth Schedule has been described as:",
+   "o": [
+    "The Magna Carta of tribals",
+    "A temporary arrangement",
+    "A transitionary provision",
+    "A constitution within a constitution"
+   ],
+   "a": 3,
+   "e": "The Fifth Schedule has been called as \"a constitution within a constitution\"."
+  },
+  {
+   "q": "How many states currently have Fifth Schedule Areas?",
+   "o": [
+    "5",
+    "12",
+    "10",
+    "8"
+   ],
+   "a": 2,
+   "e": "At present, ten states of India have scheduled areas under the Fifth Schedule."
+  },
+  {
+   "q": "The Tribes Advisory Council consists of 20 members. How many must be representatives of Scheduled Tribes in the state assembly?",
+   "o": [
+    "All members",
+    "Three-fourths",
+    "Two-thirds",
+    "One-half"
+   ],
+   "a": 1,
+   "e": "The council is to consist of 20 members, three-fourths of whom are to be the representatives of the STs in the state legislative assembly."
+  },
+  {
+   "q": "Any regulation made by the Governor for the peace and good government of a scheduled area requires the assent of:",
+   "o": [
+    "The State Legislature",
+    "The Prime Minister",
+    "The President",
+    "The Parliament"
+   ],
+   "a": 2,
+   "e": "All such regulations (for Scheduled Areas) require the assent of the President."
+  },
+  {
+   "q": "Which commission was appointed in 1960 to report on the administration of scheduled areas?",
+   "o": [
+    "U.N. Dhebar Commission",
+    "Dilip Singh Bhuria Commission",
+    "Santhanam Commission",
+    "Mandal Commission"
+   ],
+   "a": 0,
+   "e": "A commission headed by U.N. Dhebar was appointed in 1960 and submitted its report in 1961."
+  },
+  {
+   "q": "Tribal areas in Assam, Meghalaya, Tripura, and Mizoram are constituted as:",
+   "o": [
+    "Autonomous districts",
+    "Special economic zones",
+    "Centrally administered zones",
+    "Union Territories"
+   ],
+   "a": 0,
+   "e": "The tribal areas in the four states of Assam, Meghalaya, Tripura and Mizoram have been constituted as autonomous districts."
+  },
+  {
+   "q": "The Election Commission of India consists of the Chief Election Commissioner and how many other commissioners?",
+   "o": [
+    "Fixed at five",
+    "Such number as the Parliament decides",
+    "Fixed at two",
+    "Such number as the President may from time to time fix"
+   ],
+   "a": 3,
+   "e": "The Commission shall consist of the CEC and such number of other commissioners, if any, as the President may from time to time fix."
+  },
+  {
+   "q": "Who acts as the Chairman of the Election Commission?",
+   "o": [
+    "The senior-most Election Commissioner",
+    "The President",
+    "The Chief Election Commissioner",
+    "The Prime Minister"
+   ],
+   "a": 2,
+   "e": "When any other election commissioner is appointed, the chief election commissioner shall act as the chairman of the commission."
+  },
+  {
+   "q": "At the state level, the Election Commission of India is assisted by the:",
+   "o": [
+    "Chief Electoral Officer",
+    "District Collector",
+    "State Election Commissioner",
+    "Governor"
+   ],
+   "a": 0,
+   "e": "At the state level, the Election Commission is assisted by the chief electoral officer."
+  },
+  {
+   "q": "Who acts as the district returning officer at the district level for elections?",
+   "o": [
+    "The Collector",
+    "The Nyayadhikari",
+    "The Tehsildar",
+    "The Superintendent of Police"
+   ],
+   "a": 0,
+   "e": "At the district level, the collector acts as the district returning officer."
+  },
+  {
+   "q": "What is the term of office for the Chairman and members of UPSC?",
+   "o": [
+    "6 years or 65 years age",
+    "6 years or 62 years age",
+    "5 years or 62 years age",
+    "5 years or 65 years age"
+   ],
+   "a": 0,
+   "e": "The chairman and members of UPSC hold office for a term of six years or until they attain the age of 65 years, whichever is earlier."
+  },
+  {
+   "q": "The advice of the Supreme Court regarding the removal of a UPSC member for misbehaviour is:",
+   "o": [
+    "Binding on the President",
+    "Subject to Parliamentary approval",
+    "Recommendatory only",
+    "Not binding on the President"
+   ],
+   "a": 0,
+   "e": "Under the provisions of the Constitution, the advice tendered by the Supreme Court in this regard is binding on the President."
+  },
+  {
+   "q": "The Chairman of UPSC, on ceasing to hold office, is eligible for:",
+   "o": [
+    "Further employment in a state government",
+    "Appointment as Law Minister",
+    "No further employment in the GOI or a state",
+    "Further employment under the GOI"
+   ],
+   "a": 2,
+   "e": "The chairman of the UPSC (on ceasing to hold office) is not eligible for further employment in the Government of India or a state."
+  },
+  {
+   "q": "UPSC presents its annual report on performance to:",
+   "o": [
+    "The President",
+    "The Minister of Personnel",
+    "The Prime Minister",
+    "The Parliament"
+   ],
+   "a": 0,
+   "e": "The UPSC presents, annually, to the President a report on its performance."
+  },
+  {
+   "q": "UPSC is known as the ______ in India.",
+   "o": [
+    "Chief administrative body",
+    "Watch-dog of merit system",
+    "Executive recruiting wing",
+    "Central Personnel Agency"
+   ],
+   "a": 1,
+   "e": "The Constitution visualises the UPSC to be the 'watch-dog of merit system' in India."
+  },
+  {
+   "q": "Who is the 'central personnel agency' in India?",
+   "o": [
+    "Ministry of Home Affairs",
+    "CVC",
+    "Department of Personnel and Training (DoPT)",
+    "UPSC"
+   ],
+   "a": 2,
+   "e": "The UPSC is only a central recruiting agency while the DoPT is the central personnel agency in India."
+  },
+  {
+   "q": "A member of a State Public Service Commission (SPSC), on ceasing to hold office, is eligible for appointment as:",
+   "o": [
+    "Governor of a state",
+    "Chief Minister of a state",
+    "Chairman of UPSC",
+    "Member of Parliament"
+   ],
+   "a": 2,
+   "e": "A member of a SPSC is eligible for appointment as the chairman or a member of the UPSC."
+  },
+  {
+   "q": "The Finance Commission is a:",
+   "o": [
+    "Legislative body",
+    "Permanent executive body",
+    "Quasi-judicial body",
+    "Purely administrative body"
+   ],
+   "a": 2,
+   "e": "Article 280 of the Constitution provides for a Finance Commission as a quasi-judicial body."
+  },
+  {
+   "q": "How many members, including the Chairman, are in the Finance Commission?",
+   "o": [
+    "Seven",
+    "Four",
+    "Three",
+    "Five"
+   ],
+   "a": 3,
+   "e": "The Finance Commission consists of a chairman and four other members (total of five)."
+  },
+  {
+   "q": "The Finance Commission recommends the distribution of ______ between the Centre and the states.",
+   "o": [
+    "Total budget surplus",
+    "Gross revenue",
+    "Net proceeds of taxes",
+    "Consolidated Fund assets"
+   ],
+   "a": 2,
+   "e": "The Commission makes recommendations on the distribution of the net proceeds of taxes to be shared between the Centre and states."
+  },
+  {
+   "q": "Who has been described as the \"balancing wheel of fiscal federalism in India\"?",
+   "o": [
+    "The NITI Aayog",
+    "The RBI Governor",
+    "The Finance Commission",
+    "The GST Council"
+   ],
+   "a": 2,
+   "e": "The Constitution of India envisages the Finance commission as the balancing wheel of fiscal federalism in India."
+  },
+  {
+   "q": "Decisions of the GST Council are taken by a majority of not less than ______ of the weighted votes.",
+   "o": [
+    "One-half",
+    "Three-fourths",
+    "Two-thirds",
+    "Four-fifths"
+   ],
+   "a": 1,
+   "e": "Every decision of the Council is to be taken by a majority of not less than three-fourths of the weighted votes."
+  },
+  {
+   "q": "In the GST Council, the votes of all State Governments combined have a weightage of:",
+   "o": [
+    "Three-fourths",
+    "One-third",
+    "One-half",
+    "Two-thirds"
+   ],
+   "a": 3,
+   "e": "The votes of all the state governments combined shall have a weightage of two-thirds of the total votes cast."
+  },
+  {
+   "q": "Which of the following is NOT a constitutional body?",
+   "o": [
+    "National Commission for SCs",
+    "National Commission for STs",
+    "National Commission for Backward Classes",
+    "National Commission for Women"
+   ],
+   "a": 3,
+   "e": "The National Commission for Women (1992) is a statutory body, while the commissions for SCs, STs, and BCs are constitutional."
+  },
+  {
+   "q": "The Chairperson, Vice-Chairperson, and members of the National Commission for SCs hold office for a term of:",
+   "o": [
+    "Until 65 years of age",
+    "Five years",
+    "Three years",
+    "Six years"
+   ],
+   "a": 2,
+   "e": "Under the Rules made by the President, they hold office for a term of three years."
+  },
+  {
+   "q": "The National Commission for STs investigates matters relating to safeguards for STs and reports to:",
+   "o": [
+    "The Prime Minister",
+    "The Ministry of Tribal Affairs",
+    "The President",
+    "The Parliament"
+   ],
+   "a": 2,
+   "e": "The Commission presents an annual report to the President upon the working of safeguards for STs."
+  },
+  {
+   "q": "Which Amendment Act exempted state governments from consulting the NCBC for preparing their own list of backward classes?",
+   "o": [
+    "105th Amendment",
+    "102nd Amendment",
+    "108th Amendment",
+    "101st Amendment"
+   ],
+   "a": 0,
+   "e": "The 105th Amendment Act of 2021 exempted state governments from consultation with the Commission regarding their own SEBC lists."
+  },
+  {
+   "q": "The Special Officer for Linguistic Minorities is appointed by:",
+   "o": [
+    "The Parliament",
+    "The President",
+    "The Ministry of Minority Affairs",
+    "The Chief Justice of India"
+   ],
+   "a": 1,
+   "e": "The Special Officer for Linguistic Minorities is to be appointed by the President of India."
+  },
+  {
+   "q": "At the Central level, the Commissioner for Linguistic Minorities falls under which Ministry?",
+   "o": [
+    "Ministry of Home Affairs",
+    "Ministry of Social Justice",
+    "Ministry of Education",
+    "Ministry of Minority Affairs"
+   ],
+   "a": 3,
+   "e": "At the Central level, the CLM falls under the Ministry of Minority Affairs."
+  },
+  {
+   "q": "Which officer is the head of the Indian Audit and Accounts Department?",
+   "o": [
+    "The Attorney General",
+    "The Finance Secretary",
+    "The Accountant General",
+    "The Comptroller and Auditor General"
+   ],
+   "a": 3,
+   "e": "The CAG is the head of the Indian Audit and Accounts Department."
+  },
+  {
+   "q": "The CAG can be removed from office in the same manner and on the same grounds as:",
+   "o": [
+    "The Vice-President",
+    "A Cabinet Minister",
+    "A Supreme Court Judge",
+    "A High Court Judge"
+   ],
+   "a": 2,
+   "e": "The CAG can be removed on the same grounds and in the same manner as a judge of the Supreme Court."
+  },
+  {
+   "q": "In practice, the CAG of India fulfills the role of:",
+   "o": [
+    "Comptroller only",
+    "Auditor General only",
+    "Comptroller and Auditor General",
+    "Financial Advisor to the PM"
+   ],
+   "a": 1,
+   "e": "In practice, the CAG is fulfilling the role of an Auditor-General only and not that of a Comptroller."
+  },
+  {
+   "q": "The CAG acts as a guide, friend, and philosopher of which Parliamentary committee?",
+   "o": [
+    "Public Accounts Committee",
+    "Committee on Public Undertakings",
+    "Estimates Committee",
+    "Rules Committee"
+   ],
+   "a": 0,
+   "e": "The CAG acts as a guide, friend and philosopher of the Public Accounts Committee of the Parliament."
+  },
+  {
+   "q": "Who is the highest law officer in the country?",
+   "o": [
+    "The Attorney General",
+    "The Solicitor General",
+    "The Chief Justice of India",
+    "The Law Minister"
+   ],
+   "a": 0,
+   "e": "The Attorney General for India is the highest law officer in the country."
+  },
+  {
+   "q": "The Attorney General holds office during the:",
+   "o": [
+    "Term of five years",
+    "Pleasure of the President",
+    "Term of six years",
+    "Pleasure of the Parliament"
+   ],
+   "a": 1,
+   "e": "The AG holds office during the pleasure of the President."
+  },
+  {
+   "q": "Does the Attorney General have the right of audience in all courts in India?",
+   "o": [
+    "Yes",
+    "No, only in the Supreme Court",
+    "Only with the Chief Justice's permission",
+    "Only in High Courts"
+   ],
+   "a": 0,
+   "e": "In the performance of official duties, the AG has the right of audience in all courts in the territory of India."
+  },
+  {
+   "q": "Who is the highest law officer in a state?",
+   "o": [
+    "The Chief Justice of High Court",
+    "The Attorney General",
+    "The Advocate General",
+    "The State Law Minister"
+   ],
+   "a": 2,
+   "e": "The advocate general is the highest law officer in the state."
+  },
+  {
+   "q": "NITI Aayog was established by:",
+   "o": [
+    "A Presidential Ordinance",
+    "An Act of Parliament",
+    "An Executive Resolution",
+    "A Constitutional Amendment"
+   ],
+   "a": 2,
+   "e": "NITI Aayog was created by an executive resolution of the Government of India (Union Cabinet)."
+  },
+  {
+   "q": "Which approach does NITI Aayog follow in its policy thinking?",
+   "o": [
+    "Unitary approach",
+    "Bottom-up approach",
+    "Top-down model",
+    "Command and control"
+   ],
+   "a": 1,
+   "e": "In the spirit of federalism, NITI's policy thinking is shaped by a 'bottom-up' approach."
+  },
+  {
+   "q": "Who is the Chairperson of the NITI Aayog?",
+   "o": [
+    "The Vice-President",
+    "The Finance Minister",
+    "The Prime Minister",
+    "The President"
+   ],
+   "a": 2,
+   "e": "The composition of NITI Aayog includes the Prime Minister of India as the Chairperson."
+  },
+  {
+   "q": "What is the maximum number of ex-officio members from the Union Council of Ministers in NITI Aayog?",
+   "o": [
+    "Two",
+    "Five",
+    "Four",
+    "Six"
+   ],
+   "a": 2,
+   "e": "Maximum of 4 members of the Union Council of Ministers are nominated by the PM as ex-officio members."
+  },
+  {
+   "q": "Who appoints the Vice-Chairperson of the NITI Aayog?",
+   "o": [
+    "The Prime Minister",
+    "The Union Finance Minister",
+    "The Governing Council",
+    "The President of India"
+   ],
+   "a": 0,
+   "e": "The Vice-Chairperson of the NITI Aayog is appointed by the Prime Minister and enjoys the rank of a Cabinet Minister."
+  },
+  {
+   "q": "What is the rank of the Full-time Members of the NITI Aayog?",
+   "o": [
+    "Minister of State",
+    "Cabinet Minister",
+    "Secretary to the Government of India",
+    "Additional Secretary"
+   ],
+   "a": 0,
+   "e": "The full-time members of the NITI Aayog framework enjoy the rank of a Minister of State."
+  },
+  {
+   "q": "How many part-time members can be included in the NITI Aayog at maximum?",
+   "o": [
+    "Four",
+    "Two",
+    "Five",
+    "Ten"
+   ],
+   "a": 1,
+   "e": "The NITI Aayog can have a maximum of 2 part-time members from leading universities or research organizations on a rotation basis."
+  },
+  {
+   "q": "Which hub of NITI Aayog is specifically tasked with engagement and coordination with the States?",
+   "o": [
+    "Sustainable Action Hub",
+    "Strategic Policy Cell",
+    "Team India Hub",
+    "Knowledge and Innovation Hub"
+   ],
+   "a": 2,
+   "e": "The Team India Hub carries out the mandate of fostering cooperative federalism and provides coordination for NITI Aayog's engagement with States."
+  },
+  {
+   "q": "Which of the following is NOT one of the 'seven pillars' of effective governance on which NITI Aayog is based?",
+   "o": [
+    "Command and Control",
+    "Empowering women",
+    "Pro-people",
+    "Transparency"
+   ],
+   "a": 0,
+   "e": "NITI Aayog is based on seven pillars: Pro-people, Pro-active, Participative, Empowering women, Inclusion, Equality, and Transparency. It moved away from the \"command and control\" approach of the past."
+  },
+  {
+   "q": "The National Institute of Labour Economics Research and Development (NILERD) was formerly known as:",
+   "o": [
+    "National Research Bureau",
+    "Institute of Applied Manpower Research",
+    "Planning Institute of India",
+    "Human Resource Planning Office"
+   ],
+   "a": 1,
+   "e": "NILERD, an autonomous body under NITI Aayog, was formerly known as the Institute of Applied Manpower Research (IAMR)."
+  },
+  {
+   "q": "When was the Development Monitoring and Evaluation Office (DMEO) established?",
+   "o": [
+    "1952",
+    "2014",
+    "2010",
+    "2015"
+   ],
+   "a": 3,
+   "e": "The DMEO was established by the Government in 2015 as an attached office of the NITI Aayog."
+  },
+  {
+   "q": "Who recommended the establishment of the erstwhile Planning Commission in 1950?",
+   "o": [
+    "Balwantrai Mehta Committee",
+    "Santhanam Committee",
+    "Advisory Planning Board under K.C. Neogi",
+    "Administrative Reforms Commission"
+   ],
+   "a": 2,
+   "e": "The Planning Commission was established in 1950 on the recommendation of the Advisory Planning Board chaired by K.C. Neogi."
+  },
+  {
+   "q": "Why was the erstwhile Planning Commission criticized as a 'Super Cabinet'?",
+   "o": [
+    "Because it was created by the Constitution",
+    "Because it had executive responsibility for implementation",
+    "Due to its domineering role in policy and directive authority",
+    "Because its members were elected by Parliament"
+   ],
+   "a": 2,
+   "e": "Although established as an advisory staff agency, it emerged as a powerful directive authority, leading critics to call it a 'Super Cabinet'."
+  },
+  {
+   "q": "In which year was the National Development Council (NDC) established?",
+   "o": [
+    "1964",
+    "1950",
+    "2015",
+    "1952"
+   ],
+   "a": 3,
+   "e": "The National Development Council was established in August 1952 by an executive resolution."
+  },
+  {
+   "q": "Who is the Chairman of the National Development Council?",
+   "o": [
+    "The Deputy Chairman of NITI Aayog",
+    "The Prime Minister",
+    "The Union Finance Minister",
+    "The President of India"
+   ],
+   "a": 1,
+   "e": "The Prime Minister of India acts as the chairman and head of the National Development Council."
+  },
+  {
+   "q": "Which body prepares the National Plan that the National Development Council is assigned to consider?",
+   "o": [
+    "GST Council",
+    "Finance Commission",
+    "Planning Commission (now NITI Aayog)",
+    "Zila Parishad"
+   ],
+   "a": 2,
+   "e": "One of the functions of the NDC is to consider the national Plan as prepared by the Planning Commission (now NITI Aayog)."
+  },
+  {
+   "q": "The National Human Rights Commission (NHRC) was established under which Act?",
+   "o": [
+    "The Protection of Human Rights Act, 1993",
+    "The Civil Liberties Act, 1993",
+    "The Constitution of India",
+    "The Human Rights Maintenance Act, 1992"
+   ],
+   "a": 0,
+   "e": "The NHRC is a statutory body established in 1993 under the Protection of Human Rights Act, 1993."
+  },
+  {
+   "q": "Who heads the committee that recommends the appointment of the NHRC Chairperson and members?",
+   "o": [
+    "The Prime Minister",
+    "The Chief Justice of India",
+    "The President",
+    "The Speaker of Lok Sabha"
+   ],
+   "a": 0,
+   "e": "The appointments are made by the President on recommendations of a six-member committee headed by the Prime Minister."
+  },
+  {
+   "q": "What is the maximum age until which a member of the NHRC can hold office?",
+   "o": [
+    "75 years",
+    "65 years",
+    "70 years",
+    "62 years"
+   ],
+   "a": 2,
+   "e": "The chairperson and members of the NHRC hold office for three years or until they attain the age of 70 years, whichever is earlier."
+  },
+  {
+   "q": "Which of the following is NOT an ex-officio member of the NHRC?",
+   "o": [
+    "Chairperson of the National Commission for STs",
+    "Chief Commissioner for Persons with Disabilities",
+    "Chief Election Commissioner",
+    "Chairperson of the National Commission for Women"
+   ],
+   "a": 2,
+   "e": "Ex-officio members include the chairpersons of National Commissions for Minorities, SCs, STs, Women, BCs, Child Rights, and the Chief Commissioner for Persons with Disabilities."
+  },
+  {
+   "q": "The NHRC can only inquire into a matter if it is brought within:",
+   "o": [
+    "Two years of occurrence",
+    "One year of occurrence",
+    "Five years of occurrence",
+    "6 months of occurrence"
+   ],
+   "a": 1,
+   "e": "The commission is not empowered to inquire into any matter after the expiry of one year from the date the violation is alleged to have been committed."
+  },
+  {
+   "q": "Which document defines 'armed forces' for the NHRC and limits its role in investigating them?",
+   "o": [
+    "The Army Act, 1950",
+    "The Constitution of India",
+    "The Protection of Human Rights Act (1993)",
+    "The Indian Penal Code"
+   ],
+   "a": 2,
+   "e": "Under the Protection of Human Rights Act (1993), the NHRC has a limited role regarding the 'armed forces' (naval, military, and air forces)."
+  },
+  {
+   "q": "A State Human Rights Commission (SHRC) can inquire into violations related to subjects in which lists of the Seventh Schedule?",
+   "o": [
+    "State List only",
+    "Union List and Concurrent List",
+    "Union List only",
+    "State List and Concurrent List"
+   ],
+   "a": 3,
+   "e": "An SHRC can inquire into human rights violations only in respect of subjects mentioned in the State List (List-II) and Concurrent List (List-III)."
+  },
+  {
+   "q": "If the NHRC is already inquiring into a case, can the State Human Rights Commission also inquire into it?",
+   "o": [
+    "Yes, they have concurrent jurisdiction",
+    "No, the SHRC does not inquire into that case",
+    "Only if it involves a local state law",
+    "Only if the state government permits"
+   ],
+   "a": 1,
+   "e": "If a case is already being inquired into by the NHRC or any other Statutory Commission, the State Human Rights Commission does not inquire into it."
+  },
+  {
+   "q": "What are the minimum years of experience as a District Judge required for a person to be a member of an SHRC?",
+   "o": [
+    "10 years",
+    "7 years",
+    "5 years",
+    "3 years"
+   ],
+   "a": 1,
+   "e": "Members should be a serving or retired judge of a High Court or a District Judge with a minimum of seven years of experience as a District Judge."
+  },
+  {
+   "q": "Human Rights Courts in every district are established under which Act?",
+   "o": [
+    "The Constitution (89th Amendment)",
+    "State Judicial Service Rules",
+    "Criminal Procedure Code",
+    "Protection of Human Rights Act (1993)"
+   ],
+   "a": 3,
+   "e": "The Protection of Human Rights Act (1993) provides for the establishment of a Human Rights Court in every district for speedy trial."
+  },
+  {
+   "q": "The 2019 Amendment to the Protection of Human Rights Act reduced the term of NHRC/SHRC members from five years to:",
+   "o": [
+    "Three years",
+    "They now serve at pleasure",
+    "Two years",
+    "Four years"
+   ],
+   "a": 0,
+   "e": "The 2019 Amendment Act reduced the term of the chairperson and members of the NHRC and SHRC from five to three years."
+  },
+  {
+   "q": "In which year was the National Commission for Women constituted?",
+   "o": [
+    "1990",
+    "1974",
+    "1992",
+    "1988"
+   ],
+   "a": 2,
+   "e": "The National Commission for Women was constituted in 1992 under the National Commission for Women Act, 1990."
+  },
+  {
+   "q": "Who nominates the Chairperson and members of the National Commission for Women?",
+   "o": [
+    "The President",
+    "The Prime Minister",
+    "The Parliament",
+    "The Central Government (Ministry of Women and Child Development)"
+   ],
+   "a": 3,
+   "e": "The chairperson, members, and member-secretary are all nominated by the Central Government."
+  },
+  {
+   "q": "What is the term of office for the Chairperson and members of the National Commission for Women?",
+   "o": [
+    "Until 65 years of age",
+    "Two years",
+    "Three years",
+    "Five years"
+   ],
+   "a": 2,
+   "e": "The chairperson and members of the National Commission for Women hold office for a term of three years."
+  },
+  {
+   "q": "The concept of 'Parivarik Mahila Lok Adalat' (PMLA) was evolved by:",
+   "o": [
+    "The National Commission for Women",
+    "The Ministry of Law and Justice",
+    "NALSA",
+    "The Supreme Court"
+   ],
+   "a": 0,
+   "e": "The National Commission for Women evolved the innovative concept of Parivarik Mahila Lok Adalat to supplement the efforts of District Legal Service Authorities."
+  },
+  {
+   "q": "A 'child' is defined under the Commissions for Protection of Child Rights Act as a human being below the age of:",
+   "o": [
+    "18 years",
+    "14 years",
+    "15 years",
+    "16 years"
+   ],
+   "a": 0,
+   "e": "Under the Convention and the Act, a child is defined as a human being below the age of eighteen years."
+  },
+  {
+   "q": "Who selects the Chairperson of the National Commission for Protection of Child Rights (NCPCR)?",
+   "o": [
+    "The Chief Justice of India",
+    "The President",
+    "The Prime Minister",
+    "A three-member selection committee headed by a Minister"
+   ],
+   "a": 3,
+   "e": "The Chairperson is appointed on the recommendation of a three-member selection committee constituted by the Central Government."
+  },
+  {
+   "q": "What is the upper age limit for holding the office of Chairperson in the NCPCR?",
+   "o": [
+    "65 years",
+    "62 years",
+    "70 years",
+    "60 years"
+   ],
+   "a": 0,
+   "e": "The upper age limit for the Chairperson of the NCPCR is 65 years, while for members it is 60 years."
+  },
+  {
+   "q": "Which religious community was added to the list of 'minorities' in India in 2014?",
+   "o": [
+    "Buddhists",
+    "Zoroastrians",
+    "Jains",
+    "Sikhs"
+   ],
+   "a": 2,
+   "e": "Five communities were notified in 1993; in 2014, the Jain community was added to the list."
+  },
+  {
+   "q": "How many members of the National Commission for Minorities must belong to minority communities?",
+   "o": [
+    "There is no such requirement",
+    "Five members including the Chairperson",
+    "At least three members",
+    "All members"
+   ],
+   "a": 1,
+   "e": "Notably, five members of the Commission, including the Chairperson, should be from amongst the minority communities."
+  },
+  {
+   "q": "The Central Information Commission (CIC) was established in 2005 under the:",
+   "o": [
+    "Constitution of India",
+    "Right to Information Act",
+    "Official Secrets Act",
+    "Administrative Reforms Act"
+   ],
+   "a": 1,
+   "e": "The CIC was established by the Central Government in 2005 under the provisions of the Right to Information Act (2005)."
+  },
+  {
+   "q": "What is the maximum number of Information Commissioners (excluding the Chief) in the Central Information Commission?",
+   "o": [
+    "Twelve",
+    "Ten",
+    "Five",
+    "Fifteen"
+   ],
+   "a": 1,
+   "e": "The Commission consists of a Chief Information Commissioner and not more than ten Information Commissioners."
+  },
+  {
+   "q": "Who heads the committee that recommends the appointment of the Chief Information Commissioner?",
+   "o": [
+    "The Leader of the Opposition",
+    "The President",
+    "The Prime Minister",
+    "The Chief Justice of India"
+   ],
+   "a": 2,
+   "e": "Appointment is made by the President on the recommendation of a committee consisting of the Prime Minister, the Leader of Opposition in Lok Sabha, and a Union Cabinet Minister."
+  },
+  {
+   "q": "After the RTI Amendment Act of 2019, who prescribes the term of office for Information Commissioners?",
+   "o": [
+    "The President",
+    "The Central Government",
+    "The RTI Act (fixed at 5 years)",
+    "The Chief Information Commissioner"
+   ],
+   "a": 1,
+   "e": "The 2019 Amendment provided that Information Commissioners shall hold office for such term as prescribed by the Central Government (previously fixed at 5 years)."
+  },
+  {
+   "q": "What is the maximum penalty the Information Commission can impose on a Public Information Officer per day?",
+   "o": [
+    "Rs. 1000",
+    "Rs. 100",
+    "Rs. 500",
+    "Rs. 250"
+   ],
+   "a": 3,
+   "e": "The Commission can impose a penalty on a PIO at the rate of Rs. 250 per day up to a maximum of Rs. 25,000."
+  },
+  {
+   "q": "Who is the chairperson of the committee that recommends the Central Vigilance Commissioner?",
+   "o": [
+    "The Speaker of Lok Sabha",
+    "The Prime Minister",
+    "The President",
+    "The Home Minister"
+   ],
+   "a": 1,
+   "e": "The CVC is appointed by the President on the recommendation of a three-member committee consisting of the Prime Minister, the Union Minister of Home Affairs, and the Leader of Opposition in Lok Sabha."
+  },
+  {
+   "q": "What is the term of office for the Central Vigilance Commissioner?",
+   "o": [
+    "6 years",
+    "4 years",
+    "5 years",
+    "3 years"
+   ],
+   "a": 1,
+   "e": "The Central Vigilance Commissioner and Vigilance Commissioners hold office for a term of four years or until age 65."
+  },
+  {
+   "q": "The 'Whistle Blowers' Resolution is technically known as:",
+   "o": [
+    "Transparency Directive",
+    "CVC Resolution",
+    "Anti-Corruption Order",
+    "PIDPI Resolution"
+   ],
+   "a": 3,
+   "e": "The Whistle Blowers Resolution is popularly known as the \"Public Interest Disclosure and Protection of Informers' Resolution\" (PIDPI), 2004."
+  },
+  {
+   "q": "In which year did the Special Police Establishment (the origin of CBI) originate?",
+   "o": [
+    "2003",
+    "1946",
+    "1963",
+    "1941"
+   ],
+   "a": 3,
+   "e": "The CBI traces its origin to the Special Police Establishment set up in 1941."
+  },
+  {
+   "q": "Under which Act does the CBI derive its powers?",
+   "o": [
+    "The CBI Act, 1963",
+    "The Delhi Special Police Establishment Act, 1946",
+    "The Prevention of Corruption Act, 1988",
+    "The RTI Act, 2005"
+   ],
+   "a": 1,
+   "e": "The CBI is not a statutory body; it derives its powers from the Delhi Special Police Establishment Act, 1946."
+  },
+  {
+   "q": "Which Ministry has administrative control over the CBI?",
+   "o": [
+    "Ministry of Home Affairs",
+    "Ministry of Personnel (DoPT)",
+    "Ministry of Finance",
+    "Ministry of Law and Justice"
+   ],
+   "a": 1,
+   "e": "The CBI functions under the administrative control of the Department of Personnel and Training (DoPT) of the Ministry of Personnel."
+  },
+  {
+   "q": "What is the motto of the Central Bureau of Investigation?",
+   "o": [
+    "Industry, Impartiality and Integrity",
+    "Service and Loyalty",
+    "Satyameva Jayate",
+    "Vigilance and Valor"
+   ],
+   "a": 0,
+   "e": "The motto of the CBI is \"Industry, Impartiality and Integrity\"."
+  },
+  {
+   "q": "The Director of CBI is appointed on the recommendation of a committee including the PM, CJI, and:",
+   "o": [
+    "Attorney General",
+    "Leader of Opposition in Lok Sabha",
+    "Speaker of Lok Sabha",
+    "Home Minister"
+   ],
+   "a": 1,
+   "e": "The committee consists of the Prime Minister (Chairperson), the Leader of Opposition in the Lok Sabha, and the Chief Justice of India (or a Supreme Court Judge)."
+  },
+  {
+   "q": "The Lokpal consists of a Chairperson and a maximum of how many members?",
+   "o": [
+    "Four",
+    "Ten",
+    "Six",
+    "Eight"
+   ],
+   "a": 3,
+   "e": "The Lokpal is to consist of a Chairperson with a maximum of 8 members, of which 50% shall be judicial members."
+  },
+  {
+   "q": "Which percentage of the members of Lokpal must come from SCs, STs, OBCs, minorities, and women?",
+   "o": [
+    "75%",
+    "50%",
+    "33%",
+    "25%"
+   ],
+   "a": 1,
+   "e": "50% of the members of the Lokpal shall come from amongst the SCs, the STs, the OBCs, minorities and women."
+  },
+  {
+   "q": "The first state to establish the institution of Lokayukta in 1971 was:",
+   "o": [
+    "Rajasthan",
+    "Odisha",
+    "Karnataka",
+    "Maharashtra"
+   ],
+   "a": 3,
+   "e": "The institution of lokayukta was established first in Maharashtra in 1971."
+  },
+  {
+   "q": "Which organization was established specifically in the backdrop of the 2008 Mumbai terror attacks?",
+   "o": [
+    "National Investigation Agency (NIA)",
+    "CVC",
+    "NDMA",
+    "CBI"
+   ],
+   "a": 0,
+   "e": "The NIA was established in 2009 in the backdrop of the 2008 Mumbai terror attacks, popularly known as the 26/11 incident."
+  },
+  {
+   "q": "Who is the ex-officio chairperson of the National Disaster Management Authority (NDMA)?",
+   "o": [
+    "The President",
+    "The Home Minister",
+    "The Prime Minister",
+    "The Chief of Defence Staff"
+   ],
+   "a": 2,
+   "e": "The NDMA consists of a chairperson and other members (not exceeding nine), with the Prime Minister as the ex-officio chairperson."
+  }
+ ]
+}

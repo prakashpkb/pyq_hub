@@ -1,0 +1,2181 @@
+{
+ "title": "Chapter 11 - 20",
+ "category": "Laxmikant",
+ "minutes": 148,
+ "negative": 0.25,
+ "questions": [
+  {
+   "q": "Which of the following statements is/are correct regarding the amendment of the Indian Constitution? 1️⃣ The procedure for its amendment is a synthesis of flexibility and rigidity. 2️⃣ Article 368 in Part XX of the Constitution deals with the power of Parliament to amend the Constitution. 3️⃣ Parliament can amend any provision of the Constitution, including those which form the 'basic structure'.",
+   "o": [
+    "1 and 3 only",
+    "1, 2 and 3",
+    "2 and 3 only",
+    "1 and 2 only"
+   ],
+   "a": 3,
+   "e": "The Indian Constitution is neither as flexible as the British Constitution nor as rigid as the American Constitution, but a synthesis of both. Article 368 in Part XX deals with the powers of Parliament to amend the Constitution and its procedure. However, the Supreme Court ruled in the Kesavananda Bharati case (1973) that Parliament cannot amend provisions forming the 'basic structure'."
+  },
+  {
+   "q": "With reference to the procedure for the amendment of the Constitution as laid down in Article 368, consider the following statements: 1️⃣ An amendment bill can be initiated in either House of Parliament or in the State Legislatures. 2️⃣ The bill can be introduced either by a minister or by a private member. 3️⃣ Prior permission of the President is required before introducing the bill in Parliament.",
+   "o": [
+    "1 and 2 only",
+    "1 and 3 only",
+    "2 only",
+    "1, 2 and 3"
+   ],
+   "a": 2,
+   "e": "An amendment of the Constitution can be initiated only by the introduction of a bill in either House of Parliament and not in the state legislatures. The bill can be introduced by a minister or a private member and does not require prior permission of the President."
+  },
+  {
+   "q": "In case of a disagreement between the two Houses of Parliament regarding a Constitutional Amendment Bill, which of the following happens?",
+   "o": [
+    "There is no provision for holding a joint sitting.",
+    "The Bill is referred to the Supreme Court for arbitration.",
+    "The President calls for a joint sitting of both Houses.",
+    "The Lok Sabha's decision prevails over the Rajya Sabha."
+   ],
+   "a": 0,
+   "e": "Each House must pass the constitutional amendment bill separately. In case of a disagreement between the two Houses, there is no provision for holding a joint sitting of the two Houses for the purpose of deliberation and passage of the bill."
+  },
+  {
+   "q": "Which of the following provisions requires ratification by the legislatures of half of the states by a simple majority for its amendment? 1️⃣ Election of the President and its manner. 2️⃣ Fundamental Rights. 3️⃣ Supreme Court and High Courts. 4️⃣ Distribution of legislative powers between the Union and the states.",
+   "o": [
+    "1, 2 and 3",
+    "1, 2, 3 and 4",
+    "2, 3 and 4",
+    "1, 3 and 4"
+   ],
+   "a": 3,
+   "e": "Provisions related to the federal structure, such as the election of the President, the extent of executive power of the Union and states, the Supreme Court and high courts, and the distribution of legislative powers, require ratification by half of the states. Fundamental Rights are amended by a special majority of Parliament alone."
+  },
+  {
+   "q": "Consider the following statements regarding the President's role in the constitutional amendment process: 1️⃣ The 24th Constitutional Amendment Act of 1971 made it obligatory for the President to give his/her assent to a constitutional amendment bill. 2️⃣ The President can withhold his/her assent to the bill but cannot return it for reconsideration. 3️⃣ The President must give his/her assent and can neither withhold assent nor return the bill.",
+   "o": [
+    "1, 2 and 3",
+    "1 and 2 only",
+    "1 and 3 only",
+    "2 and 3 only"
+   ],
+   "a": 2,
+   "e": "The 24th Constitutional Amendment Act of 1971 made it obligatory for the President to give assent to a constitutional amendment bill. After the bill is passed by both Houses and ratified by states (if necessary), the President must give his/her assent; he/she can neither withhold assent nor return the bill for reconsideration."
+  },
+  {
+   "q": "Which of the following amendments are NOT deemed to be amendments of the Constitution for the purposes of Article 368?",
+   "o": [
+    "Amendments by simple majority of Parliament.",
+    "Amendments requiring ratification by half of the states.",
+    "Amendments affecting the 'basic structure'.",
+    "Amendments by special majority of Parliament."
+   ],
+   "a": 0,
+   "e": "Some articles provide for the amendment of certain provisions by a simple majority of Parliament (similar to the ordinary legislative process). Notably, these amendments are not deemed to be amendments of the Constitution for the purposes of Article 368."
+  },
+  {
+   "q": "Which of the following can be amended by a simple majority of Parliament? 1️⃣ Admission or establishment of new states. 2️⃣ Abolition or creation of legislative councils in states. 3️⃣ Use of English language in Parliament. 4️⃣ Directive Principles of State Policy.",
+   "o": [
+    "1, 2, 3 and 4",
+    "1, 2 and 3 only",
+    "1 and 3 only",
+    "2, 3 and 4 only"
+   ],
+   "a": 1,
+   "e": "Provisions like the admission of new states, creation of legislative councils, and the use of English in Parliament can be amended by a simple majority. Directive Principles of State Policy (DPSP) require a special majority under Article 368."
+  },
+  {
+   "q": "For the purpose of a 'special majority' under Article 368, what does the expression 'total membership' mean?",
+   "o": [
+    "Total number of members who are eligible to vote.",
+    "Total number of members comprising the House including vacancies and absentees.",
+    "Total number of members present at the time of voting.",
+    "Total number of members excluding those who are on leave."
+   ],
+   "a": 1,
+   "e": "The expression 'total membership' means the total number of members comprising the House irrespective of the fact whether there are vacancies or absentees."
+  },
+  {
+   "q": "Which of the following provisions can be amended by a special majority of Parliament and consent of states?",
+   "o": [
+    "Directive Principles of State Policy.",
+    "Fundamental Rights.",
+    "Quorum in Parliament.",
+    "Representation of states in Parliament."
+   ],
+   "a": 3,
+   "e": "Representation of states in Parliament is a federal provision and requires a special majority of Parliament plus the consent of half of the state legislatures. Fundamental Rights and DPSP require only a special majority of Parliament, while quorum is amended by a simple majority."
+  },
+  {
+   "q": "In which case did the Supreme Court rule that the power of Parliament to amend the Constitution under Article 368 also includes the power to amend Fundamental Rights?",
+   "o": [
+    "Minerva Mills case (1980)",
+    "Waman Rao case (1980)",
+    "Shankari Prasad case (1951)",
+    "Golak Nath case (1967)"
+   ],
+   "a": 2,
+   "e": "In the Shankari Prasad case (1951), the Supreme Court ruled that the power of Parliament to amend the Constitution under Article 368 includes the power to amend Fundamental Rights, holding that 'law' in Article 13 only includes ordinary laws."
+  },
+  {
+   "q": "In the Golak Nath case (1967), the Supreme Court ruled that:",
+   "o": [
+    "Judicial review is a basic feature of the Constitution.",
+    "Fundamental Rights can be amended by a constitutional amendment act.",
+    "The basic structure of the Constitution cannot be amended.",
+    "Fundamental Rights are given a 'transcendental and immutable' position."
+   ],
+   "a": 3,
+   "e": "In the Golak Nath case (1967), the Supreme Court reversed its earlier stand and ruled that Fundamental Rights are given a 'transcendental and immutable' position; therefore, Parliament cannot abridge or take away any of these rights."
+  },
+  {
+   "q": "The doctrine of 'basic structure' was first laid down by the Supreme Court in:",
+   "o": [
+    "Shankari Prasad case (1951)",
+    "Sajjan Singh case (1964)",
+    "Indira Nehru Gandhi case (1975)",
+    "Kesavananda Bharati case (1973)"
+   ],
+   "a": 3,
+   "e": "The Supreme Court laid down the new doctrine of the 'basic structure' (or 'basic features') of the Constitution in the landmark Kesavananda Bharati case (1973)."
+  },
+  {
+   "q": "In the Minerva Mills case (1980), the Supreme Court invalidated a provision of the 42nd Amendment Act (1976) because:",
+   "o": [
+    "It excluded judicial review, which is a 'basic feature' of the Constitution.",
+    "It took away the right to property.",
+    "It allowed for a joint sitting for constitutional amendments.",
+    "It transferred subjects from the State List to the Concurrent List."
+   ],
+   "a": 0,
+   "e": "The Supreme Court in the Minerva Mills case (1980) held that since the Constitution conferred a limited amending power on Parliament, Parliament cannot enlarge that power into an absolute one. It invalidated the provision excluding judicial review as it is a basic feature."
+  },
+  {
+   "q": "According to the Waman Rao case (1980), the doctrine of 'basic structure' applies to constitutional amendments enacted after:",
+   "o": [
+    "August 15, 1947",
+    "April 24, 1973",
+    "January 26, 1950",
+    "November 26, 1949"
+   ],
+   "a": 1,
+   "e": "In the Waman Rao case (1980), the Supreme Court clarified that the doctrine of the 'basic structure' would apply to constitutional amendments enacted after April 24, 1973, which was the date of the judgement in the Kesavananda Bharati case."
+  },
+  {
+   "q": "Which of the following are recognized as elements of the 'basic structure' of the Constitution? 1️⃣ Supremacy of the Constitution. 2️⃣ Secular character of the Constitution. 3️⃣ Separation of powers between legislature, executive and judiciary. 4️⃣ Rule of law.",
+   "o": [
+    "2 and 3 only",
+    "1, 2, 3 and 4",
+    "1, 2 and 4 only",
+    "1 and 2 only"
+   ],
+   "a": 1,
+   "e": "Based on various judgements, elements of the basic structure include the supremacy of the Constitution, secular character, separation of powers, rule of law, federalism, and judicial review, among others."
+  },
+  {
+   "q": "Which case declared 'Free and fair elections' as a basic feature of the Constitution?",
+   "o": [
+    "Kesavananda Bharati case (1973)",
+    "Indira Nehru Gandhi case (1975)",
+    "S.R. Bommai case (1994)",
+    "Minerva Mills case (1980)"
+   ],
+   "a": 1,
+   "e": "In the Indira Nehru Gandhi case (1975), popularly known as the Election Case, the Supreme Court declared free and fair elections as a basic feature of the Constitution."
+  },
+  {
+   "q": "In which system of government is the executive responsible to the legislature for its policies and acts?",
+   "o": [
+    "Monarchical system",
+    "Parliamentary system",
+    "Unitary system",
+    "Presidential system"
+   ],
+   "a": 1,
+   "e": "The parliamentary system of government is one in which the executive is responsible to the legislature for its policies and acts. In contrast, the presidential system's executive is not responsible to the legislature."
+  },
+  {
+   "q": "The parliamentary system of government is also known as: 1️⃣ Cabinet government. 2️⃣ Responsible government. 3️⃣ Westminster model of government. 4️⃣ Non-responsible government.",
+   "o": [
+    "1, 2, 3 and 4",
+    "2, 3 and 4 only",
+    "1, 2 and 3 only",
+    "1 and 2 only"
+   ],
+   "a": 2,
+   "e": "Parliamentary government is known as cabinet government (as the cabinet is the nucleus of power), responsible government (as the cabinet is accountable to Parliament), and the Westminster model (after the British Parliament's location)."
+  },
+  {
+   "q": "In the Indian parliamentary system, who is the 'nominal executive' and who is the 'real executive'?",
+   "o": [
+    "Prime Minister; President",
+    "President; Cabinet",
+    "President; Prime Minister",
+    "Speaker; Prime Minister"
+   ],
+   "a": 2,
+   "e": "The President is the nominal executive (de jure executive or titular executive), while the Prime Minister is the real executive (de facto executive)."
+  },
+  {
+   "q": "What is the 'bedrock principle' of parliamentary government in India?",
+   "o": [
+    "Secrecy",
+    "Collective Responsibility",
+    "Dissolution of the Lower House",
+    "Political Homogeneity"
+   ],
+   "a": 1,
+   "e": "Collective responsibility is the bedrock principle of parliamentary government. Ministers are collectively responsible to the Parliament in general and to the Lok Sabha in particular (Article 75)."
+  },
+  {
+   "q": "Which article of the Constitution stipulates that a minister who is not a member of Parliament for six consecutive months ceases to be a minister?",
+   "o": [
+    "Article 75",
+    "Article 164",
+    "Article 163",
+    "Article 74"
+   ],
+   "a": 0,
+   "e": "Under the principle of Double Membership, ministers must be members of the legislature. The Constitution stipulates (Article 75) that a minister who is not a member of Parliament for six consecutive months ceases to be a minister."
+  },
+  {
+   "q": "In the American presidential system, the President is: 1️⃣ Both head of State and head of government. 2️⃣ Elected for a fixed tenure of four years. 3️⃣ Responsible to the Congress for his/her acts. 4️⃣ Able to dissolve the House of Representatives.",
+   "o": [
+    "1, 2 and 4 only",
+    "1, 2, 3 and 4",
+    "2 and 3 only",
+    "1 and 2 only"
+   ],
+   "a": 3,
+   "e": "In the American system, the President is both head of State and government, elected for a fixed four-year term, and is not responsible to Congress. The President cannot dissolve the House of Representatives."
+  },
+  {
+   "q": "Which of the following is a merit of the parliamentary system?",
+   "o": [
+    "Continuity of policies.",
+    "Stability of government.",
+    "Government by experts.",
+    "Harmony between legislature and executive."
+   ],
+   "a": 3,
+   "e": "A major merit of the parliamentary system is harmony between the legislature and the executive, as the executive is part of the legislature and both are interdependent, reducing disputes."
+  },
+  {
+   "q": "Why did the founding fathers of the Indian Constitution prefer the parliamentary system? 1️⃣ Familiarity with the system during British rule. 2️⃣ Preference for more responsibility over stability. 3️⃣ Need to avoid legislative-executive conflicts. 4️⃣ Heterogeneous nature of Indian society.",
+   "o": [
+    "1 and 2 only",
+    "1, 2 and 4 only",
+    "1, 2, 3 and 4",
+    "2 and 3 only"
+   ],
+   "a": 2,
+   "e": "Reasons include familiarity from the British era, Dr. Ambedkar’s preference for responsibility, the desire to avoid conflicts inherent in presidential systems, and the need to represent India's complex plural society."
+  },
+  {
+   "q": "How does the Indian parliamentary model differ from the British model? 1️⃣ India has a republican system, while Britain has a monarchical system. 2️⃣ The British Parliament is sovereign, while the Indian Parliament has limited powers. 3️⃣ In India, the Prime Minister must be a member of the Lower House. 4️⃣ Britain has a system of legal responsibility for ministers, while India does not.",
+   "o": [
+    "1, 2, 3 and 4",
+    "2, 3 and 4 only",
+    "1 and 3 only",
+    "1, 2 and 4 only"
+   ],
+   "a": 3,
+   "e": "India's head of state is elected (Republic), unlike the hereditary British monarch. The Indian Parliament is not supreme due to a written Constitution and judicial review. In India, the PM can be from either House, whereas in Britain, the PM must be from the House of Commons. India also lacks the British system of legal responsibility for ministers."
+  },
+  {
+   "q": "Political scientists classify governments into unitary and federal on the basis of:",
+   "o": [
+    "The method of election of the head of state.",
+    "The presence or absence of a written constitution.",
+    "The number of houses in the legislature.",
+    "The nature of relations between the national and regional governments."
+   ],
+   "a": 3,
+   "e": "Governments are classified as unitary or federal based on the nature of relations between the national (Central) government and the regional (State) governments."
+  },
+  {
+   "q": "Which of the following countries has a federal model of government?",
+   "o": [
+    "France",
+    "Britain",
+    "USA",
+    "China"
+   ],
+   "a": 2,
+   "e": "Unitary models exist in Britain, France, Japan, and China. Federal models are found in the USA, Switzerland, Australia, Canada, Russia, and Brazil."
+  },
+  {
+   "q": "The term 'federation' is derived from the Latin word 'foedus', which means:",
+   "o": [
+    "Treaty or Agreement",
+    "Union",
+    "Division",
+    "Sovereignty"
+   ],
+   "a": 0,
+   "e": "The term 'federation' comes from the Latin word 'foedus', meaning 'treaty' or 'agreement'. A federation is a new state formed through a treaty between various units."
+  },
+  {
+   "q": "According to Dr. B.R. Ambedkar, the phrase 'Union of States' was preferred in Article 1 to 'Federation of States' to indicate: 1️⃣ The Indian federation is not the result of an agreement among states. 2️⃣ The states have the right to secede from the federation. 3️⃣ The states have no right to secede from the federation. 4️⃣ The federation is indestructible.",
+   "o": [
+    "1 and 2 only",
+    "1, 2, 3 and 4",
+    "1, 3 and 4 only",
+    "2 and 3 only"
+   ],
+   "a": 2,
+   "e": "'Union of States' implies the Indian federation is not an agreement (unlike the US) and states cannot secede, making the union indestructible."
+  },
+  {
+   "q": "Which of the following is a federal feature of the Indian Constitution? 1️⃣ Dual Polity. 2️⃣ Single Constitution. 3️⃣ Division of Powers. 4️⃣ Independent Judiciary.",
+   "o": [
+    "2, 3 and 4 only",
+    "1 and 2 only",
+    "1, 2, 3 and 4",
+    "1, 3 and 4 only"
+   ],
+   "a": 3,
+   "e": "Federal features include dual polity, written constitution, division of powers, supremacy of the constitution, rigid constitution, independent judiciary, and bicameralism. Single Constitution is a unitary feature."
+  },
+  {
+   "q": "The Seventh Schedule of the Indian Constitution contains:",
+   "o": [
+    "The provisions relating to the administration of scheduled areas.",
+    "The list of languages recognized by the Constitution.",
+    "The forms of oath and affirmation.",
+    "The division of powers between the Centre and states."
+   ],
+   "a": 3,
+   "e": "The Constitution divides powers between the Centre and states via the Union List, State List, and Concurrent List found in the Seventh Schedule."
+  },
+  {
+   "q": "Which of the following is considered a unitary or non-federal feature of the Indian Constitution? 1️⃣ Strong Centre. 2️⃣ All-India Services. 3️⃣ Bicameralism. 4️⃣ Appointment of Governor by the President.",
+   "o": [
+    "1, 2, 3 and 4",
+    "2, 3 and 4 only",
+    "1 and 3 only",
+    "1, 2 and 4 only"
+   ],
+   "a": 3,
+   "e": "Unitary features include a strong Centre, destructible states, single constitution, flexibility, emergency provisions, single citizenship, integrated judiciary, all-India services, and appointment of the governor by the Centre. Bicameralism is a federal feature."
+  },
+  {
+   "q": "In the context of the Indian federation, the phrase \"an indestructible Union of destructible states\" refers to:",
+   "o": [
+    "The absolute territorial integrity of the states.",
+    "The states' power to change the Union's boundaries.",
+    "The Parliament's power to unilaterally change the area, boundaries or name of any state.",
+    "The temporary nature of the Indian Union."
+   ],
+   "a": 2,
+   "e": "Unlike the US (\"indestructible Union of indestructible states\"), India is an \"indestructible Union of destructible states\" because Parliament can change state boundaries or names by a simple majority without state consent."
+  },
+  {
+   "q": "Who described the Constitution of India as \"quasi-federal\"?",
+   "o": [
+    "Morris Jones",
+    "K.C. Wheare",
+    "Granville Austin",
+    "Paul Appleby"
+   ],
+   "a": 1,
+   "e": "K.C. Wheare described the Indian Constitution as \"quasi-federal\" and remarked that it is a unitary state with subsidiary federal features."
+  },
+  {
+   "q": "In the Bommai case (1994), the Supreme Court characterized federalism as:",
+   "o": [
+    "A matter of administrative convenience.",
+    "A 'basic feature' of the Constitution.",
+    "A secondary principle to the unitary structure.",
+    "An outdated concept in the Indian context."
+   ],
+   "a": 1,
+   "e": "In the S.R. Bommai case (1994), the Supreme Court laid down that the Constitution is federal and characterized federalism as its 'basic feature'."
+  },
+  {
+   "q": "Articles 245 to 255 in Part XI of the Constitution deal with:",
+   "o": [
+    "Legislative relations between the Centre and states.",
+    "Administrative relations between the Centre and states.",
+    "Financial relations between the Centre and states.",
+    "Inter-state trade and commerce."
+   ],
+   "a": 0,
+   "e": "Articles 245 to 255 in Part XI deal with the legislative relations between the Centre and the states."
+  },
+  {
+   "q": "With reference to the territorial extent of legislation, which of the following is correct? 1️⃣ Parliament can make laws for the whole or any part of the territory of India. 2️⃣ A state legislature can make laws applicable outside the state even without a territorial nexus. 3️⃣ Parliament alone can make 'extra-territorial legislation'.",
+   "o": [
+    "1 and 2 only",
+    "2 and 3 only",
+    "1, 2 and 3",
+    "1 and 3 only"
+   ],
+   "a": 3,
+   "e": "Parliament makes laws for the whole of India; state laws apply only within the state unless there is a \"sufficient nexus\". Only Parliament can make extra-territorial laws applicable to Indian citizens and property abroad."
+  },
+  {
+   "q": "In which list are residuary powers of legislation vested in the Indian Constitution?",
+   "o": [
+    "Union List",
+    "None; they are vested in Parliament",
+    "Concurrent List",
+    "State List"
+   ],
+   "a": 1,
+   "e": "The power to make laws with respect to residuary subjects (not mentioned in any of the three lists) is vested in the Parliament."
+  },
+  {
+   "q": "Under which situation can Parliament legislate on a matter in the State List? 1️⃣ When Rajya Sabha passes a resolution in national interest. 2️⃣ During a National Emergency. 3️⃣ When two or more states make a request. 4️⃣ To implement international agreements.",
+   "o": [
+    "1, 3 and 4 only",
+    "1, 2, 3 and 4",
+    "1 and 2 only",
+    "2, 3 and 4 only"
+   ],
+   "a": 1,
+   "e": "Parliament can legislate on state subjects: (1) if Rajya Sabha passes a resolution, (2) during national emergency, (3) when states request, (4) to implement international treaties, and (5) during President's Rule."
+  },
+  {
+   "q": "The 42nd Amendment Act of 1976 transferred which of the following subjects from the State List to the Concurrent List? 1️⃣ Education. 2️⃣ Forests. 3️⃣ Weights and Measures. 4️⃣ Protection of wild animals and birds.",
+   "o": [
+    "2, 3 and 4 only",
+    "1 and 2 only",
+    "1, 2, 3 and 4",
+    "1, 2 and 4 only"
+   ],
+   "a": 2,
+   "e": "The 42nd Amendment (1976) transferred five subjects to the Concurrent List: education, forests, weights and measures, protection of wild animals and birds, and administration of justice."
+  },
+  {
+   "q": "Articles 256 to 263 in Part XI of the Constitution deal with:",
+   "o": [
+    "Administrative relations between the Centre and states.",
+    "Emergency provisions.",
+    "Legislative relations between the Centre and states.",
+    "Financial relations between the Centre and states."
+   ],
+   "a": 0,
+   "e": "Articles 256 to 263 in Part XI deal with the administrative relations between the Centre and the states."
+  },
+  {
+   "q": "Which article provides for the imposition of President's Rule if a state fails to comply with directions given by the Centre?",
+   "o": [
+    "Article 352",
+    "Article 365",
+    "Article 360",
+    "Article 356"
+   ],
+   "a": 1,
+   "e": "Article 365 says that if a state fails to comply with directions given by the Centre, the President can hold that the state government cannot be carried on in accordance with the Constitution, leading to President's Rule under Article 356."
+  },
+  {
+   "q": "All-India Services (IAS, IPS, IFOS) are controlled:",
+   "o": [
+    "Exclusively by the Centre.",
+    "Jointly by the Centre and the States.",
+    "By the Union Public Service Commission.",
+    "Exclusively by the States."
+   ],
+   "a": 1,
+   "e": "All-India Services are controlled jointly by the Centre and the states. Ultimate control lies with the Centre, while immediate control vests with the state governments."
+  },
+  {
+   "q": "Who can create a new All-India Service?",
+   "o": [
+    "Parliament on the basis of a Rajya Sabha resolution",
+    "The Prime Minister",
+    "The President",
+    "The Union Public Service Commission"
+   ],
+   "a": 0,
+   "e": "Article 312 authorizes Parliament to create new All-India Services on the basis of a Rajya Sabha resolution supported by two-thirds of members present and voting."
+  },
+  {
+   "q": "Articles 268 to 293 in Part XII of the Constitution deal with:",
+   "o": [
+    "Administrative relations.",
+    "Legislative relations.",
+    "Inter-state water disputes.",
+    "Financial relations between the Centre and states."
+   ],
+   "a": 3,
+   "e": "Articles 268 to 293 in Part XII deal with the Centre-state financial relations."
+  },
+  {
+   "q": "The residuary power of taxation is vested in:",
+   "o": [
+    "The Finance Commission",
+    "The State Legislatures",
+    "The GST Council",
+    "The Parliament"
+   ],
+   "a": 3,
+   "e": "The residuary power of taxation (imposing taxes not in any of the three lists) is vested in the Parliament, which has used it to impose gift tax and wealth tax."
+  },
+  {
+   "q": "Which constitutional amendment introduced the Goods and Services Tax (GST)?",
+   "o": [
+    "101st Amendment Act",
+    "80th Amendment Act",
+    "42nd Amendment Act",
+    "88th Amendment Act"
+   ],
+   "a": 0,
+   "e": "The 101st Amendment Act of 2016 introduced the Goods and Services Tax (GST) and paved the way for a new tax regime."
+  },
+  {
+   "q": "The Finance Commission is a quasi-judicial body constituted by the President every:",
+   "o": [
+    "Third year",
+    "Fifth year",
+    "Yearly",
+    "Sixth year"
+   ],
+   "a": 1,
+   "e": "Under Article 280, the Finance Commission is constituted by the President every fifth year (or earlier) to recommend the distribution of tax proceeds."
+  },
+  {
+   "q": "Article 262 of the Constitution deals with:",
+   "o": [
+    "Coordination through inter-state councils.",
+    "Establishment of Zonal Councils.",
+    "Adjudication of inter-state water disputes.",
+    "Freedom of inter-state trade."
+   ],
+   "a": 2,
+   "e": "Article 262 provides for the adjudication of disputes relating to the use, distribution, and control of waters of any inter-state river or river valley."
+  },
+  {
+   "q": "The Inter-State Council was established in 1990 on the recommendation of which commission?",
+   "o": [
+    "Sarkaria Commission",
+    "Administrative Reforms Commission",
+    "Punchhi Commission",
+    "Rajamannar Committee"
+   ],
+   "a": 0,
+   "e": "In pursuance of the recommendations of the Sarkaria Commission (1983-88), the Inter-State Council was established in 1990."
+  },
+  {
+   "q": "Zonal Councils are:",
+   "o": [
+    "Statutory bodies",
+    "Judicial bodies",
+    "Extra-constitutional advisory bodies",
+    "Constitutional bodies"
+   ],
+   "a": 0,
+   "e": "Zonal Councils are statutory bodies established by an Act of Parliament (States Reorganisation Act of 1956), not constitutional bodies."
+  },
+  {
+   "q": "Which part of the Constitution contains the Emergency Provisions?",
+   "o": [
+    "Part XVIII",
+    "Part XVII",
+    "Part XV",
+    "Part XX"
+   ],
+   "a": 0,
+   "e": "The Emergency provisions are contained in Part XVIII of the Constitution, from Articles 352 to 360."
+  },
+  {
+   "q": "A proclamation of National Emergency under Article 352 can be declared on the grounds of: 1️⃣ War. 2️⃣ External aggression. 3️⃣ Internal disturbance. 4️⃣ Armed rebellion.",
+   "o": [
+    "1, 2 and 3 only",
+    "1, 2 and 4 only",
+    "1, 2, 3 and 4",
+    "2, 3 and 4 only"
+   ],
+   "a": 1,
+   "e": "The grounds for National Emergency are war, external aggression, or armed rebellion. The term 'internal disturbance' was replaced by 'armed rebellion' by the 44th Amendment Act of 1978."
+  },
+  {
+   "q": "The President can proclaim a National Emergency only after receiving a written recommendation from:",
+   "o": [
+    "The Parliament",
+    "The Supreme Court",
+    "The Prime Minister",
+    "The Cabinet"
+   ],
+   "a": 3,
+   "e": "The 44th Amendment Act of 1978 introduced the safeguard that the President can proclaim a National Emergency only after receiving a written recommendation from the cabinet."
+  },
+  {
+   "q": "A proclamation of National Emergency must be approved by Parliament within:",
+   "o": [
+    "Two weeks",
+    "One month",
+    "Two months",
+    "Six months"
+   ],
+   "a": 1,
+   "e": "The proclamation of Emergency must be approved by both Houses of Parliament within one month from the date of its issue."
+  },
+  {
+   "q": "Once approved, a National Emergency continues for six months and can be extended indefinitely with parliamentary approval every:",
+   "o": [
+    "Two years",
+    "Three months",
+    "One year",
+    "Six months"
+   ],
+   "a": 3,
+   "e": "If approved by both Houses, the emergency continues for six months and can be extended to an indefinite period with approval for every six months."
+  },
+  {
+   "q": "Which Fundamental Rights CANNOT be suspended even during a National Emergency?",
+   "o": [
+    "Rights under Article 19",
+    "Rights under Article 14",
+    "Rights under Articles 20 and 21",
+    "Rights under Article 32"
+   ],
+   "a": 2,
+   "e": "The 44th Amendment Act restricted the scope of Article 359, stating that the President cannot suspend the right to move the Court for the enforcement of fundamental rights guaranteed by Articles 20 and 21."
+  },
+  {
+   "q": "President's Rule under Article 356 is imposed due to:",
+   "o": [
+    "Threat to the financial stability of India.",
+    "Failure of constitutional machinery in a state.",
+    "War or external aggression.",
+    "Armed rebellion."
+   ],
+   "a": 1,
+   "e": "President's Rule (Article 356) is imposed when a situation arises where the government of a state cannot be carried on in accordance with the provisions of the Constitution."
+  },
+  {
+   "q": "The maximum period for which President's Rule can be extended is:",
+   "o": [
+    "One year",
+    "Two years",
+    "Indefinite",
+    "Three years"
+   ],
+   "a": 3,
+   "e": "President's Rule can be extended for a maximum period of three years with the approval of Parliament every six months."
+  },
+  {
+   "q": "Which amendment made it obligatory for the President to give assent to a constitutional amendment bill?",
+   "o": [
+    "44th Amendment Act",
+    "42nd Amendment Act",
+    "24th Amendment Act",
+    "52nd Amendment Act"
+   ],
+   "a": 2,
+   "e": "The 24th Constitutional Amendment Act of 1971 made it obligatory for the President to give his/her assent to a constitutional amendment bill."
+  },
+  {
+   "q": "The \"Basic Structure\" doctrine was reaffirmed by the Supreme Court in the Minerva Mills case (1980) specifically regarding:",
+   "o": [
+    "The exclusion of judicial review.",
+    "The administration of Tribal areas.",
+    "The power to create new states.",
+    "The election of the Prime Minister."
+   ],
+   "a": 0,
+   "e": "In the Minerva Mills case (1980), the Court held that judicial review is a 'basic feature' and Parliament cannot use its limited amending power to acquire absolute power."
+  },
+  {
+   "q": "In the parliamentary system, the Cabinet is responsible to:",
+   "o": [
+    "The Lok Sabha",
+    "The Prime Minister",
+    "The Rajya Sabha",
+    "The President"
+   ],
+   "a": 0,
+   "e": "The Cabinet (Council of Ministers) is collectively responsible to the Lok Sabha (the lower house of Parliament)."
+  },
+  {
+   "q": "Which of the following is NOT a feature of the American Presidential system?",
+   "o": [
+    "Non-responsibility to legislature",
+    "Separation of powers",
+    "Single executive",
+    "Double membership"
+   ],
+   "a": 3,
+   "e": "Double membership (being a member of both executive and legislature) is a feature of the Parliamentary system. The Presidential system features single membership."
+  },
+  {
+   "q": "The Sarkaria Commission (1983-88) was concerned with:",
+   "o": [
+    "Electoral reforms",
+    "Judicial activism",
+    "Fundamental Rights",
+    "Centre-State relations"
+   ],
+   "a": 3,
+   "e": "The Sarkaria Commission was appointed in 1983 to examine and review the working of existing arrangements between the Centre and states."
+  },
+  {
+   "q": "Which article of the Constitution describes India as a 'Union of States'?",
+   "o": [
+    "Article 3",
+    "Article 2",
+    "Article 4",
+    "Article 1"
+   ],
+   "a": 3,
+   "e": "Article 1 of the Constitution describes India as a 'Union of States'."
+  },
+  {
+   "q": "The residuary subjects in India are assigned to the Centre. This follows the model of:",
+   "o": [
+    "USA",
+    "Canada",
+    "Switzerland",
+    "Australia"
+   ],
+   "a": 1,
+   "e": "In India, residuary powers are given to the Centre, following the Canadian model, whereas in the USA and Australia, they are vested in the states."
+  },
+  {
+   "q": "Which of the following is an All-India Service? 1️⃣ IAS. 2️⃣ IPS. 3️⃣ IFOS (Forest Service). 4️⃣ Foreign Service.",
+   "o": [
+    "2 and 3 only",
+    "1, 2 and 3 only",
+    "1 and 2 only",
+    "1, 2, 3 and 4"
+   ],
+   "a": 1,
+   "e": "There are three All-India Services: Indian Administrative Service (IAS), Indian Police Service (IPS), and Indian Forest Service (IFOS)."
+  },
+  {
+   "q": "The Governor of a state is:",
+   "o": [
+    "Appointed by the President.",
+    "Elected by the people of the state.",
+    "Elected by the State Legislature.",
+    "Appointed by the Chief Justice of the High Court."
+   ],
+   "a": 0,
+   "e": "The Governor of a state is appointed by the President and holds office during the pleasure of the President."
+  },
+  {
+   "q": "Financial Emergency under Article 360 has been declared in India:",
+   "o": [
+    "Twice",
+    "Thrice",
+    "Once (1991)",
+    "Never"
+   ],
+   "a": 3,
+   "e": "No Financial Emergency has been declared so far in India, though there was a financial crisis in 1991."
+  },
+  {
+   "q": "The President of India is elected by:",
+   "o": [
+    "The Prime Minister and his Cabinet.",
+    "An electoral college consisting of elected members of Parliament and State Legislative Assemblies.",
+    "Direct election by the people.",
+    "Members of both Houses of Parliament only."
+   ],
+   "a": 1,
+   "e": "The President is elected by an electoral college consisting of elected members of both Houses of Parliament and the elected members of the state legislative assemblies (including Delhi and Puducherry)."
+  },
+  {
+   "q": "The oath of office to the President is administered by:",
+   "o": [
+    "The Chief Justice of India",
+    "The Speaker of Lok Sabha",
+    "The Vice-President",
+    "The Prime Minister"
+   ],
+   "a": 0,
+   "e": "The oath of office to the President is administered by the Chief Justice of India or, in his/her absence, the seniormost judge of the Supreme Court."
+  },
+  {
+   "q": "The President can be removed from office by impeachment for:",
+   "o": [
+    "Violation of the Constitution",
+    "Misbehavior",
+    "Criminal acts",
+    "Incapacity"
+   ],
+   "a": 0,
+   "e": "The President can be removed from office by a process of impeachment for 'violation of the Constitution'."
+  },
+  {
+   "q": "Who acts as the President when a vacancy occurs due to death or resignation and the Vice-President's office is also vacant?",
+   "o": [
+    "The Speaker of Lok Sabha",
+    "The Prime Minister",
+    "The Chief Justice of India",
+    "The Home Minister"
+   ],
+   "a": 2,
+   "e": "If the offices of both the President and Vice-President are vacant, the Chief Justice of India acts as the President."
+  },
+  {
+   "q": "The President's power to promulgate ordinances is provided under:",
+   "o": [
+    "Article 143",
+    "Article 72",
+    "Article 111",
+    "Article 123"
+   ],
+   "a": 3,
+   "e": "Article 123 of the Constitution empowers the President to promulgate ordinances during the recess of Parliament."
+  },
+  {
+   "q": "The Vice-President is the ex-officio Chairman of:",
+   "o": [
+    "The Rajya Sabha",
+    "The Finance Commission",
+    "The NITI Aayog",
+    "The Lok Sabha"
+   ],
+   "a": 0,
+   "e": "The Vice-President acts as the ex-officio Chairman of the Rajya Sabha."
+  },
+  {
+   "q": "How does the Indian Vice-President's role differ from the American Vice-President during a vacancy in the Presidency?",
+   "o": [
+    "The Indian VP only serves as acting President until a new one is elected .",
+    "The American VP serves only as an acting President.",
+    "The Indian VP becomes President for the remainder of the term.",
+    "There is no difference in their roles."
+   ],
+   "a": 0,
+   "e": "In the USA, the Vice-President succeeds to the presidency for the unexpired term. In India, the Vice-President merely acts as President until a new election is held, which must be within six months."
+  },
+  {
+   "q": "What happens to the Council of Ministers if the Prime Minister resigns or dies?",
+   "o": [
+    "The Council of Ministers is automatically dissolved .",
+    "The President takes over the administration directly.",
+    "The Council continues until a new leader is elected.",
+    "The senior-most minister becomes the acting PM."
+   ],
+   "a": 0,
+   "e": "Since the PM is the head of the council, his/her resignation or death automatically dissolves the entire Council of Ministers, creating a vacuum."
+  },
+  {
+   "q": "Article 78 of the Constitution defines:",
+   "o": [
+    "The President's power to grant pardons.",
+    "The duties of the Prime Minister regarding furnishing information to the President .",
+    "The appointment of the Attorney General.",
+    "The composition of the Rajya Sabha."
+   ],
+   "a": 1,
+   "e": "Article 78 specifies the duty of the PM to communicate cabinet decisions and furnish requested information to the President."
+  },
+  {
+   "q": "A \"Caretaker Government\" is expected to:",
+   "o": [
+    "Manage only routine day-to-day administrative activities .",
+    "Initiate major new policy decisions.",
+    "Request a joint sitting of Parliament.",
+    "Appoint new judges to the Supreme Court."
+   ],
+   "a": 0,
+   "e": "A caretaker government is a situational arrangement meant only for managing routine activities and is not expected to make significant policy decisions."
+  },
+  {
+   "q": "The Sarkaria Commission recommended that Article 356 (President's Rule) should be used:",
+   "o": [
+    "As a last resort in extreme cases .",
+    "By the Governor directly.",
+    "Only during a national emergency.",
+    "Frequently to ensure stability."
+   ],
+   "a": 0,
+   "e": "The Commission emphasized that Article 356 should be used very sparingly, only as a last resort when all other alternatives fail."
+  },
+  {
+   "q": "Who was the Chairman of the Second Commission on Centre-State Relations set up in 2007?",
+   "o": [
+    "R.S. Sarkaria",
+    "M.M. Punchhi  Morarji Desai",
+    "P.V. Rajamannar"
+   ],
+   "a": 1,
+   "e": "The second commission was headed by Madan Mohan Punchhi, former Chief Justice of India."
+  },
+  {
+   "q": "The Inter-State River Water Disputes Act (1956) empowers the Centre to set up:",
+   "o": [
+    "A permanent water council.",
+    "A committee of Chief Ministers.",
+    "A division of the NITI Aayog.",
+    "An ad hoc tribunal ."
+   ],
+   "a": 3,
+   "e": "The Act allows the Central government to establish a tribunal for adjudicating water disputes between two or more states."
+  },
+  {
+   "q": "The decisions of an Inter-State Water Dispute Tribunal are:",
+   "o": [
+    "Non-binding in cases of national emergency.",
+    "Final and binding on the parties .",
+    "Subject to review by the Parliament.",
+    "Advisory to the Supreme Court."
+   ],
+   "a": 1,
+   "e": "Under the Inter-State River Water Disputes Act, the decision of the tribunal is final and binding."
+  },
+  {
+   "q": "The North-Eastern Council was created by:",
+   "o": [
+    "A separate Act of Parliament in 1971 .",
+    "The States Reorganisation Act, 1956.",
+    "An executive order of the President.",
+    "The 42nd Amendment Act."
+   ],
+   "a": 0,
+   "e": "The North-Eastern Council was established under the North-Eastern Council Act of 1971."
+  },
+  {
+   "q": "During a National Emergency, the Life of the Lok Sabha can be extended for:",
+   "o": [
+    "Two years at a time.",
+    "One year at a time .",
+    "Indefinitely without any law.",
+    "Six months at a time."
+   ],
+   "a": 1,
+   "e": "Parliament can extend the term of the Lok Sabha by one year at a time during an emergency, but this extension cannot continue beyond six months after the emergency expires."
+  },
+  {
+   "q": "Article 359 is different from Article 358 because it:",
+   "o": [
+    "Does not automatically suspend any right but empowers the President to suspend their enforcement .",
+    "Applies only to Article 19.",
+    "Operates only in case of External Emergency.",
+    "Suspends Fundamental Rights automatically."
+   ],
+   "a": 0,
+   "e": "Unlike Article 358, Article 359 does not suspend rights automatically; the President must specify which rights' enforcement is being suspended."
+  },
+  {
+   "q": "The first proclamation of National Emergency (1962) was issued due to:",
+   "o": [
+    "Chinese aggression in NEFA .",
+    "Internal disturbance in Punjab.",
+    "Attack by Pakistan.",
+    "Armed rebellion in Mizoram."
+   ],
+   "a": 0,
+   "e": "The first National Emergency was declared in October 1962 following Chinese aggression in the North-East Frontier Agency."
+  },
+  {
+   "q": "According to the Supreme Court in the Bommai case (1994), a presidential proclamation under Article 356 is:",
+   "o": [
+    "Final and conclusive.",
+    "Immune from judicial review.",
+    "Subject to judicial review .",
+    "Valid even if based on irrelevant facts."
+   ],
+   "a": 2,
+   "e": "The Court held that the President's satisfaction must be based on relevant material and is subject to judicial review."
+  },
+  {
+   "q": "The President of India is the \"Supreme Commander\" of:",
+   "o": [
+    "The Cabinet.",
+    "The Parliament.",
+    "The Defense Forces .",
+    "The NITI Aayog."
+   ],
+   "a": 2,
+   "e": "The President is the supreme commander of the defense forces and appoints the chiefs of the Army, Navy, and Air Force."
+  },
+  {
+   "q": "International treaties are negotiated and concluded on behalf of:",
+   "o": [
+    "The Prime Minister.",
+    "The External Affairs Minister.",
+    "The President .",
+    "The Parliament."
+   ],
+   "a": 2,
+   "e": "International agreements are made in the President's name, though they are subject to parliamentary approval."
+  },
+  {
+   "q": "The \"Pocket Veto\" of the Indian President is considered \"bigger\" than that of the American President because:",
+   "o": [
+    "The Indian Constitution prescribes no time-limit for giving assent .",
+    "The American President has no veto power.",
+    "The Indian President can return money bills.",
+    "The Indian President can reject any bill."
+   ],
+   "a": 0,
+   "e": "In the USA, the President must return a bill within 10 days. The Indian Constitution is silent on a time-limit, allowing the President to keep a bill pending indefinitely."
+  },
+  {
+   "q": "The 42nd Amendment Act (1976) made the President:",
+   "o": [
+    "Independent of the Prime Minister.",
+    "Eligible for only one term.",
+    "Head of the NITI Aayog.",
+    "Bound by the advice of the Council of Ministers ."
+   ],
+   "a": 3,
+   "e": "The 42nd Amendment explicitly made ministerial advice binding on the President. The 44th Amendment later added that the President could ask for one-time reconsideration."
+  },
+  {
+   "q": "Which body audits the accounts of both the Central and State governments?",
+   "o": [
+    "The Comptroller and Auditor-General .",
+    "The NITI Aayog.",
+    "The GST Council.",
+    "The Finance Commission."
+   ],
+   "a": 0,
+   "e": "The CAG is responsible for auditing the accounts of the Union and all state governments."
+  },
+  {
+   "q": "The expression \"primus inter pares\" in relation to the Prime Minister means:",
+   "o": [
+    "Captain of the ship.",
+    "Master of the Government.",
+    "Moon among lesser stars.",
+    "First among equals ."
+   ],
+   "a": 3,
+   "e": "This Latin phrase highlights the PM's role as the leader of the cabinet while acknowledging their status as a peer among ministers."
+  },
+  {
+   "q": "In which case did the Supreme Court invalidate a provision of the 39th Amendment Act that kept election disputes of the PM outside the jurisdiction of courts?",
+   "o": [
+    "Indira Nehru Gandhi case  Minerva Mills case Waman Rao case",
+    "S.R. Bommai case"
+   ],
+   "a": 0,
+   "e": "In the Indira Nehru Gandhi case (1975), the Court struck down the provision as it affected the \"basic structure\"."
+  },
+  {
+   "q": "\"Bicameralism\" is a federal feature because:",
+   "o": [
+    "The Lok Sabha represents the President.",
+    "It ensures faster legislation.",
+    "It allows for two Prime Ministers.",
+    "The Rajya Sabha represents the states and protects their interests ."
+   ],
+   "a": 3,
+   "e": "By having an Upper House representing the states, the system maintains federal equilibrium and prevents undue Central interference."
+  },
+  {
+   "q": "Who called the parliamentary system a \"cabinet system\" because the cabinet is the nucleus of power?",
+   "o": [
+    "B.R. Ambedkar",
+    "K.C. Wheare Walter Bagehot",
+    "Ivor Jennings"
+   ],
+   "a": 2,
+   "e": "Ivor Jennings emphasized that the cabinet is the central power structure in this form of government."
+  },
+  {
+   "q": "The \"Shadow Cabinet\" is an institution found in:",
+   "o": [
+    "India.",
+    "Britain .",
+    "Canada.",
+    "USA."
+   ],
+   "a": 1,
+   "e": "The shadow cabinet is a unique British institution where the opposition forms a parallel cabinet to prepare for future office. India has no such institution."
+  },
+  {
+   "q": "The Governor's term of office is:",
+   "o": [
+    "Fixed at five years.",
+    "Linked to the term of the Lok Sabha.",
+    "Subject to the pleasure of the President .",
+    "Determined by the State Legislature."
+   ],
+   "a": 2,
+   "e": "While five years is the usual term, the Governor holds office during the pleasure of the President and can be removed at any time."
+  },
+  {
+   "q": "Under the Indian Constitution, the executive power of the Union is vested in:",
+   "o": [
+    "The Prime Minister.",
+    "The Council of Ministers.",
+    "The President .",
+    "The Parliament."
+   ],
+   "a": 2,
+   "e": "Article 53 states that the executive power of the Union shall be vested in the President."
+  },
+  {
+   "q": "Which system of government is characterized by the \"Fusion of Powers\"?",
+   "o": [
+    "Unitary System.",
+    "Federal System.",
+    "Parliamentary System .",
+    "Presidential System."
+   ],
+   "a": 2,
+   "e": "In a parliamentary system, the executive is part of the legislature, leading to a fusion of powers rather than a strict separation."
+  },
+  {
+   "q": "The \"Kitchen Cabinet\" is a term associated with:",
+   "o": [
+    "The British House of Commons.",
+    "The American Presidential advisory body .",
+    "The Indian Zonal Councils.",
+    "The Indian Prime Minister's residence."
+   ],
+   "a": 1,
+   "e": "The American President often governs with the help of a small, informal advisory body known as the 'Kitchen Cabinet'."
+  },
+  {
+   "q": "The \"Integrated Judiciary\" in India means:",
+   "o": [
+    "A single system of courts enforcing both Central and State laws .",
+    "Judges are elected by the people.",
+    "The Supreme Court has no power over High Courts.",
+    "Separate courts for Union and State laws."
+   ],
+   "a": 0,
+   "e": "Unlike the US, India has one hierarchy of courts (Supreme Court at top, High Courts below) that handles all legal matters regardless of jurisdiction."
+  },
+  {
+   "q": "The \"Special Majority\" for amending Fundamental Rights requires:",
+   "o": [
+    "Simple majority of both Houses.",
+    "Majority of total membership and two-thirds of those present and voting .",
+    "Consent of all State Legislatures.",
+    "Unanimous vote in the Lok Sabha."
+   ],
+   "a": 1,
+   "e": "Article 368 defines this special majority to ensure significant consensus for changing core constitutional provisions."
+  },
+  {
+   "q": "In the context of the President's election, \"Population\" refers to the figures of:",
+   "o": [
+    "The 2011 census.",
+    "The latest census.",
+    "The 1971 census .",
+    "The 1951 census."
+   ],
+   "a": 2,
+   "e": "The 84th Amendment (2001) fixed the 1971 census figures as the basis for the President's election until the first census after 2026."
+  },
+  {
+   "q": "The Prime Minister can recommend the dissolution of the Lok Sabha to:",
+   "o": [
+    "The Speaker.",
+    "The Chief Justice.",
+    "The Rajya Sabha.",
+    "The President ."
+   ],
+   "a": 3,
+   "e": "One of the legislative powers of the PM is advising the President on dissolving the lower house."
+  },
+  {
+   "q": "The \"Integrated Audit Machinery\" (CAG) is considered a unitary feature because:",
+   "o": [
+    "The CAG is a member of the Cabinet.",
+    "The CAG only audits Central accounts.",
+    "The CAG is appointed and removed by the President without state consultation .",
+    "The states pay the CAG's salary."
+   ],
+   "a": 2,
+   "e": "Because the states have no say in the appointment or removal of the auditor who controls their financial records, it centralizes power."
+  },
+  {
+   "q": "Under Article 123, an Ordinance must be approved by Parliament within:",
+   "o": [
+    "14 days of the session.",
+    "Six months.",
+    "Six weeks from reassembly .",
+    "One month from issuance."
+   ],
+   "a": 2,
+   "e": "Once Parliament meets, it has six weeks to approve or disapprove the ordinance, or it will lapse."
+  },
+  {
+   "q": "The \"Alternative Scheme of Devolution\" (80th Amendment) was based on the recommendations of:",
+   "o": [
+    "The NITI Aayog.",
+    "The 1st Finance Commission.",
+    "The Sarkaria Commission.",
+    "The 10th Finance Commission ."
+   ],
+   "a": 3,
+   "e": "The 80th Amendment implemented the 10th Finance Commission's plan to share 29% of total Central tax proceeds with the states."
+  },
+  {
+   "q": "In the context of Article 356, the term \"Dead-letter\" was used by:",
+   "o": [
+    "Dr. B.R. Ambedkar",
+    "S.R. Bommai",
+    "H.V. Kamath Jawaharlal Nehru"
+   ],
+   "a": 0,
+   "e": "Ambedkar hoped that President's Rule would rarely be used and remain a 'dead-letter', though it later became a 'deadly weapon'."
+  },
+  {
+   "q": "Who is the \"symbol of unity, integrity and solidarity of the nation\"?",
+   "o": [
+    "The Speaker.",
+    "The Chief Justice.",
+    "The President .",
+    "The Prime Minister."
+   ],
+   "a": 2,
+   "e": "As the head of state and first citizen, the President represents the nation's unity."
+  },
+  {
+   "q": "The system of \"Single Citizenship\" in India is similar to that of:",
+   "o": [
+    "Switzerland.",
+    "Canada .",
+    "Australia.",
+    "USA."
+   ],
+   "a": 1,
+   "e": "Unlike the US where people have state and national citizenship, India follows the Canadian model of one single national citizenship."
+  },
+  {
+   "q": "The \"Doctrine of Separation of Powers\" is the basis of:",
+   "o": [
+    "The American Presidential system .",
+    "The Indian Federal system.",
+    "The British Parliamentary system.",
+    "The Unitary system of China."
+   ],
+   "a": 0,
+   "e": "In the US, legislative, executive, and judicial powers are strictly vested in three independent organs."
+  },
+  {
+   "q": "Who described the Indian federalism as \"cooperative federalism\"?",
+   "o": [
+    "Ivor Jennings.",
+    "K.C. Wheare.",
+    "Morris Jones.",
+    "Granville Austin ."
+   ],
+   "a": 3,
+   "e": "Austin argued that while the Centre is strong, state governments are not mere administrative agencies."
+  },
+  {
+   "q": "The \"Contingency Fund of India\" is at the disposal of:",
+   "o": [
+    "The CAG.",
+    "The President .",
+    "The Prime Minister.",
+    "The Finance Minister."
+   ],
+   "a": 1,
+   "e": "The President can make advances from this fund to meet unforeseen expenditure pending parliamentary approval."
+  },
+  {
+   "q": "Who appoints the Chief Election Commissioner of India?",
+   "o": [
+    "The Prime Minister.",
+    "The President .",
+    "The Parliament.",
+    "The Chief Justice."
+   ],
+   "a": 1,
+   "e": "The President appoints the CEC and other election commissioners."
+  },
+  {
+   "q": "\"Escheat and lapse\" are sources of revenue for:",
+   "o": [
+    "Neither.",
+    "Only the Centre.",
+    "Both the Centre and the States .",
+    "Only the States."
+   ],
+   "a": 2,
+   "e": "Both levels of government can acquire property through escheat (lack of heirs) or lapse."
+  },
+  {
+   "q": "The \"Joint State Public Service Commission\" members are appointed by:",
+   "o": [
+    "The President .",
+    "The concerned Governors.",
+    "The UPSC Chairman.",
+    "The Prime Minister."
+   ],
+   "a": 0,
+   "e": "While regular state commission members are appointed by the Governor, JSPSC members are appointed by the President."
+  },
+  {
+   "q": "The \"Secretariat of the Inter-State Council\" also serves as the secretariat for:",
+   "o": [
+    "The Zonal Councils .",
+    "The NITI Aayog.",
+    "The Finance Commission.",
+    "The GST Council."
+   ],
+   "a": 0,
+   "e": "Since 2011, the Inter-State Council Secretariat has also managed the Zonal Councils."
+  },
+  {
+   "q": "Under Article 263, the Inter-State Council is established by:",
+   "o": [
+    "The President .",
+    "The Chief Justice.",
+    "The Prime Minister.",
+    "The Parliament."
+   ],
+   "a": 0,
+   "e": "The President can establish the council if it appears that public interest would be served."
+  },
+  {
+   "q": "Who is the Chairman of the \"Standing Committee\" of the Inter-State Council?",
+   "o": [
+    "The Finance Minister.",
+    "A rotated Chief Minister.",
+    "The Union Home Minister .",
+    "The Prime Minister."
+   ],
+   "a": 2,
+   "e": "While the PM chairs the full Council, the Home Minister chairs the Standing Committee."
+  },
+  {
+   "q": "\"Full faith and credit\" applies to:",
+   "o": [
+    "Treaty implementation.",
+    "Civil judgments .",
+    "Private records.",
+    "Penal laws."
+   ],
+   "a": 1,
+   "e": "Final judgments of civil courts are executable anywhere in India without a fresh suit, but this doesn't extend to criminal judgments."
+  },
+  {
+   "q": "Article 301 guarantees:",
+   "o": [
+    "Freedom of speech.",
+    "Freedom of trade, commerce, and intercourse .",
+    "Right to property.",
+    "Right to education."
+   ],
+   "a": 1,
+   "e": "Trade throughout the territory of India shall be free, aiming to break down internal border barriers."
+  },
+  {
+   "q": "The \"Common Chairman\" of all five Zonal Councils is:",
+   "o": [
+    "The President.",
+    "The Chief Justice.",
+    "The Union Home Minister .",
+    "The Prime Minister."
+   ],
+   "a": 2,
+   "e": "The Home Minister serves as the chairman for all Zonal Councils."
+  },
+  {
+   "q": "A \"National Emergency\" is technically referred to in the Constitution as:",
+   "o": [
+    "Armed Rebellion.",
+    "State Emergency.",
+    "Proclamation of Emergency .",
+    "Unitary Transformation."
+   ],
+   "a": 2,
+   "e": "The Constitution uses the phrase 'proclamation of emergency' for Article 352 situations."
+  },
+  {
+   "q": "The \"38th Amendment (1975)\" made the declaration of National Emergency:",
+   "o": [
+    "Limited to six months.",
+    "Immune from judicial review .",
+    "Subject to Parliament.",
+    "Obligatory for the PM."
+   ],
+   "a": 1,
+   "e": "This amendment tried to shield the emergency from court challenges, though the 44th Amendment later restored judicial review."
+  },
+  {
+   "q": "Which House can pass a resolution for the \"Revocation\" of a National Emergency?",
+   "o": [
+    "Rajya Sabha.",
+    "Both Houses.",
+    "Lok Sabha .",
+    "State Legislatures."
+   ],
+   "a": 2,
+   "e": "While approval needs both Houses, the Lok Sabha alone can force a revocation by passing a resolution with a simple majority."
+  },
+  {
+   "q": "During a National Emergency, the Centre can give executive directions to a state on:",
+   "o": [
+    "No matter without state consent.",
+    "Only Concurrent List subjects.",
+    "Any matter whatsoever .",
+    "Only Union List subjects."
+   ],
+   "a": 2,
+   "e": "The Centre's executive power expands to include the right to direct states on any administrative matter."
+  },
+  {
+   "q": "The \"Minerva Mills case (1980)\" held that:",
+   "o": [
+    "Judicial review is not part of the basic structure.",
+    "Directive Principles always prevail over Fundamental Rights.",
+    "The limited amending power of Parliament is a 'basic feature' .",
+    "Parliament has unlimited amending power."
+   ],
+   "a": 2,
+   "e": "The Court ruled that a limited power cannot be used to make that power absolute."
+  },
+  {
+   "q": "Who can initiate \"Charges\" for the impeachment of the President?",
+   "o": [
+    "The Supreme Court.",
+    "Either House of Parliament .",
+    "Only the Rajya Sabha.",
+    "Only the Lok Sabha."
+   ],
+   "a": 1,
+   "e": "Charges for violation of the Constitution can be started in either house of Parliament."
+  },
+  {
+   "q": "The \"Security Deposit\" for a Presidential candidate is:",
+   "o": [
+    "₹10,000.",
+    "₹2,500.",
+    "₹25,000.",
+    "₹15,000 ."
+   ],
+   "a": 3,
+   "e": "Candidates must deposit ₹15,000 with the RBI; it is forfeited if they fail to get one-sixth of the votes."
+  },
+  {
+   "q": "How many \"Proposers\" are required for the nomination of a Presidential candidate?",
+   "o": [
+    "20.",
+    "10.",
+    "50 .",
+    "100."
+   ],
+   "a": 2,
+   "e": "To ensure serious candidates, 50 electors must propose and 50 must second the nomination."
+  },
+  {
+   "q": "The President CANNOT return which type of bill for reconsideration?",
+   "o": [
+    "Private Member's Bill.",
+    "Money Bill .",
+    "Ordinary Bill.",
+    "State Bill reserved by Governor."
+   ],
+   "a": 1,
+   "e": "The President must either give assent to or withhold it from a Money Bill but cannot return it to the Parliament."
+  },
+  {
+   "q": "Who was the first President to exercise the \"Pocket Veto\"?",
+   "o": [
+    "R. Venkataraman.",
+    "Giani Zail Singh .",
+    "K.R. Narayanan.",
+    "Dr. Rajendra Prasad."
+   ],
+   "a": 1,
+   "e": "Zail Singh used the pocket veto on the Indian Post Office (Amendment) Bill in 1986."
+  },
+  {
+   "q": "An \"Ordinance\" can be issued only on subjects:",
+   "o": [
+    "On which Parliament can make laws .",
+    "In the State List during normal times.",
+    "In the Concurrent List.",
+    "In the Union List."
+   ],
+   "a": 0,
+   "e": "The ordinance-making power is co-extensive with the legislative power of the Parliament."
+  },
+  {
+   "q": "The Supreme Court's \"D.C. Wadhwa case (1986)\" judgment concerned:",
+   "o": [
+    "Re-promulgation of ordinances .",
+    "Election disputes.",
+    "Pardoning power.",
+    "Federal structure."
+   ],
+   "a": 0,
+   "e": "The Court ruled that repromulgating ordinances without attempting to pass bills is a violation of the Constitution."
+  },
+  {
+   "q": "Which term describes \"reducing the period of sentence without changing its character\"?",
+   "o": [
+    "Commutation.",
+    "Remission .",
+    "Reprieve.",
+    "Respite."
+   ],
+   "a": 1,
+   "e": "Remission involves shortening the duration, like reducing a two-year sentence to one year."
+  },
+  {
+   "q": "Which President was elected \"Unopposed\"?",
+   "o": [
+    "Dr. S. Radhakrishnan.",
+    "V.V. Giri.",
+    "N. Sanjeeva Reddy .",
+    "Dr. Rajendra Prasad."
+   ],
+   "a": 2,
+   "e": "Neelam Sanjeeva Reddy is the only President to have been elected unopposed (1977)."
+  },
+  {
+   "q": "The \"Council of Ministers\" remains in office as long as it enjoys the confidence of:",
+   "o": [
+    "The Chief Justice.",
+    "The President.",
+    "The Lok Sabha .",
+    "The Rajya Sabha."
+   ],
+   "a": 2,
+   "e": "Ministerial accountability to the lower house is the core of responsible government."
+  },
+  {
+   "q": "Who is the \"Crisis Manager-in-Chief\" at the political level?",
+   "o": [
+    "The Defense Minister.",
+    "The Prime Minister .",
+    "The Home Minister.",
+    "The President."
+   ],
+   "a": 1,
+   "e": "During emergencies, the PM plays the lead role in managing political and administrative crises."
+  },
+  {
+   "q": "\"Sumptuary Allowance\" is provided to:",
+   "o": [
+    "The President.",
+    "The Prime Minister .",
+    "The Vice-President.",
+    "The Chief Justice."
+   ],
+   "a": 1,
+   "e": "In addition to salary, the PM receives allowances for entertaining official guests."
+  },
+  {
+   "q": "The \"National Water Resources Council\" is chaired by:",
+   "o": [
+    "The Environment Minister.",
+    "The Prime Minister .",
+    "The NITI Aayog Chairman.",
+    "The Water Resources Minister."
+   ],
+   "a": 1,
+   "e": "The PM chairs several top-level councils including the Water Resources Council."
+  },
+  {
+   "q": "The \"Union Budget\" is laid before Parliament by the President under:",
+   "o": [
+    "Article 123.",
+    "Article 110.",
+    "Article 112 .",
+    "Article 111."
+   ],
+   "a": 2,
+   "e": "Article 112 refers to the budget as the 'annual financial statement'."
+  },
+  {
+   "q": "\"Qualified Veto\" is possessed by:",
+   "o": [
+    "The Indian Governor.",
+    "The British Monarch.",
+    "The Indian President.",
+    "The American President ."
+   ],
+   "a": 3,
+   "e": "This veto can be overridden by a higher majority, a feature of the US Constitution."
+  },
+  {
+   "q": "\"Nominal Executive\" is also known as:",
+   "o": [
+    "Administrative executive.",
+    "De jure executive .",
+    "De facto executive.",
+    "Real executive."
+   ],
+   "a": 1,
+   "e": "The President is the de jure (by law) head, while the PM is de facto (in practice)."
+  },
+  {
+   "q": "The \"Tarkunde Committee\" recommendations related to:",
+   "o": [
+    "Centre-State relations.",
+    "Judicial appointments.",
+    "All-India Services.",
+    "Caretaker governments ."
+   ],
+   "a": 3,
+   "e": "This unofficial committee (1975) outlined what a caretaker government should not do."
+  },
+  {
+   "q": "Who is the \"Head of the Indian State\"?",
+   "o": [
+    "The Speaker.",
+    "The President .",
+    "The Chief Justice.",
+    "The Prime Minister."
+   ],
+   "a": 1,
+   "e": "The President is the head of state, while the PM is the head of government."
+  },
+  {
+   "q": "The President's \"Executive Actions\" are authenticated according to rules made by:",
+   "o": [
+    "The Cabinet Secretary.",
+    "The Prime Minister.",
+    "The Parliament.",
+    "The President himself/herself ."
+   ],
+   "a": 3,
+   "e": "The President makes rules specifying how orders in his/her name shall be authenticated."
+  },
+  {
+   "q": "\"Suspensive Veto\" is overridden by the Parliament with:",
+   "o": [
+    "Special majority.",
+    "Unanimous vote.",
+    "Consent of States.",
+    "Ordinary majority ."
+   ],
+   "a": 3,
+   "e": "If Parliament repasses a returned bill by a simple majority, the President must give assent."
+  },
+  {
+   "q": "The \"Summoning\" of Parliament is a:",
+   "o": [
+    "Executive power of the President.",
+    "Discretionary power of the Speaker.",
+    "Legislative power of the President .",
+    "Power of the Vice-President."
+   ],
+   "a": 2,
+   "e": "Summoning, proroguing, and dissolving the Lok Sabha are part of the President's legislative functions."
+  },
+  {
+   "q": "Who performs the \"Duties of the President\" when the President and Vice-President are both unable to act?",
+   "o": [
+    "The Home Minister.",
+    "The Speaker.",
+    "The senior-most Cabinet Minister.",
+    "The Chief Justice of India ."
+   ],
+   "a": 3,
+   "e": "In the absence of the VP, the CJI (or senior-most SC judge) takes over the functions."
+  },
+  {
+   "q": "\"Inter stellas luna minores\" (moon among lesser stars) describes the PM's role according to:",
+   "o": [
+    "Lord Morely.",
+    "Munro.",
+    "Jennings.",
+    "Sir William Vernor Harcourt ."
+   ],
+   "a": 3,
+   "e": "Harcourt used this phrase to illustrate the PM's pre-eminence among other ministers."
+  },
+  {
+   "q": "Which Constitutional Amendment added \"Socio-economic justice\" to the basic structure (Welfare State)?",
+   "o": [
+    "Kesavananda Case.",
+    "Bommai Case.",
+    "Minerva Mills Case.",
+    "Bhim Singhji Case ."
+   ],
+   "a": 3,
+   "e": "In the Bhim Singhji Case (1980), the Welfare State (socio-economic justice) was declared a basic feature."
+  },
+  {
+   "q": "The \"Salary\" of the Vice-President is fixed in his/her capacity as:",
+   "o": [
+    "Chairman of Rajya Sabha .",
+    "Vice-President.",
+    "Acting President.",
+    "Member of Parliament."
+   ],
+   "a": 0,
+   "e": "The Constitution doesn't fix a salary for the VP as such; they draw a salary as the head of the upper house."
+  },
+  {
+   "q": "\"Elections to Parliament\" can be amended by:",
+   "o": [
+    "Simple majority .",
+    "Special majority.",
+    "Executive order.",
+    "Parliamentary resolution."
+   ],
+   "a": 0,
+   "e": "Provisions regarding elections and delimitation are amended outside the scope of Article 368."
+  },
+  {
+   "q": "Who is the \"Principal Channel of Communication\" between President and Cabinet?",
+   "o": [
+    "The Vice-President.",
+    "The Prime Minister .",
+    "The Speaker.",
+    "The Cabinet Secretary."
+   ],
+   "a": 1,
+   "e": "It is the duty of the PM to keep the President informed of all cabinet decisions."
+  },
+  {
+   "q": "\"Collective Responsibility\" implies that:",
+   "o": [
+    "All ministers must be from the same party.",
+    "The Prime Minister can act without consulting the cabinet.",
+    "The Lok Sabha can remove the ministry by a vote of no-confidence .",
+    "Ministers are responsible to the President individually."
+   ],
+   "a": 2,
+   "e": "The entire team \"swims and sinks together,\" meaning the house can oust the whole government at once."
+  },
+  {
+   "q": "Which amendment gave constitutional status to \"Panchayats\"?",
+   "o": [
+    "73rd Amendment .",
+    "101st Amendment.",
+    "44th Amendment.",
+    "42nd Amendment."
+   ],
+   "a": 0,
+   "e": "The 73rd and 74th Amendments (1992) granted status to rural and urban local bodies."
+  },
+  {
+   "q": "The \"Union List\" includes:",
+   "o": [
+    "Atomic energy .",
+    "Police.",
+    "Public order.",
+    "Agriculture."
+   ],
+   "a": 0,
+   "e": "Atomic energy, defense, and foreign affairs are matters of national importance in the Union List."
+  },
+  {
+   "q": "The \"State List\" includes:",
+   "o": [
+    "Public health and sanitation .",
+    "Currency.",
+    "Banking.",
+    "Inter-state trade."
+   ],
+   "a": 0,
+   "e": "Local and regional matters like health, sanitation, and police are in the State List."
+  },
+  {
+   "q": "\"Marriage and divorce\" is a subject in:",
+   "o": [
+    "The Residuary List.",
+    "The State List.",
+    "The Union List.",
+    "The Concurrent List ."
+   ],
+   "a": 3,
+   "e": "Subjects where nationwide uniformity is desirable but not essential are in the Concurrent List."
+  },
+  {
+   "q": "\"Education\" was moved to the Concurrent List from the State List by:",
+   "o": [
+    "The 24th Amendment.",
+    "The 101st Amendment.",
+    "The 42nd Amendment .",
+    "The 44th Amendment."
+   ],
+   "a": 2,
+   "e": "Five subjects were transferred in 1976 to allow Central involvement in policy."
+  },
+  {
+   "q": "In case of conflict on a Concurrent subject, whose law prevails?",
+   "o": [
+    "The law passed later in time.",
+    "The State's law.",
+    "The law approved by the Supreme Court.",
+    "The Centre's law ."
+   ],
+   "a": 3,
+   "e": "Federal supremacy ensures that Central law overrides state law in the concurrent sphere to maintain uniformity."
+  },
+  {
+   "q": "The \"Exception\" to Central law prevailing on a Concurrent subject is:",
+   "o": [
+    "If the State law received Presidential assent .",
+    "There is no exception.",
+    "If the State law is older.",
+    "If the Lok Sabha approves the State law."
+   ],
+   "a": 0,
+   "e": "A state law can prevail in that specific state if it was reserved for and received the President's assent."
+  },
+  {
+   "q": "\"Residuary Taxes\" are levied by:",
+   "o": [
+    "The States.",
+    "The President.",
+    "The Parliament .",
+    "The Finance Commission."
+   ],
+   "a": 2,
+   "e": "Examples include gift tax and wealth tax, which are not listed in any of the three schedules."
+  },
+  {
+   "q": "The \"Sarkaria Commission\" observed that federal supremacy is:",
+   "o": [
+    "Unconstitutional.",
+    "A static institutional concept.",
+    "An invasion of state authority.",
+    "Indispensable for the federal system ."
+   ],
+   "a": 3,
+   "e": "The commission argued that without union supremacy, there would be legal chaos and confusion."
+  },
+  {
+   "q": "\"Double Membership\" in a parliamentary system means:",
+   "o": [
+    "Having citizenship of two countries.",
+    "Representing two constituencies.",
+    "Being a member of both Houses.",
+    "Being a member of both the Executive and the Legislature ."
+   ],
+   "a": 3,
+   "e": "Ministers must be members of Parliament; this facilitates coordination but goes against strict separation of powers."
+  },
+  {
+   "q": "The \"President's satisfaction\" in declaring emergency:",
+   "o": [
+    "Is justifiable on the ground of malafide .",
+    "Is only required for Financial Emergency.",
+    "Is beyond judicial review.",
+    "Must be approved by the CJI."
+   ],
+   "a": 0,
+   "e": "The Supreme Court restored judicial review to prevent arbitrary use of emergency powers."
+  },
+  {
+   "q": "\"Armed rebellion\" as a ground for emergency must be:",
+   "o": [
+    "Based on a written recommendation of the Cabinet .",
+    "Certified by the Chief of Army Staff.",
+    "Determined by the President alone.",
+    "Approved by the Supreme Court."
+   ],
+   "a": 0,
+   "e": "This requirement was added in 1978 to ensure the Prime Minister does not act unilaterally."
+  },
+  {
+   "q": "During a \"National Emergency\", the Parliament can make laws on:",
+   "o": [
+    "Only subjects in the Union List.",
+    "Any subject in the State List .",
+    "Only subjects approved by the states.",
+    "No subjects without a new amendment."
+   ],
+   "a": 1,
+   "e": "Emergency converts the federal structure into a unitary one, giving Parliament overarching powers."
+  },
+  {
+   "q": "\"Article 358\" suspends Article 19:",
+   "o": [
+    "Only in parts of the country.",
+    "Only for a period specified by the President.",
+    "Only if specified in a Presidential order.",
+    "For the entire duration of the emergency ."
+   ],
+   "a": 3,
+   "e": "Article 358 is more rigid and automatic compared to Article 359."
+  },
+  {
+   "q": "\"Article 359\" can operate:",
+   "o": [
+    "Only during External Emergency.",
+    "Only during Internal Emergency.",
+    "Only during President's Rule.",
+    "During both External and Internal Emergencies ."
+   ],
+   "a": 3,
+   "e": "Article 359 provides the President with flexibility across all types of National Emergency."
+  },
+  {
+   "q": "The \"Maximum duration\" of President's Rule in a state is:",
+   "o": [
+    "Indefinite.",
+    "1 year.",
+    "6 months.",
+    "3 years ."
+   ],
+   "a": 3,
+   "e": "While National Emergency can go on indefinitely, President's Rule must end within three years."
+  },
+  {
+   "q": "\"Financial Emergency\" (Article 360) requires parliamentary approval within:",
+   "o": [
+    "No approval required.",
+    "1 month.",
+    "2 months .",
+    "6 months."
+   ],
+   "a": 2,
+   "e": "Both President's Rule and Financial Emergency have a two-month window for approval."
+  },
+  {
+   "q": "Once approved, \"Financial Emergency\" continues:",
+   "o": [
+    "For one year.",
+    "For six months.",
+    "Indefinitely until revoked .",
+    "For a maximum of three years."
+   ],
+   "a": 2,
+   "e": "Unlike other emergencies, Article 360 does not require repeated approvals."
+  },
+  {
+   "q": "The \"Pardoning power\" is:",
+   "o": [
+    "A power of the Home Ministry.",
+    "A judicial power of the President.",
+    "An executive power of the President .",
+    "A discretionary power of the CJI."
+   ],
+   "a": 2,
+   "e": "Though it deals with sentences, it is an executive function exercised on cabinet advice."
+  },
+  {
+   "q": "\"Commutation\" means:",
+   "o": [
+    "Removing both sentence and conviction.",
+    "Reducing the period of sentence.",
+    "Awards a lesser sentence for pregnancy.",
+    "Substituting one form of punishment for a lighter one ."
+   ],
+   "a": 3,
+   "e": "An example is changing a death sentence to life imprisonment."
+  },
+  {
+   "q": "\"Reprieve\" means:",
+   "o": [
+    "Reducing the character of punishment.",
+    "A stay of execution of a sentence .",
+    "Awarding a lesser sentence.",
+    "Complete absolution."
+   ],
+   "a": 1,
+   "e": "This is often used to give a convict time to apply for mercy."
+  },
+  {
+   "q": "\"Qualified Majority\" (USA) refers to:",
+   "o": [
+    "A higher majority required to override a veto .",
+    "A majority of total membership.",
+    "A two-thirds majority of present and voting.",
+    "A simple majority."
+   ],
+   "a": 0,
+   "e": "The Indian President's suspensive veto is easier to override than the US version."
+  },
+  {
+   "q": "\"Political Homogeneity\" in a cabinet means:",
+   "o": [
+    "All ministers are of the same age.",
+    "Ministers have the same educational background.",
+    "Ministers are from the same state.",
+    "All ministers belong to the same political party ."
+   ],
+   "a": 3,
+   "e": "This ensures they share an ideology, though coalition governments rely on consensus."
+  },
+  {
+   "q": "Who can be a \"Minister\" in the Union Government?",
+   "o": [
+    "Only Rajya Sabha members.",
+    "Any member of Parliament or a person who becomes one within 6 months .",
+    "Only Lok Sabha members.",
+    "Only persons with 35 years of age."
+   ],
+   "a": 1,
+   "e": "Ministers can be from either house, and even non-members can be appointed temporarily."
+  },
+  {
+   "q": "\"Joint Sitting\" of both Houses is presided over by:",
+   "o": [
+    "The President.",
+    "The Vice-President.",
+    "The Speaker of Lok Sabha .",
+    "The Prime Minister."
+   ],
+   "a": 2,
+   "e": "The President summons the sitting, but the Speaker leads the proceedings."
+  },
+  {
+   "q": "\"Veto\" is a Latin word meaning:",
+   "o": [
+    "To approve.",
+    "To sign.",
+    "To forbid .",
+    "To delay."
+   ],
+   "a": 2,
+   "e": "The word accurately reflects the power to stop a piece of legislation."
+  },
+  {
+   "q": "\"Article 360\" (Financial Emergency) satisfaction of the President:",
+   "o": [
+    "Is beyond judicial review.",
+    "Is subject to judicial review .",
+    "Must be based on a RBI report.",
+    "Requires Lok Sabha approval first."
+   ],
+   "a": 1,
+   "e": "Like other emergencies, the court can review it for malafide intent."
+  },
+  {
+   "q": "\"Union Territories\" are administered by:",
+   "o": [
+    "The Zonal Councils.",
+    "The Home Minister.",
+    "The President through administrators .",
+    "The Prime Minister."
+   ],
+   "a": 2,
+   "e": "The President manages UTs directly or through appointed officials."
+  },
+  {
+   "q": "\"Inter-State Trade Commission\" (Article 307):",
+   "o": [
+    "Is a permanent body.",
+    "Was established in 1990.",
+    "Has not been appointed so far .",
+    "Is chaired by the Home Minister."
+   ],
+   "a": 2,
+   "e": "Though provided for in the Constitution, this authority has never been created."
+  },
+  {
+   "q": "The \"Punchhi Commission\" report was submitted in:",
+   "o": [
+    "1990.",
+    "2007.",
+    "2010 .",
+    "1988."
+   ],
+   "a": 2,
+   "e": "The second commission on Centre-State relations released its seven-volume report in 2010."
+  },
+  {
+   "q": "\"Shadow Cabinet\" prepares members for:",
+   "o": [
+    "Judicial roles.",
+    "Future ministerial office .",
+    "Parliamentary committees.",
+    "Diplomatic missions."
+   ],
+   "a": 1,
+   "e": "It is an \"alternative cabinet\" formed by the opposition to stay ready for power."
+  },
+  {
+   "q": "The \"Comptroller and Auditor General\" is appointed by:",
+   "o": [
+    "The UPSC.",
+    "The Prime Minister.",
+    "The President .",
+    "The Finance Commission."
+   ],
+   "a": 2,
+   "e": "The CAG is a key constitutional office appointed by the head of state."
+  },
+  {
+   "q": "\"Article 312\" deals with:",
+   "o": [
+    "All-India Services .",
+    "Zonal Councils.",
+    "Election of President.",
+    "Financial Emergency."
+   ],
+   "a": 0,
+   "e": "This article provides the procedure for creating new national-level services."
+  },
+  {
+   "q": "\"Rajya Sabha\" represents:",
+   "o": [
+    "The President.",
+    "The Union Territories only.",
+    "The States of Indian Federation .",
+    "The people of India."
+   ],
+   "a": 2,
+   "e": "It is the \"Council of States,\" designed to safeguard provincial interests."
+  },
+  {
+   "q": "\"Simple Majority\" amendment is used for:",
+   "o": [
+    "Fundamental Rights.",
+    "Creation of new States .",
+    "Supreme Court jurisdiction.",
+    "DPSP."
+   ],
+   "a": 1,
+   "e": "Changes like state reorganization or language use are done outside Article 368."
+  },
+  {
+   "q": "\"P.V. Narasimha Rao\" was the first PM from:",
+   "o": [
+    "West India.",
+    "South India .",
+    "East India.",
+    "North India."
+   ],
+   "a": 1,
+   "e": "He was a former Chief Minister of Andhra Pradesh before becoming PM."
+  },
+  {
+   "q": "\"Article 280\" pertains to:",
+   "o": [
+    "The GST Council.",
+    "All-India Services.",
+    "The Inter-State Council.",
+    "The Finance Commission ."
+   ],
+   "a": 3,
+   "e": "This article mandates a five-yearly commission for fiscal federalism."
+  },
+  {
+   "q": "Who described PM as \"captain of the ship of the state\"?",
+   "o": [
+    "Lord Morely.",
+    "Ramsay Muir.",
+    "Laski.",
+    "Munro ."
+   ],
+   "a": 3,
+   "e": "This maritime analogy highlights the PM's leadership of the executive branch."
+  },
+  {
+   "q": "\"Absolute Majority\" in President's election means:",
+   "o": [
+    "Getting 100% of votes.",
+    "Securing a fixed quota of votes .",
+    "Winning in all states.",
+    "Securing more votes than the nearest rival."
+   ],
+   "a": 1,
+   "e": "The winner must cross a specific mathematical threshold to be declared elected."
+  },
+  {
+   "q": "\"Article 161\" gives pardoning power to:",
+   "o": [
+    "The Governor .",
+    "The Prime Minister.",
+    "The President.",
+    "The High Court."
+   ],
+   "a": 0,
+   "e": "The Governor's power is similar but more restricted than the President's."
+  },
+  {
+   "q": "\"His Superfluous Highness\" is a comment on:",
+   "o": [
+    "The President.",
+    "The Vice-President .",
+    "The Speaker.",
+    "The Prime Minister."
+   ],
+   "a": 1,
+   "e": "Some scholars use this phrase because the Vice-President has few significant independent functions."
+  }
+ ]
+}

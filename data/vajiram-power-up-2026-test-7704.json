@@ -1,0 +1,1108 @@
+{
+ "title": "Test 7704",
+ "category": "Vajiram Power Up 2026",
+ "minutes": 75,
+ "negative": 0.25,
+ "questions": [
+  {
+   "q": "A student studying geography observed the following about two towns: Town A experienced a sudden drop in temperature, rainfall and strong winds over two days. Town B has consistently received moderate rainfall and has mild temperatures for decades. Based on this observation, which of the following inferences is most appropriate?",
+   "o": [
+    "Town A is demonstrating a weather event, while Town B reflects a climatic pattern.",
+    "Town A is demonstrating a feature of climate, while Town B reflects a weather condition.",
+    "Both Town A and Town B are experiencing weather phenomena.",
+    "None of the above"
+   ],
+   "a": 0,
+   "e": "Weather is the atmospheric condition of any place for a short period of time with respect to elements such as temperature and precipitation. Town A's description fits a short-term atmospheric condition (weather), while Town B shows a long-term, averaged pattern characteristic of climate. Climate refers to the study of average weather conditions observed over a long duration."
+  },
+  {
+   "q": "Consider the following statements with regard to the Big Bang Theory: 1️⃣ The universe began from an extremely hot and dense state known as a singularity. 2️⃣ Matter in the universe started forming within the first three minutes after the Big Bang. 3️⃣ The universe became transparent after about 3 million years, when the temperature dropped to 4,500 Κ.",
+   "o": [
+    "I only",
+    "I and III only",
+    "I, II and III",
+    "II and III only"
+   ],
+   "a": 2,
+   "e": "All matter forming the universe originally existed in a \"tiny ball\" with unimaginably small volume and infinite temperature/density known as a singularity. Within the first three minutes of the Big Bang, the first atom began to form. Within 300,000 years (not 3 million), the temperature dropped to 4,500K, giving rise to atomic matter and making the universe transparent."
+  },
+  {
+   "q": "Consider the following statements: Statement I: Hydrogen and helium were stripped away from the earth during the early stage of atmospheric evolution. Statement II: Earth had low gravity and was exposed to intense solar activity. Statement III: Hydrogen and helium are relatively light gases. Which one of the following is correct in respect of the above statements?",
+   "o": [
+    "Neither Statement II nor Statement III is correct",
+    "Only one of the Statements II and III is correct and that explains Statement I",
+    "Both Statement II and Statement III are correct and both of them explain Statement I",
+    "Both Statement II and Statement III are correct, but only one of them explains Statement I"
+   ],
+   "a": 2,
+   "e": "The primordial atmosphere consisting of hydrogen and helium was stripped away by solar winds. This occurred because the early Earth had low gravity and was exposed to intense solar activity, which prevented it from retaining these light gases. Thus, Statements II and III both explain the loss described in Statement I."
+  },
+  {
+   "q": "Consider the following: 1️⃣ Optimal distance from the Sun 2️⃣ Appropriate mass and size 3️⃣ Earth's magnetic field. How many of the above factors contribute for making Earth a habitable planet?",
+   "o": [
+    "All the three",
+    "Only one",
+    "None",
+    "Only two"
+   ],
+   "a": 0,
+   "e": "Earth remains at an optimal distance from the Sun, ensuring surface temperatures suitable for life. It has a suitable mass and radius to exert gravitational force strong enough to retain an atmosphere. The magnetic field shields the surface from harmful high-energy solar radiation. All three factors are essential for habitability."
+  },
+  {
+   "q": "Consider the following statements with regard to the interior of Earth: 1️⃣ The Sima zone is known for the surplus availability of acidic materials. 2️⃣ The Sial zone is the source of magma and lava resources. 3️⃣ The Nife zone is dominated by heavy metals.",
+   "o": [
+    "III only",
+    "I, II and III",
+    "I only",
+    "II and III only"
+   ],
+   "a": 0,
+   "e": "The Sial layer is characterized by the surplus availability of acid materials. The Sima layer, situated below sial, is made of basalt and is the provider of magma and lava resources. The Nife zone (core) has high density because it is dominated by heavy metals like Nickel (Ni) and Iron (Fe)."
+  },
+  {
+   "q": "Consider the following statements: Statement I: The Jovian planets do not have solid surfaces like the terrestrial planets. Statement II: Jovian planets are primarily composed of methane and water vapour. Which one of the following is correct in respect of the above statements?",
+   "o": [
+    "Statement I is not correct but Statement II is correct",
+    "Both Statement I and Statement II are correct and Statement II explains Statement I",
+    "Both Statement I and Statement II are correct but Statement II does not explain Statement I",
+    "Statement I is correct but Statement II is not correct"
+   ],
+   "a": 3,
+   "e": "Jovian planets lack solid surfaces. They are composed primarily of hydrogen and helium, with only traces of methane, ammonia, and water vapour in their atmospheres. Statement I is correct, but Statement II is incorrect because methane and water are not the primary components."
+  },
+  {
+   "q": "Consider the following statements: 1️⃣ In sedimentary rocks, the layers of deposits retain their characteristics even after lithification. 2️⃣ In igneous rocks, the process of cooling and solidification can happen in the Earth's crust or on the surface of the Earth. 3️⃣ In metamorphism, rocks undergo recrystallisation and reorganisation of materials within the original rocks.",
+   "o": [
+    "I and III only",
+    "I and II only",
+    "I, II and III",
+    "II and III only"
+   ],
+   "a": 2,
+   "e": "In many sedimentary rocks, layers retain characteristics after lithification (compaction into rock). Igneous rocks form when magma cools and solidifies, which can occur within the crust or on the surface. Metamorphism involves the recrystallisation and reorganisation of materials within existing rocks due to heat and pressure."
+  },
+  {
+   "q": "Consider the following statements: 1️⃣ Clastic sedimentary rocks are formed by the accumulation of materials derived from pre-existing mechanically weathered rocks. 2️⃣ Non-clastic sedimentary rocks are found in rocks that have precipitated chemically from water.",
+   "o": [
+    "Neither I nor II",
+    "Both I and II",
+    "I only",
+    "II only"
+   ],
+   "a": 1,
+   "e": "Clastic sedimentary rocks consist of fragments derived from pre-existing rocks that have been mechanically weathered and transported. Non-clastic textures occur in rocks precipitated chemically from water, such as limestone and dolomite."
+  },
+  {
+   "q": "Consider the following: 1️⃣ Orogenic movements 2️⃣ Epeirogenic movements 3️⃣ Earthquakes 4️⃣ Plate tectonic movements. How many of the above are considered part of diastrophism processes that build up portions of the Earth's crust?",
+   "o": [
+    "All the four",
+    "Only one",
+    "Only two",
+    "Only three"
+   ],
+   "a": 0,
+   "e": "Diastrophism includes all processes that move, elevate, or build up portions of the Earth's crust. This encompasses orogenic (mountain building), epeirogenic (continental building), earthquakes, and plate tectonic movements."
+  },
+  {
+   "q": "With reference to the stages of a river and associated landforms, consider the following statements: 1️⃣ V-shaped valleys are typical features formed during the youth stage of a river. 2️⃣ Waterfalls are characteristic features of the mature stage of a river. 3️⃣ Oxbow lakes are commonly formed during the old stage of a river.",
+   "o": [
+    "II only",
+    "I and III only",
+    "I and II only",
+    "I, II and III"
+   ],
+   "a": 1,
+   "e": "In the youth stage, rivers form shallow V-shaped valleys with waterfalls and rapids. In the mature stage, waterfalls and rapids disappear as valleys deepen and floodplains widen. In the old stage, rivers meander freely over vast floodplains, forming oxbow lakes."
+  },
+  {
+   "q": "Consider the following statements with respect to seismic waves: 1️⃣ Primary (P) waves can travel through solid, liquid and gaseous media, with the highest velocity in solids. 2️⃣ Secondary (S) waves travel only through solids and disappear when passing through liquid regions. 3️⃣ The velocity of Surface (L) waves is higher than that of S waves but lower than that of P waves.",
+   "o": [
+    "I only",
+    "I and II only",
+    "I, II and III",
+    "II and III only"
+   ],
+   "a": 1,
+   "e": "P-waves travel through solid, liquid, and gas, moving fastest in solids. S-waves travel only through solids and disappear in liquid regions. Surface (L) waves are the slowest of all seismic waves, recorded after both P and S waves."
+  },
+  {
+   "q": "Consider the following statements with reference to tectonic plate boundaries: 1️⃣ Divergent plate boundaries are primarily associated with the formation of mid-oceanic ridges. 2️⃣ At a convergent plate boundary, the subduction of the oceanic lithosphere can result in the formation of fold mountains. 3️⃣ Transform boundaries neither create new lithosphere nor lead to subduction, but involve lateral movement of plates.",
+   "o": [
+    "I and III only",
+    "I, II and III",
+    "I only",
+    "II and III only"
+   ],
+   "a": 1,
+   "e": "Divergent boundaries form new crust at mid-oceanic ridges as plates move apart. Convergent boundaries involve subduction and can result in fold mountains. Transform boundaries involve plates sliding laterally past each other without creating or destroying lithosphere."
+  },
+  {
+   "q": "The following table matches types of plateaus with characteristics and examples: 1️⃣ Intermontane: Bordered by fold mountain ranges - Deccan Plateau 2️⃣ Piedmont: Situated at the foot of mountains - Malwa Plateau 3️⃣ Continental: Formed by horizontal lava sheets - Volcanic lava plateau of Maharashtra. In which of the above rows is the given information correctly matched?",
+   "o": [
+    "None",
+    "All the three",
+    "Only one",
+    "Only two"
+   ],
+   "a": 3,
+   "e": "Intermontane plateaus are enclosed by mountains; the Tibetan Plateau is an example, whereas the Deccan Plateau is a volcanic/lava plateau. Piedmont plateaus are at the foot of mountains; the Malwa Plateau is a correct example. Continental plateaus are formed by extensive uplift or lava sheets; the Maharashtra plateau is a correct example."
+  },
+  {
+   "q": "Consider the following information: 1️⃣ The matching of continents 2️⃣ Rocks of same age across the oceans 3️⃣ The occurrence of rich placer deposits of gold in the Ghana coast 4️⃣ Identical species of plants and animals found on either side of the marine barriers. How many of the above support the Continental Drift theory?",
+   "o": [
+    "All the four",
+    "Only one",
+    "Only two",
+    "Only three"
+   ],
+   "a": 0,
+   "e": "Evidence for Continental Drift includes the \"Jig-Saw-Fit\" of shorelines , correlation of ancient rock belts across oceans , placer gold deposits in Ghana sourced from Brazil , and identical fossils (like Mesosaurus and Glossopteris) on separated continents."
+  },
+  {
+   "q": "Which one of the following best describes the term 'Abyssal Plains'?",
+   "o": [
+    "Rolling plains formed due to prolonged erosion in humid climates",
+    "Vast plains formed by volcanic lava flows in basaltic regions",
+    "Gently sloping plains formed at the base of mountains due to weathering and erosion",
+    "Extensive oceanic flat plains located between continental margins and mid-oceanic ridges"
+   ],
+   "a": 3,
+   "e": "Abyssal plains are extremely flat, featureless plains of the deep-ocean floor. They are extensive plains lying between continental margins and mid-oceanic ridges, typically at depths of 3000m to 6000m."
+  },
+  {
+   "q": "Consider the following statements with respect to alluvial fans and bajadas: 1️⃣ An alluvial fan results from sediment flowing from steep mountain creeks and depositing in flat, wide valleys. 2️⃣ A bajada is the convergence of many alluvial fans. 3️⃣ Both Alluvial fans and bajadas are found only in deserts.",
+   "o": [
+    "I, II and III",
+    "I and II only",
+    "II and III only",
+    "I and III only"
+   ],
+   "a": 1,
+   "e": "Alluvial fans form when rivers drop sediment as they exit steep mountains into valleys. A bajada is the convergence of multiple alluvial fans. While common in deserts, they are also found in wetter climates and even underwater (subaqueous fans)."
+  },
+  {
+   "q": "Solifluction is most commonly observed in which of the following conditions?",
+   "o": [
+    "Coastal areas affected by tidal erosion",
+    "Tropical rainforests with dense vegetation cover",
+    "Moist temperate regions with frequent surface thawing and rainfall",
+    "Arid deserts with high diurnal range"
+   ],
+   "a": 2,
+   "e": "Solifluction is a slow mass movement of water-saturated soil downslope. It is most common in moist temperate regions where frequent surface thawing of frozen ground and prolonged rainfall lead to oversaturation of upper soil layers."
+  },
+  {
+   "q": "Match the following erosion processes with their correct descriptions: 1️⃣ Attrition: Mechanical wear of rock fragments due to mutual collision 2️⃣ Hydraulic Action: Rock disintegration by water pressure without solid tools 3️⃣ Deflation: Removal and transport of loose sand by wind 4️⃣ Corrasion: Dissolution of soluble materials.",
+   "o": [
+    "I-A, II-C, III - D, IV - B",
+    "I-B, IIC, III - A, IV - D",
+    "I-A, IIB, III - C, IV - D",
+    "I-C, IIB, III - D, IV - A"
+   ],
+   "a": 1,
+   "e": "Attrition is the mutual collision of rock fragments during transport. Hydraulic action is disintegration by water pressure alone. Deflation is the lifting/blowing of loose particles by wind. Corrosion (not corrasion) involves chemical dissolution; corrasion is abrasion using solid tools."
+  },
+  {
+   "q": "Consider the following statements with regard to igneous rocks: 1️⃣ Intrusive igneous rocks are formed from magma that cools and solidifies beneath the Earth's surface. 2️⃣ Plutonic rocks typically have a fine-grained texture due to rapid cooling. 3️⃣ Dolerite is an example of an intrusive igneous rock that forms at shallow depths.",
+   "o": [
+    "I and III only",
+    "I, II and III",
+    "I only",
+    "II and III only"
+   ],
+   "a": 0,
+   "e": "Intrusive rocks form beneath the surface, cooling slowly to develop large crystals. Plutonic rocks form deep within the crust and have coarse-grained textures due to slow cooling, not fine-grained. Dolerite is a shallow-depth intrusive (hypabyssal) rock."
+  },
+  {
+   "q": "Consider the following statements with regard to the volcanic landforms: 1️⃣ Composite volcanoes are characterised by eruptions of more viscous lavas than basalt. 2️⃣ Calderas can only result from less explosive volcanic activity. 3️⃣ The Deccan Traps of India are an example of a flood basalt province.",
+   "o": [
+    "II and III only",
+    "I only",
+    "I, II and III",
+    "I and III only"
+   ],
+   "a": 3,
+   "e": "Composite volcanoes erupt viscous lava and pyroclastic material. Calderas result from the most explosive eruptions but can also form from slower eruptions in shield volcanoes. The Deccan Traps are a massive flood basalt province."
+  },
+  {
+   "q": "They are a large body of magmatic material that cools in the deeper depths of the crust and develops in the form of large domes. They appear on the surface only after the denudational processes remove the overlying materials. The Karnataka plateau with domal hills of granite rocks is an example of it. This is the most likely description of:",
+   "o": [
+    "Dyke",
+    "Sills",
+    "Batholith",
+    "Laccolith"
+   ],
+   "a": 2,
+   "e": "Batholiths are huge masses of solidified magma cooling deep in the crust as large domes. They appear on the surface only after extensive erosion. The granitic domal hills of the Karnataka plateau are classic examples."
+  },
+  {
+   "q": "Consider the following: 1️⃣ Juan de Fuca 2️⃣ Nazca Plate 3️⃣ Philippine Plate 4️⃣ Somali Plate. How many of the above tectonic plates are located along the Ring of Fire?",
+   "o": [
+    "Only two",
+    "Only three",
+    "Only one",
+    "All the four"
+   ],
+   "a": 1,
+   "e": "The Ring of Fire outlines the Pacific Ocean and involves the Juan de Fuca, Nazca, and Philippine plates. The Somali Plate is part of the African system and is not located along the Ring of Fire."
+  },
+  {
+   "q": "Which one of the following statements correctly describes a plate boundary associated with the Indian Plate?",
+   "o": [
+    "The western boundary extends along the Rakinyoma Mountains of Myanmar towards the island arc along the Java Trench.",
+    "The northern boundary is a divergent plate boundary characterized by the forming of the Himalayas.",
+    "The eastern margin to the east of Australia is a spreading site in the form of an oceanic ridge.",
+    "The southern boundary with the Antarctic plate is a convergent margin merging near New Zealand."
+   ],
+   "a": 2,
+   "e": "The northern boundary is continent-continent convergence (subduction). The Rakinyoma Mountains are the eastern boundary. The boundary with the Antarctic plate is a divergent ridge. The eastern margin in the SW Pacific is a spreading site/oceanic ridge."
+  },
+  {
+   "q": "Consider the following statements: Statement I: The concentration of water vapour in the atmosphere allows the Earth neither to become too cold nor too hot. Statement II: Water vapour absorbs parts of the insolation from the sun and preserves the Earth's radiated heat. Which one of the following is correct in respect of the above statements?",
+   "o": [
+    "Both Statement I and Statement II are correct but Statement II does not explain Statement I",
+    "Statement I is not correct but Statement II is correct",
+    "Statement I is correct but Statement II is not correct",
+    "Both Statement I and Statement II are correct and Statement II explains Statement I"
+   ],
+   "a": 3,
+   "e": "Water vapour acts like a blanket by absorbing insolation and preserving radiated heat, preventing Earth from becoming too hot or cold. Thus, Statement II is the scientific explanation for the effect described in Statement I."
+  },
+  {
+   "q": "Which of the following factors are responsible for variation in the horizontal distribution of pressure? 1️⃣ Air temperature 2️⃣ The Earth's rotation 3️⃣ Presence of water vapour.",
+   "o": [
+    "I, II and III",
+    "II and III only",
+    "I and III only",
+    "I and II only"
+   ],
+   "a": 0,
+   "e": "Pressure varies horizontally due to air temperature (inverse relationship) , Earth's rotation (centrifugal force creating belts) , and water vapour (moist air is less dense/lower pressure)."
+  },
+  {
+   "q": "Consider the following statements regarding the Coriolis force: 1️⃣ It is maximum at the equator and decreases towards the poles. 2️⃣ It influences the velocity but not the speed of moving objects.",
+   "o": [
+    "II only",
+    "I only",
+    "Both I and II",
+    "Neither I nor II"
+   ],
+   "a": 0,
+   "e": "The Coriolis force is zero at the equator and increases progressively toward the poles. It acts perpendicular to motion, influencing the direction (velocity) but cannot alter the speed of the wind."
+  },
+  {
+   "q": "Consider the following pairs of atmospheric phenomena and descriptions: 1️⃣ Conduction: Heat transfer through direct contact 2️⃣ Convection: Vertical transfer of heat through rising and sinking air 3️⃣ Radiation: Transfer through empty space 4️⃣ Advection: Horizontal transport of heat by winds. How many of the pairs given above are correctly matched?",
+   "o": [
+    "Only two",
+    "Only three",
+    "All the four",
+    "Only one"
+   ],
+   "a": 2,
+   "e": "Conduction is heat transfer via direct contact. Convection is vertical mass movement. Radiation involves heat waves through space. Advection is horizontal transport by wind."
+  },
+  {
+   "q": "Consider the following statements: Statement I: India's northwestern plains experience rainfall and hailstorms during the winter season. Statement II: In winters, jet streams drive western disturbances from the Mediterranean region into India. Which one of the following is correct in respect of the above statements?",
+   "o": [
+    "Both Statement I and Statement II are correct but Statement II does not explain Statement I",
+    "Both Statement I and Statement II are correct and Statement II explains Statement I",
+    "Statement I is not correct but Statement II is correct",
+    "Statement I is correct but Statement II is not correct"
+   ],
+   "a": 1,
+   "e": "Subtropical westerly jet streams bring western disturbances from the Mediterranean into India during winter. These disturbances cause winter rain and hailstorms in the northwestern plains."
+  },
+  {
+   "q": "Consider the following pairs of clouds: 1️⃣ Cirrostratus: Resembles a thin white sheet or veil 2️⃣ Stratocumulus: Fibrous towering cloud with absence of dark parts 3️⃣ Nimbostratus: Grey cloud layer producing continuous rain 4️⃣ Cumulus: Vertical cloud with a rounded top and horizontal base. How many of the above pairs are correctly matched?",
+   "o": [
+    "Only one",
+    "Only two",
+    "Only three",
+    "All the four"
+   ],
+   "a": 2,
+   "e": "Cirrostratus resembles a white veil. Stratocumulus has dark parts and rounded masses, not fibrous. Nimbostratus is a grey layer producing continuous rain/snow. Cumulus is a vertical cloud with rounded tops."
+  },
+  {
+   "q": "Consider the following statements: Statement I: In January, low pressure areas develop over South America and Southern Africa. Statement II: In January, there is northward shift of equatorial low-pressure belt due to apparent movement of the Sun. Which one of the following is correct in respect of the above statements?",
+   "o": [
+    "Statement I is correct but Statement II is not correct",
+    "Statement I is not correct but Statement II is correct",
+    "Both Statement I and Statement II are correct and Statement II explains Statement I",
+    "Both Statement I and Statement II are correct but Statement II does not explain Statement I"
+   ],
+   "a": 0,
+   "e": "In January, the sun's apparent southward movement causes the equatorial low-pressure belt to shift south. Areas of lowest pressure develop over southern landmasses like South America and Africa as land heats up rapidly."
+  },
+  {
+   "q": "Consider the following pairs of winds: 1️⃣ Chinook: Warm - U.S.A. and Canada 2️⃣ Harmattan: Cold - Gulf of Mexico 3️⃣ Zonda: Warm - Argentina 4️⃣ Mistral: Cold - France. In how many of the above rows is the given information correctly matched?",
+   "o": [
+    "All the four",
+    "Only three",
+    "Only two",
+    "Only one"
+   ],
+   "a": 1,
+   "e": "Chinook is a hot, dry wind in the Rockies. Harmattan is a hot, dry wind from the Sahara blowing toward West Africa (not Mexico). Zonda is a warm, dry wind in Argentina. Mistral is a cold, dry wind in France."
+  },
+  {
+   "q": "Which one of the following layers of the atmosphere has the lowest recorded temperature?",
+   "o": [
+    "Thermosphere",
+    "Mesosphere",
+    "Troposphere",
+    "Stratosphere"
+   ],
+   "a": 1,
+   "e": "The temperature in the mesosphere continuously decreases with height. Its top is the coldest area of Earth's atmosphere, reaching as low as 100 K (-173°C)."
+  },
+  {
+   "q": "Consider the following statements: 1️⃣ Planetary winds blow in the same direction from high pressure belts to low pressure belts throughout the year. 2️⃣ The trade winds are easterlies blowing from sub-tropical high-pressure areas towards equatorial low-pressure areas. 3️⃣ The direction of polar easterlies in the northern hemisphere is from southeast to northwest.",
+   "o": [
+    "I, II and III",
+    "II and III only",
+    "I and II only",
+    "III only"
+   ],
+   "a": 2,
+   "e": "Planetary winds (trades, westerlies, polar easterlies) blow in constant directions year-round. Trade winds blow from sub-tropical highs to equatorial lows. Northern hemisphere polar easterlies blow from northeast to southwest."
+  },
+  {
+   "q": "Which one of the following parts of the continental margins has the highest biological productivity?",
+   "o": [
+    "Continental rise",
+    "Deep-oceanic trenches",
+    "Continental shelves",
+    "Continental slope"
+   ],
+   "a": 2,
+   "e": "Continental shelves provide ideal conditions for plankton growth via sunlight penetration, making them excellent breeding grounds for fish. Almost all marine food comes from shelves, giving them the highest biological productivity."
+  },
+  {
+   "q": "Which of the following statements is/are correct? 1️⃣ Active plate margins are associated with earthquakes and volcanism. 2️⃣ Passive plate margins represent transitions within a single tectonic plate. 3️⃣ The East Pacific Rise is an example of a passive plate margin.",
+   "o": [
+    "I and III only",
+    "I and II only",
+    "I, II and III",
+    "II only"
+   ],
+   "a": 1,
+   "e": "Active margins are actual plate boundaries where crusts collide, causing earthquakes/volcanoes. Passive margins are transitions within a single plate. The East Pacific Rise is a divergent boundary (active), not passive."
+  },
+  {
+   "q": "Consider the following statements: Statement I: Oceans in the northern hemisphere record relatively higher temperatures than in the southern hemisphere. Statement II: In the northern hemisphere the land surface area is much larger than in the southern hemisphere. Which one of the following is correct in respect of the above statements?",
+   "o": [
+    "Both Statement I and Statement II are correct but Statement II does not explain Statement I",
+    "Both Statement I and Statement II are correct and Statement II explains Statement I",
+    "Statement I is correct but Statement II is not correct",
+    "Statement I is not correct but Statement II is correct"
+   ],
+   "a": 1,
+   "e": "Northern hemisphere oceans are warmer because the greater land area absorbs more solar radiation, warming adjacent waters. The southern hemisphere is ocean-dominated and stays more moderate."
+  },
+  {
+   "q": "Despite being located at similar latitudes, the British Isles experience milder winters compared to the Northeast coast of Canada. What is the primary reason?",
+   "o": [
+    "The British Isles lie at a lower elevation",
+    "The British Isles have longer daylight hours in winter",
+    "The British Isles are frequently influenced by maritime westerlies",
+    "The British Isles are influenced by the warm North Atlantic Drift"
+   ],
+   "a": 3,
+   "e": "The warm North Atlantic Drift flows along Europe's western coast, keeping regions like Great Britain ice-free in winter. Canada's Northeast Coast is conversely affected by the cold Labrador Current, causing it to remain ice-bound."
+  },
+  {
+   "q": "Consider the following statements: 1️⃣ The ocean crust rocks are much younger than the continental rocks. 2️⃣ Rocks closer to the mid-oceanic ridges have normal polarity. 3️⃣ Mid-ocean ridges generally have shallow-focus earthquakes.",
+   "o": [
+    "I, II and III",
+    "I and III only",
+    "II and III only",
+    "I only"
+   ],
+   "a": 0,
+   "e": "Ocean crust is nowhere older than 200 million years, while continental rocks can be 3,200 million years old. Rocks at ridges have normal polarity and are youngest. Mid-ocean ridge areas have shallow-focus earthquakes, whereas deep trenches have deep-seated quakes."
+  },
+  {
+   "q": "Consider the following statements: Statement I: The pattern of ocean currents in the northern Indian Ocean shows a clear seasonal reversal between summer and winter. Statement II: The Indian Ocean is enclosed by continental masses in the north. Statement III: The Indian Ocean is entirely influenced by the seasonal changes of the monsoon winds. Which one of the following is correct in respect of the above statements?",
+   "o": [
+    "Neither Statement II nor Statement III is correct",
+    "Both Statement II and Statement III are correct, but only one of them explains Statement I",
+    "Both Statement II and Statement III are correct and both of them explain Statement I",
+    "Only one of the Statements II and III is correct and that explains Statement I"
+   ],
+   "a": 2,
+   "e": "The Indian Ocean is blocked by land in the north, causing its circulation pattern to differ from other oceans. Northern currents reverse seasonally due to the complete influence of monsoon winds."
+  },
+  {
+   "q": "With reference to the composition of the Earth's crust, consider the following statements: 1️⃣ Oxygen occupies more than 90% of the Earth's crust by volume. 2️⃣ Iron is the second most abundant element by volume in the Earth's crust. 3️⃣ Silicon is the third most abundant element in the Earth's crust by weight.",
+   "o": [
+    "None",
+    "Only one",
+    "Only two",
+    "All the three"
+   ],
+   "a": 1,
+   "e": "Oxygen is the most abundant by volume at 94.04%. Silicon is second by volume (0.88%), while iron is only 0.49%. Aluminum is the third most abundant by weight/mass (8.23%), after oxygen and silicon."
+  },
+  {
+   "q": "Consider the following statements: Statement I: Dark-coloured soils promote quicker seed germination and more rapid early plant growth. Statement II: Dark-coloured soils absorb more solar energy than light-coloured soils. Which one of the following is correct in respect of the above statements?",
+   "o": [
+    "Statement I is correct but Statement II is not correct",
+    "Statement I is not correct but Statement II is correct",
+    "Both Statement I and Statement II are correct and Statement II explains Statement I",
+    "Both Statement I and Statement II are correct but Statement II does not explain Statement I"
+   ],
+   "a": 2,
+   "e": "High organic matter makes soils dark; these soils absorb more radiation and warm faster. This warmth promotes quicker germination and rapid plant growth. Statement II explains the result in Statement I."
+  },
+  {
+   "q": "Which of the following are the major characteristics of metamorphic rocks? 1️⃣ These are denser and harder than the original parent rock. 2️⃣ These contain an abundant amount of fossils. 3️⃣ These contain well-developed foliated or lineated structures.",
+   "o": [
+    "II and III only",
+    "I, II and III",
+    "I and II only",
+    "I and III only"
+   ],
+   "a": 3,
+   "e": "Metamorphic rocks are harder and denser than parent rocks due to recrystallisation. They do not contain fossils. They often possess foliated or lineated structures developed under pressure."
+  },
+  {
+   "q": "What type of processes are related to the dissolution of soluble rocks, such as limestone and gypsum in morphogenetic regions?",
+   "o": [
+    "Glacial processes",
+    "Tidal processes",
+    "Volcanic processes",
+    "Karst processes"
+   ],
+   "a": 3,
+   "e": "Processes involving the dissolution of soluble rocks like limestone by water are known as karst processes. They form distinctive landforms like sinkholes and caves."
+  },
+  {
+   "q": "With reference to the sand dunes, consider the following statements: 1️⃣ Barchans are crescent-shaped dunes formed by wind from one direction. 2️⃣ Transverse dunes are asymmetrical in shape and form where winds blow from a constant direction. 3️⃣ Seif are long, narrow ridges that are parallel to the direction of prevailing winds.",
+   "o": [
+    "II and III only",
+    "III only",
+    "I, II and III",
+    "I and II only"
+   ],
+   "a": 2,
+   "e": "Barchans are crescent-shaped dunes with \"horns\" pointing downwind. Transverse dunes look like sea waves and form where winds are constant. Seif (longitudinal) dunes are ridges parallel to the prevailing wind."
+  },
+  {
+   "q": "Consider the following: 1️⃣ Stalactites 2️⃣ Stalagmites 3️⃣ Sinkholes 4️⃣ Lapies 5️⃣ Limestone pavements. How many of the above are depositional landforms?",
+   "o": [
+    "Only two",
+    "All the five",
+    "Only four",
+    "Only three"
+   ],
+   "a": 0,
+   "e": "Stalactites and stalagmites are depositional forms in caves created by evaporating calcium carbonate. Sinkholes, lapies, and limestone pavements are erosional landforms created by chemical solution."
+  },
+  {
+   "q": "With reference to the Earth's internal structure, Repiti Discontinuity is a transition zone between:",
+   "o": [
+    "lower mantle and outer core",
+    "upper mantle and the lower mantle",
+    "outer core and inner core",
+    "upper crust and lower crust"
+   ],
+   "a": 1,
+   "e": "The mantle is divided into upper and lower layers; the boundary between them is the Repetti Discontinuity. It lies at the base of the transition zone."
+  },
+  {
+   "q": "Consider the following statements with regard to the floodplain landforms: 1️⃣ Natural levees are low, linear ridges of coarse deposits found along the banks of large rivers. 2️⃣ Point bars are formed on the concave side of meanders due to sediment deposition by flowing water.",
+   "o": [
+    "I only",
+    "II only",
+    "Neither I nor II",
+    "Both I and II"
+   ],
+   "a": 3,
+   "e": "Natural levees are parallel ridges of coarse deposits along river banks. Point bars (meander bars) form on the concave side of meanders via linear sediment deposition."
+  },
+  {
+   "q": "Consider the following: 1️⃣ Sheltered and tideless coastline 2️⃣ Shallow sea water adjoining the delta 3️⃣ Presence of strong tidal currents at the river mouth 4️⃣ Active lateral and vertical erosion in the upper course of the river. How many of the above are favorable conditions for the formation of a delta?",
+   "o": [
+    "All the four",
+    "Only two",
+    "Only three",
+    "Only one"
+   ],
+   "a": 2,
+   "e": "Delta formation requires large sediment supply from active erosion upstream , shallow adjoining sea water , and a tideless/sheltered coast. Strong currents at the river mouth are unfavorable as they wash sediment away."
+  },
+  {
+   "q": "Consider the following pairs of glacier landforms: 1️⃣ Aretes: A shallow pass between two high points 2️⃣ Horns: A pyramidal peak formed by erosion 3️⃣ Cirques: A bowl-shaped depression at a glacier head 4️⃣ Crevasses: A deep crack in the glacier surface. How many of the above pairs are correctly matched?",
+   "o": [
+    "Only one",
+    "Only two",
+    "Only three",
+    "All the four"
+   ],
+   "a": 2,
+   "e": "Aretes are saw-toothed ridges; a shallow pass between high points is a Col. Horns are pyramidal peaks. Cirques are bowl-shaped depressions. Crevasses are deep vertical cracks in the ice surface."
+  },
+  {
+   "q": "Consider the following statements regarding fold mountains and block mountains: 1️⃣ Fold mountains are formed due to folding of crustal rocks while block mountains are the result of faulting caused by tensile and compressive forces. 2️⃣ Andes mountains are examples of block mountains while black forest mountains are examples of fold mountains.",
+   "o": [
+    "Both I and II",
+    "II only",
+    "Neither I nor II",
+    "I only"
+   ],
+   "a": 3,
+   "e": "Fold mountains result from compressive forces folding rocks. Block mountains result from faulting (tensile/compressive forces). The Andes are fold mountains; the Black Forest is a block mountain."
+  },
+  {
+   "q": "Consider the following pairs of mountains: 1️⃣ Residual: Mount Kilimanjaro in Tanzania 2️⃣ Volcanic: Fuji Yama in Japan 3️⃣ Dome: Satpura Hills in India. How many of the above pairs are correctly matched?",
+   "o": [
+    "Only one",
+    "None",
+    "Only two",
+    "All the three"
+   ],
+   "a": 0,
+   "e": "Residual mountains are remnants of erosion like the Scottish Highlands; Kilimanjaro is volcanic. Fuji Yama is a correct volcanic example. Satpura Hills are block mountains, not dome mountains."
+  },
+  {
+   "q": "According to the Continental Drift Theory by Alfred Wegener, which forces were responsible for the formation of continents?",
+   "o": [
+    "Coriolis force and frictional force",
+    "Gravitational force and electromagnetic force",
+    "Pole-fleeing force and tidal force",
+    "Magnetic force and centrifugal force"
+   ],
+   "a": 2,
+   "e": "Wegener proposed that the pole-fleeing force (from Earth's rotation) and the tidal force (from the Moon/Sun's gravity) were responsible for the movement of continents."
+  },
+  {
+   "q": "Consider the following pairs of minerals: 1️⃣ Amphibole: Rajasthan - Crystallize in igneous and metamorphic rocks 2️⃣ Quartz: Arunachal - Hard mineral virtually insoluble in water 3️⃣ Feldspar: Gujarat - Used in ceramics and glass making 4️⃣ Mica: Andhra pradesh - Resistant to sudden change in temperature. In how many of the above rows is the given information correctly matched?",
+   "o": [
+    "Only three",
+    "Only one",
+    "Only two",
+    "All the four"
+   ],
+   "a": 2,
+   "e": "Rajasthan is a major producer of Amphibole. Rajasthan is also the largest producer of Quartz, not Arunachal. Rajasthan is a leading producer of Feldspar, not Gujarat. Andhra Pradesh is the largest producer of Mica."
+  },
+  {
+   "q": "Loess, Yardangs and Blow outs are the depositional and erosional features of:",
+   "o": [
+    "volcano",
+    "river",
+    "glacier",
+    "wind"
+   ],
+   "a": 3,
+   "e": "Loess is a yellow silt-sized depositional feature of wind. Yardangs (elongated ridges) and blowouts (deflation basins) are erosional features sculpted by wind in arid regions."
+  },
+  {
+   "q": "Which of the following factors contributes to the lower frequency of landslides in the Western Ghats as compared to the Himalayas? 1️⃣ Western Ghats are geologically older and more tectonically stable than the Himalayas. 2️⃣ Seismic activity is significantly lower in the Western Ghats than Himalayan region. 3️⃣ Western Ghats generally have more gradual slopes than the Himalayas.",
+   "o": [
+    "I, II and III",
+    "II and III only",
+    "I and III only",
+    "I and II only"
+   ],
+   "a": 0,
+   "e": "The Western Ghats are ancient, stable, and tectonically inactive compared to the young, seismically active Himalayas. The Himalayas have extremely steep slopes, while the Western Ghats have gentler slopes, reducing landslide risk."
+  },
+  {
+   "q": "Pediments are best described as:",
+   "o": [
+    "isolated hills rising abruptly from plains",
+    "flat plains formed by river deposition",
+    "gently sloping rock surfaces at the base of mountains",
+    "steep ridges formed by glacial erosion"
+   ],
+   "a": 2,
+   "e": "Pediments are gently sloping rock surfaces at the foot of mountains, formed by abrasion and sheet flooding. They represent the junction between steep erosional slopes and depositional lowlands."
+  },
+  {
+   "q": "Consider the following pairs of tectonic plates: 1️⃣ Scotia: Between the South American Plate and the Antarctic Plate 2️⃣ Caroline: Between the Philippine plate and Indian plate 3️⃣ Cocos: Between the African Plate and the Eurasian Plate. How many of the pairs given above are correctly matched?",
+   "o": [
+    "Only one",
+    "Only two",
+    "All the three",
+    "None"
+   ],
+   "a": 1,
+   "e": "The Scotia Plate lies between the South American and Antarctic plates. The Caroline Plate is between the Philippine and Indian plates. The Cocos Plate is between Central America and the Pacific plate (not Africa/Eurasia)."
+  },
+  {
+   "q": "Consider the following statements: 1️⃣ Acid lava is rich in metallic minerals while basic lava is rich in silica. 2️⃣ Unlike acid lavas, basic lavas are highly viscous with a high melting point. 3️⃣ The Acid lava volcanoes have a steeper slope than basic lava.",
+   "o": [
+    "I, II and III",
+    "III only",
+    "I and II only",
+    "I and III only"
+   ],
+   "a": 1,
+   "e": "Basic lava is rich in iron/magnesium and poor in silica; acid lava is rich in silica. Basic lavas have low melting points and high fluidity, while acid lavas are highly viscous. Acid lava cones have steeper slopes than basic lava shields."
+  },
+  {
+   "q": "Consider the following statements with reference to the types of soils: 1️⃣ Red soils contain a high amount of manganese dioxides. 2️⃣ Red soils usually exhibit good drainage and aeration properties. 3️⃣ Yellow soils have high amounts of organic matter.",
+   "o": [
+    "II and III only",
+    "I and III only",
+    "I and II only",
+    "I, II and III"
+   ],
+   "a": 2,
+   "e": "Red soil colour is due to iron compounds or manganese dioxides. This colour indicates good drainage/aeration as unhydrated iron oxides cannot exist in poorly drained soil. Yellow soils have small amounts of organic matter and are more common in high humidity."
+  },
+  {
+   "q": "Consider the following statements: 1️⃣ All lines of latitude, except the equator, progressively decrease in length as they move from the equator towards the poles. 2️⃣ Latitudes always run in the west-east direction. 3️⃣ The distance between any two longitudes is maximum at the equator and gradually decreases towards the poles.",
+   "o": [
+    "II only",
+    "I and II only",
+    "I and III only",
+    "I, II and III"
+   ],
+   "a": 2,
+   "e": "Latitudes (parallels) are circles that become smaller polewards. Latitudes run in the east-west direction, not west-east. The distance between meridians (longitudes) is maximum at the equator and becomes zero at the poles."
+  },
+  {
+   "q": "Consider the following: 1️⃣ A high-altitude weather balloon to study ozone 2️⃣ A jet aircraft on a transcontinental flight 3️⃣ Burning up of meteors before reaching Earth 4️⃣ Formation of cumulonimbus clouds during a thunderstorm. How many of the above activities take place in the stratosphere?",
+   "o": [
+    "Only three",
+    "All the four",
+    "Only two",
+    "Only one"
+   ],
+   "a": 2,
+   "e": "Ozone-studying balloons and cruising jet aircraft operate in the stratosphere. Meteors burn up in the mesosphere. Thunderstorms and clouds form in the troposphere."
+  },
+  {
+   "q": "Consider the following statements about thunderstorms: 1️⃣ They are always produced by a nimbostratus cloud. 2️⃣ They are characterised by an intense updraft of rising warm air. 3️⃣ They are always accompanied by intense lightning and thunder.",
+   "o": [
+    "I, II and III",
+    "I and III only",
+    "I and II only",
+    "II and III only"
+   ],
+   "a": 3,
+   "e": "Thunderstorms are produced by cumulonimbus clouds, not nimbostratus. They feature intense updrafts of warm air and are defined by accompanying lightning and thunder."
+  },
+  {
+   "q": "Which one of the following terms refers to the average rate of temperature decrease with increasing altitude in the troposphere?",
+   "o": [
+    "Thermal gradient",
+    "Adiabatic lapse rate",
+    "Normal lapse rate",
+    "None of the above"
+   ],
+   "a": 2,
+   "e": "Temperature decreases in the troposphere at an average rate of 6°C per 1000m altitude; this is known as the normal lapse rate. Adiabatic lapse rate refers to temperature changes within a rising/sinking air parcel."
+  },
+  {
+   "q": "Consider the following statements: 1️⃣ The insolation received by the Earth is in short waves forms. 2️⃣ The Earth, like all other hot objects, radiates heat energy received from Sun. 3️⃣ More than 50 units of the total heat received by the Earth is reflected back by clouds.",
+   "o": [
+    "I and II only",
+    "II and III only",
+    "I, II and III",
+    "I and III only"
+   ],
+   "a": 0,
+   "e": "Earth receives insolation as short waves. It radiates energy back as long-wave terrestrial radiation. Only 27 units of heat are reflected by clouds out of 100 total units."
+  },
+  {
+   "q": "Consider the following statements: 1️⃣ The interior of the continents receives greater amounts of rainfall than coastal areas of the world. 2️⃣ The equatorial regions of the world receive precipitation throughout the year. 3️⃣ In the northern hemisphere, the rainfall is more over the oceans than on the landmasses. 4️⃣ Between the latitudes 35° and 40° N and S of the equator, the rain is heavier on the eastern coasts and decreases towards the west.",
+   "o": [
+    "I and II only",
+    "III only",
+    "II, III and IV only",
+    "I, II and IV only"
+   ],
+   "a": 2,
+   "e": "Coastal areas receive more rain than continental interiors. Equatorial regions receive convectional rain year-round. Northern hemisphere rain is higher over oceans. Between 35°-40°, rain is heavier on eastern coasts."
+  },
+  {
+   "q": "Consider the following: 1️⃣ Clear sky 2️⃣ Calm air 3️⃣ High relative humidity 4️⃣ Long and cold nights 5️⃣ Dew point below freezing point. How many of the above are ideal conditions for the formation of dew?",
+   "o": [
+    "Only two",
+    "Only four",
+    "Only three",
+    "All the five"
+   ],
+   "a": 1,
+   "e": "Ideal conditions for dew are clear sky, calm air, high relative humidity, and long cold nights. For dew, the dew point must be above freezing; if below, frost forms instead."
+  },
+  {
+   "q": "Consider the following statements: Statement I: The phenomenon of inversion of temperature is observed in intermontane valleys during winters. Statement II: During winters, the mountain slopes cool very rapidly due to the quick radiation of heat. Which one of the following is correct in respect of the above statements?",
+   "o": [
+    "Both Statement I and Statement II are correct and Statement II explains Statement I",
+    "Both Statement I and Statement II are correct but Statement II does not explain Statement I",
+    "Statement I is not correct but Statement II is correct",
+    "Statement I is correct but Statement II is not correct"
+   ],
+   "a": 0,
+   "e": "Rapid cooling of mountain slopes causes air above them to become dense and sink into valleys, pushing warm air upward. This results in temperature inversion where temperature increases with height."
+  },
+  {
+   "q": "Consider the following statements regarding air masses: 1️⃣ They can acquire their characteristics from the surface over which they remain stationary. 2️⃣ Tropical air masses originate over the lower latitudes of both land and sea. 3️⃣ They are not formed in the polar regions.",
+   "o": [
+    "II only",
+    "I and II only",
+    "I and III only",
+    "II and III only"
+   ],
+   "a": 1,
+   "e": "Air masses acquire characteristics (temperature/moisture) from the uniform surface they remain over. Tropical air masses (T) originate in lower latitudes. Polar (P) and Arctic (A) air masses form in high-latitude polar regions."
+  },
+  {
+   "q": "Consider the following statements with reference to jet streams: 1️⃣ They are relatively narrow bands of strong wind in the upper levels of the atmosphere. 2️⃣ They generally blow from west to east all across the globe. 3️⃣ They are strongest during both the northern and southern hemisphere winters.",
+   "o": [
+    "I and III only",
+    "I and II only",
+    "II and III only",
+    "I, II and III"
+   ],
+   "a": 3,
+   "e": "Jet streams are narrow bands of strong wind at roughly 30,000 feet. They blow from west to east. They are strongest in winter when hot and cold air boundaries are most pronounced."
+  },
+  {
+   "q": "With reference to tropical cyclones, consider the following characteristics: 1️⃣ They lack well-defined warm and cold fronts. 2️⃣ They are driven primarily by convectional currents. 3️⃣ They are typically accompanied by strong anticyclones. 4️⃣ They are usually shallow with weak wind velocity as compared to temperate cyclones.",
+   "o": [
+    "I, II, III and IV",
+    "I, II and IV only",
+    "III and IV only",
+    "I, II and III only"
+   ],
+   "a": 1,
+   "e": "Tropical cyclones lack clear fronts because temperatures are uniform in the ITCZ. They are energized by convection and are often shallow with weaker winds than temperate ones. They are not accompanied by anticyclones."
+  },
+  {
+   "q": "Which one of the following types of rainfall is formed where air rises and cools because of a physical barrier?",
+   "o": [
+    "Convectional rain",
+    "Orographic Rain",
+    "Cyclonic Rain",
+    "Frontal Rain"
+   ],
+   "a": 1,
+   "e": "Orographic (relief) rainfall occurs when air is forced to rise over a topographic barrier, cooling below the dew point to form clouds and rain on the windward side."
+  },
+  {
+   "q": "Which of the following is/are the cold ocean currents in the Pacific Ocean? 1️⃣ Oyashio Current 2️⃣ Labrador Current 3️⃣ Agulhas Current 4️⃣ Gulf Stream.",
+   "o": [
+    "I only",
+    "II, III and IV only",
+    "III only",
+    "II and IV only"
+   ],
+   "a": 0,
+   "e": "The Oyashio Current is a cold current in the Pacific. The Labrador Current is a cold current in the Atlantic. The Agulhas Current is a warm current in the Indian Ocean. The Gulf Stream is a warm current in the Atlantic."
+  },
+  {
+   "q": "Consider the following statements: 1️⃣ Spring tides occur when the Sun, Earth and Moon form a 90° angle relative to the Earth. 2️⃣ During the neap tides, the sun and moon are in a straight line. 3️⃣ Tidal ranges are greatest when Earth is farthest from the Sun.",
+   "o": [
+    "None",
+    "Only two",
+    "Only one",
+    "All the three"
+   ],
+   "a": 0,
+   "e": "Spring tides occur when the sun, moon, and earth are in a straight line. Neap tides occur when they form a 90° angle. Tidal ranges are lowest at apogee (moon farthest) and greatest at perigee (moon closest)."
+  },
+  {
+   "q": "Consider the following statements about the water vapour present in the atmosphere: 1️⃣ The amount of water vapour decreases with altitude in the atmosphere. 2️⃣ The amount of water vapour decreases from the equator towards the poles. 3️⃣ The greater the concentration of water vapour in the air, the less dense the air is.",
+   "o": [
+    "II and III only",
+    "II only",
+    "I, II and III",
+    "I only"
+   ],
+   "a": 2,
+   "e": "Water vapour decreases with altitude and from the equator toward the poles. High water vapour concentration makes air less dense because the molecular weight of water is less than dry air."
+  },
+  {
+   "q": "With reference to world geography, which of the following correctly shows the relative locations of the Baltic Sea and the Dead Sea?",
+   "o": [
+    "Both the Baltic Sea and the Dead Sea lie entirely within the European Plate",
+    "The Dead Sea is located west of the Baltic Sea",
+    "The Baltic Sea lies east of the Dead Sea",
+    "The Baltic Sea lies to the north of the Dead Sea"
+   ],
+   "a": 3,
+   "e": "The Baltic Sea is in Northern Europe. The Dead Sea is in Southwestern Asia (Middle East). Thus, the Baltic Sea is located north of the Dead Sea."
+  },
+  {
+   "q": "Consider the following statements with regard to the thermocline in the ocean: 1️⃣ It is the boundary layer where there is a rapid decrease in temperature with depth. 2️⃣ Nearly 90% of the total volume of ocean water lies below the thermocline.",
+   "o": [
+    "Neither I nor II",
+    "Both I and II",
+    "II only",
+    "I only"
+   ],
+   "a": 1,
+   "e": "The thermocline is the ocean boundary layer where temperature decreases rapidly with depth. Approximately 90% of all ocean water is found below this layer."
+  },
+  {
+   "q": "Consider the following pairs of ocean relief features: 1️⃣ Seamount: Volcanic mountain rising from the ocean floor 2️⃣ Submarine canyon: Deep valley cut into the continental slope 3️⃣ Atoll: Ring-shaped coral reef enclosing a lagoon 4️⃣ Guyots: Seamount with a flat top. How many of the pairs given above are correctly matched?",
+   "o": [
+    "Only two",
+    "Only three",
+    "Only one",
+    "All the four"
+   ],
+   "a": 3,
+   "e": "Seamounts are volcanic mountains with pointed summits. Submarine canyons are deep valleys cutting continental margins. Atolls are ring coral reefs. Guyots are flat-topped seamounts."
+  },
+  {
+   "q": "Which of the following factors affect the distribution of temperature of ocean water? 1️⃣ Latitude 2️⃣ Prevailing wind 3️⃣ Ocean currents 4️⃣ Unequal distribution of land and water.",
+   "o": [
+    "I, II and III only",
+    "I, II, III and IV",
+    "II and IV only",
+    "I and III only"
+   ],
+   "a": 1,
+   "e": "Temperature is affected by latitude (insolation) , prevailing winds (upwelling/onshore piling) , ocean currents (warm vs cold) , and land/water distribution (land heats/cools faster)."
+  },
+  {
+   "q": "Consider the following forces causing the circulation of an ocean gyre: 1️⃣ Global wind patterns 2️⃣ Earth's rotation 3️⃣ Distribution of continental landmasses 4️⃣ Tectonic plate boundaries. How many of the above forces cause the circulation of an ocean gyre?",
+   "o": [
+    "All the four",
+    "Only three",
+    "Only one",
+    "Only two"
+   ],
+   "a": 1,
+   "e": "Gyres are circular current systems formed by wind patterns , Earth's rotation (Coriolis effect) , and the shape of landmasses/continents. Plate boundaries do not directly influence surface gyres."
+  },
+  {
+   "q": "Consider the following statements: 1️⃣ An increase in the salinity of seawater increases the density of ocean water. 2️⃣ Higher temperatures generally increase the density of ocean water.",
+   "o": [
+    "Both I and II",
+    "Neither I nor II",
+    "I only",
+    "II only"
+   ],
+   "a": 2,
+   "e": "Salinity increases density because more mass is dissolved in the same volume. Higher temperatures decrease density as warmer water expands."
+  },
+  {
+   "q": "The major hot deserts of the world are located on the western margins of continents between 15° and 30° latitudes mainly because: 1️⃣ influence of subtropical high-pressure belts throughout the year 2️⃣ the rain bearing Trade Winds blow off-shore 3️⃣ presence of cold ocean currents along the western coasts.",
+   "o": [
+    "I and III only",
+    "I and II only",
+    "II and III only",
+    "I, II and III"
+   ],
+   "a": 3,
+   "e": "Hot deserts lie in high-pressure belts where air descends, preventing rain. Trade winds blow off-shore, and on-shore westerlies are outside desert limits. Cold currents stabilize and dry the air along western coasts."
+  },
+  {
+   "q": "Consider the following statements: Statement I: The Siberian type of climate is absent in the Southern Hemisphere. Statement II: The southern continents are relatively narrow in the high latitudes. Statement III: There is strong oceanic influence in the Southern Hemisphere. Which one of the following is correct in respect of the above statements?",
+   "o": [
+    "Both Statement II and Statement III are correct, but only one of them explains Statement I",
+    "Both Statement II and Statement III are correct and both of them explain Statement I",
+    "Only one of the Statements II and III is correct and that explains Statement I",
+    "Neither Statement II nor Statement III is correct"
+   ],
+   "a": 1,
+   "e": "The Siberian climate (extreme continental) is absent in the Southern Hemisphere because landmasses are narrow at high latitudes and oceanic influence is pervasive. Maritime influence prevents the seasonal temperature extremes found in Siberia."
+  },
+  {
+   "q": "Consider the following statements with regard to coniferous forests: 1️⃣ Like equatorial rainforests, these have high biodiversity and are dense with multilayered vegetation. 2️⃣ Unlike deciduous trees, these retain their needle-like leaves for several years. 3️⃣ Their soils are rich in nutrients and highly fertile.",
+   "o": [
+    "I and III only",
+    "III only",
+    "II and III only",
+    "II only"
+   ],
+   "a": 3,
+   "e": "Coniferous forests (Taiga) have lower biodiversity and uniformity due to cold climates. Conifers retain needles for years. Their soils (podzols) are leached, acidic, and nutrient-poor."
+  },
+  {
+   "q": "The names Ladang, Taungya, Tamrai and Humah refer to:",
+   "o": [
+    "traditional irrigation systems",
+    "types of rice varieties",
+    "shifting cultivation practices",
+    "indigenous agricultural tools"
+   ],
+   "a": 2,
+   "e": "These names refer to traditional shifting cultivation (slash-and-burn) practices in Southeast Asia: Ladang (Malaysia), Humah (Java), Taungya (Myanmar), and Tamrai (Thailand)."
+  },
+  {
+   "q": "With reference to the Steppe climate, consider the following statements: 1️⃣ It lies in the westerly wind belt. 2️⃣ This climate in the Northern Hemisphere experiences extreme seasonal variations. 3️⃣ Unlike the tropical savanna, it has sparse grasses with very few trees.",
+   "o": [
+    "I and III only",
+    "I, II and III",
+    "II and III only",
+    "I only"
+   ],
+   "a": 1,
+   "e": "Steppes are in the westerly belt but are dry due to remoteness from oceans. Northern steppes have extreme variations (hot summers/cold winters). They feature sparse, short grasses compared to taller savanna grasses."
+  },
+  {
+   "q": "Consider the following pairs of sea trade routes: 1️⃣ Panama Canal: Atlantic and Pacific Oceans 2️⃣ Suez Canal: Mediterranean Sea and the Red Sea 3️⃣ Dardanelles Strait: Aegean Sea and Mediterranean Sea 4️⃣ English Channel: Atlantic Ocean and the North Sea. How many of the pairs given above are correctly matched?",
+   "o": [
+    "All the four",
+    "Only two",
+    "Only one",
+    "Only three"
+   ],
+   "a": 3,
+   "e": "Panama connects Atlantic/Pacific. Suez connects Mediterranean/Red Sea. Dardanelles connects Aegean/Marmara (not Mediterranean). English Channel connects Atlantic/North Sea."
+  },
+  {
+   "q": "Consider the following statements: 1️⃣ Both Uranium and thorium cannot be found in the environment in their elemental forms. 2️⃣ The uranium isotope, uranium-235 is the only naturally occurring fissile material. 3️⃣ Uranium is used in nuclear reactors while thorium has been used in light bulb elements.",
+   "o": [
+    "I and II only",
+    "I, II and III",
+    "I and III only",
+    "II and III only"
+   ],
+   "a": 1,
+   "e": "Uranium and thorium are highly reactive and found only as compounds, not elemental form. U-235 is the only naturally occurring fissile material. Uranium fuels reactors; thorium oxide is used in light bulbs."
+  },
+  {
+   "q": "Consider the following: 1️⃣ Medical services for overseas patients in India 2️⃣ Legal and financial advisors 3️⃣ Government officials 4️⃣ Tourist guide. How many of the above are examples of quinary activities?",
+   "o": [
+    "Only one",
+    "Only three",
+    "All the four",
+    "Only two"
+   ],
+   "a": 3,
+   "e": "Quinary activities involve high-level policy making and interpretation (government officials, legal/financial advisors). Medical services and tourist guides are classified as tertiary activities."
+  },
+  {
+   "q": "Consider the following pairs of demographic indicators: 1️⃣ Fertility Rate: Live births per 1000 women aged 15-49 2️⃣ Infant Mortality Rate: Deaths under one year per 1000 live births 3️⃣ Maternal Mortality Rate: Women deaths per 1,00,000 live births 4️⃣ Sex Ratio: Males per 1000 females. How many of the above pairs are correctly matched?",
+   "o": [
+    "Only one",
+    "Only three",
+    "Only two",
+    "All the four"
+   ],
+   "a": 1,
+   "e": "Fertility rate is per 1000 women (15-49). IMR is per 1000 live births. MMR is per 1,00,000 live births. Sex ratio is females per 1000 males (not vice versa)."
+  },
+  {
+   "q": "Consider the following statements: 1️⃣ Argentina is the largest producer of platinum in the world. 2️⃣ India is the second-largest producer of Rare Earth Elements after China. 3️⃣ The Democratic Republic of Congo is the leading global producer of cobalt.",
+   "o": [
+    "III only",
+    "II only",
+    "I and III only",
+    "I, II and III"
+   ],
+   "a": 0,
+   "e": "South Africa is the largest platinum producer. China dominates REE production (over one-third); India has reserves but lacks domestic magnet production. DRC produces over 50% of global cobalt."
+  },
+  {
+   "q": "Consider the following: 1️⃣ Frequent natural disasters such as droughts 2️⃣ Better employment opportunities 3️⃣ Ethnic conflicts 4️⃣ Lack of access to basic healthcare and education. How many of the above are considered push factors for population migration?",
+   "o": [
+    "Only one",
+    "Only three",
+    "All the four",
+    "Only two"
+   ],
+   "a": 1,
+   "e": "Push factors compel people to leave, including natural disasters , conflicts , and lack of services. Better employment opportunities are a pull factor attracting migrants."
+  },
+  {
+   "q": "Consider the following pairs of regions and countries: 1️⃣ Essequibo: Venezuela 2️⃣ Abyei: Ethiopia 3️⃣ Tigray: Sudan 4️⃣ Socotra: Yemen. How many of the pairs given above are correctly matched?",
+   "o": [
+    "Only two",
+    "All the four",
+    "Only three",
+    "Only one"
+   ],
+   "a": 3,
+   "e": "Essequibo is administered by Guyana (claimed by Venezuela). Abyei is between Sudan/South Sudan. Tigray is in Ethiopia. Socotra is an island part of Yemen."
+  },
+  {
+   "q": "Consider the following statements with regard to the footloose industries: 1️⃣ They do not require a large labour force. 2️⃣ They are generally located near sources of raw materials. 3️⃣ Diamonds and mobile manufacturing are examples of footloose industries.",
+   "o": [
+    "II and III only",
+    "I and II only",
+    "I and III only",
+    "I, II and III"
+   ],
+   "a": 2,
+   "e": "Footloose industries employ smaller workforces. They are not tied to specific raw materials and can be established anywhere. Examples include diamonds and mobile manufacturing."
+  },
+  {
+   "q": "What is the correct sequence of occurrence of the following cities in South-East Asia as one proceeds from south to north? 1️⃣ Bangkok 2️⃣ Hanoi 3️⃣ Vientiane 4️⃣ Phenom penh.",
+   "o": [
+    "I-II-III - IV",
+    "IV-I-III - II",
+    "III-IV-II-I",
+    "II-I-IV - III"
+   ],
+   "a": 1,
+   "e": "From south to north, the latitudes are: Phnom Penh (11.5°N) -> Bangkok (13.7°N) -> Vientiane (17.9°N) -> Hanoi (21.0°N)."
+  },
+  {
+   "q": "India is a founding member of the Eastern Maritime Corridor (EMC), a sea route initiative, which aims to connect:",
+   "o": [
+    "Chennai and Vladivostok (Russia)",
+    "Mumbai and Rotterdam (Netherlands)",
+    "Puri and Jakarta (Indonesia)",
+    "Kolkata and Yokohama (Japan)"
+   ],
+   "a": 0,
+   "e": "The EMC connects Chennai (South India) with Vladivostok (Russia's Far East), reducing cargo transit time by 16 days."
+  },
+  {
+   "q": "Consider the following pairs of rivers and cities: 1️⃣ Danube: Vienna 2️⃣ Rio de la Plata: Brasília 3️⃣ Yangtze: Shanghai 4️⃣ Seine: Paris. How many of the pairs given above are correctly matched?",
+   "o": [
+    "Only two",
+    "Only three",
+    "Only one",
+    "All the four"
+   ],
+   "a": 1,
+   "e": "The Danube flows through Vienna. Brasília is an inland city; Rio de la Plata is an estuary between Argentina/Uruguay. The Yangtze flows through Shanghai. The Seine flows through Paris."
+  },
+  {
+   "q": "Consider the following statements with regard to the Cool Temperate Western Margin Climate (British-type climate): 1️⃣ It remains under the permanent influence of westerly winds throughout the year. 2️⃣ It predominantly consists of deciduous forests. 3️⃣ It experiences frequent occurrences of temperate cyclones.",
+   "o": [
+    "II and III only",
+    "I, II and III",
+    "I and II only",
+    "I and III only"
+   ],
+   "a": 1,
+   "e": "British-type climate is under permanent Westerlies influence and frequent cyclonic activity. Natural vegetation consists of deciduous forests adapted to winter frost."
+  },
+  {
+   "q": "The largest landlocked country in the world by area is:",
+   "o": [
+    "Kazakhstan",
+    "Uzbekistan",
+    "Chad",
+    "Mongolia"
+   ],
+   "a": 0,
+   "e": "Kazakhstan is the world's largest landlocked country (2,724,900 sq km), followed by Mongolia and Chad."
+  },
+  {
+   "q": "Consider the following description: 1️⃣ It is found in subtropical latitudes between 30°-40° latitudes. 2️⃣ It is characterised by hot, dry summers and mild, rainy winters. 3️⃣ It comes under the influence of sub tropical high in summer and westerly wind in winter. What is this type of climate?",
+   "o": [
+    "Tropical Wet and Dry Climate",
+    "Mediterranean Climate",
+    "Humid Subtropical Climate",
+    "Cool Temperate Continental Climate"
+   ],
+   "a": 1,
+   "e": "The Mediterranean climate (Cs) occurs between 30°-40° latitudes and features dry summers due to high pressure and rainy winters due to shifting westerlies."
+  },
+  {
+   "q": "Consider the following: 1️⃣ Ethiopia 2️⃣ Somalia 3️⃣ Kenya 4️⃣ Eritrea. How many of the above countries are part of the Horn of Africa?",
+   "o": [
+    "Only one",
+    "All the four",
+    "Only three",
+    "Only two"
+   ],
+   "a": 2,
+   "e": "The Horn of Africa comprises Djibouti, Eritrea, Ethiopia, and Somalia. Kenya is a neighbor but is not considered part of the Horn."
+  }
+ ]
+}

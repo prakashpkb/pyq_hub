@@ -1,0 +1,2207 @@
+{
+ "title": "Practice Questions At Back",
+ "category": "Other",
+ "minutes": 150,
+ "negative": 0.25,
+ "questions": [
+  {
+   "q": "The Speaker of Lok Sabha is not the chairman of which of the following committees?",
+   "o": [
+    "(b) Rules Committee",
+    "(a) Business Advisory Committee",
+    "(d) General Purposes Committee",
+    "(c) Estimates Committee"
+   ],
+   "a": 3,
+   "e": "The Speaker of the Lok Sabha acts as the ex-officio chairman of the Business Advisory Committee, the Rules Committee, and the General Purposes Committee. However, the chairman of the Estimates Committee is appointed by the Speaker from amongst its members, and the Speaker is not its chairman."
+  },
+  {
+   "q": "Which of the following is not a formally prescribed device available to the members of Parliament?",
+   "o": [
+    "(b) Zero Hour",
+    "(a) Question Hour",
+    "(c) Half-an-hour discussion",
+    "(d) Short duration discussion"
+   ],
+   "a": 0,
+   "e": "While Question Hour, Half-an-hour discussion, and Short duration discussion are mentioned in the Rules of Procedure, Zero Hour is an informal device. It is an Indian innovation in the field of parliamentary procedures and has been in existence since 1962."
+  },
+  {
+   "q": "Which of the following is exclusively a committee of the Lower House?",
+   "o": [
+    "(c) Committee on Public Undertakings",
+    "(b) Committee on Delegated Legislation",
+    "(d) Estimates Committee",
+    "(a) Committee on Assurances"
+   ],
+   "a": 2,
+   "e": "The Estimates Committee consists of 30 members, all of whom are drawn exclusively from the Lok Sabha (Lower House). Other committees like the Committee on Public Undertakings have members from both the Lok Sabha and the Rajya Sabha."
+  },
+  {
+   "q": "Which one of the following devices calls the attention of minister towards a matter of public importance?",
+   "o": [
+    "(a) Half-an-hour discussion",
+    "(c) Short duration discussion",
+    "(b) Calling attention notice",
+    "(d) Adjournment motion"
+   ],
+   "a": 2,
+   "e": "A Calling Attention Notice is a procedure whereby a member calls the attention of a minister to a matter of urgent public importance. The main objective is to seek an authoritative statement from the minister regarding that specific matter."
+  },
+  {
+   "q": "Central Vigilance Commission was set up on the recommendation of:",
+   "o": [
+    "(a) First Administrative Reforms Commission of India",
+    "(c) Kripalani Committee",
+    "(b) Gorwala Report",
+    "(d) Santhanam Committee"
+   ],
+   "a": 3,
+   "e": "The Central Vigilance Commission (CVC) was established in 1964 based on the recommendations of the Committee on Prevention of Corruption, which was headed by K. Santhanam. It was originally set up by an executive resolution."
+  },
+  {
+   "q": "The institution of Lokayukta was created for the first time by the state of:",
+   "o": [
+    "(b) Bihar",
+    "(d) Maharashtra",
+    "(a) Orissa",
+    "(c) Punjab"
+   ],
+   "a": 1,
+   "e": "Maharashtra was the first state in India to establish the institution of Lokayukta in 1971. Although Odisha (Orissa) passed the act in 1970, it only implemented it much later in 1983."
+  },
+  {
+   "q": "The correct statements about zero hour includes: 1️⃣ It is the first hour of every sitting in both the houses of Parliament. 2️⃣ It is mentioned in the Rules of Business of the houses of Parliament. 3️⃣ During this time, matters of urgent public importance are raised. 4️⃣ It is the time immediately following the Question Hour in both the houses of Parliament. 5️⃣ It is an Indian innovation in parliamentary procedure since 1964.",
+   "o": [
+    "(b) 3 and 4",
+    "(d) 2, 3 and 5",
+    "(c) 1, 2 and 5",
+    "(a) 2, 3 and 4"
+   ],
+   "a": 0,
+   "e": "Zero Hour is not mentioned in the Rules of Procedure; it is an informal device. It follows Question Hour and is used to raise matters of urgent public importance without prior notice."
+  },
+  {
+   "q": "The correct statements about calling attention notice are: 1️⃣ It is a device of calling the attention of a minister to a matter of urgent public importance. 2️⃣ Its main purpose is to seek an authoritative statement from the minister. 3️⃣ It does not involve any censure against government. 4️⃣ It is an Indian innovation in the parliamentary procedure since 1952. 5️⃣ It is not mentioned in the Rules of Business and Procedure.",
+   "o": [
+    "(b) 4 and 5",
+    "(c) 1, 2, 3 and 5",
+    "(d) 1, 2 and 3",
+    "(a) 1, 2, 3 and 4"
+   ],
+   "a": 2,
+   "e": "A Calling Attention Notice is indeed a device to call a minister's attention to urgent public matters and seek a statement. Unlike an Adjournment Motion, it does not involve an element of censure against the government."
+  },
+  {
+   "q": "Which of the following statements are true of Adjournment Motion? 1️⃣ It is an extraordinary procedure which sets aside the normal business of the House. 2️⃣ Its main object is to draw the attention of the House to a recent matter of urgent public importance. 3️⃣ The Rajya Sabha can make use of this procedure.",
+   "o": [
+    "(c) 1 and 3",
+    "(b) 2 and 3",
+    "(a) 1 and 2",
+    "(d) 1, 2 and 3"
+   ],
+   "a": 2,
+   "e": "An Adjournment Motion is used to discuss a matter of urgent public importance and involves an element of censure against the government. For this reason, it is only permitted in the Lok Sabha and cannot be used in the Rajya Sabha."
+  },
+  {
+   "q": "Which of the following statements are incorrect about the difference between the writ jurisdiction of the Supreme Court and high courts in India? 1️⃣ The Supreme Court can issue writs not only for the purpose of enforcement of Fundamental Rights but also for any other purpose, whereas high courts can issue writs only for the purpose of enforcement of Fundamental Rights. 2️⃣ High courts can issue the writ of Injunction, whereas the Supreme Court cannot issue the writ of Injunction. 3️⃣ The Supreme Court can issue writs only in the case of appeal, whereas high courts can issue writs only when the party directly approaches it. 4️⃣ High courts can issue writs not only for the purpose of enforcement of Fundamental Rights but also for any other purpose, whereas the Supreme Court can issue writs only for the purpose of enforcement of Fundamental Rights.",
+   "o": [
+    "(a) 1 and 2",
+    "(c) 2 and 3",
+    "(d) 4 only",
+    "(b) 1, 2 and 3"
+   ],
+   "a": 3,
+   "e": "Statement 4 is the only correct one regarding writ jurisdiction. The Supreme Court's writ jurisdiction under Article 32 is narrower as it applies only to Fundamental Rights, while High Courts under Article 226 have broader jurisdiction covering both Fundamental Rights and \"any other purpose.\""
+  },
+  {
+   "q": "No-confidence Motion, to be admitted in the Lok Sabha, needs the support of:",
+   "o": [
+    "(a) 80 Members",
+    "(c) 160 Members",
+    "(b) 140 Members",
+    "(d) 50 Members"
+   ],
+   "a": 3,
+   "e": "According to the Rules of Lok Sabha, a motion of no-confidence against the Council of Ministers must be supported by at least 50 members to be admitted for discussion. It can only be introduced in the Lok Sabha."
+  },
+  {
+   "q": "Which of the following statements are incorrect about unstarred question? 1️⃣ It is distinguished by an asterisk mark. 2️⃣ Answer to such a question is given orally. 3️⃣ Answer to such a question is not followed by supplementary questions. 4️⃣ It does not carry an asterisk mark. 5️⃣ Answer to such a question is given in a written form.",
+   "o": [
+    "(b) 3, 4 and 5",
+    "(c) 1 and 2",
+    "(a) 2 and 3",
+    "(d) 2, 3 and 4"
+   ],
+   "a": 1,
+   "e": "An unstarred question does not carry an asterisk mark (unlike a starred question). The answer is laid on the table in written form, and because the answer is written and not oral, no supplementary questions can be asked."
+  },
+  {
+   "q": "Statement-I: The writ jurisdiction of the Supreme Court and high courts in India is same. Statement-II: Both, the Supreme Court and the High Court can issue the writs of Habeas Corpus, Mandamus, Prohibition, Certiorari and Quo warranto.",
+   "o": [
+    "(b) Both Statement-I and Statement-II are correct...",
+    "(c) Statement-I is correct but Statement-II is inc...",
+    "(d) Statement-I is incorrect but Statement-II is c...",
+    "(a) Both Statement-I and Statement-II are correct..."
+   ],
+   "a": 2,
+   "e": "While both courts can issue the same types of writs, their jurisdictions are not the same; the High Court's jurisdiction is wider as it can issue writs for legal rights other than Fundamental Rights. Statement-I is therefore incorrect."
+  },
+  {
+   "q": "Statement-I: In democracy, the ultimate responsibility of administration is to the people. Statement-II: The democratic government is based on the principle of popular sovereignty.",
+   "o": [
+    "(a) Both Statement-I and Statement-II are correct...",
+    "(d) Statement-I is incorrect but Statement-II is c...",
+    "(b) Both Statement-I and Statement-II are correct...",
+    "(c) Statement-I is correct but Statement-II is inc..."
+   ],
+   "a": 0,
+   "e": "Popular sovereignty means that the power of the state is created and sustained by the consent of its people. Thus, in a democracy, the administration is ultimately accountable to the people through their elected representatives."
+  },
+  {
+   "q": "Match List-I (Writs) with List-II (Literal meanings): 1️⃣ A. Mandamus - 2. 'We command' 2️⃣ B. Habeas Corpus - 4. 'You may have the body' 3️⃣ C. Quo warranto - 1. 'By what warrant or authority' 4️⃣ D. Certiorari - 3. 'To be certified'",
+   "o": [
+    "(b) A-2, B-4, C-3, D-1",
+    "(c) A-1, B-4, C-2, D-3",
+    "(a) A-2, B-3, C-4, D-1",
+    "(d) A-2, B-4, C-1, D-3"
+   ],
+   "a": 3,
+   "e": "The literal meanings of the writs are derived from Latin: Mandamus means 'we command'; Habeas Corpus means 'to have the body'; Quo-warranto means 'by what authority'; and Certiorari means 'to be certified'."
+  },
+  {
+   "q": "Match List-I (Provisions) with List-II (Contained in): 1️⃣ A. Writ jurisdiction of the Supreme Court - Article 32 2️⃣ B. Suits against government - Article 300 3️⃣ C. Writ jurisdiction of the High Court - Article 226 4️⃣ D. Source of the power of judicial review - Article 13",
+   "o": [
+    "(a) A-4, B-3, C-5, D-1",
+    "(c) A-4, B-3, C-2, D-1",
+    "(d) A-5, B-4, C-3, D-2",
+    "(b) A-3, B-4, C-2, D-5"
+   ],
+   "a": 1,
+   "e": "Article 32 provides for the Supreme Court's writ jurisdiction; Article 226 for High Courts; Article 300 covers suits and proceedings against the government; and Article 13 is the primary source of judicial review power."
+  },
+  {
+   "q": "The final work of UPSC in recruitment process is:",
+   "o": [
+    "(a) Selection",
+    "(d) Placement",
+    "(c) Certification",
+    "(b) Appointment"
+   ],
+   "a": 2,
+   "e": "The Union Public Service Commission (UPSC) is a recruiting agency that conducts examinations and interviews. Its final step in the process is certifying the list of successful candidates to the government for appointment."
+  },
+  {
+   "q": "The conditions of service of members of All-India Services are determined by:",
+   "o": [
+    "(c) Parliament of India",
+    "(b) Constitution of India",
+    "(d) Union Public Service Commission",
+    "(a) President of India"
+   ],
+   "a": 0,
+   "e": "Under Article 312 of the Constitution, the Parliament is empowered to regulate the recruitment and conditions of service of persons appointed to the All-India Services."
+  },
+  {
+   "q": "Assertion: India has imposed severe restrictions on the political activities of civil servants. Reason: The civil servants in India enjoy the right to vote.",
+   "o": [
+    "(d) A is false but R is true.",
+    "(c) A is true but R is false.",
+    "(b) Both A and R are true but R is not a correct explanation of A.",
+    "(a) Both A and R are true and R is the correct explanation of A."
+   ],
+   "a": 2,
+   "e": "Civil servants must remain politically neutral to ensure unbiased administration, which is why their political activities are restricted. While they do have the right to vote, this right does not explain why their other political activities are restricted."
+  },
+  {
+   "q": "Assertion: A member of All-India Service can appeal against the order of a State Government to the President of India. Reason: Article 311 of the Constitution says that a civil servant cannot be removed or dismissed by any authority which is subordinate to the authority by which he was appointed.",
+   "o": [
+    "(b) Both A and R are true but R is not a correct explanation of A.",
+    "(a) Both A and R are true and R is the correct explanation of A.",
+    "(d) A is false but R is true.",
+    "(c) A is true but R is false."
+   ],
+   "a": 1,
+   "e": "Members of All-India Services are appointed by the President. Therefore, any major disciplinary action like removal or dismissal cannot be taken by an authority subordinate to the President (like a State Government)."
+  },
+  {
+   "q": "The Vote on Account is passed:",
+   "o": [
+    "(a) After the voting of demands",
+    "(c) After the general discussion",
+    "(d) Either after the voting of the demands or after the general discussion.",
+    "(b) Before the general discussion"
+   ],
+   "a": 1,
+   "e": "Vote on Account is a grant in advance to allow the government to function until the voting on demands for grants and the passing of the Appropriation Bill are completed. It is typically passed after the general discussion on the budget."
+  },
+  {
+   "q": "Arrange the following stages in the enactment of budget in proper order: 1️⃣ General discussion 2️⃣ Appropriation Bill 3️⃣ Finance Bill 4️⃣ Voting of the demands for grant 5️⃣ Presentation to legislature",
+   "o": [
+    "(b) 5, 1, 4, 2, 3",
+    "(a) 1, 2, 3, 4, 5",
+    "(c) 5, 1, 4, 3, 2",
+    "(d) 5, 1, 3, 4, 2"
+   ],
+   "a": 0,
+   "e": "The standard sequence for passing a budget in Parliament is: Presentation to the legislature, followed by General Discussion, then Voting of the demands for grants, then passing of the Appropriation Bill, and finally the Finance Bill."
+  },
+  {
+   "q": "Which of the following documents are presented to the parliament along with the budget? 1️⃣ Key to budget documents 2️⃣ Demands for grants 3️⃣ Fiscal policy strategy statement 4️⃣ Finance Bill 5️⃣ Economic Survey",
+   "o": [
+    "(c) 2, 3 and 5",
+    "(a) 1, 3 and 5",
+    "(d) 1, 2, 3 and 4",
+    "(b) 1, 2 and 3"
+   ],
+   "a": 2,
+   "e": "The budget presentation includes the Annual Financial Statement, Demands for Grants, the Finance Bill, and statements required under the FRBM Act like the Fiscal Policy Strategy Statement. The Economic Survey is usually presented a day before the budget."
+  },
+  {
+   "q": "Which of the following is not a condition of admissibility of cut motions in the Parliament?",
+   "o": [
+    "(d) It should not raise a question of privilege.",
+    "(a) It should not make suggestions for the amendment of existing laws.",
+    "(b) It should not relate to expenditure charged on the Consolidated Fund of India.",
+    "(c) It should relate to more than one demand."
+   ],
+   "a": 3,
+   "e": "A cut motion must relate to one demand only; it cannot relate to more than one demand. This ensures that the discussion remains focused on a specific area of expenditure."
+  },
+  {
+   "q": "The ultimate responsibility of taking due action on the comments of the CAG vests with:",
+   "o": [
+    "(b) Supreme Court",
+    "(c) Parliament",
+    "(d) Prime Minister",
+    "(a) President of India"
+   ],
+   "a": 1,
+   "e": "The Comptroller and Auditor-General (CAG) submits audit reports to the President, who lays them before Parliament. It is then the duty of Parliament (often through the Public Accounts Committee) to take action on the findings."
+  },
+  {
+   "q": "The word 'Budget' is mentioned in which of the following Articles of the Constitution of India?",
+   "o": [
+    "(d) None",
+    "(a) Art. 266",
+    "(c) Art. 265",
+    "(b) Art. 112"
+   ],
+   "a": 0,
+   "e": "The word 'Budget' is not used in the Constitution of India. Instead, Article 112 refers to it as the 'Annual Financial Statement'."
+  },
+  {
+   "q": "Which of the following statements are incorrect? 1️⃣ Rajya Sabha can reject a Money Bill. 2️⃣ Rajya Sabha can make recommendations on a Money Bill. 3️⃣ Rajya Sabha cannot reject a Money Bill. 4️⃣ Rajya Sabha should return the Money Bill to the Lok Sabha within 14 days. 5️⃣ Rajya Sabha can amend a Money Bill.",
+   "o": [
+    "(a) 2, 3 and 4",
+    "(b) 1, 2 and 5",
+    "(d) only 1",
+    "(c) 1 and 5"
+   ],
+   "a": 3,
+   "e": "Regarding Money Bills, the Rajya Sabha has limited powers. It cannot reject or amend a Money Bill; it can only make recommendations, which the Lok Sabha is free to accept or reject."
+  },
+  {
+   "q": "Which of the following expenditures are charged upon the Consolidated Fund of India? 1️⃣ Allowances of the Chairman of Rajya Sabha. 2️⃣ Expenditure relating to the raising of loans and the service and redemption of debt. 3️⃣ Pensions of the judges of High Courts. 4️⃣ Any sum required to satisfy the award of any arbitration tribunal. 5️⃣ Administrative expenses of the office of the Comptroller and Auditor-General.",
+   "o": [
+    "(d) 1, 2, 3, 4 and 5",
+    "(b) 1, 2 and 5",
+    "(a) 2 and 5",
+    "(c) 2, 3 and 4"
+   ],
+   "a": 0,
+   "e": "\"Expenditure charged\" refers to items that can be discussed but not voted on in Parliament. This includes the salaries/allowances of high constitutional officials, debt charges, and pensions of High Court judges."
+  },
+  {
+   "q": "The correct statements about Public Account of India are: 1️⃣ The public account is the fund to which all public moneys received by or on behalf of the government are credited. 2️⃣ No legislative appropriation is required for payments from the Public Account of India. 3️⃣ Legislative appropriation is required for payments from the Public Account of India. 4️⃣ All public moneys, other than those credited to the Consolidated Fund of India, which are received by or on behalf of the government are credited to the Public Account of India. 5️⃣ It is operated by executive action.",
+   "o": [
+    "(a) 1, 2 and 5",
+    "(c) 2, 4 and 5",
+    "(d) 2 and 4",
+    "(b) 1, 3 and 5"
+   ],
+   "a": 1,
+   "e": "The Public Account of India (Article 266) includes money that is not part of the Consolidated Fund, such as provident fund deposits. Unlike the Consolidated Fund, payments from it do not require parliamentary approval; they are handled by executive action."
+  },
+  {
+   "q": "Which of the following statements are incorrect? 1️⃣ Appropriation Bill cannot be amended while the Finance Bill can be amended. 2️⃣ Finance Bill cannot be amended while Appropriation Bill can be amended. 3️⃣ Same procedure governs both the Appropriation Bill and the Finance Bill. 4️⃣ Appropriation Bill and the Finance Bill are governed by different procedures. 5️⃣ Appropriation Bill cannot be rejected by the Rajya Sabha while Finance Bill can be rejected by it.",
+   "o": [
+    "(b) 2, 4 and 5",
+    "(c) 1 and 3",
+    "(d) 1, 3 and 5",
+    "(a) 2 and 4"
+   ],
+   "a": 0,
+   "e": "The Appropriation Bill gives the government authority to withdraw funds from the Consolidated Fund and cannot be amended. The Finance Bill deals with the income/taxation part and can be amended. Both follow the legislative procedure for Money Bills."
+  },
+  {
+   "q": "Match List-I (Cut Motions) with List-II (Implications): 1️⃣ A. Token Cut Motion - 3. \"That the amount of the demand be reduced by ₹100.\" 2️⃣ B. Economy Cut Motion - 1. \"That the amount of the demand be reduced by a specified amount.\" 3️⃣ C. Policy Cut Motion - 4. \"That the amount of the demand be reduced to ₹1.\"",
+   "o": [
+    "(b) A-5, B-3, C-1",
+    "(c) A-3, B-1, C-4",
+    "(a) A-5, B-1, C-2",
+    "(d) A-3, B-5, C-2"
+   ],
+   "a": 1,
+   "e": "Policy Cut represents disapproval of policy; Economy Cut aims for specific savings; Token Cut is used to ventilate a specific grievance within the government's sphere of responsibility."
+  },
+  {
+   "q": "Match List-I (Terms) with List-II (Defined by): 1️⃣ A. Consolidated Fund of India - 3. Article 266 2️⃣ B. Money Bill - 1. Article 110 3️⃣ C. Annual Financial Statement - 5. Article 112 4️⃣ D. Contingency Fund of India - 2. Article 267",
+   "o": [
+    "(a) A-4, B-1, C-5, D-3",
+    "(c) A-4, B-1, C-5, D-2",
+    "(b) A-2, B-1, C-5, D-4",
+    "(d) A-3, B-1, C-5, D-2"
+   ],
+   "a": 3,
+   "e": "These are fundamental constitutional articles: 110 (Money Bill), 112 (Budget), 266 (Consolidated and Public Funds), and 267 (Contingency Fund)."
+  },
+  {
+   "q": "Statement I: The budget makes a distinction between the expenditure 'charged' on the Consolidated Fund of India and the expenditure 'made' from the Consolidated Fund of India. Statement II: The expenditure 'charged' on the Consolidated Fund of India is not subject to the vote of Parliament.",
+   "o": [
+    "(c) Statement-I is correct but Statement-II is inc...",
+    "(d) Statement-I is incorrect but Statement-II is c...",
+    "(a) Both Statement-I and Statement-II are correct...",
+    "(b) Both Statement-I and Statement-II are correct..."
+   ],
+   "a": 2,
+   "e": "The Constitution requires the budget to distinguish between voted and non-voted (charged) expenditure. Non-voted expenditure consists of mandatory payments that are not submitted to the vote of Parliament."
+  },
+  {
+   "q": "Statement I: No expenditure can be incurred without the approval of the Parliament. Statement II: Our democratic government, like that of Britain, is based on the concept of sovereignty of the parliament.",
+   "o": [
+    "(a) Both Statement-I and Statement-II are correct...",
+    "(c) Statement-I is correct but Statement-II is inc...",
+    "(b) Both Statement-I and Statement-II are correct...",
+    "(d) Statement-I is incorrect but Statement-II is c..."
+   ],
+   "a": 1,
+   "e": "While Statement I is a basic principle of parliamentary democracy (no money can be withdrawn from the Consolidated Fund without an appropriation law), Statement II is incorrect because India has a written Constitution and judicial review, so the Parliament is not \"sovereign\" in the British sense."
+  },
+  {
+   "q": "Statement I: The Rajya Sabha has less powers in financial matters. Statement II: The Lok Sabha alone votes the demands for grants.",
+   "o": [
+    "(a) Both Statement-I and Statement-II are correct...",
+    "(c) Statement-I is correct but Statement-II is inc...",
+    "(b) Both Statement-I and Statement-II are correct...",
+    "(d) Statement-I is incorrect but Statement-II is c..."
+   ],
+   "a": 0,
+   "e": "The Rajya Sabha's financial power is restricted: it cannot initiate money bills, cannot vote on demands for grants, and has only 14 days to return a money bill with recommendations."
+  },
+  {
+   "q": "Statement I: The expenditure 'charged' on the Consolidated Fund of India is not subject to the vote of Parliament. Statement II: It is in the nature of obligatory payment.",
+   "o": [
+    "(a) Both Statement-I and Statement-II are correct...",
+    "(c) Statement-I is correct but Statement-II is inc...",
+    "(d) Statement-I is incorrect but Statement-II is c...",
+    "(b) Both Statement-I and Statement-II are correct..."
+   ],
+   "a": 0,
+   "e": "Charged expenditures are mandatory obligations, such as debt servicing or salaries of high constitutional officials, and therefore the Constitution exempts them from the annual voting process in Parliament."
+  },
+  {
+   "q": "The Finance Commission does not recommend on:",
+   "o": [
+    "(c) The amount of money to be allocated to the sta...",
+    "(a) The distribution of net proceeds of taxes betw...",
+    "(d) Any other matter referred to the Commission by...",
+    "(b) The principles to be followed by the centre wh..."
+   ],
+   "a": 0,
+   "e": "Under Article 280, the Finance Commission recommends tax distribution and grants-in-aid from the Consolidated Fund. It does not deal with the Public Account of India, which is an executive-managed fund."
+  },
+  {
+   "q": "Which of the following statements about President's ordinance-making power is not correct?",
+   "o": [
+    "(a) It is co-extensive with legislative power of Parliament.",
+    "(d) Cannot be withdrawn at any time by the President.",
+    "(b) Laid down in Article 123.",
+    "(c) Shall cease to operate on expiry of six weeks from the reassembly of the Parliament."
+   ],
+   "a": 1,
+   "e": "Article 123 empowers the President to promulgate ordinances when either House is not in session. However, the President has the power to withdraw an ordinance at any time."
+  },
+  {
+   "q": "The salient features of the Government of India Act, 1935 are: 1️⃣ All-India Federation 2️⃣ Provincial Autonomy 3️⃣ Dyarchy at the Centre 4️⃣ Abolition of Dyarchy in the provinces",
+   "o": [
+    "(c) 2, 3 and 4",
+    "(b) 1, 2 and 3",
+    "(d) 1, 2, 3 and 4",
+    "(a) 1 and 2"
+   ],
+   "a": 2,
+   "e": "The 1935 Act was a comprehensive document that proposed an All-India Federation, introduced provincial autonomy while abolishing provincial dyarchy, and established dyarchy at the central level."
+  },
+  {
+   "q": "The accounts of the Union and of the States shall be kept in such form as prescribed by:",
+   "o": [
+    "(c) CAG of India with the approval of the President.",
+    "(a) Finance Minister of India in consultation with CAG of India.",
+    "(b) CAG of India with the approval of NITI Aayog.",
+    "(d) President of India in consultation with CAG of India"
+   ],
+   "a": 3,
+   "e": "According to Article 150 of the Constitution, the form in which the accounts of the Union and the States are to be maintained is prescribed by the President on the advice of the Comptroller and Auditor-General (CAG)."
+  },
+  {
+   "q": "Which of the following acts introduced the principle of election in India?",
+   "o": [
+    "(b) Indian Councils Act of 1892",
+    "(a) Indian Councils Act of 1861",
+    "(d) Indian Councils Act of 1919",
+    "(c) Indian Councils Act of 1909"
+   ],
+   "a": 0,
+   "e": "The Indian Councils Act of 1892 introduced the principle of election, although the term 'election' was not used in the act. It provided for the nomination of some non-official members of the councils on the recommendation of certain bodies."
+  },
+  {
+   "q": "The features of Indian federal system are: 1️⃣ Division of powers 2️⃣ Separation of powers 3️⃣ Independent judiciary 4️⃣ Leadership of the Prime Minister 5️⃣ A written Constitution",
+   "o": [
+    "(d) 1, 3 and 5",
+    "(a) 2, 3 and 5",
+    "(b) 1, 4 and 5",
+    "(c) 1, 2 and 5"
+   ],
+   "a": 0,
+   "e": "The federal features of the Indian Constitution include a dual polity, a written and rigid Constitution, division of powers between the centre and states, supremacy of the Constitution, and an independent judiciary. Separation of powers and leadership of the PM are parliamentary features."
+  },
+  {
+   "q": "Which of the following is not correct about Finance Commission?",
+   "o": [
+    "(a) Constituted at the expiration of every fifth year.",
+    "(c) Consists of a Chairman and four other members.",
+    "(b) Recommends the distribution of proceeds of taxes between Centre and states.",
+    "(d) Its advice is binding on the Government."
+   ],
+   "a": 3,
+   "e": "The Finance Commission is a quasi-judicial body whose recommendations are advisory in nature and not binding on the government. It is the government's discretion whether to implement them."
+  },
+  {
+   "q": "Which of the following is correctly matched?",
+   "o": [
+    "(b) 1919 Act - Provincial autonomy",
+    "(d) 1947 Act - Responsible government",
+    "(a) 1909 Act - Principle of election",
+    "(c) 1935 Act - Dyarchy in provinces"
+   ],
+   "a": 1,
+   "e": "The Indian Independence Act of 1947 provided for a fully responsible government at both the Centre and in the provinces. The 1909 Act introduced separate electorates; the 1919 Act introduced dyarchy in provinces; and the 1935 Act introduced provincial autonomy."
+  },
+  {
+   "q": "The CAG of India can be removed from the office only in like manner and on like grounds as:",
+   "o": [
+    "(d) Speaker of Lok Sabha",
+    "(b) Supreme Court Judge",
+    "(a) Chairman of the UPSC",
+    "(c) Attorney General of India"
+   ],
+   "a": 1,
+   "e": "To ensure the independence of the Comptroller and Auditor-General, the Constitution provides that the CAG can only be removed by the President following a parliamentary procedure identical to that used for removing a judge of the Supreme Court."
+  },
+  {
+   "q": "Statutory recognition to the portfolio system was accorded by:",
+   "o": [
+    "(a) Indian Councils Act of 1892",
+    "(c) Indian Councils Act of 1861",
+    "(d) Indian Councils Act of 1882",
+    "(b) Indian Councils Act of 1871"
+   ],
+   "a": 1,
+   "e": "Lord Canning introduced the portfolio system in 1859, and it received statutory recognition under the Indian Councils Act of 1861. This allowed members of the Viceroy's council to be in charge of specific departments."
+  },
+  {
+   "q": "Dyarchy was introduced by:",
+   "o": [
+    "(c) Government of India Act of 1935",
+    "(a) Indian Councils Act of 1909",
+    "(d) Independence Act of 1947",
+    "(b) Government of India Act of 1919"
+   ],
+   "a": 3,
+   "e": "The Government of India Act of 1919 (Montagu-Chelmsford Reforms) introduced the system of dyarchy in the provinces, where provincial subjects were divided into 'transferred' and 'reserved' categories."
+  },
+  {
+   "q": "Which of the following is not a feature of Government of India Act of 1935?",
+   "o": [
+    "(c) Provincial autonomy",
+    "(d) Dyarchy in the provinces",
+    "(a) Dyarchy at the Centre",
+    "(b) All-India Federation"
+   ],
+   "a": 1,
+   "e": "The 1935 Act abolished the system of dyarchy in the provinces and replaced it with 'provincial autonomy'. It proposed dyarchy at the central level instead."
+  },
+  {
+   "q": "Which one of the following amendments to the Constitution, for the first time, made it obligatory for the President to act on the advice of the council of ministers?",
+   "o": [
+    "(c) 44th amendment",
+    "(b) 42nd amendment",
+    "(a) 24th amendment",
+    "(d) 54th amendment"
+   ],
+   "a": 1,
+   "e": "The 42nd Amendment Act of 1976 made the advice of the Council of Ministers binding on the President. The 44th Amendment Act later added that the President could send the advice back once for reconsideration."
+  },
+  {
+   "q": "The Indian federation is based on the pattern of:",
+   "o": [
+    "(c) Russia",
+    "(a) Switzerland",
+    "(d) Canada",
+    "(b) USA"
+   ],
+   "a": 2,
+   "e": "While the US is a federation of states coming together by agreement, the Indian federation follows the Canadian model where a strong central government creates provinces for administrative convenience."
+  },
+  {
+   "q": "Who said the \"Indian Constitution established a unitary state with subsidiary federal features rather than federal state with subsidiary unitary features\"?",
+   "o": [
+    "(a) Granville Austin",
+    "(b) Ivor Jennings",
+    "(c) B.R. Ambedkar",
+    "(d) K.C. Wheare"
+   ],
+   "a": 3,
+   "e": "K.C. Wheare described the Indian Constitution as \"quasi-federal,\" suggesting that it has a strong unitary bias despite having federal structures."
+  },
+  {
+   "q": "Which of the following are not correct about CAG of India? 1️⃣ He is appointed by the President for a period of five years. 2️⃣ His salary and conditions of service are determined by President. 3️⃣ He shall vacate office on attaining the age of 60 years. 4️⃣ He can be removed by the President on his own. 5️⃣ He is responsible for maintaining the accounts of Central and state governments.",
+   "o": [
+    "(c) 1, 2, 3, 4 and 5",
+    "(d) 3, 4 and 5",
+    "(b) 2, 3 and 4",
+    "(a) 1, 4 and 5"
+   ],
+   "a": 0,
+   "e": "The CAG is appointed for 6 years or until age 65. The salary is determined by Parliament, not the President. Removal requires parliamentary process (like a SC judge), and the CAG no longer maintains Central government accounts (only state accounts)."
+  },
+  {
+   "q": "Which of the following are correct about Vice-Chairperson of NITI Aayog? 1️⃣ He is appointed by the President. 2️⃣ He enjoys the status of a Cabinet-rank minister. 3️⃣ He is a member of the Union cabinet. 4️⃣ He attends Cabinet meetings as a special invitee. 5️⃣ He is the de-facto executive head of the NITI Aayog.",
+   "o": [
+    "(d) 1, 2, 3 and 5",
+    "(c) 2, 4 and 5",
+    "(a) 1, 2, 4 and 5",
+    "(b) 2, 3, 4 and 5"
+   ],
+   "a": 1,
+   "e": "The Vice-Chairperson of NITI Aayog is appointed by the Prime Minister (not President). He holds the rank of a Cabinet Minister but is not a member of the Cabinet, though he attends as a special invitee."
+  },
+  {
+   "q": "The correct statements about the Directive Principles of State Policy are: 1️⃣ They are borrowed from the Irish Constitution. 2️⃣ They are incorporated in Part V of the Constitution. 3️⃣ They seek to provide social and economic base to democracy. 4️⃣ The state must compulsorily implement them. 5️⃣ All of them are Gandhian in nature.",
+   "o": [
+    "(b) 1, 3 and 5",
+    "(d) 1 and 3",
+    "(c) 1, 3, 4 and 5",
+    "(a) 1, 2, 3 and 5"
+   ],
+   "a": 1,
+   "e": "Directive Principles (Part IV) are non-justiciable and thus not compulsorily enforceable by courts. They are categorized into Socialist, Gandhian, and Liberal-intellectual principles."
+  },
+  {
+   "q": "The Governor-General of Bengal became the Governor-General of India by:",
+   "o": [
+    "(a) Government of India Act of 1858",
+    "(c) Pitts India Act of 1784",
+    "(b) Indian Councils Act of 1861",
+    "(d) Charter Act of 1833"
+   ],
+   "a": 3,
+   "e": "The Charter Act of 1833 made the Governor-General of Bengal the Governor-General of India and vested in him all civil and military powers. Lord William Bentinck was the first Governor-General of India."
+  },
+  {
+   "q": "Which is incorrectly matched?",
+   "o": [
+    "(d) Right to Constitutional Remedies - Article 32",
+    "(a) Prohibition of Discrimination - Article 15",
+    "(c) Right to Protection of Life - Article 20",
+    "(b) Right to Association - Article 19"
+   ],
+   "a": 2,
+   "e": "Article 21 provides for the Protection of Life and Personal Liberty. Article 20 deals with Protection in respect of conviction for offences."
+  },
+  {
+   "q": "Who characterises Indian Union as \"a federation with a centralising tendency\"?",
+   "o": [
+    "(d) Granville Austin",
+    "(a) B.R. Ambedkar",
+    "(c) Ivor Jennings",
+    "(b) K.C. Wheare"
+   ],
+   "a": 2,
+   "e": "Sir Ivor Jennings, a British constitutional expert, noted the centralizing features of the Indian Constitution and described it accordingly."
+  },
+  {
+   "q": "Which act provided for direct control of Indian affairs by the British Government?",
+   "o": [
+    "(d) Charter Act of 1833",
+    "(c) Pitts India Act of 1784",
+    "(a) Charter Act of 1858",
+    "(b) Regulating Act of 1773"
+   ],
+   "a": 1,
+   "e": "Pitt's India Act of 1784 established a Board of Control to manage political affairs and effectively placed the Company's administration under the supervision of the British Government."
+  },
+  {
+   "q": "The correct statements about Fundamental Rights are: 1️⃣ They are enforceable in the court of law. 2️⃣ These rights are absolute. 3️⃣ They can be suspended during national emergency, except some. 4️⃣ They are available only to Indian citizens. 5️⃣ They are contained in Part IV of the Constitution.",
+   "o": [
+    "(d) 1, 3 and 5",
+    "(b) 1, 2, 3 and 5",
+    "(a) 1, 3, 4 and 5",
+    "(c) 1 and 3"
+   ],
+   "a": 3,
+   "e": "Fundamental Rights are not absolute and are subject to reasonable restrictions. While some apply only to citizens (like Art 15, 16, 19), others apply to foreigners too. They are in Part III, not Part IV."
+  },
+  {
+   "q": "The words 'socialist' and 'secular' were added to the Preamble by:",
+   "o": [
+    "(c) 46th amendment",
+    "(a) 41st amendment",
+    "(d) 42nd amendment",
+    "(b) 44th amendment"
+   ],
+   "a": 2,
+   "e": "The 42nd Amendment Act (1976) added three new words to the Preamble: 'Socialist', 'Secular', and 'Integrity'."
+  },
+  {
+   "q": "No demand for a grant is to be made except on the recommendation of:",
+   "o": [
+    "(d) Comptroller and Auditor-General",
+    "(c) Finance Minister",
+    "(a) Prime Minister",
+    "(b) President"
+   ],
+   "a": 3,
+   "e": "Under Article 113, no demand for a grant can be made in the Lok Sabha except on the recommendation of the President."
+  },
+  {
+   "q": "The features of Government of India Act of 1858 includes: 1️⃣ Replacement of Company rule by the Crown rule. 2️⃣ Establishment of a Board of Control over the Court of Directors. 3️⃣ Establishment of a Council of India. 4️⃣ Separating the legislative and executive functions of the Governor-General. 5️⃣ Creation of a new office of the Secretary of State for India.",
+   "o": [
+    "(d) 1, 3 and 5",
+    "(a) 1, 3 and 4",
+    "(c) 1 and 5",
+    "(b) 1, 2 and 4"
+   ],
+   "a": 0,
+   "e": "The 1858 Act ended the Company's rule and transferred power to the British Crown. It abolished the Board of Control and Court of Directors and created the Secretary of State for India assisted by a 15-member Council of India."
+  },
+  {
+   "q": "Which of the following are not the federal features of Indian Constitution? 1️⃣ Supremacy of Constitution 2️⃣ All-India services 3️⃣ Single citizenship 4️⃣ Independent judiciary 5️⃣ Bicameral legislature 6️⃣ Integrated judiciary",
+   "o": [
+    "(a) 1, 4 and 5",
+    "(c) 2, 3 and 6",
+    "(d) 2, 3 and 4",
+    "(b) 1, 5 and 6"
+   ],
+   "a": 1,
+   "e": "Federal features include division of power, written constitution, and independent judiciary. Unitary features (non-federal) include single citizenship, all-India services, and an integrated judiciary."
+  },
+  {
+   "q": "The features of Indian parliamentary system are: 1️⃣ Independent judiciary. 2️⃣ Collective responsibility of the executive to the legislature. 3️⃣ A written Constitution. 4️⃣ Presence of de-jure and de-facto executives. 5️⃣ Double membership of ministers",
+   "o": [
+    "(d) 1, 2, 4 and 5",
+    "(a) 2, 3 and 4",
+    "(b) 1, 2 and 4",
+    "(c) 2, 4 and 5"
+   ],
+   "a": 3,
+   "e": "Core parliamentary features in India include the nominal and real executive (President and PM), collective responsibility, and the fact that ministers must be members of the legislature (double membership)."
+  },
+  {
+   "q": "The President of India is elected by an electoral college consisting of:",
+   "o": [
+    "(c) Elected members of Parliament and state legislative assemblies",
+    "(b) Elected members of Parliament and state legislatures",
+    "(d) Elected members of Lok Sabha and members of Rajya Sabha and state Legislative Assemblies",
+    "(a) Members of Parliament and state legislatures"
+   ],
+   "a": 0,
+   "e": "The electoral college includes elected members of both Houses of Parliament and the elected members of the Legislative Assemblies of the states (and the UTs of Delhi and Puducherry). Nominated members do not participate."
+  },
+  {
+   "q": "Which of the following acts laid the foundation of Central administration?",
+   "o": [
+    "(a) Charter Act of 1833",
+    "(c) Charter Act of 1853",
+    "(d) Pitts India Act of 1784",
+    "(b) Regulating Act of 1773"
+   ],
+   "a": 3,
+   "e": "The Regulating Act of 1773 was the first step taken by the British Government to control and regulate the affairs of the East India Company and laid the foundations of central administration in India."
+  },
+  {
+   "q": "Match List-I (Features) with List-II (Acts/Reforms): 1️⃣ A. Bicameral system - 3. Montagu-Chelmsford Reforms 2️⃣ B. Legislative devolution - 2. Indian Councils Act of 1861 3️⃣ C. Separate electorate - 5. Minto-Morley Reforms 4️⃣ D. Provincial autonomy - 1. Government of India Act of 1935",
+   "o": [
+    "(b) A-3, B-5, C-4, D-1",
+    "(a) A-5, B-3, C-2, D-1",
+    "(d) A-5, B-4, C-3, D-1",
+    "(c) A-3, B-2, C-5, D-1"
+   ],
+   "a": 3,
+   "e": "The 1861 Act started decentralization; 1909 introduced communal electorates; 1919 introduced central bicameralism; and 1935 introduced autonomy for provinces."
+  },
+  {
+   "q": "Match List-I (Rights) with List-II (Contained in): 1️⃣ A. Equality in public employment - 4. Article 16 2️⃣ B. Minorities rights - 1. Article 29 3️⃣ C. Right to personal liberty - 2. Article 21 4️⃣ D. Right against exploitation - 3. Article 23",
+   "o": [
+    "(d) A-4, B-1, C-2, D-3",
+    "(c) A-4, B-2, C-1, D-3",
+    "(b) A-3, B-4, C-2, D-1",
+    "(a) A-4, B-3, C-1, D-2"
+   ],
+   "a": 0,
+   "e": "These are key Fundamental Rights: Article 16 (Equality of opportunity in employment), Article 29 (Protection of interests of minorities), Article 21 (Protection of life and personal liberty), and Article 23 (Prohibition of traffic in human beings and forced labour)."
+  },
+  {
+   "q": "Match List-I (Implications) with List-II (Types of Veto): 1️⃣ A. Withholding of assent - 3. Absolute veto 2️⃣ B. Overridden by an ordinary majority - 4. Suspensive veto 3️⃣ C. Taking no action on the bill - 2. Pocket veto 4️⃣ D. Overridden by a higher majority - 1. Qualified veto",
+   "o": [
+    "(b) A-4, B-3, C-2, D-5",
+    "(a) A-3, B-5, C-2, D-1",
+    "(c) A-5, B-3, C-1, D-2",
+    "(d) A-3, B-4, C-2, D-1"
+   ],
+   "a": 3,
+   "e": "Absolute veto means the bill dies; Suspensive veto is when Parliament repasses the bill by ordinary majority; Pocket veto is simply ignoring the bill; Qualified veto (not used in India) requires a higher majority to override."
+  },
+  {
+   "q": "Match List-I (Schedules) with List-II (Provisions): 1️⃣ A. Third Schedule - 5. Forms of affirmations 2️⃣ B. Ninth Schedule - 3. Validation of certain acts 3️⃣ C. Fourth Schedule - 1. Allocation of seats in Upper House 4️⃣ D. Tenth Schedule - 2. Disqualification on grounds of defection",
+   "o": [
+    "(d) A-1, B-4, C-2, D-3",
+    "(a) A-1, B-3, C-4, D-2",
+    "(c) A-5, B-4, C-2, D-1",
+    "(b) A-5, B-3, C-1, D-2"
+   ],
+   "a": 3,
+   "e": "Third Schedule (Oaths), Fourth Schedule (Rajya Sabha seats), Ninth Schedule (Land reforms/Validation), and Tenth Schedule (Anti-defection)."
+  },
+  {
+   "q": "Assertion: India has adopted the parliamentary form of government. Reason: The President is the titular head of the state while the council of ministers headed by the Prime Minister is the real executive authority.",
+   "o": [
+    "(d) A is false but R is true.",
+    "(b) Both A and R are true but R is not a correct explanation of A.",
+    "(c) A is true but R is false.",
+    "(a) Both A and R are true and R is the correct explanation of A."
+   ],
+   "a": 1,
+   "e": "A parliamentary system is defined by the responsibility of the executive to the legislature. While the presence of a nominal head and a real head is a feature of India's parliamentary system, it is not the defining characteristic of the system itself."
+  },
+  {
+   "q": "Assertion: A person who holds, or who has held, office as President shall not be eligible for re-election to that office. Reason: No person shall be eligible for election as a President unless he is qualified for election as a member of the House of People.",
+   "o": [
+    "(a) Both A and R are true and R is the correct explanation of A.",
+    "(c) A is true but R is false.",
+    "(d) A is false but R is true.",
+    "(b) Both A and R are true but R is not a correct explanation of A."
+   ],
+   "a": 2,
+   "e": "Under Article 57, a person who holds office as President is eligible for re-election. Therefore, the assertion is false. The reason correctly states one of the qualifications for being President."
+  },
+  {
+   "q": "Assertion: All doubts and disputes arising out of or in connection with the election of a President or Vice-President shall be inquired into and decided by the Supreme Court whose decision shall be final. Reason: Parliament may, by law, regulate any matter relating to or connected with the election of a President or a Vice-President.",
+   "o": [
+    "(c) A is true but R is false.",
+    "(a) Both A and R are true and R is the correct explanation of A.",
+    "(d) A is false but R is true.",
+    "(b) Both A and R are true but R is not a correct explanation of A."
+   ],
+   "a": 3,
+   "e": "Both statements are true as per Article 71. However, the power of Parliament to regulate elections is a general power and does not specifically explain why the Supreme Court is the final arbiter for election disputes."
+  },
+  {
+   "q": "A new All-India Service can be created by:",
+   "o": [
+    "(b) An act of Parliament",
+    "(a) A resolution of the Rajya Sabha",
+    "(d) A resolution of the UPSC",
+    "(c) An order of the President"
+   ],
+   "a": 1,
+   "e": "Under Article 312, if the Rajya Sabha declares by a resolution supported by not less than two-thirds of the members present and voting that it is necessary in the national interest, Parliament may by law provide for the creation of one or more All-India Services."
+  },
+  {
+   "q": "The Central Administrative Tribunal deals with:",
+   "o": [
+    "(d) Recruitment and all service matters",
+    "(c) Disciplinary matters",
+    "(a) Recruitment matters",
+    "(b) Promotion matters"
+   ],
+   "a": 0,
+   "e": "The Central Administrative Tribunal (CAT) was established to provide speedy and inexpensive justice to central government employees regarding their recruitment and all service-related conditions."
+  },
+  {
+   "q": "Who/Which of the following can provide for the appointment of a Joint State Public Service Commission?",
+   "o": [
+    "(b) Parliament of India",
+    "(c) UPSC",
+    "(d) State Governors",
+    "(a) President of India"
+   ],
+   "a": 0,
+   "e": "The Constitution provides for the establishment of a Joint State Public Service Commission (JSPSC) for two or more states. Such a body is created by an act of Parliament on the request of the state legislatures concerned."
+  },
+  {
+   "q": "The origins of UPSC can be traced to:",
+   "o": [
+    "(a) 1909 Act",
+    "(d) 1947 Act",
+    "(c) 1935 Act",
+    "(b) 1919 Act"
+   ],
+   "a": 3,
+   "e": "The Government of India Act of 1919 provided for the establishment of a Public Service Commission, which was eventually set up in 1926 based on the Lee Commission's recommendations."
+  },
+  {
+   "q": "The functions of the UPSC can be extended by:",
+   "o": [
+    "(d) Parliament",
+    "(b) Prime Minister",
+    "(a) President",
+    "(c) Ministry of Personnel"
+   ],
+   "a": 0,
+   "e": "Article 321 of the Constitution provides that the Parliament may provide for the exercise of additional functions by the UPSC as respects the services of the Union."
+  },
+  {
+   "q": "The personnel system of any local authority, corporate body or public institution can be placed within the jurisdiction of the UPSC by:",
+   "o": [
+    "(d) Supreme Court",
+    "(b) Central Ministry of Personnel",
+    "(a) President of India",
+    "(c) Parliament"
+   ],
+   "a": 3,
+   "e": "Article 321 allows the Parliament to extend the jurisdiction of the UPSC to the personnel system of local authorities or other bodies corporate established by law."
+  },
+  {
+   "q": "The Chairman and members of the UPSC hold office for a term of:",
+   "o": [
+    "(c) Five years",
+    "(d) Six years",
+    "(a) Three years",
+    "(b) Four years"
+   ],
+   "a": 1,
+   "e": "Members of the UPSC hold office for a term of six years or until they attain the age of sixty-five years, whichever is earlier."
+  },
+  {
+   "q": "Who is regarded as the \"Father of All-India Services\"?",
+   "o": [
+    "(d) Sardar Patel",
+    "(a) Lord Macaulay",
+    "(b) Lord Cornwallis",
+    "(c) B.R. Ambedkar"
+   ],
+   "a": 0,
+   "e": "Sardar Vallabhbhai Patel is regarded as the \"Father of All-India Services\" because he was a strong advocate for a unified and independent civil service to maintain the country's integrity."
+  },
+  {
+   "q": "A Joint State Public Service Commission can be created by:",
+   "o": [
+    "(d) A resolution of the concerned state legislatures",
+    "(c) An act of Parliament",
+    "(a) An order of the President",
+    "(b) A resolution of the Rajya Sabha"
+   ],
+   "a": 1,
+   "e": "While the state legislatures must pass a resolution requesting its creation, the JSPSC itself is established by an act of the Parliament."
+  },
+  {
+   "q": "Which of the following statements are correct? 1️⃣ The Constitution does not fix the number of members of the UPSC. 2️⃣ One-half of the members of the UPSC should be persons who have held office under the Government of India or of a state at least for five years. 3️⃣ The Chairman and members of the UPSC hold office for a term of five years or until they attain the age of 60 years. 4️⃣ The salaries and allowances of the members of the UPSC are determined by the Parliament. 5️⃣ The entire expanses of UPSC are charged on the Consolidated Fund of India.",
+   "o": [
+    "(a) 2, 4 and 5",
+    "(b) 1 and 5",
+    "(d) 1, 4 and 5",
+    "(c) 2, 3 and 4"
+   ],
+   "a": 1,
+   "e": "The Constitution leaves the strength of the UPSC to the President's discretion. The term is 6 years or age 65. Half the members must have 10 years (not 5) of government service. Expenses are charged on the Consolidated Fund."
+  },
+  {
+   "q": "Which of the following statements related to the Central Administrative Tribunal are correct? 1️⃣ It is a statutory body. 2️⃣ Its members are drawn from administrative background only. 3️⃣ It is not bound by the procedure prescribed in the code of civil procedure. 4️⃣ Its jurisdiction covers the members of All India Services as well as Central Services and Central Government posts.",
+   "o": [
+    "(d) 2 and 3",
+    "(a) 1, 2 and 3",
+    "(b) 1 and 4",
+    "(c) 1, 3 and 4"
+   ],
+   "a": 3,
+   "e": "CAT is a statutory body established in 1985. It includes both judicial and administrative members. It is not bound by the CPC but guided by the principles of natural justice."
+  },
+  {
+   "q": "Statement-I: All-India Services are instruments of national integration. Statement-II: Its members are appointed by President of India.",
+   "o": [
+    "(d) Statement-I is incorrect but Statement-II is c...",
+    "(b) Both Statement-I and Statement-II are correct...",
+    "(a) Both Statement-I and Statement-II are correct...",
+    "(c) Statement-I is correct but Statement-II is inc..."
+   ],
+   "a": 2,
+   "e": "Members of All-India Services serve both the Union and the States, and their central appointment by the President ensures they serve as a common link between the two levels of government, fostering integration."
+  },
+  {
+   "q": "Statement-I: Chairman and members of the UPSC are appointed by President. Statement-II: The UPSC is a constitutional body.",
+   "o": [
+    "(d) Statement-I is incorrect but Statement-II is c...",
+    "(c) Statement-I is correct but Statement-II is inc...",
+    "(a) Both Statement-I and Statement-II are correct...",
+    "(b) Both Statement-I and Statement-II are correct..."
+   ],
+   "a": 2,
+   "e": "As a constitutional body (Articles 315-323), the UPSC's appointments and functions are specified in the Constitution, which mandates that the President appoint its members."
+  },
+  {
+   "q": "Statement-I: The salaries of the members of the UPSC cannot be changed to their disadvantage during their tenure. Statement-II: The independence of the Public Service Commission has to be maintained.",
+   "o": [
+    "(b) Both Statement-I and Statement-II are correct...",
+    "(d) Statement-I is incorrect but Statement-II is c...",
+    "(a) Both Statement-I and Statement-II are correct...",
+    "(c) Statement-I is correct but Statement-II is inc..."
+   ],
+   "a": 2,
+   "e": "Protecting the financial terms of service is a standard constitutional mechanism used to ensure that the members can function without executive pressure, thereby maintaining the commission's independence."
+  },
+  {
+   "q": "Statement-I: The Constitution has not fixed the number of members of the UPSC. Statement-II: The Chairman and members of the UPSC are appointed by President.",
+   "o": [
+    "(b) Both Statement-I and Statement-II are correct...",
+    "(a) Both Statement-I and Statement-II are correct...",
+    "(c) Statement-I is correct but Statement-II is inc...",
+    "(d) Statement-I is incorrect but Statement-II is c..."
+   ],
+   "a": 1,
+   "e": "Both are independent facts provided by the Constitution. The appointment by the President does not explain why the strength is not fixed in the Constitution."
+  },
+  {
+   "q": "Which of the following statements are true about the Governor of a state? 1️⃣ The executive power of the state is vested in him. 2️⃣ He must have attained 35 years of age. 3️⃣ He holds office during the pleasure of the President. 4️⃣ The grounds for his removal are laid down in the Constitution.",
+   "o": [
+    "(d) 1, 2, 3 and 4",
+    "(b) 1, 2 and 3",
+    "(c) 1, 3 and 4",
+    "(a) 1, 2, and 4"
+   ],
+   "a": 1,
+   "e": "The Constitution does not lay down any grounds for the removal of the Governor. He holds office during the pleasure of the President, which means he can be removed at any time without any reason being assigned."
+  },
+  {
+   "q": "The recommendations of the Ashok Mehta Committee on Panchayati Raj are: 1️⃣ Creation of a two-tier system 2️⃣ Reservation of seats for SCs and STs 3️⃣ Compulsory powers of taxation to Panchayati Raj institutions 4️⃣ Official participation of political parties in Panchayati Raj affairs 5️⃣ If superseded, elections must be held within one year",
+   "o": [
+    "(d) 1, 3, 4 and 5",
+    "(c) 1, 2, 3 and 4",
+    "(a) 1, 3 and 4",
+    "(b) 1, 2, 4 and 5"
+   ],
+   "a": 1,
+   "e": "The Ashok Mehta Committee (1977) recommended a two-tier system (Zila Parishad and Mandal Panchayat), the participation of political parties, and the reservation of seats for SCs/STs based on population."
+  },
+  {
+   "q": "District Judges are appointed by:",
+   "o": [
+    "(d) The Governor of state",
+    "(c) The Chief Minister of state",
+    "(a) The Chief Justice of High Court",
+    "(b) The State Public Service Commission"
+   ],
+   "a": 0,
+   "e": "Under Article 233, the appointment, posting, and promotion of district judges in a state are made by the Governor of the state in consultation with the High Court."
+  },
+  {
+   "q": "Money bill can be introduced in the state legislature only on the recommendation of:",
+   "o": [
+    "(d) Governor",
+    "(a) Speaker",
+    "(b) Finance Minister",
+    "(c) Chief Minister"
+   ],
+   "a": 0,
+   "e": "Similar to the process at the Union level, a Money Bill in a state legislature can only be introduced with the prior recommendation of the Governor."
+  },
+  {
+   "q": "According to the Balwantrai Mehta Committee, the District Collector should be:",
+   "o": [
+    "(a) Kept out of the Zila Parishad",
+    "(b) A non-voting member of the Zila Parishad",
+    "(c) A member of the Zila Parishad with the right to vote",
+    "(d) The Chairman of the Zila Parishad"
+   ],
+   "a": 3,
+   "e": "The Balwantrai Mehta Committee recommended that the Zila Parishad should be the planning and coordinating body at the district level and the District Collector should be its Chairman."
+  },
+  {
+   "q": "The Balwantrai Mehta Committee was a committee on:",
+   "o": [
+    "(b) Panchayati Raj institutions",
+    "(a) Democratic decentralisation",
+    "(d) Community development programme",
+    "(c) Administrative arrangements for rural development"
+   ],
+   "a": 2,
+   "e": "The committee was originally appointed in 1957 to examine the working of the Community Development Programme (1952) and the National Extension Service (1953). It subsequently recommended the system of 'democratic decentralisation'."
+  },
+  {
+   "q": "Panchayati Raj form of rural local government was adopted first by (in the order):",
+   "o": [
+    "(c) Rajasthan and Andhra Pradesh",
+    "(b) Andhra Pradesh and West Bengal",
+    "(d) Andhra Pradesh and Rajasthan",
+    "(a) Rajasthan and Madhya Pradesh"
+   ],
+   "a": 0,
+   "e": "Rajasthan was the first state to establish Panchayati Raj (Nagaur district) on October 2, 1959. Andhra Pradesh followed later that same year."
+  },
+  {
+   "q": "The District and Sessions Judge works directly under the control of:",
+   "o": [
+    "(a) District Collector",
+    "(b) Governor of the state",
+    "(d) High Court of the state",
+    "(c) Law Minister of the state"
+   ],
+   "a": 2,
+   "e": "To ensure the independence of the judiciary, the lower courts, including the District and Sessions Court, are placed under the administrative control of the respective High Court."
+  },
+  {
+   "q": "Which of the following is a committee on Panchayati Raj institutions?",
+   "o": [
+    "(d) Ashok Mehta Committee",
+    "(a) Balwantrai Mehta Committee",
+    "(b) G.V.K. Rao Committee",
+    "(c) Hanumantha Rao Committee"
+   ],
+   "a": 0,
+   "e": "While all these committees touched on rural development, the Ashok Mehta Committee (1977) was specifically tasked with inquiring into the working of Panchayati Raj institutions to suggest measures for their revitalisation."
+  },
+  {
+   "q": "\"The state shall take steps to organise village Panchayats and endow them with such powers as may be necessary to enable them to function as units of self-government.\" This provision is mentioned in:",
+   "o": [
+    "(d) Part IV of the Constitution",
+    "(b) Part IV-A of the Constitution",
+    "(a) Part I of the Constitution",
+    "(c) Part III of the Constitution"
+   ],
+   "a": 0,
+   "e": "This is Article 40, which is part of the Directive Principles of State Policy found in Part IV of the Indian Constitution."
+  },
+  {
+   "q": "A President's rule can be imposed in a state under the provisions of: 1️⃣ Article 356 2️⃣ Article 360 3️⃣ Article 352 4️⃣ Article 365",
+   "o": [
+    "(d) 1 and 2",
+    "(c) 1 and 4",
+    "(a) only 1",
+    "(b) 1 and 3"
+   ],
+   "a": 1,
+   "e": "Article 356 provides for President's Rule if the state government cannot be carried on in accordance with the Constitution. Article 365 says that if a state fails to comply with Central directions, it can be treated as a breakdown of constitutional machinery under Art 356."
+  },
+  {
+   "q": "Which of the following Constitutional Amendment act provided for the appointment of the same person as Governor for two or more states?",
+   "o": [
+    "(c) 11th Amendment",
+    "(b) 7th Amendment",
+    "(d) 24th Amendment",
+    "(a) 4th Amendment"
+   ],
+   "a": 1,
+   "e": "The 7th Amendment Act of 1956 amended Article 153 to permit the appointment of the same person as Governor for two or more states."
+  },
+  {
+   "q": "Article 154 states that the Governor can exercise his executive authority either directly or through officers subordinate to him. The word subordinates includes:",
+   "o": [
+    "(c) Only the Chief Minister and the Deputy Chief Minister",
+    "(d) Only the Cabinet Ministers",
+    "(b) All the ministers except the Chief Minister",
+    "(a) All the ministers and the Chief Minister"
+   ],
+   "a": 3,
+   "e": "In the constitutional sense, the Council of Ministers, including the Chief Minister, are considered officers subordinate to the Governor for the purpose of exercising executive power."
+  },
+  {
+   "q": "In the event of declaration of constitutional emergency in the state, the President can: 1️⃣ Assume to himself all the functions of the state government including the High Court. 2️⃣ Declare that the powers of the state legislature shall be exercisable under the authority of the Governor. 3️⃣ Assume to himself all the functions of the state government except the High Court. 4️⃣ Declare that the powers of the state legislature shall be exercisable under the authority of the parliament.",
+   "o": [
+    "(c) 3 and 4",
+    "(b) 2 and 3",
+    "(a) 1 and 2",
+    "(d) 1 and 4"
+   ],
+   "a": 0,
+   "e": "Under Article 356, the President can assume the powers of the state executive but cannot interfere with the powers and functions of the High Court. The legislative powers of the state are exercised by or under the authority of Parliament."
+  },
+  {
+   "q": "The correct statements about ordinance making power of the Governor are: 1️⃣ It is laid down in Article 213. 2️⃣ It can be issued by him after the advice of the President or state council of ministers. 3️⃣ It is co-extensive with the legislative power of the state legislature. 4️⃣ It can be issued only during the recess of State Legislative Assembly and not the Legislative Council. 5️⃣ It can not be withdrawn by him anytime.",
+   "o": [
+    "(c) 1, 2 and 3",
+    "(a) 2, 3 and 4",
+    "(b) 1, 3 and 5",
+    "(d) 2, 4 and 5"
+   ],
+   "a": 0,
+   "e": "The Governor's ordinance-making power (Article 213) is co-extensive with the legislature's power. It can be exercised when the legislature is not in session and can be withdrawn by the Governor at any time."
+  },
+  {
+   "q": "Which of the following was the subject dealt by the Hanumantha Rao Committee?",
+   "o": [
+    "(b) Elections of Panchayats",
+    "(c) Finances of Panchayats",
+    "(d) District Planning",
+    "(a) Block-level planning"
+   ],
+   "a": 2,
+   "e": "The Hanumantha Rao Committee (1984) was appointed by the Planning Commission to examine the methodology of district planning and suggest ways to make it more effective."
+  },
+  {
+   "q": "Which of the following are the features of 74th Amendment Act on municipalities? 1️⃣ Reservation of seats for SCs and STs in proportion of their population (to the total population) in municipal Area. 2️⃣ Mandatory periodic elections every 5 years. 3️⃣ The procedure for maintenance of accounts and audit would be decided by the State Governor. 4️⃣ Constitution of Nagar Panchayats for smaller urban area. 5️⃣ One-third of the seats shall be reserved for women, excluding the number of seats reserved for SC and ST women.",
+   "o": [
+    "(d) 1 and 2",
+    "(c) 3, 4 and 5",
+    "(b) 2, 3 and 5",
+    "(a) 1, 2 and 4"
+   ],
+   "a": 3,
+   "e": "The 74th Amendment provided for Nagar Panchayats for transitional areas. It mandates seats for SCs/STs by population and 1/3 for women (including SC/ST women). The audit procedure is determined by state laws, not the Governor personally."
+  },
+  {
+   "q": "Assertion: Under the Constitution, the Chief Minister holds office till the pleasure of the Governor. Reason: The Chief Minister is appointed by the Governor.",
+   "o": [
+    "(c) A is true but R is false.",
+    "(d) A is false but R is true.",
+    "(a) Both A and R are true and R is the correct explanation of A.",
+    "(b) Both A and R are true but R is not a correct explanation of A."
+   ],
+   "a": 2,
+   "e": "Article 164 states that the Chief Minister is appointed by the Governor and holds office during his pleasure. This is a formal constitutional provision, though in practice, it is linked to the CM's majority in the assembly."
+  },
+  {
+   "q": "Assertion: Lord Ripon's Resolution of 1882 was hailed as the 'Magna Carta' of local government. Reason: Lord Ripon is regarded as the 'father of local self-government in India.",
+   "o": [
+    "(a) Both A and R are true and R is the correct explanation of A.",
+    "(c) A is true but R is false.",
+    "(b) Both A and R are true but R is not a correct explanation of A.",
+    "(d) A is false but R is true."
+   ],
+   "a": 2,
+   "e": "Lord Ripon's 1882 resolution was a major step towards local self-government, giving him the title \"father of local self-government.\" While both are true, the title itself isn't the reason the document is called the 'Magna Carta'."
+  },
+  {
+   "q": "Assertion: The 73rd amendment to the Constitution gives a constitutional status to the Gram Sabha. Reason: The Balwantrai Mehta Committee report made a formal mention of the Gram Sabha.",
+   "o": [
+    "(d) A is false but R is true.",
+    "(a) Both A and R are true and R is the correct explanation of A.",
+    "(c) A is true but R is false.",
+    "(b) Both A and R are true but R is not a correct explanation of A."
+   ],
+   "a": 2,
+   "e": "The 73rd Amendment did give constitutional status to the Gram Sabha. However, the Balwantrai Mehta Committee did not make a formal mention of the Gram Sabha; it focused on the three-tier structure starting from the Panchayat."
+  },
+  {
+   "q": "Assertion: The Governor of a state is a nominal (titular) executive head. Reason: The Constitution has provided for a parliamentary government in the states.",
+   "o": [
+    "(a) Both A and R are true and R is the correct explanation of A.",
+    "(b) Both A and R are true but R is not a correct explanation of A.",
+    "(d) A is false but R is true.",
+    "(c) A is true but R is false."
+   ],
+   "a": 0,
+   "e": "In a parliamentary form of government, the real executive power lies with the Council of Ministers, and the head of the state (like the Governor) acts as a ceremonial or nominal head."
+  },
+  {
+   "q": "Assertion: The Governor shall hold office during the pleasure of the President. Reason: The Governor of a state shall be appointed by the President of India.",
+   "o": [
+    "(d) A is false but R is true.",
+    "(c) A is true but R is false.",
+    "(a) Both A and R are true and R is the correct explanation of A.",
+    "(b) Both A and R are true but R is not a correct explanation of A."
+   ],
+   "a": 2,
+   "e": "Article 155 says the Governor is appointed by the President, and Article 156 says he holds office during the President's pleasure. The method of appointment is the basis for the President's power over the Governor's tenure."
+  },
+  {
+   "q": "Match List-I (Role) with List-II (Municipal Corporation Authorities): 1️⃣ A. Deliberative organisation - 4. Council 2️⃣ B. Formal head - 3. Mayor 3️⃣ C. Management - 1. Commissioner 4️⃣ D. Executive body - 2. Standing Committees",
+   "o": [
+    "(c) A-2, B-3, C-1, D-4",
+    "(d) A-4, B-3, C-1, D-2",
+    "(b) A-3, B-2, C-1, D-4",
+    "(a) A-2, B-4, C-3, D-1"
+   ],
+   "a": 1,
+   "e": "The Council is the deliberative wing; the Mayor is the formal head; the Commissioner (usually an IAS officer) handles management/executive functions; and Standing Committees manage specific domains."
+  },
+  {
+   "q": "Match List-I (States) with List-II (Governor's special responsibilities): 1️⃣ A. Madhya Pradesh - 4. Minister for Tribal Welfare 2️⃣ B. Gujarat - 3. Development of backward areas 3️⃣ C. Nagaland - 1. Law and order 4️⃣ D. Assam - 2. Administration of tribal areas",
+   "o": [
+    "(c) A-4, B-3, C-1, D-2",
+    "(a) A-3, B-4, C-5, D-2",
+    "(d) A-5, B-3, C-2, D-4",
+    "(b) A-2, B-1, C-3, D-4"
+   ],
+   "a": 0,
+   "e": "Special responsibilities under Articles 371-371J: Nagaland (law and order), Gujarat/Maharashtra (development boards), and Madhya Pradesh/Odisha/Chhattisgarh (Tribal Welfare Minister)."
+  },
+  {
+   "q": "Match List-I (Committees) with List-II (Setup on): 1️⃣ A. G.V.K. Rao Committee - 3. Administrative arrangements for Rural Development 2️⃣ B. Balwantrai Mehta Committee - 4. Community Development Programme 3️⃣ C. L.M. Singhvi Committee - 2. Revitalisation of PRIs 4️⃣ D. Ashok Mehta Committee - 1. Panchayati Raj institutions",
+   "o": [
+    "(d) A-3, B-4, C-1, D-2",
+    "(a) A-4, B-3, C-1, D-2",
+    "(b) A-4, B-3, C-2, D-1",
+    "(c) A-3, B-4, C-2, D-1"
+   ],
+   "a": 3,
+   "e": "GVK Rao (1985) looked at administration; Balwantrai (1957) at CDP; LM Singhvi (1986) at revitalizing democracy; and Ashok Mehta (1977) at the PRIs generally."
+  },
+  {
+   "q": "The Governor of a state: 1️⃣ Possesses executive, legislative and judicial powers analogous to the President. 2️⃣ Has to act with the aid and advice of the council of ministers always. 3️⃣ Has the power to appoint and remove the members of State Public Service Commission. 4️⃣ Has the power to allocate business of the government among the various ministers.",
+   "o": [
+    "(b) 2, 3 and 4",
+    "(a) 1 and 2",
+    "(d) 1, 3 and 4",
+    "(c) 1 and 4"
+   ],
+   "a": 3,
+   "e": "The Governor doesn't act on advice 'always' as he has discretionary powers. While he appoints SPSC members, he cannot remove them (only the President can). He has executive/legislative/judicial powers like the President."
+  },
+  {
+   "q": "The Constitution says that the state council of ministers hold office during the pleasure of the Governor. The words \"during the pleasure of the Governor\" in reality means:",
+   "o": [
+    "(a) Pleasure of the President",
+    "(c) Pleasure of the Chief Minister",
+    "(d) Pleasure of the Legislative Assembly",
+    "(b) Pleasure of the Prime Minister"
+   ],
+   "a": 2,
+   "e": "In a parliamentary system, the pleasure of the head of state is synonymous with the Council of Ministers enjoying a majority in the popular house of the legislature."
+  },
+  {
+   "q": "The term 'Cabinet' is mentioned in which of the following articles of the Constitution?",
+   "o": [
+    "(c) Article 352",
+    "(b) Article 75",
+    "(d) Not mentioned in the Constitution",
+    "(a) Article 74"
+   ],
+   "a": 0,
+   "e": "The term 'Cabinet' was not in the original Constitution. It was inserted into Article 352 by the 44th Amendment Act of 1978."
+  },
+  {
+   "q": "Which of the following statements with regard to the CAG are correct? 1️⃣ He is responsible only to the Parliament. 2️⃣ He certifies the net proceeds of any tax. 3️⃣ He compiles and maintains the accounts of state governments. 4️⃣ He has control over the issue of money from the Consolidated Fund of India.",
+   "o": [
+    "(c) 1, 2 and 3",
+    "(b) 1, 3 and 4",
+    "(a) 2 and 4",
+    "(d) 2, 3 and 4"
+   ],
+   "a": 0,
+   "e": "The CAG of India is not a \"comptroller\" in the British sense, as he has no control over the withdrawal of money. He only audits the expenditure after it has occurred."
+  },
+  {
+   "q": "Which of the following statements are correct about the difference between a censure motion and a no-confidence motion? 1️⃣ A censure motion should state the reasons for its adoption whereas a no-confidence motion need not state the reasons for its adoption. 2️⃣ A no-confidence motion can be moved only against the council of ministers, whereas a censure motion can be moved against the council of ministers or an individual minister or a group of ministers. 3️⃣ The Government must resign if a no-confidence motion is passed, whereas the Government need not resign if a censure motion is passed. 4️⃣ A censure motion can be moved in both, the Lok Sabha and the Rajya Sabha, whereas no-confidence motion can be moved only in the Lok Sabha.",
+   "o": [
+    "(c) 1, 2 and 4",
+    "(d) 1, 2 and 3",
+    "(b) 2, 3 and 4",
+    "(a) 1, 3 and 4"
+   ],
+   "a": 1,
+   "e": "Censure and No-Confidence motions are tools of the Lok Sabha only. A censure motion seeks to rebuke the government for specific failures, while no-confidence tests the general support of the house."
+  },
+  {
+   "q": "The first Lokpal Bill was introduced in the Parliament in:",
+   "o": [
+    "(d) 1972",
+    "(c) 1968",
+    "(b) 1967",
+    "(a) 1971"
+   ],
+   "a": 1,
+   "e": "Following the recommendations of the first Administrative Reforms Commission, the first Lokpal Bill was introduced in the Lok Sabha in 1968 but lapsed with the dissolution of the house."
+  },
+  {
+   "q": "The Central Vigilance Commission was set up by:",
+   "o": [
+    "(b) Act of the Parliament",
+    "(d) Executive resolution",
+    "(c) Resolution of the Santhanam Committee",
+    "(a) Constitutional provision"
+   ],
+   "a": 1,
+   "e": "The CVC was created in 1964 by an executive resolution of the Government of India. It was later given statutory status by the CVC Act of 2003."
+  },
+  {
+   "q": "The functions of Estimates Committee include: 1️⃣ To suggest alternative policies in order to bring out efficiency and economy in administration. 2️⃣ To see that the expenditure conforms to the authority which governs it. 3️⃣ To examine whether the money is well laid out within the limits of the policy implied in the estimates. 4️⃣ To suggest the form in which estimates shall be presented to the Parliament.",
+   "o": [
+    "(d) 1, 2, 3 and 4",
+    "(a) 1 and 2",
+    "(b) 1, 3 and 4",
+    "(c) 1, 2 and 4"
+   ],
+   "a": 2,
+   "e": "The Estimates Committee (30 members of Lok Sabha) is often called a 'Continuous Economy Committee'. It doesn't check 'conformity to authority'—that's the job of the Public Accounts Committee through CAG reports."
+  },
+  {
+   "q": "The recommendations of Balwantrai Mehta Committee includes: 1️⃣ Official participation of political parties in Panchayati Raj affairs. 2️⃣ Genuine transfer of power and responsibility to the Panchayati Raj institutions. 3️⃣ Constitutional protection for Panchayati Raj. 4️⃣ District Collector should be the Chairman of the Zila Parishad. 5️⃣ Panchayat Samiti to be the executive body.",
+   "o": [
+    "(b) 2, 4 and 5",
+    "(d) 1, 3 and 4",
+    "(c) 2, 3 and 4",
+    "(a) 1, 2 and 5"
+   ],
+   "a": 0,
+   "e": "Balwantrai Mehta (1957) favored the Panchayat Samiti as the key executive level. He did not recommend political party participation or constitutional status (those came from later committees)."
+  },
+  {
+   "q": "Which of the following statements is incorrect?",
+   "o": [
+    "(a) Adjournment means an interruption in normal business of the Assembly.",
+    "(c) Dissolution means the end of the Assembly.",
+    "(b) Prorogation means the end of the Assembly.",
+    "(d) Prorogation means end of a session of the Assembly."
+   ],
+   "a": 2,
+   "e": "Prorogation terminates a session of the house, not the house itself. Dissolution is what terminates the life of the Legislative Assembly (or Lok Sabha)."
+  },
+  {
+   "q": "Which of the following are the compulsory provisions of the 73rd Amendment Act on Panchayati Raj? 1️⃣ Indirect elections of the chairpersons of Panchayats at the intermediate and district levels. 2️⃣ Fresh elections within six months in case of dissolution. 3️⃣ Provision for reservation of seats for backward classes. 4️⃣ Giving representation to MPs and MLAs in Panchayats.",
+   "o": [
+    "(b) 2 and 5",
+    "(c) 2 and 4",
+    "(d) 1 and 2",
+    "(a) 1 and 3"
+   ],
+   "a": 2,
+   "e": "Compulsory provisions must be followed by all states. These include a 3-tier system, direct elections to all seats, indirect elections for chairmen at middle/top levels, and fixed 5-year terms. Backward class reservation and MP/MLA representation are voluntary."
+  },
+  {
+   "q": "Consider the following statements about municipal corporations: 1️⃣ They are established in the states by the acts of the concerned state legislatures. 2️⃣ They are established in the union territories by an order of the Chief Administrator. 3️⃣ They work under direct control and supervision of state governments. 4️⃣ Their deliberative functions are separated from the executive functions.",
+   "o": [
+    "(a) 1 and 3",
+    "(c) 1, 2 and 3",
+    "(b) 1, 3 and 4",
+    "(d) 1, 2, 3 and 4"
+   ],
+   "a": 2,
+   "e": "Municipal Corporations in UTs are established by Acts of the Parliament, not by orders of the Administrator. Statements 1, 3, and 4 correctly describe their setup and operational structure."
+  },
+  {
+   "q": "Which of the following is not correct about a cantonment board?",
+   "o": [
+    "(c) It is established for municipal administration for civilian population in the cantonment area.",
+    "(a) It is created by an executive resolution.",
+    "(d) It is a statutory body.",
+    "(b) It works under the administrative control of the Union Defence Ministry."
+   ],
+   "a": 1,
+   "e": "A Cantonment Board is a statutory body created under the provisions of the Cantonments Act of 2006 (an act of Parliament), not by an executive resolution."
+  },
+  {
+   "q": "Under which of the following conditions, the UPSC can serve the needs of a state? 1️⃣ When requested by the President 2️⃣ When requested by the Governor 3️⃣ With the approval of Parliament 4️⃣ With the approval of President 5️⃣ With the approval of the concerned state legislature.",
+   "o": [
+    "(c) 1 and 2",
+    "(d) 1 and 5",
+    "(a) 1, 3 and 4",
+    "(b) 2 and 4"
+   ],
+   "a": 3,
+   "e": "Under Article 315, the UPSC can agree to serve all or any of the needs of a state if requested by the Governor of the state and with the previous approval of the President."
+  },
+  {
+   "q": "Statement-I: A minister at the Central level can be dismissed by the Prime Minister. Statement-II: A minister is appointed by President only on the advice of Prime Minister.",
+   "o": [
+    "(c) Statement-I is correct but Statement-II is inc...",
+    "(d) Statement-I is incorrect but Statement-II is c...",
+    "(b) Both Statement-I and Statement-II are correct...",
+    "(a) Both Statement-I and Statement-II are correct..."
+   ],
+   "a": 1,
+   "e": "A minister is formally dismissed by the President, not the PM, although the President acts only on the PM's advice. Thus Statement I is technically incorrect in law."
+  },
+  {
+   "q": "Statement-I: The Finance Commission facilitates the maintenance of financial balance between the Union and the states in the Indian federal system. Statement-II: The Constitution of India has given more financial powers to the Union Government.",
+   "o": [
+    "(d) Statement-I is incorrect but Statement-II is c...",
+    "(b) Both Statement-I and Statement-II are correct...",
+    "(c) Statement-I is correct but Statement-II is inc...",
+    "(a) Both Statement-I and Statement-II are correct..."
+   ],
+   "a": 3,
+   "e": "Because the Union possesses more elastic and productive sources of revenue while the states have more social/developmental responsibilities, the Finance Commission is needed to bridge this \"vertical imbalance\" via tax sharing."
+  },
+  {
+   "q": "Statement-I: The UPSC is the Central recruiting agency in India. Statement-II: It is an independent constitutional body.",
+   "o": [
+    "(b) Both Statement-I and Statement-II are correct...",
+    "(d) Statement-I is incorrect but Statement-II is c...",
+    "(a) Both Statement-I and Statement-II are correct...",
+    "(c) Statement-I is correct but Statement-II is inc..."
+   ],
+   "a": 0,
+   "e": "Both statements are factual. However, its status as a constitutional body is meant to ensure its independence, not to explain its role as a recruiting agency."
+  },
+  {
+   "q": "Statement-I: The Governor is de-jure head of state administration. Statement-II: The Chief Minister is de-facto head of state administration.",
+   "o": [
+    "(a) Both Statement-I and Statement-II are correct...",
+    "(c) Statement-I is correct but Statement-II is inc...",
+    "(d) Statement-I is incorrect but Statement-II is c...",
+    "(b) Both Statement-I and Statement-II are correct..."
+   ],
+   "a": 0,
+   "e": "In the state executive, the Governor is the nominal (de-jure) authority, whereas the Chief Minister is the real (de-facto) authority. These are parallel features of the parliamentary system at the state level."
+  },
+  {
+   "q": "Statement-I: The Rajya Sabha has no power to vote on the demands-for-grants. Statement-II: A money bill or finance bill dealing with taxation cannot be introduced in the Rajya Sabha.",
+   "o": [
+    "(b) Both Statement-I and Statement-II are correct...",
+    "(d) Statement-I is incorrect but Statement-II is c...",
+    "(a) Both Statement-I and Statement-II are correct...",
+    "(c) Statement-I is correct but Statement-II is inc..."
+   ],
+   "a": 0,
+   "e": "Both are true according to the Constitution (Arts 109 and 113). The inability to vote on demands is a specific restriction during the budget process, distinct from the rule about the house of introduction."
+  },
+  {
+   "q": "Match List-I (Meaning of writs) with List-II (Name of writs): 1️⃣ A. Command to a public official - 2. Mandamus 2️⃣ B. Issued when lower court exceeds jurisdiction - 4. Prohibition 3️⃣ C. Enquire into legality of claim to office - 5. Quo-warranto 4️⃣ D. Asking a person to do/refrain from a thing - 1. Injunction",
+   "o": [
+    "(a) A-2, B-3, C-4, D-1",
+    "(c) A-2, B-4, C-5, D-1",
+    "(d) A-4, B-5, C-2, D-3",
+    "(b) A-3, B-4, C-5, D-1"
+   ],
+   "a": 1,
+   "e": "Mandamus is a 'command'; Prohibition 'forbids' a lower court from continuing; Quo-warranto asks 'by what authority'; Injunction is a general court order to do or not do something."
+  },
+  {
+   "q": "Match List-I (Committees) with List-II (Functions): 1️⃣ A. Public Accounts Committee - 2. Examines CAG's report 2️⃣ B. Committee on Subordinate Legislation - 3. Examines delegated powers 3️⃣ C. Committee on Public Undertakings - 4. Examines reports of public undertakings 4️⃣ D. Committee on Government Assurances - 1. Examines fulfillment of promises",
+   "o": [
+    "(a) A-4, B-3, C-1, D-2",
+    "(c) A-1, B-4, C-3, D-2",
+    "(d) A-2, B-4, C-1, D-3",
+    "(b) A-2, B-3, C-4, D-1"
+   ],
+   "a": 3,
+   "e": "These are specialized financial and scrutiny committees. PAC focuses on audit reports; Subordinate Legislation on executive rulemaking; CPU on public sector firms; and Assurances on promises made by ministers."
+  },
+  {
+   "q": "Match List-I (Kinds of Grants) with List-II (Implications): 1️⃣ A. Token grant - 5. Reappropriation for new service 2️⃣ B. Exceptional grant - 4. No part of current service 3️⃣ C. Vote of credit - 1. Unexpected demand 4️⃣ D. Excess grant - 3. Voted after financial year",
+   "o": [
+    "(c) A-3, B-4, D-1, C-2",
+    "(d) A-5, B-3, D-4, C-1",
+    "(b) A-5, B-4, D-3, C-1",
+    "(a) A-4, B-3, D-2, C-5"
+   ],
+   "a": 2,
+   "e": "Token grant is used when money is available but needed for a 'new service'. Vote of credit is a 'blank cheque' for indefinite needs. Excess grant is regularizing spending that exceeded the budget after the year ends."
+  },
+  {
+   "q": "Match List-I (Schedules) with List-II (Provisions): 1️⃣ A. Sixth Schedule - 2. Tribal areas in Assam, Meghalaya, Tripura, Mizoram 2️⃣ B. Second Schedule - 3. Provisions for Speaker/Deputy Speaker 3️⃣ C. Twelfth Schedule - 4. Municipalities 4️⃣ D. Fifth Schedule - 1. Scheduled areas and tribes",
+   "o": [
+    "(d) A-2, B-3, C-5, D-1",
+    "(c) A-2, B-3, C-4, D-1",
+    "(b) A-1, B-2, C-5, D-3",
+    "(a) A-1, B-3, C-4, D-2"
+   ],
+   "a": 1,
+   "e": "5th Schedule covers General Scheduled Areas; 6th covers specifically the 4 NE states; 2nd covers salaries/emoluments; 12th covers urban local bodies."
+  },
+  {
+   "q": "The most important Legislative power of the Governor is:",
+   "o": [
+    "(c) Assenting bills passed by the state legislature",
+    "(a) Nominating members to the state legislative council.",
+    "(b) Issuing ordinances",
+    "(d) Dissolving the state legislative Assembly"
+   ],
+   "a": 2,
+   "e": "While all are legislative powers, the power to issue ordinances (Article 213) is considered the most significant as it allows the Governor to create laws when the legislature is not in session."
+  },
+  {
+   "q": "Assertion: The Chief Minister is the channel of communication between the Governor and the state council of ministers. Reason: The Chief Minister is the head of the state council of ministers.",
+   "o": [
+    "(d) A is false but R is true.",
+    "(b) Both A and R are true but R is not a correct explanation of A.",
+    "(c) A is true but R is false.",
+    "(a) Both A and R are true and R is the correct explanation of A."
+   ],
+   "a": 3,
+   "e": "Under Article 167, it is the duty of the Chief Minister to communicate all decisions of the Council of Ministers to the Governor. This role stems from his position as the leader of the cabinet."
+  },
+  {
+   "q": "Which of the following are the voluntary provisions of the 73rd Amendment Act on Panchayati Raj? 1️⃣ Making provision for reservation to the backward classes. 2️⃣ Authorising the Panchayats to prepare plans for economic development. 3️⃣ Organisation of Gram Sabhas. 4️⃣ Conferring financial powers on Panchayats with regard to taxes, fees and so on. 5️⃣ Setting up of a State Election Commission to conduct elections to the Panchayats.",
+   "o": [
+    "(d) 1, 2, 4 and 5",
+    "(b) 1, 2 and 5",
+    "(a) 1, 2, 3 and 4",
+    "(c) 1, 2 and 4"
+   ],
+   "a": 3,
+   "e": "Voluntary provisions are those which states may or may not implement at their discretion. These include BC reservation, financial devolution, and planning powers. Gram Sabha and State Election Commission are compulsory."
+  },
+  {
+   "q": "Assertion: The UPSC's function is not to decide but to advise. Reason: The UPSC is a constitutional body.",
+   "o": [
+    "(a) Both A and R are true and R is the correct explanation of A.",
+    "(b) Both A and R are true but R is not a correct explanation of A.",
+    "(c) A is true but R is false.",
+    "(d) A is false but R is true."
+   ],
+   "a": 1,
+   "e": "The UPSC is an advisory body, and the government is not bound by its recommendations. While it is a constitutional body, many constitutional bodies have deciding powers (like the EC), so being constitutional doesn't automatically mean \"advisory.\""
+  },
+  {
+   "q": "Which of the following are true of the Central Administrative Tribunal? 1️⃣ It was established under the provisions of Article 312-A of the Constitution. 2️⃣ It was set up by an order of the President of India. 3️⃣ It was set up in 1985. 4️⃣ It was set up by an Act of Parliament.",
+   "o": [
+    "(a) 1, 2 and 3",
+    "(b) 1, 3 and 4",
+    "(d) 2, 3 and 4",
+    "(c) 3 and 4"
+   ],
+   "a": 3,
+   "e": "CAT was established in 1985 under the Administrative Tribunals Act (an Act of Parliament) following the 42nd Amendment which added Article 323-A (not 312-A)."
+  },
+  {
+   "q": "If any question arises as to the age of a judge of a High Court, the question shall be decided by the President after consultation with:",
+   "o": [
+    "(d) The Chief Justice of India",
+    "(c) The Attorney-General of India",
+    "(a) The Chief Justice of the concerned High Court",
+    "(b) The Governor of the concerned state"
+   ],
+   "a": 0,
+   "e": "For High Court judges, the President makes the final decision on age disputes after consulting the Chief Justice of India, and this decision is final."
+  },
+  {
+   "q": "The need for a separate parliamentary committee on public undertakings was first visualised by:",
+   "o": [
+    "(d) Krishna Menon Committee",
+    "(b) G.V. Mavalankar",
+    "(a) Ashok Mehta",
+    "(c) Lanka Sundaram"
+   ],
+   "a": 3,
+   "e": "Shri Lanka Sundaram first raised the need for a separate committee in 1953. Later, the Krishna Menon Committee (1958) also recommended it, leading to its creation in 1964."
+  },
+  {
+   "q": "Assertion: Parliamentary control over public expenditure is diminished by the creation of the Contingency Fund of India. Reason: The Contingency Fund of India is operated by the President of India.",
+   "o": [
+    "(b) Both A and R are true but R is not a correct explanation of A.",
+    "(c) A is true but R is false.",
+    "(d) A is false but R is true.",
+    "(a) Both A and R are true and R is the correct explanation of A."
+   ],
+   "a": 2,
+   "e": "The Contingency Fund doesn't diminish control because any money spent from it must be regularized by Parliament later. The reason is true as the fund is at the disposal of the President for unforeseen expenses."
+  },
+  {
+   "q": "Which of the following pairs are incorrectly matched? 1️⃣ Vote on account - To allow time for discussion. 2️⃣ Charged expenditure - Not submitted to the Parliament. 3️⃣ Vote of credit - Blank cheque given to executive. 4️⃣ Excess grant - Submitted directly to the Lok Sabha for approval.",
+   "o": [
+    "(b) 1, 2 and 4",
+    "(c) 2 and 4",
+    "(d) 3 and 4",
+    "(a) 1 and 3"
+   ],
+   "a": 1,
+   "e": "Charged expenditure is submitted to Parliament for discussion, but not for voting. Excess grants must be approved by the Public Accounts Committee before being submitted to the Lok Sabha."
+  },
+  {
+   "q": "Which of the following expenditures are charged on the Consolidated Fund of India? 1️⃣ Salaries of the Supreme Court judges 2️⃣ Pensions of the Chairman of UPSC 3️⃣ Debt charges for which the Government of India is liable 4️⃣ Emoluments and allowances of the Prime Minister",
+   "o": [
+    "(b) 1, 2, 3 and 4",
+    "(d) 1, 2 and 4",
+    "(a) 1, 2 and 3",
+    "(c) 1, 3 and 4"
+   ],
+   "a": 2,
+   "e": "The salaries of the PM and other ministers are \"voted\" expenditure, not \"charged.\" The salaries/pensions of constitutional heads and debt charges are charged to ensure independence."
+  },
+  {
+   "q": "Which of the following are the functions of the Public Accounts Committee of Parliament? 1️⃣ To examine the appropriation accounts of sums granted by Parliament. 2️⃣ To examine the statement of accounts of state corporations (except those under CPU). 3️⃣ To examine the accounts of autonomous/semi-autonomous bodies audited by CAG. 4️⃣ To examine if any money has been spent in excess of the amount granted.",
+   "o": [
+    "(b) 1, 2, 3 and 4",
+    "(a) 1, 2 and 4",
+    "(c) 1, 2 and 3",
+    "(d) 1, 3 and 4"
+   ],
+   "a": 0,
+   "e": "The PAC's primary role is to verify that public money was spent legally and for the purpose it was intended. It relies heavily on the CAG's audit reports for its investigations."
+  },
+  {
+   "q": "Assertion: The device of Adjournment Motion is not used by the Rajya Sabha. Reason: An Adjournment Motion does not result in removing the Government from office.",
+   "o": [
+    "(a) Both A and R are true and R is the correct explanation of A.",
+    "(d) A is false but R is true.",
+    "(c) A is true but R is false.",
+    "(b) Both A and R are true but R is not the correct explanation of A."
+   ],
+   "a": 3,
+   "e": "Adjournment motions involve an element of censure. Since the Council of Ministers is collectively responsible only to the Lok Sabha, censure motions are restricted to that house."
+  },
+  {
+   "q": "Which of the following are true of Central Vigilance Commission? 1️⃣ It was set up in 1964. 2️⃣ It is a statutory body. 3️⃣ Its functions are advisory in the same sense as those of UPSC. 4️⃣ Its mode of receiving complaints is similar to that of the Parliamentary Commissioner for Administration in UK.",
+   "o": [
+    "(b) 1, 3 and 4",
+    "(c) 1, 2 and 3",
+    "(a) 1, 2, 3 and 4",
+    "(d) 1 and 3"
+   ],
+   "a": 1,
+   "e": "CVC was set up in 1964 and became statutory in 2003. Its functions are largely advisory. However, its complaint-receiving mechanism differs significantly from the UK model, which uses a 'MP filter'."
+  },
+  {
+   "q": "Which of the following statements related to UPSC are correct? 1️⃣ It derives its functions only from the Constitution. 2️⃣ It is not consulted on matters related to the reservation of posts for the BCs, SCs and STs. 3️⃣ The President can exclude posts, services and matters from the purview of consultation with UPSC. 4️⃣ The President can place the personnel system of any local authority, corporate body or public institution within the jurisdiction of UPSC.",
+   "o": [
+    "(a) 2 and 3",
+    "(d) 1, 2 and 4",
+    "(b) 1, 2 and 3",
+    "(c) 2, 3 and 4"
+   ],
+   "a": 0,
+   "e": "UPSC's functions can be extended by Parliament (so not 'only' from Constitution). Parliament, not the President, can extend its jurisdiction to local bodies. It is explicitly not consulted on reservation matters."
+  },
+  {
+   "q": "The executive officer of the cantonment board is appointed by the:",
+   "o": [
+    "(a) President of India",
+    "(c) Chief Secretary of the state",
+    "(b) Defence Secretary",
+    "(d) President of the board"
+   ],
+   "a": 0,
+   "e": "The Executive Officer of a Cantonment Board is appointed by the President of India. They belong to the central civil service (Indian Defence Estates Service)."
+  },
+  {
+   "q": "The correct statements about municipalities include: 1️⃣ They are known by various other names in different states. 2️⃣ They are controlled by the state governments. 3️⃣ Vesting of the executive authority in the Chairman. 4️⃣ They are statutory bodies.",
+   "o": [
+    "(a) 1, 2 and 4",
+    "(b) 1, 2, 3 and 4",
+    "(d) 1, 2 and 3",
+    "(c) 1 and 2"
+   ],
+   "a": 1,
+   "e": "Municipalities are statutory bodies established by state laws. They operate under the supervision of state governments and have an elected chairman as the executive head."
+  },
+  {
+   "q": "Who/which of the following can abolish a State Legislative Council?",
+   "o": [
+    "(b) President",
+    "(d) State Assembly",
+    "(a) Parliament",
+    "(c) Governor"
+   ],
+   "a": 2,
+   "e": "Under Article 169, the Parliament can abolish or create a Legislative Council if the Legislative Assembly of the state passes a resolution by a special majority to that effect."
+  },
+  {
+   "q": "In which of the following recommendations, the Ashok Mehta Committee differed from Balwantrai Mehta Committee? 1️⃣ Two-tier system of Panchayati Raj. 2️⃣ Official participation of political parties at all levels of Panchayat elections. 3️⃣ Zila Parishad as the executive body. 4️⃣ Entrusting development functions to the Zila Parishad.",
+   "o": [
+    "(c) 1 and 2",
+    "(a) 1, 2 and 4",
+    "(d) 1, 3 and 4",
+    "(b) 1, 2 and 3"
+   ],
+   "a": 3,
+   "e": "Balwantrai (1957) favored a 3-tier system with the Samiti as the executive and no political parties. Ashok Mehta (1977) favored a 2-tier system with the Zila Parishad as the executive and active political party participation."
+  },
+  {
+   "q": "Under which of the following circumstances, the Governor can reserve a state bill for the consideration of the President? 1️⃣ If it is ultra vires. 2️⃣ If it is opposed to the Directive Principles of State Policy. 3️⃣ If it endangers the position of the state High Court. 4️⃣ If it is dealing with the compulsory acquisition of property under Article 31A.",
+   "o": [
+    "(c) 2, 3 and 4",
+    "(a) 1, 2 and 3",
+    "(b) 1, 2, 3 and 4",
+    "(d) 1, 3 and 4"
+   ],
+   "a": 2,
+   "e": "Reserving a bill that endangers the High Court is mandatory. Other grounds like conflict with the Constitution, DPSP, or national importance are discretionary grounds for reservation."
+  },
+  {
+   "q": "Which of the following expenditures are 'charged' on the Consolidated Fund of India? 1️⃣ Salaries and allowances of Chairman of Council of States. 2️⃣ Salaries and allowances of Comptroller and Auditor-General. 3️⃣ Any sum required to satisfy any judgement of any arbitral tribunal. 4️⃣ Salaries and allowances of Deputy Speaker.",
+   "o": [
+    "(a) 2 and 3",
+    "(c) 1, 2, 3 and 4",
+    "(b) 1, 2 and 3"
+   ],
+   "a": 1,
+   "e": "All these are listed under Article 112(3) as expenditure charged on the Consolidated Fund of India to ensure the neutrality and independence of these offices and obligations."
+  },
+  {
+   "q": "Which of the following must be approved by the Public Accounts Committee before being submitted to the Lok Sabha for voting?",
+   "o": [
+    "(a) Additional grant",
+    "(b) Exceptional grant",
+    "(d) Excess grant",
+    "(c) Token grant"
+   ],
+   "a": 2,
+   "e": "An excess grant occurs when the government spends more than was authorized. Before regularizing this through a vote in Lok Sabha, the PAC must examine the reasons and give its recommendation."
+  },
+  {
+   "q": "Which of the following is not involved in the preparation of budget?",
+   "o": [
+    "(d) Finance Commission",
+    "(c) Comptroller and Auditor-General",
+    "(b) Administrative Ministries",
+    "(a) Finance Ministry"
+   ],
+   "a": 0,
+   "e": "The Finance Commission's role is tax distribution. The preparation of the budget is handled by the Department of Economic Affairs (Finance Ministry) in coordination with administrative ministries and the CAG."
+  },
+  {
+   "q": "Which of the following categories of bills require prior consent of the President before their introduction? 1️⃣ Bills to reorganise states. 2️⃣ Bills affecting taxes in which the states are interested. 3️⃣ State bills imposing restrictions on freedom of trade. 4️⃣ Bills involving expenditure from the Consolidated Fund of India.",
+   "o": [
+    "(d) 1, 2, 3",
+    "(b) 1, 2, 3 and 4",
+    "(a) 1, 2 and 4",
+    "(c) 2, 3, and 4"
+   ],
+   "a": 1,
+   "e": "These are constitutional requirements (e.g., Art 3, Art 117, Art 274, Art 304) to ensure the President is aware of legislation that significantly impacts the federal structure or finances."
+  },
+  {
+   "q": "The Inter-State Council consists of: 1️⃣ Prime Minister 2️⃣ Chief Ministers of all states 3️⃣ Chief Ministers of union territories with legislatures 4️⃣ Eight Union Cabinet Ministers 5️⃣ Administrators of union territories with legislatures",
+   "o": [
+    "(d) 1, 2, 3 and 5",
+    "(c) 1, 2 and 3",
+    "(a) 1, 2, 3, 4 and 5",
+    "(b) 1, 2, 3 and 4"
+   ],
+   "a": 1,
+   "e": "The Inter-State Council (Art 263) is chaired by the PM and includes all state CMs, CMs of UTs with assemblies, and administrators of UTs without assemblies. It also includes 6 (not 8) Union Cabinet ministers nominated by the PM."
+  },
+  {
+   "q": "Which of the following Constitutional Amendment Acts discontinued the special representation of the Anglo-Indians in the legislatures by nomination?",
+   "o": [
+    "(a) 102nd Amendment Act",
+    "(c) 104th Amendment Act",
+    "(d) 105th Amendment Act",
+    "(b) 103rd Amendment Act"
+   ],
+   "a": 1,
+   "e": "The 104th Amendment Act, 2019, extended the reservation for SCs/STs for another 10 years but did not extend the provision for nominating Anglo-Indians to the Lok Sabha and State Assemblies."
+  },
+  {
+   "q": "On which of the following items, the Finance Commission makes recommendations to the President? 1️⃣ The distribution between the Union and the states of the net proceeds of taxes. 2️⃣ The principles which should govern the grants-in-aid out of the Consolidated Fund of India. 3️⃣ The measures needed to augment the Consolidated Fund of a state to supplement resources of municipalities. 4️⃣ Any other matter referred to it by the President.",
+   "o": [
+    "(d) 1, 2 and 3",
+    "(b) 1, 2, 3 and 4",
+    "(c) 1 and 2",
+    "(a) 1, 2 and 4"
+   ],
+   "a": 1,
+   "e": "These functions are explicitly listed in Article 280. The third point was added by the 73rd and 74th Amendments to link central finances with local body needs."
+  },
+  {
+   "q": "Fundamental Duties were incorporated in the Constitution on the recommendation of:",
+   "o": [
+    "(b) First Administrative Reforms Commission of India",
+    "(a) Shah Commission",
+    "(d) Swaran Singh Committee",
+    "(c) Santhanam Committee"
+   ],
+   "a": 2,
+   "e": "The Swaran Singh Committee (1976) recommended the inclusion of Fundamental Duties to remind citizens that they have duties as well as rights. This led to the 42nd Amendment."
+  },
+  {
+   "q": "Statement-I: The President of India can be impeached for the violation of the Constitution. Statement-II: The Constitution lays down the procedure for impeachment of the President.",
+   "o": [
+    "(a) Both Statement-I and Statement-II are correct...",
+    "(b) Both Statement-I and Statement-II are correct...",
+    "(c) Statement-I is correct but Statement-II is inc...",
+    "(d) Statement-I is incorrect but Statement-II is c..."
+   ],
+   "a": 1,
+   "e": "Article 61 provides the procedure for impeachment. The fact that a procedure exists (Stmt II) is independent of the grounds for impeachment (Stmt I), though both are true."
+  },
+  {
+   "q": "Statement-I: The 73rd Amendment Act is a significant landmark in the evolution of grassroots democratic institutions in the country. Statement-II: The Act has brought the Panchayati Raj institutions under the purview of justiciable part of the Constitution.",
+   "o": [
+    "(d) Statement-I is incorrect but Statement-II is c...",
+    "(c) Statement-I is correct but Statement-II is inc...",
+    "(b) Both Statement-I and Statement-II are correct...",
+    "(a) Both Statement-I and Statement-II are correct..."
+   ],
+   "a": 3,
+   "e": "By adding Part IX, the 73rd Amendment made the holding of regular elections and other provisions a constitutional obligation that can be enforced through courts, making it a landmark act."
+  },
+  {
+   "q": "Consider the following statements about the Governor: 1️⃣ He submits his resignation letter to the Chief Justice of the state. 2️⃣ He should have completed 35 years of age. 3️⃣ His emoluments, allowances and privileges are determined by the President. 4️⃣ No criminal proceedings can be instituted against him.",
+   "o": [
+    "(c) 1, 3 and 4",
+    "(a) 1 and 3",
+    "(b) 2, 3 and 4",
+    "(d) 2 and 4"
+   ],
+   "a": 1,
+   "e": "The Governor resigns to the President, not the Chief Justice. His emoluments are determined by the Parliament, not the President. He does enjoy immunity from criminal proceedings during his term."
+  },
+  {
+   "q": "How many members are nominated to the State Legislative Council by the Governor?",
+   "o": [
+    "(a) One-third",
+    "(d) One-sixth",
+    "(c) One-eighth",
+    "(b) One-twelfth"
+   ],
+   "a": 1,
+   "e": "The Governor nominates 1/6th of the total members of the Legislative Council from among persons having special knowledge or practical experience in literature, science, art, cooperative movement, and social service."
+  },
+  {
+   "q": "Assertion: A minister at the state level continues in office till he enjoys the confidence of the Chief Minister. Reason: The Chief Minister can ask him to resign or advise the Governor to dismiss him in case of difference of opinion.",
+   "o": [
+    "(b) Both A and R are true but R is not a correct explanation of A.",
+    "(a) Both A and R are true and R is the correct explanation of A.",
+    "(c) A is true but R is false.",
+    "(d) A is false but R is true."
+   ],
+   "a": 1,
+   "e": "Because the CM has the power to effectively end a minister's tenure via the Governor, the minister is said to hold office at the CM's \"pleasure\" in a political sense."
+  },
+  {
+   "q": "Which of the following are true of the recommendations of Ashok Mehta Committee on Panchayati Raj? 1️⃣ Creation of Mandal Panchayat covering a population of 10,000 to 15,000. 2️⃣ The state legislature to have a committee on Panchayati Raj to look after the needs of weaker sections. 3️⃣ If Panchayati Raj institutions are superseded, elections must be held within one year. 4️⃣ Nyaya Panchayats should be presided over by the village development officer.",
+   "o": [
+    "(a) 1, 2 and 4",
+    "(c) 1, 2 and 3",
+    "(b) 2 and 4",
+    "(d) only 2"
+   ],
+   "a": 3,
+   "e": "The Ashok Mehta Committee's key unique recommendation was the Mandal Panchayat for a group of villages. Most of its other suggestions focused on strengthening Zila Parishads and involving political parties."
+  },
+  {
+   "q": "Which of the following are true of the provisions of the 74th Amendment Act on municipalities? 1️⃣ Wards Committees, for wards with population of two lakhs. 2️⃣ The state Governor may authorise them to levy, collect and appropriate taxes. 3️⃣ A Municipal council for smaller Urban area. 4️⃣ The Twelfth Schedule contains 20 functional items for the municipalities.",
+   "o": [
+    "(d) 3 and 4",
+    "(c) 3 only",
+    "(a) 1, 3 and 4",
+    "(b) 1, 2 and 4"
+   ],
+   "a": 1,
+   "e": "Wards Committees are for populations of 3 lakhs or more. The State Legislature (not Governor) authorizes taxes. The 12th Schedule contains 18 (not 20) items. Statement 3 correctly describes the Municipal Council."
+  },
+  {
+   "q": "Assertion: The number of members of UPSC is determined by the President. Reason: The members of the UPSC are appointed by the President.",
+   "o": [
+    "(b) Both A and R are true and R is not a correct explanation of A.",
+    "(c) A is true but R is false.",
+    "(a) Both A and R are true and R is the correct explanation of A.",
+    "(d) A is false but R is true."
+   ],
+   "a": 0,
+   "e": "Both are true as per the Constitution, but the power of appointment is distinct from the power to determine the size/strength of the commission."
+  },
+  {
+   "q": "Assertion: The members of All-India Services work in the Central Government, state governments and union territories. Reason: They are selected and recruited on the basis of all-India competitive examinations conducted by the UPSC.",
+   "o": [
+    "(d) A is false but R is true.",
+    "(b) Both A and R are true but R is not a correct explanation of A.",
+    "(a) Both A and R are true and R is the correct explanation of A.",
+    "(c) A is true but R is false."
+   ],
+   "a": 1,
+   "e": "The mode of recruitment (all-India exam) ensures a common standard, but their mobility between Union and States is a functional feature of the \"dual control\" system of All-India Services."
+  },
+  {
+   "q": "Assertion: The principle of the rule of lapse leads to 'rush of expenditure' towards the end of a financial year. Reason: The unspent voted expenditure would lapse by the end of the financial year.",
+   "o": [
+    "(d) A is false but R is true.",
+    "(c) A is true but R is false.",
+    "(a) Both A and R are true and R is the correct explanation of A.",
+    "(b) Both A and R are true but R is not a correct explanation of A."
+   ],
+   "a": 2,
+   "e": "Under the rule of lapse, any grant not spent by March 31st returns to the Consolidated Fund. To avoid losing the money, departments often spend heavily in the final weeks (\"March Rush\")."
+  },
+  {
+   "q": "Match List-I (Committees) with List-II (Created in): 1️⃣ A. Committee on Government Assurances - 4. 1953 2️⃣ B. Committee on Public Undertakings - 5. 1964 3️⃣ C. Committee on Subordinate Legislation - 2. 1953 4️⃣ D. Public Accounts Committee - 3. 1921",
+   "o": [
+    "(a) A-4, B-5, C-1, D-3",
+    "(d) A-2, B-5, C-2, D-4",
+    "(b) A-2, B-5, C-4, D-3",
+    "(c) A-4, B-5, C-4, D-1"
+   ],
+   "a": 1,
+   "e": "PAC is the oldest (1921); Assurances and Subordinate Legislation were formed in 1953; and CPU was the latest to be established in 1964."
+  },
+  {
+   "q": "Which of the following are true of Central Vigilance Commission? 1️⃣ It was set up on the recommendation of Santhanam Committee. 2️⃣ It does not exercise superintendence over the functioning of CBI. 3️⃣ It is set up by an executive resolution of the Government of India. 4️⃣ It consists of a chairman and three members.",
+   "o": [
+    "(d) 1 and 4",
+    "(b) 1, 3 and 4",
+    "(a) 1, 2 and 4",
+    "(c) 1 and 3"
+   ],
+   "a": 3,
+   "e": "CVC does exercise superintendence over the CBI in anti-corruption matters. It consists of a Central Vigilance Commissioner and not more than two (not three) Vigilance Commissioners."
+  },
+  {
+   "q": "Which of the following will be the consequences of declaration of national emergency by the President? 1️⃣ The Centre can issue directives to the state executives. 2️⃣ The President can extend the normal tenure of the Lok Sabha. 3️⃣ The President can suspend all the Fundamental Rights of citizens. 4️⃣ The President can modify the distribution pattern of financial resources between Centre and states.",
+   "o": [
+    "(a) 1, 3 and 4",
+    "(c) 1, 2, 3 and 4",
+    "(b) 1 and 4",
+    "(d) 1, 2 and 3"
+   ],
+   "a": 3,
+   "e": "Under Art 359, the President cannot suspend the right to move the court for enforcement of Articles 20 and 21. All other points are valid consequences of a National Emergency."
+  },
+  {
+   "q": "Which one of the following pairs is correctly matched?",
+   "o": [
+    "(d) 1853 Act - Governor-General of India",
+    "(a) 1919 Act - Dyarchy at the Centre",
+    "(c) 1935 Act - Bicameralism",
+    "(b) 1861 Act - Portfolio system"
+   ],
+   "a": 3,
+   "e": "The Portfolio system was recognized in 1861. Dyarchy at the Centre was 1935; Bicameralism at center was 1919; and G-G of India was 1833."
+  },
+  {
+   "q": "Which of the following are true of the President's ordinance making power? 1️⃣ It is laid down in Article 123. 2️⃣ Its ambit is coextensive with the legislative power of Parliament. 3️⃣ He can promulgate an ordinance only when the Lok Sabha is not in session. 4️⃣ It is a discretionary power of the President.",
+   "o": [
+    "(b) 1, 2 and 4",
+    "(a) 1, 2, 3 and 4",
+    "(c) 1 and 2",
+    "(d) 1, 2, and 3"
+   ],
+   "a": 2,
+   "e": "An ordinance can be issued when either house is not in session. It is not a discretionary power; the President acts only on the advice of the Council of Ministers."
+  },
+  {
+   "q": "Which of the following are the limitations on the sovereignty of Indian Parliament? 1️⃣ Fundamental Rights 2️⃣ Judicial Review 3️⃣ Federalism 4️⃣ Written Constitution",
+   "o": [
+    "(b) 1, 2 and 3",
+    "(d) 1, 2, 3 and 4",
+    "(a) 1, 3 and 4",
+    "(c) 1 and 2"
+   ],
+   "a": 1,
+   "e": "Unlike the British Parliament, the Indian Parliament is limited by the supremacy of the written Constitution, the federal division of powers, the presence of justiciable Fundamental Rights, and the power of Courts to review laws."
+  },
+  {
+   "q": "Assertion: Under the Government of India Act of 1935, the Residuary powers were vested in the Central Legislature. Reason: The Government of India Act of 1935 divided the subjects into three lists viz. the federal, provincial and concurrent.",
+   "o": [
+    "(b) Both A and R are true but R is not a correct explanation of A.",
+    "(a) Both A and R are true and R is the correct explanation of A.",
+    "(c) A is true but R is false.",
+    "(d) A is false but R is true."
+   ],
+   "a": 3,
+   "e": "Under the 1935 Act, residuary powers were given to the Governor-General, not the legislature. The division into three lists is a correct fact."
+  },
+  {
+   "q": "Which of the following are the federal features of the Indian Constitution? 1️⃣ Rigid Constitution 2️⃣ Bicameral legislature 3️⃣ Office of the CAG 4️⃣ Collective responsibility 5️⃣ Office of the Governor",
+   "o": [
+    "(b) 1, 2 and 5",
+    "(c) 1, 2, 3 and 4",
+    "(a) 1, 2 and 3",
+    "(d) 1 and 2"
+   ],
+   "a": 3,
+   "e": "Rigid Constitution and Bicameralism (representing states) are federal features. CAG, Governor, and Collective Responsibility are either unitary or parliamentary features."
+  },
+  {
+   "q": "Assertion: The President of India determines the qualifications of the Chairman and members of the Finance Commission. Reason: The Chairman and members of the Finance Commission are appointed by the President of India.",
+   "o": [
+    "(b) Both A and R are true but R is not a correct explanation of A.",
+    "(c) A is true but R is false.",
+    "(a) Both A and R are true and R is the correct explanation of A.",
+    "(d) A is false but R is true."
+   ],
+   "a": 3,
+   "e": "Under Article 280, the Parliament (not the President) determines the qualifications of the members of the Finance Commission. They are, however, appointed by the President."
+  },
+  {
+   "q": "The correct statements about Finance Commission are: 1️⃣ It is to act as the balancing wheel of Indian fiscal federalism 2️⃣ It consists of a chairman and three other members. 3️⃣ Qualifications of the members of the Commission are determined by the President. 4️⃣ It is constituted under the provisions of Article 280.",
+   "o": [
+    "(b) 2 and 3",
+    "(c) 1 and 4",
+    "(d) 1, 2 and 3",
+    "(a) 2, 3 and 4"
+   ],
+   "a": 1,
+   "e": "The Commission consists of a Chairman and 4 (not 3) members. Qualifications are set by Parliament. It is indeed a balancing wheel in central-state financial relations."
+  },
+  {
+   "q": "The Indian President's veto power is a combination of: 1️⃣ Pocket veto 2️⃣ Absolute veto 3️⃣ Suspensive veto 4️⃣ Qualified veto",
+   "o": [
+    "(b) 1, 3 and 4",
+    "(a) 2 and 3",
+    "(c) 2, 3 and 4",
+    "(d) 1, 2 and 3"
+   ],
+   "a": 3,
+   "e": "The Indian President possesses Absolute, Suspensive, and Pocket vetoes. Qualified veto (overridden by higher majority) is used in the US but not in India."
+  },
+  {
+   "q": "The present relationship between the President and the council of ministers is governed by the provisions of:",
+   "o": [
+    "(b) 48th Amendment Act",
+    "(c) 54th Amendment Act",
+    "(a) 42nd Amendment Act",
+    "(d) 44th Amendment Act"
+   ],
+   "a": 3,
+   "e": "The 44th Amendment Act (1978) amended Art 74 to allow the President to require the Council of Ministers to reconsider their advice, though the reconsidered advice is binding."
+  },
+  {
+   "q": "The Zonal Councils have been established by:",
+   "o": [
+    "(a) Article 263 of the Constitution",
+    "(c) Zonal Councils Act",
+    "(b) States Reorganisation Act",
+    "(d) An order of the President of India"
+   ],
+   "a": 2,
+   "e": "Zonal Councils are statutory bodies established by the States Reorganisation Act of 1956, not constitutional bodies."
+  },
+  {
+   "q": "Which of the following statements are correct? 1️⃣ Parliament can increase a tax. 2️⃣ Parliament cannot reduce a tax. 3️⃣ Parliament can abolish a tax. 4️⃣ Parliament cannot increase a tax. 5️⃣ Parliament can reduce a tax.",
+   "o": [
+    "(d) 3 and 4",
+    "(b) 3, 4 and 5",
+    "(a) 1, 3 and 5",
+    "(c) 2, 3 and 4"
+   ],
+   "a": 1,
+   "e": "Under Article 117, Parliament can reduce or abolish a tax, but it cannot increase a tax beyond what is proposed in the budget by the executive."
+  },
+  {
+   "q": "Which of the following statements are correct with regard to the expenditure charged upon the Consolidated Fund of India? 1️⃣ It is subject to the vote of Parliament. 2️⃣ It is subject to the discussion in Parliament. 3️⃣ It is subject to the vote of Lok Sabha only. 4️⃣ It is not subject to the vote of Parliament.",
+   "o": [
+    "(d) 1 and 4",
+    "(a) 1 and 2",
+    "(c) 2 and 4",
+    "(b) 2 and 3"
+   ],
+   "a": 2,
+   "e": "The Constitution specifically exempts certain expenditures from the voting process to ensure independence, though they remain open to parliamentary discussion."
+  },
+  {
+   "q": "The correct statements regarding the difference between the pardoning powers of President and Governor are: 1️⃣ The Governor can pardon sentences inflicted by court martial while the President cannot. 2️⃣ The President can pardon death sentence while Governor cannot. 3️⃣ The Governor can pardon death sentence while the President cannot. 4️⃣ The President can pardon sentences inflicted by court martial while the Governor cannot.",
+   "o": [
+    "(a) 1 and 2",
+    "(b) 2 and 4",
+    "(c) 1 and 3",
+    "(d) 3 and 4"
+   ],
+   "a": 1,
+   "e": "Only the President has the power to pardon death sentences and sentences passed by a Court Martial. The Governor's power doesn't extend to these two areas."
+  },
+  {
+   "q": "Which of the following statements are correct regarding the powers of a Governor to reserve a bill for the consideration of the President? 1️⃣ It is laid down in Article 200. 2️⃣ It is not a discretionary power of the Governor. 3️⃣ It is compulsory, if the bill endangers the position of High Court.",
+   "o": [
+    "(a) 1, 2 and 3",
+    "(d) 2 and 3",
+    "(b) 3 only",
+    "(c) 1 and 3"
+   ],
+   "a": 3,
+   "e": "Under Article 200, the Governor has the discretion to reserve any bill. However, it is mandatory to reserve a bill that would derogate from the powers of the High Court."
+  },
+  {
+   "q": "The incorrect statements about Central Vigilance Commission are: 1️⃣ It was set up on the recommendations of First Administrative Reforms Commission of India. 2️⃣ It is headed by the Central Vigilance Commissioner appointed by the Prime Minister. 3️⃣ Its functions, in certain cases, overlap with the functions of the UPSC. 4️⃣ It is certainly a substitute for an Ombudsman. 5️⃣ It receives complaints directly from aggrieved persons.",
+   "o": [
+    "(b) 1, 2 and 4",
+    "(c) 3 and 4",
+    "(d) 3, 4 and 5",
+    "(a) 1, 4 and 5"
+   ],
+   "a": 0,
+   "e": "CVC was recommended by Santhanam Committee (not ARC). The Commissioner is appointed by the President (not PM). It is an anti-corruption body, not a general ombudsman."
+  },
+  {
+   "q": "Which of the following civil services find mention in the Constitution? 1️⃣ Indian Administrative Service 2️⃣ Indian Forest Service 3️⃣ Indian Police Service 4️⃣ All-India Judicial Service 5️⃣ Indian Foreign Service",
+   "o": [
+    "(c) 1, 3 and 5",
+    "(a) 1 and 3",
+    "(d) 1, 3 and 4",
+    "(b) 1, 2 and 3"
+   ],
+   "a": 2,
+   "e": "Article 312 mentions IAS and IPS. It also mentions the creation of an All-India Judicial Service. IFoS was created in 1966 under Art 312 but isn't specifically named in the text of the Constitution."
+  },
+  {
+   "q": "In which of the following circumstances, the President can remove a member of the UPSC without referring the matter to the Supreme Court? 1️⃣ If he engages, during his term of office, in any paid employment outside the duties of his office. 2️⃣ If he is adjudged an insolvent. 3️⃣ If he is unfit to continue in office by reason of infirmity of mind or body. 4️⃣ If he becomes, in any way, concerned or interested in any contract or agreement made by or on behalf of the Government of India or the government of a state.",
+   "o": [
+    "(b) 4 only",
+    "(c) 1 only",
+    "(d) 1, 2 and 3",
+    "(a) 2 and 3"
+   ],
+   "a": 2,
+   "e": "For cases of \"misbehaviour\" (Point 4), the President must refer the matter to the Supreme Court. For insolvency, outside employment, or infirmity, the President can act directly under Article 317."
+  },
+  {
+   "q": "Which of the following are not the concerns of the UPSC? 1️⃣ Classification of services 2️⃣ Promotion 3️⃣ Training 4️⃣ Disciplinary matters 5️⃣ Talent hunting",
+   "o": [
+    "(b) 1, 3 and 4",
+    "(d) 1 and 4",
+    "(a) 2, 4 and 5",
+    "(c) 1 and 3"
+   ],
+   "a": 3,
+   "e": "UPSC is primarily a recruiting agency (talent hunting) and is consulted on promotion and disciplinary matters. Classification of services and training are handled by the Department of Personnel and Training."
+  },
+  {
+   "q": "Match List-I (Acts) with List-II (Provisions): 1️⃣ A. Indian Councils Act of 1861 - 3. Introduced representative institutions 2️⃣ B. Government of India Act of 1919 - 1. Introduced Dyarchy 3️⃣ C. Indian Councils Act of 1892 - 5. Introduced principle of election 4️⃣ D. Pitt's India Act of 1784 - 2. Placed Indian affairs under direct British control",
+   "o": [
+    "(d) A-3, B-1, C-5, D-2",
+    "(b) A-5, B-4, C-2, D-3",
+    "(a) A-5, B-1, C-3, D-2",
+    "(c) A-3, B-4, C-2, D-5"
+   ],
+   "a": 0,
+   "e": "The 1861 Act was a landmark in legislative history; 1919 introduced provincial dyarchy; 1892 was the first step toward elections; 1784 established the dual system of control."
+  },
+  {
+   "q": "Statement-I: NITI Aayog is neither a statutory body nor a constitutional body. Statement-II: It is established by an executive resolution of the Union Cabinet.",
+   "o": [
+    "(c) Statement-I is correct but Statement-II is inc...",
+    "(b) Both Statement-I and Statement-II are correct...",
+    "(d) Statement-I is incorrect but Statement-II is c...",
+    "(a) Both Statement-I and Statement-II are correct..."
+   ],
+   "a": 3,
+   "e": "NITI Aayog was formed on Jan 1, 2015, replacing the Planning Commission. Because it was formed via a Cabinet resolution and not an Act of Parliament or a Constitutional Article, it is an extra-constitutional, non-statutory body."
+  },
+  {
+   "q": "Statement-I: The Constitution of India is quasi-federal. Statement-II: It has given more powers to the Central Government than to the state governments.",
+   "o": [
+    "(d) Statement-I is incorrect but Statement-II is c...",
+    "(b) Both Statement-I and Statement-II are correct...",
+    "(a) Both Statement-I and Statement-II are correct...",
+    "(c) Statement-I is correct but Statement-II is inc..."
+   ],
+   "a": 2,
+   "e": "The \"unitary bias\" or \"centralizing tendency\" of the Indian Constitution, where the Union has more power/residuary powers, is the reason experts like KC Wheare labeled it quasi-federal."
+  },
+  {
+   "q": "Statement-I: The Chief Minister can dismiss a minister of state government. Statement-II: The Chief Minister is the head of the state council of ministers.",
+   "o": [
+    "(a) Both Statement-I and Statement-II are correct...",
+    "(c) Statement-I is correct but Statement-II is inc...",
+    "(b) Both Statement-I and Statement-II are correct...",
+    "(d) Statement-I is incorrect but Statement-II is c..."
+   ],
+   "a": 3,
+   "e": "A CM cannot dismiss a minister directly; he can only ask for a resignation or advise the Governor to dismiss them. Statement II is correct."
+  },
+  {
+   "q": "Which of the following are correct with regard to the functions of the UPSC? 1️⃣ To conduct examinations for appointments to the services of the Union. 2️⃣ To assist states, if requested, in joint recruitment. 3️⃣ To advise the Union and state governments on recruitment methods. 4️⃣ To present, annually, to the President a report as to the work done by it.",
+   "o": [
+    "(c) 1, 2 and 4",
+    "(b) 1, 3 and 4",
+    "(d) 1, 2, 3 and 4",
+    "(a) 1, 2 and 3"
+   ],
+   "a": 0,
+   "e": "The UPSC only advises the Union government on recruitment; advising state governments is the role of the respective State Public Service Commission."
+  },
+  {
+   "q": "Which of the following writs is not specifically provided in the Constitution of India?",
+   "o": [
+    "(b) Mandamus",
+    "(a) Prohibition",
+    "(d) Injunction",
+    "(c) Quowarranto"
+   ],
+   "a": 2,
+   "e": "The Constitution specifically mentions five writs under Articles 32 and 226: Habeas Corpus, Mandamus, Prohibition, Certiorari, and Quo-warranto. Injunction is a general legal remedy but not one of the five specific constitutional writs."
+  }
+ ]
+}

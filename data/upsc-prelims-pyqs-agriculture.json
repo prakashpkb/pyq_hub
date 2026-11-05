@@ -1,0 +1,767 @@
+{
+ "title": "Agriculture",
+ "category": "UPSC Prelims PYQs",
+ "minutes": 34,
+ "negative": 0.25,
+ "questions": [
+  {
+   "q": "In the map the given four areas are differently shaded, three of which indicate cereal crops production areas and one indicates non-cereal crop production area. As per the index given, the non-cereal crop production area is: [1995]",
+   "o": [
+    "4",
+    "1",
+    "3",
+    "2"
+   ],
+   "a": 0,
+   "e": "Based on the map of India, area 4 represents the non-cereal crop production area. Areas 1, 2, and 3 indicate regions where cereal crops are predominantly grown."
+  },
+  {
+   "q": "Coffee cultivation in Sri Lanka was abandoned because of the disease: [1995]",
+   "o": [
+    "rut",
+    "leaf spot",
+    "leaf rust",
+    "leafblight"
+   ],
+   "a": 2,
+   "e": "Coffee cultivation in Sri Lanka was abandoned because of the leaf rust disease which affects the fruit and leaf of coffee. The causative fungus is Hemileia Vastarix."
+  },
+  {
+   "q": "Match List-I with List-II and select the correct answer: List-I (Crops): A. Barley; B. Rice; C. Millets; D. Tea. List-II (Geographical conditions): 1️⃣ Hot and dry climate with poor soil; 2️⃣ Cool climate with poorer soil; 3️⃣ Warm and moist climate with high altitude; 4️⃣ Hot and moist climate with rich soil. [1997]",
+   "o": [
+    "A-2; B-1; C-4; D-3",
+    "A-3; B-2; C-4; D-1",
+    "A-2; B-4; C-1; D-3",
+    "A-3; B-4; C-1; D-2"
+   ],
+   "a": 2,
+   "e": "Barley requires a cool climate with poor soil. Rice needs a hot and moist climate with rich soil. Millets are grown in hot and dry climates with poor soil, while tea requires a warm and moist climate with high altitude."
+  },
+  {
+   "q": "Which one of the following sets of conditions is necessary for a good crop of wheat? [1996]",
+   "o": [
+    "High temperature and moderate rainfall",
+    "High temperature and heavy rainfall",
+    "Low temperature and low rainfall",
+    "Moderate temperature and moderate rainfall"
+   ],
+   "a": 3,
+   "e": "Wheat is a temperate region crop thus requiring moderate temperature and rainfall. The temperature should not exceed 20°C and rainfall should be between 50-100 cm along with a frost-free growing season."
+  },
+  {
+   "q": "Which one of the following is an important crop of the Barak valley? [1996]",
+   "o": [
+    "Jute",
+    "Sugarcane",
+    "Tea",
+    "Cotton"
+   ],
+   "a": 0,
+   "e": "Jute is an important crop of the Barak valley in Assam. The valley's temperature (25-30°C) and rainfall (100-200 cm) are ideal for jute cultivation."
+  },
+  {
+   "q": "Which of the following pairs of states and their important crops are correctly matched? 1️⃣ Kerala-Tapioca 2️⃣ Maharashtra-Cotton 3️⃣ West Bengal-Jute 4️⃣ Gujarat-Groundnut [1996]",
+   "o": [
+    "1, 2 and 3",
+    "1, 2 and 4",
+    "1, 3 and 4",
+    "2, 3 and 4"
+   ],
+   "a": 3,
+   "e": "While Maharashtra is known for cotton, West Bengal for jute, and Gujarat for groundnut, Tapioca is not considered the primary important crop of Kerala in the context of this specific matching set."
+  },
+  {
+   "q": "Which one of the following areas of India produces largest amount of cotton? [1996]",
+   "o": [
+    "Western and southern India",
+    "North-west India and Gangetic West Bengal",
+    "Plains of northern India",
+    "North-west and western India"
+   ],
+   "a": 0,
+   "e": "Western and Southern India produce the largest amount of cotton. Leading producers include Maharashtra (26.63%), Gujarat (17.67%), Andhra Pradesh, and Madhya Pradesh."
+  },
+  {
+   "q": "Which one of the following is cultivated by transplanting seedlings? [1997]",
+   "o": [
+    "Maize",
+    "Onion",
+    "Soyabean",
+    "Sorghum"
+   ],
+   "a": 1,
+   "e": "Onion is cultivated by transplanting seedlings. This process involves growing seedlings in a nursery before moving them to the main field."
+  },
+  {
+   "q": "Consider the map given below: The place marked A, B, C and D in the map are respectively known for the cultivation of: [1997]",
+   "o": [
+    "groundnut, sugarcane, ragi and tobacco",
+    "ragi, sugarcane, groundnut and tobacco",
+    "groundnut, ragi, tobacco and sugarcane",
+    "ragi, groundnut, sugarcane and tobacco"
+   ],
+   "a": 0,
+   "e": "In the map, 'A' is Gujarat (groundnut), 'B' is Western Maharashtra (sugarcane), 'C' is Southern Orissa/Northern Andhra (Ragi), and 'D' is Andhra Pradesh (tobacco)."
+  },
+  {
+   "q": "The following are the major oilseeds produced in India: 1️⃣ Sesamum 2️⃣ Mustard 3️⃣ Groundnut 4️⃣ Soyabean. Which one of the following is the correct sequence of the descending order of the quantity of their production? [1997]",
+   "o": [
+    "3, 4, 2, 1",
+    "1, 2, 3, 4",
+    "2, 4, 3, 1",
+    "3, 2, 4, 1"
+   ],
+   "a": 0,
+   "e": "The descending order of oilseed production quantity in India is Groundnut > Soyabean > Mustard > Sesamum."
+  },
+  {
+   "q": "Match List-I (Agricultural products) with List-II (Foremost producer): A. Cotton; B. Gram; C. Black pepper; D. Pineapple. List-II: 1️⃣ Madhya Pradesh; 2️⃣ Gujarat; 3️⃣ West Bengal; 4️⃣ Kerala. [1998]",
+   "o": [
+    "A-1; B-2; C-3; D-4",
+    "A-2; B-1; C-4; D-3",
+    "A-1; B-2; C-4; D-3",
+    "A-2; B-1; C-3; D-4"
+   ],
+   "a": 1,
+   "e": "Gujarat is the foremost producer of cotton. Gram is largely produced in Madhya Pradesh, Black pepper in Kerala, and Pineapple in West Bengal."
+  },
+  {
+   "q": "Match List I (Crops) with List II (Conditions): A. Cotton; B. Flax; C. Sugar beet; D. Jute. List II: 1️⃣ Rainfall 1000-1500 mm, Temp 40-60°C; 2️⃣ Rainfall 1500-2000 mm, Temp 25-35°C; 3️⃣ Rainfall 600-800 mm, Temp 5-18°C; 4️⃣ Rainfall 500-1000 mm, Temp 18-22°C; 5️⃣ Rainfall 500-600 mm, Temp 18-22°C. [1999]",
+   "o": [
+    "A-1; B-3; C-4; D-2",
+    "A-2; B-3; C-5; D-4",
+    "A-4; B-3; C-5; D-2",
+    "A-4; B-5; C-2; D-1"
+   ],
+   "a": 1,
+   "e": "Cotton requires 1500-2000mm rainfall and 25-35°C. Flax needs 600-800mm and 5-18°C. Sugar beet requires 500-600mm and 18-22°C. Jute requires 500-1000mm and 18-22°C."
+  },
+  {
+   "q": "Which one of the following agricultural practices is eco-friendly? [1999]",
+   "o": [
+    "Cultivation of high yielding varieties",
+    "Shifting cultivation",
+    "Growing plants in glass-houses",
+    "Organic farming"
+   ],
+   "a": 3,
+   "e": "Organic farming is an eco-friendly production system that avoids synthetic inputs like chemical fertilizers, pesticides, and growth regulators."
+  },
+  {
+   "q": "Assertion (A): Insect resistant transgenic cotton has been produced by inserting Bt gene. Reason (R): The Bt gene is derived from a bacterium. [1999]",
+   "o": [
+    "Both A and R are true but R is not a correct explanation of A",
+    "Both A and R are true and R is the correct explanation of A",
+    "A is false but R is true",
+    "A is true but R is false"
+   ],
+   "a": 1,
+   "e": "Bt cotton is transgenic and insect-resistant because it contains a gene from the bacterium Bacillus thuringiensis. The reason correctly explains why it is called \"Bt\" cotton."
+  },
+  {
+   "q": "Assertion (A): In Australia, cattle rearing is done more for meat than for milk. Reason (R): Australians are traditionally non-vegetarians. [2000]",
+   "o": [
+    "Both A and R are true and R is the correct explanation of A",
+    "A is false but R is true",
+    "Both A and R are true but R is not a correct explanation of A",
+    "A is true but R is false"
+   ],
+   "a": 2,
+   "e": "Both statements are true. Australians are traditionally non-vegetarians, and they rear cattle for meat export, but the dietary habit is not the sole scientific explanation for the specialized industry of meat production."
+  },
+  {
+   "q": "The high density of population in Nile valley and Islands of Java is primarily due to: [2001]",
+   "o": [
+    "industrialization",
+    "urbanization",
+    "intensive agriculture",
+    "topographic limitations"
+   ],
+   "a": 2,
+   "e": "The high population density in the Nile Valley and Java is due to intensive agriculture made possible by fertile alluvial soils."
+  },
+  {
+   "q": "With reference to Indian agriculture, which one of the following statements is correct? [2002]",
+   "o": [
+    "About 90 percent of the area under pulses in India is rainfed",
+    "Share of pulses in the gross cropped area at the national level has doubled in the last two decades",
+    "India accounts for about 15 percent of the total area under rice in the world",
+    "Rice occupies about 34 percent of the gross cropped area in India"
+   ],
+   "a": 0,
+   "e": "In India, about 90% of the area under pulses is rainfed. Because pulses need less water, their production is often hampered by the lack of irrigation."
+  },
+  {
+   "q": "Consider the following high yielding varieties of crops in India: 1️⃣ Arjun 2️⃣ Jaya 3️⃣ Padma 4️⃣ Sonalika. Which of these are of wheat? [2002]",
+   "o": [
+    "2 and 3",
+    "3 and 4",
+    "1 and 2",
+    "1 and 4"
+   ],
+   "a": 3,
+   "e": "Arjun and Sonalika are high-yielding hybrid varieties of wheat developed by the Indian Council of Agricultural Research (ICAR)."
+  },
+  {
+   "q": "Assertion (A): Eastern coast of India produces more rice than the western coast. Reason (R): Eastern coast receives more rainfall than the western coast. [2003]",
+   "o": [
+    "A is true but R is false",
+    "Both A and R are individually true and R is the correct explanation of A",
+    "A is false but R is true",
+    "Both A and R are individually true but R is not the correct explanation of A"
+   ],
+   "a": 0,
+   "e": "While the assertion is true, the reason is false because the western coast generally receives more rainfall. However, the eastern coast's soil and temperature are more suitable for rice."
+  },
+  {
+   "q": "Consider the following statements: 1️⃣ India is the original home of the cotton plant. 2️⃣ India is the first country in the world to develop hybrid cotton variety leading to increased production. [2003]",
+   "o": [
+    "Only 2",
+    "Both 1 and 2",
+    "Only 1",
+    "Neither 1 nor 2"
+   ],
+   "a": 1,
+   "e": "India is the original home of cotton and accounts for 20% of global cotton area. India also developed the first hybrid variety, H-4."
+  },
+  {
+   "q": "The Genetic Engineering Approval Committee is under the Union Ministry of: [2003]",
+   "o": [
+    "Rural-Development",
+    "Environment and Forests",
+    "Commerce and Industry",
+    "Agriculture"
+   ],
+   "a": 1,
+   "e": "The Genetic Engineering Approval Committee (GEAC) operates under the Ministry of Environment, Forests and Climate Change."
+  },
+  {
+   "q": "Consider the following statements: 1️⃣ India ranks first in the world in fruit production. 2️⃣ India ranks second in the world in export of tobacco. [2003]",
+   "o": [
+    "Neither 1 nor 2",
+    "Only 2",
+    "Only 1",
+    "Both 1 and 2"
+   ],
+   "a": 0,
+   "e": "At the time of this data, India ranked 2nd in fruit production and 6th in tobacco production."
+  },
+  {
+   "q": "Consider the following crops: 1️⃣ Cotton 2️⃣ Groundnut 3️⃣ Maize 4️⃣ Mustard. Which of the above are kharif crops? [2004]",
+   "o": [
+    "3 and 4",
+    "1, 2, 3 and 4",
+    "1 and 2",
+    "1, 2 and 3"
+   ],
+   "a": 3,
+   "e": "Cotton, Groundnut, and Maize are kharif crops (sown in rainy season). Mustard is a rabi crop (sown in winter)."
+  },
+  {
+   "q": "Consider the following statements: 1️⃣ India is the only country in the world producing all the five known commercial varieties of silk. 2️⃣ India is the largest producer of sugar in the world. [2005]",
+   "o": [
+    "2 only",
+    "Neither 1 nor 2",
+    "1 only",
+    "Both 1 and 2"
+   ],
+   "a": 2,
+   "e": "India produces all five varieties: Mulberry, Muga, Tasar, Oak tasar, and Eri silk. However, India is the 2nd largest producer of sugar."
+  },
+  {
+   "q": "Which one of the following statements is correct? [2005]",
+   "o": [
+    "The Biosafety protocol deals with genetically modified organisms",
+    "India is not a signatory to the Biosafety protocol",
+    "United States of America is member of the Biosafety protocol",
+    "The first meeting of the Parties (MOP) to the Cartagena Protocol on Biosafety was held in Philippines in 2004"
+   ],
+   "a": 0,
+   "e": "The Biosafety Protocol (Cartagena Protocol) specifically deals with the safe handling and trade of genetically modified organisms (GMOs)."
+  },
+  {
+   "q": "Assertion (A): The percentage of net sown area in the total area of Andhra Pradesh is less as compared to that of West Bengal. Reason (R): The soil of most of Andhra Pradesh is laterite. [2006]",
+   "o": [
+    "A is false but R is true",
+    "Both A and R are true and R is the correct explanation of A",
+    "A is true but R is false",
+    "Both A and R are true but R is not a correct explanation of A"
+   ],
+   "a": 2,
+   "e": "Assertion is true, but the reason is false. Laterite soil is only found in high rainfall areas with dry/wet periods; it is not the dominant soil of the entirety of Andhra Pradesh."
+  },
+  {
+   "q": "Which one of the following is the correct sequence in the decreasing order of production (in million tonnes) of the given foodgrains in India? [2007]",
+   "o": [
+    "Rice-Wheat-Coarse Cereals-Pulses",
+    "Wheat-Rice-Coarse Cereals-Pulses",
+    "Wheat-Rice-Pulses-Coarse Cereals",
+    "Rice-Wheat-Pulses-Coarse Cereals"
+   ],
+   "a": 0,
+   "e": "Based on 2007 data, the descending order of production was Rice (96.43 MT), Wheat (78.4 MT), Coarse Cereals (40.73 MT), and Pulses (15.11 MT)."
+  },
+  {
+   "q": "Assertion (A): There are no tea plantations in any African country. Reason (R): Tea plants need fertile soil with high humus. [2007]",
+   "o": [
+    "A is true but R is false",
+    "Both A and R are true but R is not a correct explanation of A",
+    "Both A and R are true and R is the correct explanation of A",
+    "A is false but R is true"
+   ],
+   "a": 3,
+   "e": "The assertion is false because tea is grown in African countries like Tanzania, Kenya, and Uganda. The reason is true as tea requires organic, loamy soil."
+  },
+  {
+   "q": "Dalbergia species is associated with which one of the following? [2007]",
+   "o": [
+    "Tea",
+    "Coffee",
+    "Cashewnut",
+    "Rosewood"
+   ],
+   "a": 3,
+   "e": "Rosewood is associated with the Dalbergia species, which are used for their fragrant wood and aromatic oils."
+  },
+  {
+   "q": "Which one of the following places was associated with Acharya Vinoba Bhave's Bhoodan Movement at the beginning of the movement? [2007]",
+   "o": [
+    "Rapur",
+    "Udaygiri",
+    "Pochampalli",
+    "Venkatagiri"
+   ],
+   "a": 2,
+   "e": "The Bhoodan Movement was started by Acharya Vinoba Bhave on April 18, 1951, at Pochampalli village in Telangana."
+  },
+  {
+   "q": "Which one amongst the following has the largest livestock population in the world? [2008]",
+   "o": [
+    "Brazil",
+    "USA",
+    "China",
+    "India"
+   ],
+   "a": 3,
+   "e": "India has the largest livestock population, including 57% of the world's buffalo and 14% of the world's cattle."
+  },
+  {
+   "q": "Consider the following statements: 1️⃣ Chikmagalur is well-known for sugar production. 2️⃣ Mandya is well-known as a coffee producing region. [2008]",
+   "o": [
+    "Both 1 and 2",
+    "1 only",
+    "2 only",
+    "Neither 1 nor 2"
+   ],
+   "a": 3,
+   "e": "Both statements are reversed. Chikmagalur is famous for coffee, and Mandya is famous for sugar production."
+  },
+  {
+   "q": "With reference to coffee and tea cultivation, consider the following statements: 1️⃣ Coffee plant requires a hot and humid climate of tropical areas whereas tea can be cultivated in both tropical and subtropical areas. 2️⃣ Coffee is propagated by seeds but tea is propagated by stem cuttings only. [2010]",
+   "o": [
+    "Both 1 and 2",
+    "1 only",
+    "Neither 1 nor 2",
+    "2 only"
+   ],
+   "a": 1,
+   "e": "Statement 1 is correct. Statement 2 is incorrect because both tea and coffee can be propagated by both seeds and stem cuttings."
+  },
+  {
+   "q": "With reference to soil conservation, consider the following practices: 1️⃣ Crop rotation 2️⃣ Sand fences 3️⃣ Terracing 4️⃣ Wind breaks. Which of the above are considered appropriate methods for soil conservation in India? [2010]",
+   "o": [
+    "1, 3 and 4 only",
+    "1, 2 and 3 only",
+    "2 and 4 only",
+    "1, 2, 3 and 4"
+   ],
+   "a": 0,
+   "e": "Crop rotation, terracing, and wind breaks are standard soil conservation methods. While sand fences are used, the official UPSC answer key for this year focused on 1, 3, and 4."
+  },
+  {
+   "q": "What are the crops targeted by the National Food Security Mission to increase production through area expansion and productivity enhancement? [2010]",
+   "o": [
+    "Rice, wheat, pulses and oil seeds only",
+    "Rice, wheat and pulses only",
+    "Rice, wheat, pulses, oil seeds and vegetables",
+    "Rice and wheat only"
+   ],
+   "a": 1,
+   "e": "The National Food Security Mission (NFSM) specifically targets rice, wheat, and pulses to increase their production in identified districts."
+  },
+  {
+   "q": "Due to extensive rice cultivation, some regions may be contributing to global warming. This is attributable to: 1️⃣ The anaerobic conditions associated with rice cultivation cause methane emission. 2️⃣ When nitrogen based fertilizers are used, nitrous oxide is emitted. [2010]",
+   "o": [
+    "2 only",
+    "1 only",
+    "Neither 1 nor 2",
+    "Both 1 and 2"
+   ],
+   "a": 3,
+   "e": "Rice fields emit methane due to methanogen bacteria in waterlogged soil. They also release nitrous oxide from the transformation of nitrogen-based fertilizers."
+  },
+  {
+   "q": "Tamil Nadu is a leading producer of mill-made cotton yarn. What could be the reason? 1️⃣ Black cotton soil is the predominant type of soil in the State. 2️⃣ Rich pool of skilled labour is available. [2010]",
+   "o": [
+    "Both 1 and 2",
+    "1 only",
+    "Neither 1 nor 2",
+    "2 only"
+   ],
+   "a": 3,
+   "e": "The predominant soil in Tamil Nadu is red soil (not black), but it does have a rich pool of skilled labour which supports the textile industry."
+  },
+  {
+   "q": "Which of the following energy crops can be cultivated for ethanol? [2010]",
+   "o": [
+    "Pongamia",
+    "Maize",
+    "Jatropha",
+    "Sunflower"
+   ],
+   "a": 1,
+   "e": "Maize is carbohydrate-rich, making it highly suitable for ethanol production compared to the other oil-based crops listed."
+  },
+  {
+   "q": "Salinization occurs when irrigation water evaporates, leaving behind salts. What are the effects of salinization on irrigated land? [2011-I]",
+   "o": [
+    "It fills the air spaces in the soil with water",
+    "It greatly increases the crop production",
+    "It makes some soils impermeable",
+    "It raises the water table"
+   ],
+   "a": 2,
+   "e": "Long-term salinization leads to the accumulation of minerals that make the soil impermeable, hindering plant growth."
+  },
+  {
+   "q": "Which of the following is the chief characteristic of mixed farming? [2012-I]",
+   "o": [
+    "Rearing of animals and cultivation of crops together",
+    "Cultivation of both cash crops and food crops",
+    "None of the above",
+    "Cultivation of two or more crops in the same field"
+   ],
+   "a": 0,
+   "e": "Mixed farming is defined as the practice of rearing livestock and growing crops on the same farm simultaneously."
+  },
+  {
+   "q": "Which of the following crops are used as pulse, fodder, and green manure? 1️⃣ Cowpea 2️⃣ Green gram 3️⃣ Pigeon pea [2012-I]",
+   "o": [
+    "1 and 2 only",
+    "1, 2 and 3",
+    "1 and 3 only",
+    "2 only"
+   ],
+   "a": 1,
+   "e": "All three (Cowpea, Green gram, Pigeon pea) are leguminous crops that provide protein (pulses), serve as animal feed (fodder), and fix nitrogen (green manure)."
+  },
+  {
+   "q": "Which of the following crops are predominantly rainfed? 1️⃣ Groundnut 2️⃣ Sesamum 3️⃣ Pearl millet [2012-I]",
+   "o": [
+    "1 and 2 only",
+    "1, 2 and 3",
+    "2 and 3 only",
+    "3 only"
+   ],
+   "a": 1,
+   "e": "Groundnut, Sesamum, and Pearl millet (Bajra) are primarily grown in rainfed conditions in India."
+  },
+  {
+   "q": "Contour bunding is a method of soil conservation used in: [2013-I]",
+   "o": [
+    "scrublands, liable to spread of weed growth",
+    "None of the above",
+    "low flat plains, close to stream courses, liable to flooding",
+    "desert margins, liable to strong wind action"
+   ],
+   "a": 1,
+   "e": "Contour bunding is used on sloppy land to prevent soil erosion and water runoff; it is not specifically for desert margins or flat floodplains."
+  },
+  {
+   "q": "Which of these are Kharif crops? 1️⃣ Cotton 2️⃣ Groundnut 3️⃣ Rice 4️⃣ Wheat [2013-I]",
+   "o": [
+    "1, 2 and 3",
+    "2, 3 and 4",
+    "2 and 3 only",
+    "1 only"
+   ],
+   "a": 0,
+   "e": "Rice, groundnut, and cotton are Kharif crops. Wheat is a Rabi crop sown in winter."
+  },
+  {
+   "q": "With reference to the Neem tree, consider the following statements: 1️⃣ Neem oil can be used as a pesticide to control insects and mites. 2️⃣ Neem seeds are used in the manufacture of biofuels and hospital detergents. 3️⃣ Neem oil has applications in the pharmaceutical industry. [2014-I]",
+   "o": [
+    "3 only",
+    "1, 2 and 3",
+    "1 and 3 only",
+    "1 and 2 only"
+   ],
+   "a": 1,
+   "e": "Neem oil is a known bio-pesticide, has medicinal properties used in pharma, and its seeds can be processed for various industrial uses including biofuels."
+  },
+  {
+   "q": "Consider the following pairs: 1️⃣ Kinnaur: Areca nut 2️⃣ Mewat: Mango 3️⃣ Coromandel: Soya bean. Which are correctly matched? [2014-I]",
+   "o": [
+    "1, 2 and 3",
+    "1 and 2 only",
+    "3 only",
+    "None"
+   ],
+   "a": 3,
+   "e": "Kinnaur is famous for apples. Mewat is not a mango hub (UP is). Soya bean is primarily produced in MP and Maharashtra, not the Coromandel coast."
+  },
+  {
+   "q": "Which of the following are used to create transgenic crops? 1️⃣ Budding and grafting 2️⃣ Cytoplasmic male sterility 3️⃣ Gene silencing [2014-I]",
+   "o": [
+    "1 and 3",
+    "None",
+    "2 and 3",
+    "1 only"
+   ],
+   "a": 2,
+   "e": "Cytoplasmic male sterility and gene silencing are biotechnology techniques used for transgenic crops. Budding and grafting are regular horticultural practices."
+  },
+  {
+   "q": "Consider the following statements: 1️⃣ Maize can be used for the production of starch. 2️⃣ Oil extracted from maize can be a feedstock for biodiesel. 3️⃣ Alcoholic beverages can be produced by using maize. [2014-I]",
+   "o": [
+    "2 and 3 only",
+    "1 only",
+    "1 and 2 only",
+    "1, 2 and 3"
+   ],
+   "a": 3,
+   "e": "Maize is versatile; it provides starch, its oil is a biodiesel feedstock, and its carbohydrates can be fermented into alcohol."
+  },
+  {
+   "q": "What are the significances of the 'Sustainable Sugarcane Initiative'? 1️⃣ Seed cost is very low. 2️⃣ Drip irrigation can be practiced effectively. 3️⃣ No application of chemical fertilizers at all. 4️⃣ Scope for intercropping is more. [2014-I]",
+   "o": [
+    "1, 2, 3 and 4",
+    "1 and 3 only",
+    "1, 2 and 4 only",
+    "2, 3 and 4 only"
+   ],
+   "a": 2,
+   "e": "SSI reduces seed cost and uses drip irrigation. While it encourages organic methods, it does not strictly prohibit all chemical fertilizers (statement 3 is too absolute)."
+  },
+  {
+   "q": "Which of the following pairs is/are correctly matched? 1️⃣ Drought-Prone Area Programme: Ministry of Agriculture 2️⃣ Desert Development Programme: Ministry of Environment 3️⃣ National Watershed Development Project for Rainfed Areas: Ministry of Agriculture [2014-I]",
+   "o": [
+    "3 only",
+    "1, 2 and 3",
+    "1 and 2 only",
+    "None"
+   ],
+   "a": 0,
+   "e": "DPAP and DDP are under the Ministry of Rural Development. Only the National Watershed Development Project for Rainfed Areas is under the Ministry of Agriculture."
+  },
+  {
+   "q": "What are the benefits of the 'Integrated Watershed Development Programme'? 1️⃣ Prevention of soil runoff 2️⃣ Linking perennial rivers with seasonal rivers 3️⃣ Rainwater harvesting 4️⃣ Regeneration of natural vegetation [2014-I]",
+   "o": [
+    "1, 3 and 4 only",
+    "2, 3 and 4 only",
+    "1 and 2 only",
+    "1, 2, 3 and 4"
+   ],
+   "a": 0,
+   "e": "IWMP focuses on soil prevention, harvesting, and vegetation. River linking is a separate national project, not a function of this local watershed program."
+  },
+  {
+   "q": "In India, cluster bean (Guar) has recently assumed significance because: [2014-I]",
+   "o": [
+    "The oil is used for biodegradable plastics",
+    "It is a source of high quality biodiesel",
+    "The gum is used in the extraction of shale gas",
+    "Leaf extract has antihistamine properties"
+   ],
+   "a": 2,
+   "e": "Guar gum is essential in hydraulic fracturing (fracking) technology used to extract shale gas."
+  },
+  {
+   "q": "Which of the following is correct regarding vegetative propagation of plants? 1️⃣ It produces clonal population. 2️⃣ It helps in eliminating the virus. 3️⃣ It can be practiced most of the year. [2014-I]",
+   "o": [
+    "1, 2 and 3",
+    "2 and 3 only",
+    "1 only",
+    "1 and 3 only"
+   ],
+   "a": 3,
+   "e": "Vegetative propagation produces genetic clones and can be done year-round. However, it does not eliminate viruses; if the parent is infected, the clone usually is too."
+  },
+  {
+   "q": "The substitution of steel for wooden ploughs in agricultural production is an example of: [2015-I]",
+   "o": [
+    "None of the above",
+    "labour-augmenting technological progress",
+    "capital-reducing technological progress",
+    "capital-augmenting technological progress"
+   ],
+   "a": 3,
+   "e": "Capital-augmenting progress makes existing capital goods more productive, such as replacing a wooden tool with a more durable steel one."
+  },
+  {
+   "q": "Which one of the following best describes the main objective of 'Seed Village Concept'? [2015-I]",
+   "o": [
+    "Encouraging farmers to use their own farm seeds and discouraging buying from others",
+    "Identifying entrepreneurs in village and providing them finance to set up seed companies",
+    "Earmarking some villages exclusively for the production of certified seeds",
+    "Involving farmers for training in quality seed production and making quality seeds available to others"
+   ],
+   "a": 3,
+   "e": "The concept trains farmers to produce high-quality seeds themselves to ensure availability at affordable costs to the local community."
+  },
+  {
+   "q": "What can be the impact of excessive/inappropriate use of nitrogenous fertilizers? 1️⃣ Proliferation of nitrogen-fixing microorganisms. 2️⃣ Increase in soil acidity. 3️⃣ Leaching of nitrate to groundwater. [2015-I]",
+   "o": [
+    "1, 2 and 3",
+    "2 only",
+    "2 and 3 only",
+    "1 and 3 only"
+   ],
+   "a": 2,
+   "e": "Excess nitrogen increases soil acidity and leaches into water. It does not proliferate nitrogen-fixing microbes; rather, it often suppresses their natural activity."
+  },
+  {
+   "q": "In India, markets in agricultural products are regulated under the: [2015-I]",
+   "o": [
+    "Agricultural Produce (Grading and Marking) Act, 1937",
+    "Essential Commodities Act, 1955",
+    "Agricultural Produce Market Committee Act enacted by States",
+    "Food Products Order, 1956"
+   ],
+   "a": 2,
+   "e": "Agricultural markets are primarily regulated by the APMC Acts, which are legislated by individual State governments."
+  },
+  {
+   "q": "The terms 'Agreement on Agriculture' and 'Peace Clause' appear in the context of the: [2015-I]",
+   "o": [
+    "United Nations Environment Programme",
+    "World Trade Organisation",
+    "Food and Agriculture Organization",
+    "United Nations Framework Conference on Climate Change"
+   ],
+   "a": 1,
+   "e": "These terms are central to the trade negotiations and rules regarding agricultural subsidies under the World Trade Organisation (WTO)."
+  },
+  {
+   "q": "What is the overall goal of the 'Globally Important Agricultural Heritage System (GIAHS)' initiative? [2016-I]",
+   "o": [
+    "To provide modern technology to greatly enhance agricultural productivity",
+    "1, 2 and 3",
+    "To provide Geographical Indication status to all varieties of agricultural produce",
+    "To identify and safeguard eco-friendly traditional farm practices and associated knowledge"
+   ],
+   "a": 3,
+   "e": "GIAHS aims to recognize and protect unique traditional farming systems that support biodiversity and sustainable development."
+  },
+  {
+   "q": "Regarding 'Initiative for Nutritional Security through Intensive Millets Promotion', which are correct? 1️⃣ It aims to demonstrate production and post-harvest technologies. 2️⃣ Poor, small, marginal and tribal farmers have a larger stake. 3️⃣ It encourages shifting commercial crop farmers to millet. [2016-I]",
+   "o": [
+    "1 only",
+    "1 and 2 only",
+    "2 and 3 only",
+    "1, 2 and 3"
+   ],
+   "a": 1,
+   "e": "The scheme focuses on technology and supporting small/tribal farmers. It does not specifically aim to force commercial crop farmers to shift to millets."
+  },
+  {
+   "q": "The nation-wide 'Soil Health Card Scheme' aims at: 1️⃣ expanding cultivable area under irrigation. 2️⃣ enabling banks to assess loan quantum. 3️⃣ checking the overuse of fertilizers. [2017-I]",
+   "o": [
+    "1 and 2 only",
+    "3 only",
+    "1, 2 and 3",
+    "2 and 3 only"
+   ],
+   "a": 1,
+   "e": "The primary goal of the Soil Health Card is to inform farmers of their soil's nutrient status so they can use the correct type and amount of fertilizers."
+  },
+  {
+   "q": "What is/are the advantage/advantages of implementing the 'National Agriculture Market' (NAM) scheme? 1️⃣ It is a pan-India electronic trading portal. 2️⃣ It provides farmers access to nationwide markets with prices commensurate with quality. [2017-I]",
+   "o": [
+    "2 only",
+    "Neither 1 nor 2",
+    "Both 1 and 2",
+    "1 only"
+   ],
+   "a": 2,
+   "e": "e-NAM is a digital platform that integrates markets (mandis) across India, allowing farmers to sell their produce to buyers nationwide for better prices."
+  },
+  {
+   "q": "Which of the following practices can help in water conservation in agriculture? 1️⃣ Reduced or zero tillage 2️⃣ Applying gypsum before irrigating 3️⃣ Allowing crop residue to remain in the field [2017-I]",
+   "o": [
+    "1 and 2 only",
+    "3 only",
+    "1, 2 and 3",
+    "1 and 3 only"
+   ],
+   "a": 3,
+   "e": "Reduced tillage and leaving residues on the field reduce evaporation and help retain moisture. (Note: UPSC official key cited 1 and 3)."
+  },
+  {
+   "q": "How can 'genome sequencing' be used in agriculture? 1️⃣ Identify genetic markers for disease resistance. 2️⃣ Reduce time required to develop new varieties. 3️⃣ Decipher host-pathogen relationships. [2017-I]",
+   "o": [
+    "2 and 3 only",
+    "1 only",
+    "1 and 3 only",
+    "1, 2 and 3"
+   ],
+   "a": 3,
+   "e": "Genome sequencing allows for precise identification of traits, speeds up the breeding process, and helps scientists understand how diseases interact with crops."
+  },
+  {
+   "q": "Which of the following fall under 'Conservation Agriculture'? 1️⃣ Avoiding monoculture 2️⃣ Adopting minimum tillage 3️⃣ Avoiding plantation crops 4️⃣ Using crop residues to cover soil 5️⃣ Adopting crop rotations [2018-I]",
+   "o": [
+    "2, 3, 4 and 5",
+    "1, 3 and 4",
+    "1, 2, 3 and 5",
+    "2, 4 and 5"
+   ],
+   "a": 3,
+   "e": "Conservation Agriculture is defined by three pillars: minimum soil disturbance (tillage), permanent soil cover (residues), and crop rotations/associations."
+  },
+  {
+   "q": "What are the advantages of fertigation? 1️⃣ Controlling alkalinity is possible. 2️⃣ Efficient application of all phosphatic fertilizers is possible. 3️⃣ Increased nutrient availability. 4️⃣ Reduction in leaching. [2020-I]",
+   "o": [
+    "1, 2 and 3 only",
+    "2, 3 and 4 only",
+    "1, 3 and 4 only",
+    "1, 2 and 4 only"
+   ],
+   "a": 2,
+   "e": "Fertigation allows for precise nutrient delivery and leaching reduction. However, certain phosphates can form precipitates in the irrigation system and aren't always efficiently applied this way."
+  },
+  {
+   "q": "What is/are the advantage/advantages of zero tillage? 1️⃣ Sowing without burning residue is possible. 2️⃣ Direct planting of paddy seeds in wet soil. 3️⃣ Carbon sequestration is possible. [2020-I]",
+   "o": [
+    "1, 2 and 3",
+    "2 and 3 only",
+    "1 and 2 only",
+    "3 only"
+   ],
+   "a": 0,
+   "e": "Zero tillage avoids soil disturbance, allows sowing through previous residue (avoiding burning), supports direct-seeded rice, and helps store carbon in the soil."
+  },
+  {
+   "q": "The crop is subtropical. Hard frost is injurious. Requires 210 frost-free days and 50-100 cm rainfall. Light well-drained soil is ideal. What is the crop? [2020-I]",
+   "o": [
+    "Jute",
+    "Tea",
+    "Cotton",
+    "Sugarcane"
+   ],
+   "a": 2,
+   "e": "These specific climatic requirements—210 frost-free days and moderate rainfall—are the classic textbook conditions for growing cotton."
+  },
+  {
+   "q": "What is the use of biochar in farming? 1️⃣ Part of vertical farming medium. 2️⃣ Promotes nitrogen-fixing microorganisms. 3️⃣ Enables medium to retain water longer. [2020-I]",
+   "o": [
+    "1 and 2 only",
+    "2 only",
+    "1, 2 and 3",
+    "1 and 3 only"
+   ],
+   "a": 2,
+   "e": "Biochar is a stable carbon form that improves soil fertility, enhances water retention, and provides a habitat for beneficial microbes."
+  }
+ ]
+}

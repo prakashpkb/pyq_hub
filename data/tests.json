@@ -1,0 +1,457 @@
+[
+ {
+  "id": "other-chapter-1-10",
+  "title": "Chapter 1-10",
+  "category": "Laxmikant",
+  "count": 250,
+  "minutes": 188
+ },
+ {
+  "id": "other-chapter-11-20",
+  "title": "Chapter 11 - 20",
+  "category": "Laxmikant",
+  "count": 198,
+  "minutes": 148
+ },
+ {
+  "id": "other-chapter-21-30",
+  "title": "Chapter 21-30",
+  "category": "Laxmikant",
+  "count": 250,
+  "minutes": 188
+ },
+ {
+  "id": "other-chapter-31-40",
+  "title": "Chapter 31-40",
+  "category": "Laxmikant",
+  "count": 250,
+  "minutes": 188
+ },
+ {
+  "id": "other-chapter-41-50",
+  "title": "Chapter 41-50",
+  "category": "Laxmikant",
+  "count": 240,
+  "minutes": 180
+ },
+ {
+  "id": "other-chapter-51-60",
+  "title": "Chapter 51-60",
+  "category": "Laxmikant",
+  "count": 250,
+  "minutes": 125
+ },
+ {
+  "id": "other-chapter-61-70",
+  "title": "Chapter 61 - 70",
+  "category": "Laxmikant",
+  "count": 250,
+  "minutes": 125
+ },
+ {
+  "id": "other-chapter-71-78",
+  "title": "Chapter 71 - 78",
+  "category": "Laxmikant",
+  "count": 250,
+  "minutes": 125
+ },
+ {
+  "id": "other-chapter-79-89",
+  "title": "Chapter 79 - 89",
+  "category": "Laxmikant",
+  "count": 250,
+  "minutes": 125
+ },
+ {
+  "id": "other-chapter-90-93",
+  "title": "Chapter 90 - 93",
+  "category": "Laxmikant",
+  "count": 250,
+  "minutes": 188
+ },
+ {
+  "id": "other-laxmikant-back-practice-questions",
+  "title": "Laxmikant Back Practice Questions",
+  "category": "Other",
+  "count": 200,
+  "minutes": 150
+ },
+ {
+  "id": "other-laxmikant-chapter-1-8",
+  "title": "Laxmikant Chapter 1-8",
+  "category": "Other",
+  "count": 250,
+  "minutes": 188
+ },
+ {
+  "id": "other-laxmikant-chapter-21-37-part-2",
+  "title": "Laxmikant Chapter 21-37 ( Part 2",
+  "category": "Other",
+  "count": 243,
+  "minutes": 182
+ },
+ {
+  "id": "other-laxmikant-chapter-21-37",
+  "title": "Laxmikant Chapter 21-37",
+  "category": "Other",
+  "count": 250,
+  "minutes": 188
+ },
+ {
+  "id": "other-laxmikant-chapter-38-69-part-2",
+  "title": "Laxmikant Chapter 38-69 ( Part 2 )",
+  "category": "Other",
+  "count": 163,
+  "minutes": 122
+ },
+ {
+  "id": "other-laxmikant-chapter-38-69",
+  "title": "Laxmikant Chapter 38-69",
+  "category": "Other",
+  "count": 250,
+  "minutes": 188
+ },
+ {
+  "id": "other-laxmikant-chapter-70-94-part-2",
+  "title": "Laxmikant Chapter 70-94 ( Part 2 )",
+  "category": "Other",
+  "count": 191,
+  "minutes": 143
+ },
+ {
+  "id": "other-laxmikant-chapter-70-94",
+  "title": "Laxmikant Chapter 70-94",
+  "category": "Other",
+  "count": 200,
+  "minutes": 150
+ },
+ {
+  "id": "other-laxmikant-chapter-9-20",
+  "title": "Laxmikant Chapter 9-20",
+  "category": "Other",
+  "count": 245,
+  "minutes": 184
+ },
+ {
+  "id": "other-practice-questions-at-back",
+  "title": "Practice Questions At Back",
+  "category": "Other",
+  "count": 200,
+  "minutes": 150
+ },
+ {
+  "id": "other-social-development",
+  "title": "Social Development",
+  "category": "Other",
+  "count": 121,
+  "minutes": 81
+ },
+ {
+  "id": "other-test-321137-38",
+  "title": "Test 321137 - 38",
+  "category": "Other",
+  "count": 100,
+  "minutes": 75
+ },
+ {
+  "id": "other-test-321151-321156-part-2",
+  "title": "Test 321151 - 321156 (Part 2)",
+  "category": "Other",
+  "count": 300,
+  "minutes": 150
+ },
+ {
+  "id": "other-test-321151-321156",
+  "title": "Test 321151 - 321156",
+  "category": "Other",
+  "count": 300,
+  "minutes": 150
+ },
+ {
+  "id": "other-test-49-50-51-52",
+  "title": "Test 49 50 51 52",
+  "category": "Other",
+  "count": 100,
+  "minutes": 75
+ },
+ {
+  "id": "other-world-constitutions",
+  "title": "world constitutions",
+  "category": "Other",
+  "count": 140,
+  "minutes": 105
+ },
+ {
+  "id": "upsc-prelims-pyqs-agriculture-in-economy",
+  "title": "Agriculture In Economy",
+  "category": "UPSC Prelims PYQs",
+  "count": 31,
+  "minutes": 16
+ },
+ {
+  "id": "upsc-prelims-pyqs-agriculture",
+  "title": "Agriculture",
+  "category": "UPSC Prelims PYQs",
+  "count": 69,
+  "minutes": 34
+ },
+ {
+  "id": "upsc-prelims-pyqs-ancient-history",
+  "title": "Ancient History",
+  "category": "UPSC Prelims PYQs",
+  "count": 130,
+  "minutes": 65
+ },
+ {
+  "id": "upsc-prelims-pyqs-ancient-history1",
+  "title": "Ancient History1",
+  "category": "UPSC Prelims PYQs",
+  "count": 130,
+  "minutes": 65
+ },
+ {
+  "id": "upsc-prelims-pyqs-biology",
+  "title": "Biology",
+  "category": "UPSC Prelims PYQs",
+  "count": 200,
+  "minutes": 100
+ },
+ {
+  "id": "upsc-prelims-pyqs-chemistry",
+  "title": "Chemistry",
+  "category": "UPSC Prelims PYQs",
+  "count": 100,
+  "minutes": 50
+ },
+ {
+  "id": "upsc-prelims-pyqs-constitution-political-system",
+  "title": "Constitution & Political System",
+  "category": "UPSC Prelims PYQs",
+  "count": 97,
+  "minutes": 48
+ },
+ {
+  "id": "upsc-prelims-pyqs-cse-prelims-2026-gs-paper-1",
+  "title": "CSE Prelims 2026 – GS Paper I",
+  "category": "UPSC Prelims PYQs",
+  "count": 99,
+  "minutes": 120
+ },
+ {
+  "id": "upsc-prelims-pyqs-environment-ecology",
+  "title": "Environment & Ecology",
+  "category": "UPSC Prelims PYQs",
+  "count": 160,
+  "minutes": 107
+ },
+ {
+  "id": "upsc-prelims-pyqs-environment-ecology1",
+  "title": "Environment & Ecology1",
+  "category": "UPSC Prelims PYQs",
+  "count": 160,
+  "minutes": 107
+ },
+ {
+  "id": "upsc-prelims-pyqs-government-administration",
+  "title": "Government & Administration",
+  "category": "UPSC Prelims PYQs",
+  "count": 130,
+  "minutes": 65
+ },
+ {
+  "id": "upsc-prelims-pyqs-indian-economy-demographics",
+  "title": "Indian Economy & Demographics",
+  "category": "UPSC Prelims PYQs",
+  "count": 98,
+  "minutes": 57
+ },
+ {
+  "id": "upsc-prelims-pyqs-indian-geography",
+  "title": "Indian Geography",
+  "category": "UPSC Prelims PYQs",
+  "count": 226,
+  "minutes": 113
+ },
+ {
+  "id": "upsc-prelims-pyqs-indian-industries-trade",
+  "title": "Indian Industries & Trade",
+  "category": "UPSC Prelims PYQs",
+  "count": 55,
+  "minutes": 28
+ },
+ {
+  "id": "upsc-prelims-pyqs-indian-national-movement-part-2",
+  "title": "INDIAN NATIONAL MOVEMENT (Part 2)",
+  "category": "UPSC Prelims PYQs",
+  "count": 186,
+  "minutes": 108
+ },
+ {
+  "id": "upsc-prelims-pyqs-indian-national-movement",
+  "title": "Indian National Movement",
+  "category": "UPSC Prelims PYQs",
+  "count": 186,
+  "minutes": 108
+ },
+ {
+  "id": "upsc-prelims-pyqs-judiciary-legal-rights",
+  "title": "JUDICIARY $ LEGAL RIGHTs",
+  "category": "UPSC Prelims PYQs",
+  "count": 49,
+  "minutes": 24
+ },
+ {
+  "id": "upsc-prelims-pyqs-medieval-history",
+  "title": "Medieval History",
+  "category": "UPSC Prelims PYQs",
+  "count": 106,
+  "minutes": 53
+ },
+ {
+  "id": "upsc-prelims-pyqs-modern-history",
+  "title": "Modern History",
+  "category": "UPSC Prelims PYQs",
+  "count": 114,
+  "minutes": 66
+ },
+ {
+  "id": "upsc-prelims-pyqs-physical-geography",
+  "title": "Physical Geography",
+  "category": "UPSC Prelims PYQs",
+  "count": 119,
+  "minutes": 69
+ },
+ {
+  "id": "upsc-prelims-pyqs-physics",
+  "title": "Physics",
+  "category": "UPSC Prelims PYQs",
+  "count": 109,
+  "minutes": 54
+ },
+ {
+  "id": "upsc-prelims-pyqs-polity-prelims-pyqs-2013-2025",
+  "title": "POLITY PRELIMS PYQs 2013-2025",
+  "category": "UPSC Prelims PYQs",
+  "count": 191,
+  "minutes": 143
+ },
+ {
+  "id": "upsc-prelims-pyqs-polity-pyq-2013-2025",
+  "title": "Polity Pyq 2013-2025",
+  "category": "UPSC Prelims PYQs",
+  "count": 200,
+  "minutes": 150
+ },
+ {
+  "id": "upsc-prelims-pyqs-pri-public-policy",
+  "title": "Pri & Public Policy",
+  "category": "UPSC Prelims PYQs",
+  "count": 34,
+  "minutes": 17
+ },
+ {
+  "id": "upsc-prelims-pyqs-sci-tech",
+  "title": "Sci & Tech",
+  "category": "UPSC Prelims PYQs",
+  "count": 109,
+  "minutes": 73
+ },
+ {
+  "id": "upsc-prelims-pyqs-tertiary-sector-in-economy",
+  "title": "Tertiary Sector In Economy",
+  "category": "UPSC Prelims PYQs",
+  "count": 56,
+  "minutes": 28
+ },
+ {
+  "id": "upsc-prelims-pyqs-world-political-geography",
+  "title": "World Political Geography",
+  "category": "UPSC Prelims PYQs",
+  "count": 89,
+  "minutes": 44
+ },
+ {
+  "id": "vajiram-current-affairs-2026-vajiram-current-affairs-2026",
+  "title": "Vajiram Current Affairs 2026",
+  "category": "Vajiram Current Affairs 2026",
+  "count": 300,
+  "minutes": 155
+ },
+ {
+  "id": "vajiram-power-up-2026-test-7701-part-2",
+  "title": "Test 7701 (Part 2)",
+  "category": "Vajiram Power Up 2026",
+  "count": 100,
+  "minutes": 75
+ },
+ {
+  "id": "vajiram-power-up-2026-test-7701",
+  "title": "Test 7701",
+  "category": "Vajiram Power Up 2026",
+  "count": 100,
+  "minutes": 75
+ },
+ {
+  "id": "vajiram-power-up-2026-test-7702-part-2",
+  "title": "Test 7702 (Part 2)",
+  "category": "Vajiram Power Up 2026",
+  "count": 73,
+  "minutes": 55
+ },
+ {
+  "id": "vajiram-power-up-2026-test-7702",
+  "title": "Test 7702",
+  "category": "Vajiram Power Up 2026",
+  "count": 73,
+  "minutes": 55
+ },
+ {
+  "id": "vajiram-power-up-2026-test-7703",
+  "title": "Test 7703",
+  "category": "Vajiram Power Up 2026",
+  "count": 100,
+  "minutes": 75
+ },
+ {
+  "id": "vajiram-power-up-2026-test-7704",
+  "title": "Test 7704",
+  "category": "Vajiram Power Up 2026",
+  "count": 100,
+  "minutes": 75
+ },
+ {
+  "id": "vajiram-power-up-2026-test-7705",
+  "title": "Test 7705",
+  "category": "Vajiram Power Up 2026",
+  "count": 99,
+  "minutes": 74
+ },
+ {
+  "id": "vajiram-power-up-2026-test-7718",
+  "title": "Test 7718",
+  "category": "Vajiram Power Up 2026",
+  "count": 100,
+  "minutes": 75
+ },
+ {
+  "id": "vajiram-power-up-2026-test-7719-7720-7721-part-2",
+  "title": "Test 7719 - 7720 - 7721 (Part 2)",
+  "category": "Vajiram Power Up 2026",
+  "count": 300,
+  "minutes": 150
+ },
+ {
+  "id": "vajiram-power-up-2026-test-7719-7720-7721",
+  "title": "Test 7719 - 7720 - 7721",
+  "category": "Vajiram Power Up 2026",
+  "count": 300,
+  "minutes": 150
+ },
+ {
+  "id": "vajiram-prelims-camp-2026-vajiram-prelims-camp-2026",
+  "title": "Vajiram Prelims Camp 2026",
+  "category": "Vajiram Prelims Camp 2026",
+  "count": 300,
+  "minutes": 155
+ }
+]
